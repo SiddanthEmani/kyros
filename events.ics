@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Open Model Benchmarks
 DTSTART:20260507T020000Z
 DTEND:20260507T040000Z
-DTSTAMP:20260506T023443Z
+DTSTAMP:20260506T140257Z
 UID:evt-p8RJAagQuo9efjX
 DESCRIPTION:https://lu.ma/hl5n59qu\nLocation: San Francisco\, CA\nHost: Go
  ogle DeepMind\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Mahjong Party for AI Builders
 DTSTART:20260508T000000Z
 DTEND:20260508T030000Z
-DTSTAMP:20260506T023443Z
+DTSTAMP:20260506T140257Z
 UID:evt-ApZ4rqHSBXStAgw
 DESCRIPTION:https://lu.ma/doohabbb\nLocation: San Francisco\, CA\nHost: Wo
  rkato Developer Events\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Gamma x AI for Humanity: Live Human‑Centered AI Experience
 DTSTART:20260508T010000Z
 DTEND:20260508T043000Z
-DTSTAMP:20260506T023443Z
+DTSTAMP:20260506T140257Z
 UID:evt-nZ4npmEr4ujdesG
 DESCRIPTION:https://lu.ma/fhinz4i2\nLocation: San Francisco\, California\n
  Host: Gamma\nSource: html/san-francisco
@@ -41,11 +41,24 @@ BEGIN:VEVENT
 SUMMARY:133rd SF Hardware Meetup @ WHIPSAW | Robotics + Physical AI
 DTSTART:20260508T013000Z
 DTEND:20260508T043000Z
-DTSTAMP:20260506T023443Z
+DTSTAMP:20260506T140257Z
 UID:evt-Zo1wgpoHNaHJyfi
 DESCRIPTION:https://lu.ma/f1riv2vq\nLocation: San Francisco\, CA\nHost: SF
   Hardware Meetup\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/f1riv2vq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physical AI Hack World Tour — SF
+DTSTART:20260509T160000Z
+DTEND:20260510T070000Z
+DTSTAMP:20260506T140257Z
+UID:evt-UagWCv7G18FaXi3
+DESCRIPTION:https://lu.ma/0xbcm3kj\nLocation: Founders\, Inc. | San Franci
+ sco Lab\, 2 Marina Blvd B300\, San Francisco\, CA 94123\, USA\nHost: Found
+ ers\, Inc. Events\nSource: html/san-francisco
+LOCATION:Founders\, Inc. | San Francisco Lab\, 2 Marina Blvd B300\, San Fr
+ ancisco\, CA 94123\, USA
+URL:https://lu.ma/0xbcm3kj
 END:VEVENT
 END:VCALENDAR
