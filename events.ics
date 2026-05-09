@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI Hack World Tour — SF
 DTSTART:20260509T160000Z
 DTEND:20260510T070000Z
-DTSTAMP:20260508T191657Z
+DTSTAMP:20260509T023528Z
 UID:evt-UagWCv7G18FaXi3
 DESCRIPTION:https://lu.ma/0xbcm3kj\nLocation: Founders\, Inc. | San Franci
  sco Lab\, 2 Marina Blvd B300\, San Francisco\, CA 94123\, USA\nHost: Found
@@ -16,17 +16,5 @@ DESCRIPTION:https://lu.ma/0xbcm3kj\nLocation: Founders\, Inc. | San Franci
 LOCATION:Founders\, Inc. | San Francisco Lab\, 2 Marina Blvd B300\, San Fr
  ancisco\, CA 94123\, USA
 URL:https://lu.ma/0xbcm3kj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Initial Commit: Day 0 Welcome Party with Bessemer\, Zetta & Ze
- ro Prime
-DTSTART:20260512T010000Z
-DTEND:20260512T040000Z
-DTSTAMP:20260508T191657Z
-UID:evt-dMwkmt82TRgQomD
-DESCRIPTION:https://lu.ma/0o8y6jdb\nLocation: San Francisco\, CA\nHost: AI
-  Council\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/0o8y6jdb
 END:VEVENT
 END:VCALENDAR
