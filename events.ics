@@ -9,11 +9,58 @@ SUMMARY:The Initial Commit: Day 0 Welcome Party with Bessemer\, Zetta & Ze
  ro Prime
 DTSTART:20260512T010000Z
 DTEND:20260512T040000Z
-DTSTAMP:20260509T185739Z
+DTSTAMP:20260510T024107Z
 UID:evt-dMwkmt82TRgQomD
 DESCRIPTION:https://lu.ma/0o8y6jdb\nLocation: San Francisco\, CA\nHost: AI
   Council\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/0o8y6jdb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streaming the Future: Kafka & The Agentic Era
+DTSTART:20260513T003000Z
+DTEND:20260513T030000Z
+DTSTAMP:20260510T024107Z
+UID:evt-zXubA5EvA5NMNkB
+DESCRIPTION:https://lu.ma/ub9sq0u5\nLocation: San Francisco\, CA\nHost: Ai
+ ven\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/ub9sq0u5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours at The Detour: AI Council x LangChain Interrupt Happy 
+ Hour
+DTSTART:20260513T010000Z
+DTEND:20260513T040000Z
+DTSTAMP:20260510T024107Z
+UID:evt-oc8armcD2GJtMoI
+DESCRIPTION:https://lu.ma/w2a5ugda\nLocation: The Detour\, 2200A Market St
+ \, San Francisco\, CA 94114\, USA\nHost: MongoDB\nSource: html/san-francis
+ co
+LOCATION:The Detour\, 2200A Market St\, San Francisco\, CA 94114\, USA
+URL:https://lu.ma/w2a5ugda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women + AI: An SF Dinner Party Series\, No. 3
+DTSTART:20260513T013000Z
+DTEND:20260513T033000Z
+DTSTAMP:20260510T024107Z
+UID:evt-W4zz9KOxCp1iweV
+DESCRIPTION:https://lu.ma/aeo57uee\nLocation: San Francisco\, CA\nHost: Wo
+ men + AI\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/aeo57uee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirituality+AI: Building the Relational Infrastructure
+DTSTART:20260514T003000Z
+DTEND:20260514T043000Z
+DTSTAMP:20260510T024107Z
+UID:evt-5yoRrHO0JURonxK
+DESCRIPTION:https://lu.ma/8rhqg24d\nLocation: FutureHouse\, 1405 Minnesota
+  St\, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-fra
+ ncisco
+LOCATION:FutureHouse\, 1405 Minnesota St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/8rhqg24d
 END:VEVENT
 END:VCALENDAR
