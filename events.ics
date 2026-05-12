@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Streaming the Future: Kafka & The Agentic Era
 DTSTART:20260513T003000Z
 DTEND:20260513T030000Z
-DTSTAMP:20260512T083622Z
+DTSTAMP:20260512T141609Z
 UID:evt-zXubA5EvA5NMNkB
 DESCRIPTION:https://lu.ma/ub9sq0u5\nLocation: San Francisco\, CA\nHost: Ai
  ven\nSource: html/san-francisco
@@ -20,7 +20,7 @@ SUMMARY:After Hours at The Detour: AI Council x LangChain Interrupt Happy
  Hour
 DTSTART:20260513T010000Z
 DTEND:20260513T040000Z
-DTSTAMP:20260512T083622Z
+DTSTAMP:20260512T141609Z
 UID:evt-oc8armcD2GJtMoI
 DESCRIPTION:https://lu.ma/w2a5ugda\nLocation: The Detour\, 2200A Market St
  \, San Francisco\, CA 94114\, USA\nHost: MongoDB\nSource: html/san-francis
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Women + AI: An SF Dinner Party Series\, No. 3
 DTSTART:20260513T013000Z
 DTEND:20260513T033000Z
-DTSTAMP:20260512T083622Z
+DTSTAMP:20260512T141609Z
 UID:evt-W4zz9KOxCp1iweV
 DESCRIPTION:https://lu.ma/aeo57uee\nLocation: San Francisco\, CA\nHost: Wo
  men + AI\nSource: html/san-francisco
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Spirituality+AI: Building the Relational Infrastructure
 DTSTART:20260514T003000Z
 DTEND:20260514T043000Z
-DTSTAMP:20260512T083622Z
+DTSTAMP:20260512T141609Z
 UID:evt-5yoRrHO0JURonxK
 DESCRIPTION:https://lu.ma/8rhqg24d\nLocation: FutureHouse\, 1405 Minnesota
   St\, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-fra
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Databricks @ AI Council26 Networking Event
 DTSTART:20260514T010000Z
 DTEND:20260514T040000Z
-DTSTAMP:20260512T083622Z
+DTSTAMP:20260512T141609Z
 UID:evt-Kip2UyopmLmTSNW
 DESCRIPTION:https://lu.ma/tbgqqhp3\nLocation: San Francisco\, CA\nHost: Da
  tabricks Community\nSource: html/san-francisco
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Fin x Metronome: Pricing Strategies for AI Agents
 DTSTART:20260514T010000Z
 DTEND:20260514T040000Z
-DTSTAMP:20260512T083622Z
+DTSTAMP:20260512T141609Z
 UID:evt-3uMPF9a4Y3Yy2kz
 DESCRIPTION:https://lu.ma/finxmetronome\nLocation: 55 2nd SF POPOS\, 55 2n
  d St\, San Francisco\, CA 94105\, USA\nHost: Fin\nSource: html/san-francis
