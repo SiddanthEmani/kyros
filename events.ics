@@ -5,44 +5,10 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Spirituality+AI: Building the Relational Infrastructure
-DTSTART:20260514T003000Z
-DTEND:20260514T043000Z
-DTSTAMP:20260513T195022Z
-UID:evt-5yoRrHO0JURonxK
-DESCRIPTION:https://lu.ma/8rhqg24d\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/8rhqg24d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Databricks @ AI Council26 Networking Event
-DTSTART:20260514T010000Z
-DTEND:20260514T040000Z
-DTSTAMP:20260513T195022Z
-UID:evt-Kip2UyopmLmTSNW
-DESCRIPTION:https://lu.ma/tbgqqhp3\nLocation: San Francisco\, CA\nHost: Da
- tabricks Community\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/tbgqqhp3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fin x Metronome: Pricing Strategies for AI Agents
-DTSTART:20260514T010000Z
-DTEND:20260514T040000Z
-DTSTAMP:20260513T195022Z
-UID:evt-3uMPF9a4Y3Yy2kz
-DESCRIPTION:https://lu.ma/finxmetronome\nLocation: 55 2nd SF POPOS\, 55 2n
- d St\, San Francisco\, CA 94105\, USA\nHost: Fin\nSource: html/san-francis
- co
-LOCATION:55 2nd SF POPOS\, 55 2nd St\, San Francisco\, CA 94105\, USA
-URL:https://lu.ma/finxmetronome
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Low Latency Club Voice AI Meetup
 DTSTART:20260515T003000Z
 DTEND:20260515T033000Z
-DTSTAMP:20260513T195022Z
+DTSTAMP:20260514T024932Z
 UID:evt-xmRlCeDghLiJXbx
 DESCRIPTION:https://lu.ma/41374t8z\nLocation: 577 Howard St\, San Francisc
  o\, CA 94105\, USA\nHost: Telnyx\nSource: html/san-francisco
@@ -53,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:AI Healthtech Night
 DTSTART:20260515T010000Z
 DTEND:20260515T033000Z
-DTSTAMP:20260513T195022Z
+DTSTAMP:20260514T024932Z
 UID:evt-PVm6be7y7QrHD1O
 DESCRIPTION:https://lu.ma/yjw3kqez\nLocation: San Francisco\, CA\nHost: Wo
  rkato Developer Events\nSource: html/san-francisco
@@ -64,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:AI x Single-cell Biology Reading Group
 DTSTART:20260515T010000Z
 DTEND:20260515T040000Z
-DTSTAMP:20260513T195022Z
+DTSTAMP:20260514T024932Z
 UID:evt-4ApvF075DWRlxVA
 DESCRIPTION:https://lu.ma/scpifdyp\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -75,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:The unofficial closing party of Langchain
 DTSTART:20260515T010000Z
 DTEND:20260515T053000Z
-DTSTAMP:20260513T195022Z
+DTSTAMP:20260514T024932Z
 UID:evt-hfMGZSCNzZVBo47
 DESCRIPTION:https://lu.ma/yuc82wuu\nLocation: San Francisco\, CA\nHost: Ly
  zr\nSource: html/san-francisco
