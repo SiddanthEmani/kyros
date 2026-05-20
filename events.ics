@@ -5,22 +5,10 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:WorkOS Applied AI Showcase
-DTSTART:20260520T003000Z
-DTEND:20260520T030000Z
-DTSTAMP:20260519T194954Z
-UID:evt-5G4ylGqiOHZDkoI
-DESCRIPTION:https://lu.ma/aai-showcase\nLocation: WorkOS\, 660 Market St\,
-  San Francisco\, CA 94104\, USA\nHost: WorkOS Events\nSource: html/san-fra
- ncisco
-LOCATION:WorkOS\, 660 Market St\, San Francisco\, CA 94104\, USA
-URL:https://lu.ma/aai-showcase
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Scaling Influencer Growth with AI
 DTSTART:20260521T010000Z
 DTEND:20260521T033000Z
-DTSTAMP:20260519T194954Z
+DTSTAMP:20260520T025450Z
 UID:evt-xEeM9oVHTtB0CnQ
 DESCRIPTION:https://lu.ma/28dpzyg3\nLocation: San Francisco\, CA\nHost: Gr
  anola\nSource: html/san-francisco
@@ -31,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Surreal Dinner Series: Inference with Baseten
 DTSTART:20260522T001500Z
 DTEND:20260522T030000Z
-DTSTAMP:20260519T194954Z
+DTSTAMP:20260520T025450Z
 UID:evt-CoECpNYkFD7OcmF
 DESCRIPTION:https://lu.ma/1pexnhj2\nLocation: San Francisco\, CA\nHost: Su
  rreal\nSource: html/san-francisco
@@ -42,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:WorkOS MCP Night: Agent Mode
 DTSTART:20260522T003000Z
 DTEND:20260522T050000Z
-DTSTAMP:20260519T194954Z
+DTSTAMP:20260520T025450Z
 UID:evt-8eJ2EOLEC4fIdx0
 DESCRIPTION:https://lu.ma/mcp-night-4\nLocation: The Regency Ballroom\, 13
  00 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: WorkOS Events\nSou
@@ -55,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Post-I/O: After Work with Google DeepMind
 DTSTART:20260523T000000Z
 DTEND:20260523T040000Z
-DTSTAMP:20260519T194954Z
+DTSTAMP:20260520T025450Z
 UID:evt-R0r91AE0k09KtXH
 DESCRIPTION:https://lu.ma/b8tg4qst\nLocation: Corgi Cafe\, 9 Claude Ln\, S
  an Francisco\, CA 94108\, USA\nHost: Google DeepMind\nSource: html/san-fra
