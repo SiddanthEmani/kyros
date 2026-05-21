@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Surreal Dinner Series: Inference with Baseten
 DTSTART:20260522T001500Z
 DTEND:20260522T030000Z
-DTSTAMP:20260521T025827Z
+DTSTAMP:20260521T093645Z
 UID:evt-CoECpNYkFD7OcmF
 DESCRIPTION:https://lu.ma/1pexnhj2\nLocation: San Francisco\, CA\nHost: Su
  rreal\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:WorkOS MCP Night: Agent Mode
 DTSTART:20260522T003000Z
 DTEND:20260522T050000Z
-DTSTAMP:20260521T025827Z
+DTSTAMP:20260521T093645Z
 UID:evt-8eJ2EOLEC4fIdx0
 DESCRIPTION:https://lu.ma/mcp-night-4\nLocation: The Regency Ballroom\, 13
  00 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: WorkOS Events\nSou
@@ -32,12 +32,23 @@ BEGIN:VEVENT
 SUMMARY:Post-I/O: After Work with Google DeepMind
 DTSTART:20260523T000000Z
 DTEND:20260523T040000Z
-DTSTAMP:20260521T025827Z
+DTSTAMP:20260521T093645Z
 UID:evt-R0r91AE0k09KtXH
 DESCRIPTION:https://lu.ma/b8tg4qst\nLocation: Corgi Cafe\, 9 Claude Ln\, S
  an Francisco\, CA 94108\, USA\nHost: Google DeepMind\nSource: html/san-fra
  ncisco
 LOCATION:Corgi Cafe\, 9 Claude Ln\, San Francisco\, CA 94108\, USA
 URL:https://lu.ma/b8tg4qst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demo Day: Managing Context for Agents
+DTSTART:20260523T210000Z
+DTEND:20260524T000000Z
+DTSTAMP:20260521T093645Z
+UID:evt-rSj8PoNMCVLzQ8M
+DESCRIPTION:https://lu.ma/rey4v8r8\nLocation: San Francisco\, CA\nHost: No
+ tion for Startups\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/rey4v8r8
 END:VEVENT
 END:VCALENDAR
