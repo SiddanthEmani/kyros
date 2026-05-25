@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:How to AI Pill Your Company - by Decagon x a16z x Accel
 DTSTART:20260527T000000Z
 DTEND:20260527T030000Z
-DTSTAMP:20260524T191415Z
+DTSTAMP:20260525T033141Z
 UID:evt-8Ntk1rVynle178M
 DESCRIPTION:https://lu.ma/7cojgbhq\nLocation: San Francisco\, CA\nHost: Da
  niel Liem @ Decagon\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Foresight's AI Salon with Isaak Freeman\, Capable
 DTSTART:20260527T010000Z
 DTEND:20260527T040000Z
-DTSTAMP:20260524T191415Z
+DTSTAMP:20260525T033141Z
 UID:evt-mOh5YkFTi6fU8ss
 DESCRIPTION:https://lu.ma/3ilmfjb7\nLocation: The Fold\, 3359 26th St\, Sa
  n Francisco\, CA 94110\, USA\nHost: Foresight Institute Calendar\nSource: 
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Hard Problems Night for Agent Builders
 DTSTART:20260527T010000Z
 DTEND:20260527T033000Z
-DTSTAMP:20260524T191415Z
+DTSTAMP:20260525T033141Z
 UID:evt-rxLBfzlbFsiHJy0
 DESCRIPTION:https://lu.ma/gmicloud-u1rb\nLocation: 600 Townsend St suite 1
  25\, San Francisco\, CA 94103\, USA\nHost: GMI Cloud\nSource: html/san-fra
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:ML Suds & Science
 DTSTART:20260527T020000Z
 DTEND:20260527T043000Z
-DTSTAMP:20260524T191415Z
+DTSTAMP:20260525T033141Z
 UID:evt-TCqBWrdTVxMDtUD
 DESCRIPTION:https://lu.ma/u4x5rrxz\nLocation: San Francisco\, CA\nHost: Pe
  bblebed Events\nSource: html/san-francisco
@@ -54,11 +54,33 @@ BEGIN:VEVENT
 SUMMARY:SkillsBench 1.1 Launch Party @ ACM CAIS
 DTSTART:20260528T020000Z
 DTEND:20260528T040000Z
-DTSTAMP:20260524T191415Z
+DTSTAMP:20260525T033141Z
 UID:evt-HQ5wxebw7CYAFcx
 DESCRIPTION:https://lu.ma/deepmind-634c\nLocation: San Francisco\, CA\nHos
  t: Google DeepMind\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/deepmind-634c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Female Founder Vibe Coding Workshop | Lovable & AI Snack Club
+DTSTART:20260529T003000Z
+DTEND:20260529T023000Z
+DTSTAMP:20260525T033141Z
+UID:evt-Jfd4NM8WmXT3YD3
+DESCRIPTION:https://lu.ma/a4ui6g00\nLocation: San Francisco\, CA\nHost: AI
+  Snack Club\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/a4ui6g00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Closing Bell : AAPI Celebration
+DTSTART:20260529T003000Z
+DTEND:20260529T033000Z
+DTSTAMP:20260525T033141Z
+UID:evt-EmjzJDmKCb81nM0
+DESCRIPTION:https://lu.ma/d3sr1zwu\nLocation: San Francisco\, CA\nHost: Ha
+ nwha AI Center\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/d3sr1zwu
 END:VEVENT
 END:VCALENDAR
