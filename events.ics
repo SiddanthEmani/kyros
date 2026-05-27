@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:SkillsBench 1.1 Launch Party @ ACM CAIS
 DTSTART:20260528T020000Z
 DTEND:20260528T040000Z
-DTSTAMP:20260527T094125Z
+DTSTAMP:20260527T153444Z
 UID:evt-HQ5wxebw7CYAFcx
 DESCRIPTION:https://lu.ma/deepmind-634c\nLocation: San Francisco\, CA\nHos
  t: Google DeepMind\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Female Founder Vibe Coding Workshop | Lovable & AI Snack Club
 DTSTART:20260529T003000Z
 DTEND:20260529T023000Z
-DTSTAMP:20260527T094125Z
+DTSTAMP:20260527T153444Z
 UID:evt-Jfd4NM8WmXT3YD3
 DESCRIPTION:https://lu.ma/a4ui6g00\nLocation: San Francisco\, CA\nHost: AI
   Snack Club\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:The Closing Bell : AAPI Celebration
 DTSTART:20260529T003000Z
 DTEND:20260529T033000Z
-DTSTAMP:20260527T094125Z
+DTSTAMP:20260527T153444Z
 UID:evt-EmjzJDmKCb81nM0
 DESCRIPTION:https://lu.ma/d3sr1zwu\nLocation: San Francisco\, CA\nHost: Ha
  nwha AI Center\nSource: html/san-francisco
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Hardware Pitch Night - Physical AI
 DTSTART:20260529T010000Z
 DTEND:20260529T040000Z
-DTSTAMP:20260527T094125Z
+DTSTAMP:20260527T153444Z
 UID:evt-g4VfNMB8wNYS1gH
 DESCRIPTION:https://lu.ma/dchl54jz\nLocation: San Francisco\, CA\nHost: St
  udio 45 - informal spaces SF\nSource: html/san-francisco
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:AI + Health Demo Night #11 @ Pebblebed Ventures
 DTSTART:20260529T013000Z
 DTEND:20260529T040000Z
-DTSTAMP:20260527T094125Z
+DTSTAMP:20260527T153444Z
 UID:evt-32dsVik9Rbz3AFX
 DESCRIPTION:https://lu.ma/3sfroku9\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -64,7 +64,7 @@ SUMMARY:Autoresearch Systems Hackathon with Modal\, OpenAI\, Raindrop & An
  tler
 DTSTART:20260530T150000Z
 DTEND:20260531T030000Z
-DTSTAMP:20260527T094125Z
+DTSTAMP:20260527T153444Z
 UID:evt-WY0tlP4hDBF2OpS
 DESCRIPTION:https://lu.ma/fvz1h1dq\nLocation: San Francisco\, CA\nHost: Mo
  dal\nSource: html/san-francisco
