@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:MCP Connect San Francisco with Sentry\, Bitmovin and Alpic
 DTSTART:20260602T003000Z
 DTEND:20260602T043000Z
-DTSTAMP:20260601T173323Z
+DTSTAMP:20260601T212907Z
 UID:evt-6iDbyk7FzgFV5ag
 DESCRIPTION:https://lu.ma/zl88dwny\nLocation: San Francisco\, CA\nHost: Al
  pic\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Agents that Pay
 DTSTART:20260602T010000Z
 DTEND:20260602T033000Z
-DTSTAMP:20260601T173323Z
+DTSTAMP:20260601T212907Z
 UID:evt-ujGI2FDgRn3vShZ
 DESCRIPTION:https://lu.ma/ktmwwf72\nLocation: 415 Mission St\, San Francis
  co\, CA 94105\, USA\nHost: Exa Events\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Callstack x Expo AI Meetup\, San Francisco
 DTSTART:20260604T010000Z
 DTEND:20260604T043000Z
-DTSTAMP:20260601T173323Z
+DTSTAMP:20260601T212907Z
 UID:evt-6uV4WljWiZHZ1m8
 DESCRIPTION:https://lu.ma/oi6zrepl\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
