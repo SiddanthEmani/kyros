@@ -9,7 +9,7 @@ SUMMARY:WeaveHacks 4: Multi-Agent Orchestration Hackathon with Weights & B
  iases
 DTSTART:20260606T160000Z
 DTEND:20260608T000000Z
-DTSTAMP:20260604T145214Z
+DTSTAMP:20260604T200216Z
 UID:evt-QuGEMJl1hsIvImo
 DESCRIPTION:https://lu.ma/weavehacks\nLocation: 400 Alabama St ste 202\, S
  an Francisco\, CA 94110\, USA\nHost: Weights & Biases\nSource: html/san-fr
@@ -18,23 +18,10 @@ LOCATION:400 Alabama St ste 202\, San Francisco\, CA 94110\, USA
 URL:https://lu.ma/weavehacks
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hell Grind Premiere presented by Higgsfield AI
-DTSTART:20260607T230000Z
-DTEND:20260608T023000Z
-DTSTAMP:20260604T145214Z
-UID:evt-xU68JcdrPta6bLg
-DESCRIPTION:https://lu.ma/l69hsyyu\nLocation: Alamo Drafthouse Cinema New 
- Mission\, 2550 Mission St\, San Francisco\, CA 94110\, USA\nHost: Personal
- \nSource: html/san-francisco
-LOCATION:Alamo Drafthouse Cinema New Mission\, 2550 Mission St\, San Franc
- isco\, CA 94110\, USA
-URL:https://lu.ma/l69hsyyu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The AI Night @ WWDC26
 DTSTART:20260608T020000Z
 DTEND:20260608T060000Z
-DTSTAMP:20260604T145214Z
+DTSTAMP:20260604T200216Z
 UID:evt-8tJt687PViQNpD0
 DESCRIPTION:https://lu.ma/ai-night-wwdc-26\nLocation: San Jose\, CA\nHost:
   Clément S. - Building mobile apps that rocks\nSource: html/san-francisco
@@ -45,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:⌘ + AI + Design: How to prompt like a designer
 DTSTART:20260609T003000Z
 DTEND:20260609T030000Z
-DTSTAMP:20260604T145214Z
+DTSTAMP:20260604T200216Z
 UID:evt-ZpuAuzAve0KYd7L
 DESCRIPTION:https://lu.ma/717techseries-sfdesignweek-aidesign\nLocation: D
  G717\, 717 Market St\, San Francisco\, CA 94103\, USA\nHost: DG717 Creativ
