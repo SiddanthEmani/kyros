@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Generative Media Salon
 DTSTART:20260606T010000Z
 DTEND:20260606T030000Z
-DTSTAMP:20260605T094143Z
+DTSTAMP:20260605T144454Z
 UID:evt-DoepZEXBHDq3eJh
 DESCRIPTION:https://lu.ma/tiat-bpbu\nLocation: tiat\, 151 Powell St\, San 
  Francisco\, CA 94102\, USA\nHost: tiat (the intersection of art & technolo
@@ -21,7 +21,7 @@ SUMMARY:WeaveHacks 4: Multi-Agent Orchestration Hackathon with Weights & B
  iases
 DTSTART:20260606T160000Z
 DTEND:20260608T000000Z
-DTSTAMP:20260605T094143Z
+DTSTAMP:20260605T144454Z
 UID:evt-QuGEMJl1hsIvImo
 DESCRIPTION:https://lu.ma/weavehacks\nLocation: 400 Alabama St ste 202\, S
  an Francisco\, CA 94110\, USA\nHost: Weights & Biases\nSource: html/san-fr
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:The AI Night @ WWDC26
 DTSTART:20260608T020000Z
 DTEND:20260608T060000Z
-DTSTAMP:20260605T094143Z
+DTSTAMP:20260605T144454Z
 UID:evt-8tJt687PViQNpD0
 DESCRIPTION:https://lu.ma/ai-night-wwdc-26\nLocation: San Jose\, CA\nHost:
   Clément S. - Building mobile apps that rocks\nSource: html/san-francisco
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:⌘ + AI + Design: How to prompt like a designer
 DTSTART:20260609T003000Z
 DTEND:20260609T030000Z
-DTSTAMP:20260605T094143Z
+DTSTAMP:20260605T144454Z
 UID:evt-ZpuAuzAve0KYd7L
 DESCRIPTION:https://lu.ma/717techseries-sfdesignweek-aidesign\nLocation: D
  G717\, 717 Market St\, San Francisco\, CA 94103\, USA\nHost: DG717 Creativ
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Reimagining Creative Work in the Age of AI w/ Emmett Shine
 DTSTART:20260610T000000Z
 DTEND:20260610T023000Z
-DTSTAMP:20260605T094143Z
+DTSTAMP:20260605T144454Z
 UID:evt-6AOFA9d65nNErQG
 DESCRIPTION:https://lu.ma/61aoo5la\nLocation: San Francisco\, CA\nHost: Sp
  ace to Grow Gatherings\nSource: html/san-francisco
