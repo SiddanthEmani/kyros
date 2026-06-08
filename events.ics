@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:⌘ + AI + Design: How to prompt like a designer
 DTSTART:20260609T003000Z
 DTEND:20260609T030000Z
-DTSTAMP:20260608T154437Z
+DTSTAMP:20260608T201004Z
 UID:evt-ZpuAuzAve0KYd7L
 DESCRIPTION:https://lu.ma/717techseries-sfdesignweek-aidesign\nLocation: S
  an Francisco\, CA\nHost: DG717 Creative Tech Series\nSource: html/san-fran
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Reimagining Creative Work in the Age of AI w/ Emmett Shine
 DTSTART:20260610T000000Z
 DTEND:20260610T023000Z
-DTSTAMP:20260608T154437Z
+DTSTAMP:20260608T201004Z
 UID:evt-6AOFA9d65nNErQG
 DESCRIPTION:https://lu.ma/61aoo5la\nLocation: San Francisco\, CA\nHost: Sp
  ace to Grow Gatherings\nSource: html/san-francisco
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Designing AI for Kids: What It Actually Takes
 DTSTART:20260610T003000Z
 DTEND:20260610T030000Z
-DTSTAMP:20260608T154437Z
+DTSTAMP:20260608T201004Z
 UID:evt-SIBpTHeyyPtCbOL
 DESCRIPTION:https://lu.ma/v2gu7zft\nLocation: San Francisco\, CA\nHost: El
  lo Community Events\nSource: html/san-francisco
@@ -39,21 +39,10 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/v2gu7zft
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Building in the AI Era
-DTSTART:20260611T003000Z
-DTEND:20260611T023000Z
-DTSTAMP:20260608T154437Z
-UID:evt-fh0BbbIxsRLvHKI
-DESCRIPTION:https://lu.ma/lw64tp1u\nLocation: San Francisco\, CA\nHost: Si
- erra\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/lw64tp1u
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pope Leo's Encyclical: AI and the Human Good
 DTSTART:20260611T003000Z
 DTEND:20260611T033000Z
-DTSTAMP:20260608T154437Z
+DTSTAMP:20260608T201004Z
 UID:evt-THEFSzpkiXWXb41
 DESCRIPTION:https://lu.ma/PopeLeoEncyclical\nLocation: San Francisco\, CA\
  nHost: Imbue Events\nSource: html/san-francisco
@@ -64,12 +53,23 @@ BEGIN:VEVENT
 SUMMARY:AI monetization salon
 DTSTART:20260611T010000Z
 DTEND:20260611T030000Z
-DTSTAMP:20260608T154437Z
+DTSTAMP:20260608T201004Z
 UID:evt-fPt9jiV7oGBH9Rd
 DESCRIPTION:https://lu.ma/stripe-monetization-june10\nLocation: 25 Lusk St
  \, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-franci
  sco
 LOCATION:25 Lusk St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/stripe-monetization-june10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artificial Analysis Coding Agent Benchmarks
+DTSTART:20260612T010000Z
+DTEND:20260612T033000Z
+DTSTAMP:20260608T201004Z
+UID:evt-jI99NgVBPYgIY97
+DESCRIPTION:https://lu.ma/i5zotp6c\nLocation: San Francisco\, CA\nHost: Ar
+ tificial Analysis\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/i5zotp6c
 END:VEVENT
 END:VCALENDAR
