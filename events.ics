@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Pope Leo's Encyclical: AI and the Human Good
 DTSTART:20260611T003000Z
 DTEND:20260611T033000Z
-DTSTAMP:20260610T032512Z
+DTSTAMP:20260610T095333Z
 UID:evt-THEFSzpkiXWXb41
 DESCRIPTION:https://lu.ma/PopeLeoEncyclical\nLocation: San Francisco\, CA\
  nHost: Imbue Events\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:AI monetization salon
 DTSTART:20260611T010000Z
 DTEND:20260611T030000Z
-DTSTAMP:20260610T032512Z
+DTSTAMP:20260610T095333Z
 UID:evt-fPt9jiV7oGBH9Rd
 DESCRIPTION:https://lu.ma/stripe-monetization-june10\nLocation: 25 Lusk St
  \, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-franci
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Artificial Analysis Coding Agent Benchmarks
 DTSTART:20260612T010000Z
 DTEND:20260612T033000Z
-DTSTAMP:20260610T032512Z
+DTSTAMP:20260610T095333Z
 UID:evt-jI99NgVBPYgIY97
 DESCRIPTION:https://lu.ma/i5zotp6c\nLocation: San Francisco\, CA\nHost: Ar
  tificial Analysis\nSource: html/san-francisco
@@ -43,11 +43,24 @@ SUMMARY:Autonomous Healthcare Hackathon | xAI Cursor Vercel | Legion Healt
  h x Atlas
 DTSTART:20260613T160000Z
 DTEND:20260614T023000Z
-DTSTAMP:20260610T032512Z
+DTSTAMP:20260610T095333Z
 UID:evt-J1JJze1sOGGFYZz
 DESCRIPTION:https://lu.ma/zru7alb6\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/zru7alb6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Operator Run Club: Embarcadero Loop + Arsicault
+DTSTART:20260613T170000Z
+DTEND:20260613T184500Z
+DTSTAMP:20260610T095333Z
+UID:evt-9kmQQkpTIk07qyD
+DESCRIPTION:https://lu.ma/instalily-dgxm\nLocation: Studio By Tishman Spey
+ er\, 365 Toni Stone Xing\, San Francisco\, CA 94158\, USA\nHost: InstaLILY
+  AI\nSource: html/san-francisco
+LOCATION:Studio By Tishman Speyer\, 365 Toni Stone Xing\, San Francisco\, 
+ CA 94158\, USA
+URL:https://lu.ma/instalily-dgxm
 END:VEVENT
 END:VCALENDAR
