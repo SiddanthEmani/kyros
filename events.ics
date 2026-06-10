@@ -5,32 +5,10 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Reimagining Creative Work in the Age of AI w/ Emmett Shine
-DTSTART:20260610T000000Z
-DTEND:20260610T020000Z
-DTSTAMP:20260609T200433Z
-UID:evt-6AOFA9d65nNErQG
-DESCRIPTION:https://lu.ma/61aoo5la\nLocation: San Francisco\, CA\nHost: Sp
- ace to Grow Gatherings\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/61aoo5la
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Designing AI for Kids: What It Actually Takes
-DTSTART:20260610T003000Z
-DTEND:20260610T030000Z
-DTSTAMP:20260609T200433Z
-UID:evt-SIBpTHeyyPtCbOL
-DESCRIPTION:https://lu.ma/v2gu7zft\nLocation: San Francisco\, CA\nHost: El
- lo Community Events\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/v2gu7zft
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pope Leo's Encyclical: AI and the Human Good
 DTSTART:20260611T003000Z
 DTEND:20260611T033000Z
-DTSTAMP:20260609T200433Z
+DTSTAMP:20260610T032512Z
 UID:evt-THEFSzpkiXWXb41
 DESCRIPTION:https://lu.ma/PopeLeoEncyclical\nLocation: San Francisco\, CA\
  nHost: Imbue Events\nSource: html/san-francisco
@@ -41,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:AI monetization salon
 DTSTART:20260611T010000Z
 DTEND:20260611T030000Z
-DTSTAMP:20260609T200433Z
+DTSTAMP:20260610T032512Z
 UID:evt-fPt9jiV7oGBH9Rd
 DESCRIPTION:https://lu.ma/stripe-monetization-june10\nLocation: 25 Lusk St
  \, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-franci
@@ -53,11 +31,23 @@ BEGIN:VEVENT
 SUMMARY:Artificial Analysis Coding Agent Benchmarks
 DTSTART:20260612T010000Z
 DTEND:20260612T033000Z
-DTSTAMP:20260609T200433Z
+DTSTAMP:20260610T032512Z
 UID:evt-jI99NgVBPYgIY97
 DESCRIPTION:https://lu.ma/i5zotp6c\nLocation: San Francisco\, CA\nHost: Ar
  tificial Analysis\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/i5zotp6c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autonomous Healthcare Hackathon | xAI Cursor Vercel | Legion Healt
+ h x Atlas
+DTSTART:20260613T160000Z
+DTEND:20260614T023000Z
+DTSTAMP:20260610T032512Z
+UID:evt-J1JJze1sOGGFYZz
+DESCRIPTION:https://lu.ma/zru7alb6\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/zru7alb6
 END:VEVENT
 END:VCALENDAR
