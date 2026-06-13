@@ -9,7 +9,7 @@ SUMMARY:Autonomous Healthcare Hackathon | xAI Cursor Vercel | Legion Healt
  h x Atlas
 DTSTART:20260613T160000Z
 DTEND:20260614T023000Z
-DTSTAMP:20260613T032423Z
+DTSTAMP:20260613T085319Z
 UID:evt-J1JJze1sOGGFYZz
 DESCRIPTION:https://lu.ma/zru7alb6\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AI Operator Run Club: Embarcadero Loop + Arsicault
 DTSTART:20260613T170000Z
 DTEND:20260613T184500Z
-DTSTAMP:20260613T032423Z
+DTSTAMP:20260613T085319Z
 UID:evt-9kmQQkpTIk07qyD
 DESCRIPTION:https://lu.ma/instalily-dgxm\nLocation: Studio By Tishman Spey
  er\, 365 Toni Stone Xing\, San Francisco\, CA 94158\, USA\nHost: InstaLILY
@@ -28,5 +28,28 @@ DESCRIPTION:https://lu.ma/instalily-dgxm\nLocation: Studio By Tishman Spey
 LOCATION:Studio By Tishman Speyer\, 365 Toni Stone Xing\, San Francisco\, 
  CA 94158\, USA
 URL:https://lu.ma/instalily-dgxm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generating Cre(ai)tivity with AI Snack Club
+DTSTART:20260617T000000Z
+DTEND:20260617T030000Z
+DTSTAMP:20260613T085319Z
+UID:evt-Sggu7nAQMQAVzRO
+DESCRIPTION:https://lu.ma/aisnack-9u6o\nLocation: AWS Builder Loft\, 525 M
+ arket St\, San Francisco\, CA 94105\, USA\nHost: AI Snack Club\nSource: ht
+ ml/san-francisco
+LOCATION:AWS Builder Loft\, 525 Market St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/aisnack-9u6o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahjong Party for AI Builders
+DTSTART:20260617T000000Z
+DTEND:20260617T030000Z
+DTSTAMP:20260613T085319Z
+UID:evt-4cvZGlESIFhabfu
+DESCRIPTION:https://lu.ma/i04pq9o1\nLocation: San Francisco\, California\n
+ Host: Workato Community\nSource: html/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/i04pq9o1
 END:VEVENT
 END:VCALENDAR
