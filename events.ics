@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Generating Cre(ai)tivity with AI Snack Club
 DTSTART:20260617T000000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260614T135508Z
+DTSTAMP:20260614T192223Z
 UID:evt-Sggu7nAQMQAVzRO
 DESCRIPTION:https://lu.ma/aisnack-9u6o\nLocation: AWS Builder Loft\, 525 M
  arket St\, San Francisco\, CA 94105\, USA\nHost: AI Snack Club\nSource: ht
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Mahjong Party for AI Builders
 DTSTART:20260617T000000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260614T135508Z
+DTSTAMP:20260614T192223Z
 UID:evt-4cvZGlESIFhabfu
 DESCRIPTION:https://lu.ma/i04pq9o1\nLocation: San Francisco\, California\n
  Host: Workato Community\nSource: html/san-francisco
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:The Agent Stack: Lightning Talks + Happy Hour with Pioneer & Exa
 DTSTART:20260617T010000Z
 DTEND:20260617T040000Z
-DTSTAMP:20260614T135508Z
+DTSTAMP:20260614T192223Z
 UID:evt-0cVkUFNdaQVbHqI
 DESCRIPTION:https://lu.ma/r0sjpnhd\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
