@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:AGI\, Inc. Office Warming Party
 DTSTART:20260619T010000Z
 DTEND:20260619T050000Z
-DTSTAMP:20260618T101650Z
+DTSTAMP:20260618T150021Z
 UID:evt-8sXpkZgxHoAFxDT
 DESCRIPTION:https://lu.ma/jf5jjmhy\nLocation: San Francisco\, CA\nHost: AG
  I\, Inc.\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Agents in Action: GTM Engineer Edition
 DTSTART:20260619T020000Z
 DTEND:20260619T033000Z
-DTSTAMP:20260618T101650Z
+DTSTAMP:20260618T150021Z
 UID:evt-WBZz9mrIVLMXzR4
 DESCRIPTION:https://lu.ma/gumloop-drlj\nLocation: San Francisco\, CA\nHost
  : Gumloop\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Inference-Time Compute Hackathon
 DTSTART:20260620T000000Z
 DTEND:20260621T040000Z
-DTSTAMP:20260618T101650Z
+DTSTAMP:20260618T150021Z
 UID:evt-IQpCxf7BBsyK7mk
 DESCRIPTION:https://lu.ma/hncudfxb\nLocation: San Francisco\, CA\nHost: Et
  ched\nSource: html/san-francisco
