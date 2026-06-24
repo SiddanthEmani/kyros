@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Eliza + OpenAI Codex Lab: San Francisco
 DTSTART:20260625T001500Z
 DTEND:20260625T024500Z
-DTSTAMP:20260624T142403Z
+DTSTAMP:20260624T194242Z
 UID:evt-nVaqEX9znghkdhJ
 DESCRIPTION:https://lu.ma/0yscwngq\nLocation: San Francisco\, CA\nHost: El
  iza\nSource: html/san-francisco
@@ -20,7 +20,7 @@ SUMMARY:The Trust Layer: An evening on Agentic Commerce\, hosted by Skyfir
  e / Okta / Experian
 DTSTART:20260625T003000Z
 DTEND:20260625T033000Z
-DTSTAMP:20260624T142403Z
+DTSTAMP:20260624T194242Z
 UID:evt-ENX89JwtORSAC9k
 DESCRIPTION:https://lu.ma/6uexbq24\nLocation: Okta\, 100 1st St 6th floor\
  , San Francisco\, CA 94105\, USA\nHost: Skyfire\nSource: html/san-francisc
@@ -33,7 +33,7 @@ SUMMARY:Our Agentic Future: An Evening of Networking & Discussion on Intel
  ligent Finance
 DTSTART:20260626T000000Z
 DTEND:20260626T030000Z
-DTSTAMP:20260624T142403Z
+DTSTAMP:20260624T194242Z
 UID:evt-7x2oBFF9i8i0d4e
 DESCRIPTION:https://lu.ma/54qrpne7\nLocation: San Francisco\, CA\nHost: Ai
  rwallex\nSource: html/san-francisco
@@ -45,7 +45,7 @@ SUMMARY:@Playground — Tech’s Next Frontier: Building the Foundation fo
  r an AI World
 DTSTART:20260626T000000Z
 DTEND:20260626T030000Z
-DTSTAMP:20260624T142403Z
+DTSTAMP:20260624T194242Z
 UID:evt-zEZiYyVHePzaQvu
 DESCRIPTION:https://lu.ma/mx1v2jyc\nLocation: 945 Market Street\, 945 Mark
  et St\, San Francisco\, CA 94103\, USA\nHost: Playground Global\nSource: h
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:How to choose an AI model with Gamma and Notion
 DTSTART:20260626T010000Z
 DTEND:20260626T030000Z
-DTSTAMP:20260624T142403Z
+DTSTAMP:20260624T194242Z
 UID:evt-E5rACi3ytsnxOES
 DESCRIPTION:https://lu.ma/65l844l9\nLocation: San Francisco\, CA\nHost: Ba
  seten Events\nSource: html/san-francisco
