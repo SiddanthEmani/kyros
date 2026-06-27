@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer Kids Day
 DTSTART:20260628T193000Z
 DTEND:20260628T233000Z
-DTSTAMP:20260627T024853Z
+DTSTAMP:20260627T083301Z
 UID:evt-ZBXOOKDTPuvfvno
 DESCRIPTION:https://lu.ma/neo4j-0v66\nLocation: Digital Jungle SF\, 972 Mi
  ssion St\, San Francisco\, CA 94103\, USA\nHost: Neo4j\nSource: html/san-f
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer World's Fair — New Engineer Orientation (IRL)
 DTSTART:20260629T000000Z
 DTEND:20260629T040000Z
-DTSTAMP:20260627T024853Z
+DTSTAMP:20260627T083301Z
 UID:evt-PPEUwHw0FsBdI7E
 DESCRIPTION:https://lu.ma/aie-neo-irl\nLocation: Moscone West\, 747 Howard
   St\, San Francisco\, CA 94103\, USA\nHost: Latent.Space (Paper Club\, AI 
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:PlanetScale x Low Level: Security in the AI era
 DTSTART:20260630T020000Z
 DTEND:20260630T050000Z
-DTSTAMP:20260627T024853Z
+DTSTAMP:20260627T083301Z
 UID:evt-XzzW2pJYaSpf8wJ
 DESCRIPTION:https://lu.ma/ow1f82nb\nLocation: PlanetScale\, 108 Natoma St\
  , San Francisco\, CA 94105\, USA\nHost: Personal\nSource: html/san-francis
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:THE AI Engineer Afterparty
 DTSTART:20260630T020000Z
 DTEND:20260630T050000Z
-DTSTAMP:20260627T024853Z
+DTSTAMP:20260627T083301Z
 UID:evt-0h5I9tvMJR31soc
 DESCRIPTION:https://lu.ma/composio-lh5g\nLocation: San Francisco\, CA\nHos
  t: Composio Events\nSource: html/san-francisco
