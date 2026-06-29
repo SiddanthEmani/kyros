@@ -9,7 +9,7 @@ SUMMARY:Retrieval for Agents: Building retrieval infrastructure for the ne
  w and powerful user
 DTSTART:20260630T000000Z
 DTEND:20260630T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-KwAM6H1HHtDcVTZ
 DESCRIPTION:https://lu.ma/ypnd3grq\nLocation: San Francisco\, CA\nHost: Ho
  rnet.dev\nSource: discover/san-francisco
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer Happy Hour @ Sandbox VR
 DTSTART:20260630T003000Z
 DTEND:20260630T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-GNmYvpsrAlrF57g
 DESCRIPTION:https://lu.ma/sandboxvr\nLocation: Sandbox VR\, 767 B Market S
  t\, San Francisco\, CA 94103\, USA\nHost: .agent community\nSource: discov
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Harness Engineering: State of the Art in Agent Harnesses
 DTSTART:20260630T003000Z
 DTEND:20260630T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-q0fhuxo7NHS3hh6
 DESCRIPTION:https://lu.ma/rtd0f6ka\nLocation: AWS Builder Loft\, 525 Marke
  t St\, San Francisco\, CA 94105\, USA\nHost: Agent Engineering HQ\nSource:
@@ -45,7 +45,7 @@ SUMMARY:Building AI-Native Startups at Hackathon Speed: The Power of Trust
  ed Allies & Community to Bring Bold Visions to Life - Light DAO Salon (SF)
 DTSTART:20260630T010000Z
 DTEND:20260630T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-WFkVfreIEKCdBwr
 DESCRIPTION:https://lu.ma/SFLightDAOJune\nLocation: San Francisco\, Califo
  rnia\nHost: Light DAO\nSource: discover/san-francisco
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:9030 club reading "Evo2": #59 - ML Paper Reading Group
 DTSTART:20260630T020000Z
 DTEND:20260630T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-dnjhvOxWmg0pxpW
 DESCRIPTION:https://lu.ma/p2j3zw2u\nLocation: 1680 Mission St\, San Franci
  sco\, CA 94103\, USA\nHost: 90/30 Club\nSource: discover/san-francisco
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:THE AI Engineer Afterparty
 DTSTART:20260630T020000Z
 DTEND:20260630T050000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-0h5I9tvMJR31soc
 DESCRIPTION:https://lu.ma/composio-lh5g\nLocation: San Francisco\, CA\nHos
  t: Composio Events\nSource: html/san-francisco
@@ -79,7 +79,7 @@ SUMMARY:[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circl
  e
 DTSTART:20260701T000000Z
 DTEND:20260701T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-vujSZF3gxm2FDEy
 DESCRIPTION:https://lu.ma/b33n09v9\nLocation: San Francisco\, CA\nHost: AI
   CIRCLE\nSource: html/san-francisco
@@ -91,7 +91,7 @@ SUMMARY:Telemetry-aware AI agents that act in Slack\, Linear\, and GitHub\
  , without your production data leaving your cloud
 DTSTART:20260701T003000Z
 DTEND:20260701T030000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-9ElSAkKCwR2oCkx
 DESCRIPTION:https://lu.ma/zkdv1uoq\nLocation: Mindspace Coworking San Fran
  cisco\, 575 Market St\, San Francisco\, CA 94105\, USA\nHost: groundcover\
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer Builder Lounge at Convex
 DTSTART:20260701T003000Z
 DTEND:20260701T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-IukxHaDwqy1UqwD
 DESCRIPTION:https://lu.ma/convex-ucum\nLocation: San Francisco\, CA\nHost:
   Convex.dev\nSource: discover/san-francisco
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Agents in Production: The Full Stack
 DTSTART:20260701T003000Z
 DTEND:20260701T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-Vb1nmszyf7qaf7P
 DESCRIPTION:https://lu.ma/hqz8wi79\nLocation: San Francisco\, California\n
  Host: SurrealDB Events\nSource: discover/san-francisco
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer World’s Fair - Private Dinner
 DTSTART:20260701T010000Z
 DTEND:20260701T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-LWkghHa0mbUGxHI
 DESCRIPTION:https://lu.ma/yuvqpu6e\nLocation: San Francisco\, CA\nHost: mi
  cro1 social club\nSource: discover/san-francisco
@@ -138,7 +138,7 @@ SUMMARY:AI Engineer World’s Fair Social w/ Rootly AI\, Mezmo\, Twingate\
  , Echo\, & Respan
 DTSTART:20260701T010000Z
 DTEND:20260701T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-mcD2J4l9B0tJB3V
 DESCRIPTION:https://lu.ma/g61bknt9\nLocation: San Francisco\, CA\nHost: Ro
  otly\nSource: discover/san-francisco
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Flint x Google: Ads Agent Launch
 DTSTART:20260701T013000Z
 DTEND:20260701T030000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-YP7yFDSfBUqmROw
 DESCRIPTION:https://lu.ma/nu6v7534\nLocation: Google San Francisco - 345 S
  pear St\, 345 Spear St\, San Francisco\, CA 94105\, USA\nHost: Flint\nSour
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:The Low Latency Lounge @ AI Engineer World Fair
 DTSTART:20260701T020000Z
 DTEND:20260701T050000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-DywRwCbQJVJJvvJ
 DESCRIPTION:https://lu.ma/low-latency-lounge\nLocation: San Francisco\, CA
  \nHost: Deepgram\nSource: discover/san-francisco
@@ -174,7 +174,7 @@ SUMMARY:What open agents can actually do: a meetup with Together AI & NVID
  IA
 DTSTART:20260702T000000Z
 DTEND:20260702T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-zdkN4JEC5TAbRtp
 DESCRIPTION:https://lu.ma/AIEWF-OpenAgentsMeetup\nLocation: San Francisco\
  , CA\nHost: Together AI Calendar\nSource: discover/san-francisco
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:World Cup x AI Engineer - hosted by G2i
 DTSTART:20260702T000000Z
 DTEND:20260702T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-ZmCbVIaM2vEnSok
 DESCRIPTION:https://lu.ma/uzkl1lpv\nLocation: San Francisco\, CA\nHost: G2
  i\nSource: discover/san-francisco
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer Happy Hour
 DTSTART:20260702T003000Z
 DTEND:20260702T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-itGc0dkd8GYmsGI
 DESCRIPTION:https://lu.ma/ai-engineer-happy-hour-jul1-2026\nLocation: AWS 
  Builder Loft\, 525 Market St\, San Francisco\, CA 94105\, USA\nHost: [SF] 
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Inside The AI Coding Stack: Models\, Inference\, Agents\, and GPUs
 DTSTART:20260702T010000Z
 DTEND:20260702T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-d0eD0zN10p4ZTBJ
 DESCRIPTION:https://lu.ma/y454srtx\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: discover/san-francisco
@@ -220,7 +220,7 @@ SUMMARY:AI Engineer After Hours | Crafting Software Factories with Warp an
  d Sequoia
 DTSTART:20260702T010000Z
 DTEND:20260702T050000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-C6MEXEZIzW9yHJa
 DESCRIPTION:https://lu.ma/warp-5xsy\nLocation: Novela\, 662 Mission St\, S
  an Francisco\, CA 94105\, USA\nHost: Warp\nSource: discover/san-francisco
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:AI + Infrastructure Leaders Dinner - AI Engineer World's Fair
 DTSTART:20260702T010000Z
 DTEND:20260702T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-xd0tY8UQ80DUoDV
 DESCRIPTION:https://lu.ma/unm1hdg2\nLocation: KAIYŌ Rooftop\, 701 3rd St 
  12th Floor\, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: disco
@@ -245,7 +245,7 @@ SUMMARY:Tokenmaxxing Arcade Night & Happy Hour to Celebrate AI Engineer Wo
  rld's Fair
 DTSTART:20260702T010000Z
 DTEND:20260702T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-hFpWWZm4Q1aOij2
 DESCRIPTION:https://lu.ma/yr8o9i74\nLocation: Thriller Social Club\, 508 4
  th St\, San Francisco\, CA 94107\, USA\nHost: Span\nSource: discover/san-f
@@ -259,7 +259,7 @@ SUMMARY:AI Engineer World’s Fair Afterparty w/ Tailscale\, Aikido Securi
  ty\, Docker\, Inngest & Rootly AI
 DTSTART:20260702T010000Z
 DTEND:20260702T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-rlFftCItxhRRooj
 DESCRIPTION:https://lu.ma/2avil0ni\nLocation: San Francisco\, CA\nHost: Ro
  otly\nSource: discover/san-francisco
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:World Models\, Spatial Intelligence & Physical AI Night
 DTSTART:20260702T010000Z
 DTEND:20260702T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-PQCtdAGEbMN5W7Q
 DESCRIPTION:https://lu.ma/x2j0zc3h\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: discover/san-francisco
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer After Dark
 DTSTART:20260702T013000Z
 DTEND:20260702T043000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-PfX7aZOgV4lQayX
 DESCRIPTION:https://lu.ma/vercel-vtf0\nLocation: San Francisco Museum of M
  odern Art\, 151 3rd St\, San Francisco\, CA 94103\, USA\nHost: Vercel Even
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer Rooftop Pizza Party with Cognition
 DTSTART:20260702T020000Z
 DTEND:20260702T043000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-svvn1eRCaIlvxQy
 DESCRIPTION:https://lu.ma/devin-pizza\nLocation: San Francisco\, CA\nHost:
   Devin Events Calendar\nSource: discover/san-francisco
@@ -306,7 +306,7 @@ SUMMARY:🌙 The AI Native Speakeasy - AI Engineering Worlds Fair Founder
  After Hours
 DTSTART:20260702T030000Z
 DTEND:20260702T100000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-IEIFiMpdPGjF3hZ
 DESCRIPTION:https://lu.ma/1xm9eqft\nLocation: San Francisco\, CA\nHost: PA
  I Palooza Presents - Build with AI Native Studio - 2026\nSource: discover/
@@ -315,22 +315,11 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/1xm9eqft
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI x Variant Interpretation
-DTSTART:20260703T010000Z
-DTEND:20260703T040000Z
-DTSTAMP:20260629T105032Z
-UID:evt-FhBNZ5MEcqXyhE0
-DESCRIPTION:https://lu.ma/2g3ft8wj\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/2g3ft8wj
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI Engineer World's Fair Rooftop Afterparty w/ Apify × Massive ×
   TopK
 DTSTART:20260703T013000Z
 DTEND:20260703T050000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-0uZqyNY5VLzH3MH
 DESCRIPTION:https://lu.ma/aie-sf-afterparty\nLocation: European Startup Em
  bassy\, 461 Bryant St\, San Francisco\, CA 94107\, USA\nHost: Apify Events
@@ -343,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI Open House – The Residency × Mission Robotics
 DTSTART:20260703T013000Z
 DTEND:20260703T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-KYphhzSnnOfdQ28
 DESCRIPTION:https://lu.ma/residency-mr-open-house\nLocation: San Francisco
  \, CA\nHost: Mission Robotics\nSource: discover/san-francisco
@@ -354,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:we got LLMs at home (Local LLMs 101)
 DTSTART:20260704T020000Z
 DTEND:20260704T030000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-VHCw58XBZVR7rbW
 DESCRIPTION:https://lu.ma/localllms\nLocation: tiat\, 151 Powell St\, San 
  Francisco\, CA 94102\, USA\nHost: tiat (the intersection of art & technolo
@@ -367,7 +356,7 @@ SUMMARY:Robotics & World Models Reading Club 16: The Embodied AI Hardware
  Stack — Supply Chain\, Sensors\, and the Data Flywheel — SF 07/04
 DTSTART:20260704T210000Z
 DTEND:20260705T000000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-LZJQAWCX7YT6lub
 DESCRIPTION:https://lu.ma/cgzyfpeb\nLocation: San Francisco\, CA\nHost: Sa
  turday Robotics\nSource: discover/san-francisco
@@ -378,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Codex Event at Bright Data
 DTSTART:20260708T000000Z
 DTEND:20260708T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-kX7HhCShTh8tS0m
 DESCRIPTION:https://lu.ma/openai-codex-bright-data-jul7-2026\nLocation: 62
  5 2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] Builders Collective\
@@ -387,11 +376,23 @@ LOCATION:625 2nd St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/openai-codex-bright-data-jul7-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agent Experience Demo Night @ Auth0 (#5th Edition)
+DTSTART:20260708T000000Z
+DTEND:20260708T040000Z
+DTSTAMP:20260629T154014Z
+UID:evt-iIoJtjCNhDStgUJ
+DESCRIPTION:https://lu.ma/devtooldemo5\nLocation: Okta\, 100 1st St 6th fl
+ oor\, San Francisco\, CA 94105\, USA\nHost: Sapient\nSource: discover/san-
+ francisco
+LOCATION:Okta\, 100 1st St 6th floor\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/devtooldemo5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bay Area Frontier Research Club #13 | AGI House SF (dinner + paper
   discussion)
 DTSTART:20260709T003000Z
 DTEND:20260709T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-yNJuyCrLkUaTckl
 DESCRIPTION:https://lu.ma/frontierresearch13\nLocation: San Francisco\, CA
  \nHost: Frontier Syndicate\nSource: discover/san-francisco
@@ -402,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:VCN #40: Hardpoint — Build an Agent That Withstands Red-Teaming
 DTSTART:20260709T020000Z
 DTEND:20260709T050000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-I9hfsz3YGguHxX1
 DESCRIPTION:https://lu.ma/vcn-40-hardpoint-build-an-agent-that-wit\nLocati
  on: Frontier Tower @ 9th Floor Annex 995 Market Street\, San Francisco\nHo
@@ -415,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Real World Agentic Solutions on MCP
 DTSTART:20260710T003000Z
 DTEND:20260710T033000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-BSZjeQoXxplpGtV
 DESCRIPTION:https://lu.ma/4fhzzgqv\nLocation: San Francisco\, California\n
  Host: Workato Community\nSource: discover/san-francisco
@@ -426,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:WEB A.0: 50 Agent-Native Startups - Open Registration
 DTSTART:20260712T020000Z
 DTEND:20260712T043000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-QizgqvXwLw3QB1A
 DESCRIPTION:https://lu.ma/web-a0-50-agent-native-startups-cb85\nLocation: 
  Frontier Tower @ 10th Floor Annex 995 Market Street\, San Francisco\nHost:
@@ -439,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:AI Hack Day at Bright Data
 DTSTART:20260718T163000Z
 DTEND:20260719T020000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-DzgiEFQxuc20hel
 DESCRIPTION:https://lu.ma/ai-hack-day-bright-data-jul18-2026\nLocation: 62
  5 2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] Builders Collective\
@@ -451,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:vLLM x Crusoe Meetup: Production Open Source Inference
 DTSTART:20260722T000000Z
 DTEND:20260722T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-BXcad0jDa2Rgmib
 DESCRIPTION:https://lu.ma/n2ftxt1s\nLocation: San Francisco\, CA\nHost: vL
  LM Meetups and Events\nSource: discover/san-francisco
@@ -462,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:SF AI Tech Stack Hack Night
 DTSTART:20260724T000000Z
 DTEND:20260724T040000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-NftDc6lXCjMPu3g
 DESCRIPTION:https://lu.ma/sf-ai-tech-stack-hack-night-jul23-2026\nLocation
  : 625 2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] Builders Collect
@@ -474,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:Ship 2 Prod | YC AI SUS Black-Tie Yacht Gala
 DTSTART:20260726T020000Z
 DTEND:20260726T060000Z
-DTSTAMP:20260629T105032Z
+DTSTAMP:20260629T154014Z
 UID:evt-AYwTAXNDFwlNWU9
 DESCRIPTION:https://lu.ma/ojidqyj8\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: discover/san-francisco
