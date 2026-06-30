@@ -9,7 +9,7 @@ SUMMARY:[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circl
  e
 DTSTART:20260701T000000Z
 DTEND:20260701T033000Z
-DTSTAMP:20260630T025701Z
+DTSTAMP:20260630T092813Z
 UID:evt-vujSZF3gxm2FDEy
 DESCRIPTION:https://lu.ma/b33n09v9\nLocation: San Francisco\, CA\nHost: AI
   CIRCLE\nSource: html/san-francisco
@@ -20,11 +20,84 @@ BEGIN:VEVENT
 SUMMARY:AI Leaders Dinner - SF\, June 30\, 2026
 DTSTART:20260701T010000Z
 DTEND:20260701T040000Z
-DTSTAMP:20260630T025701Z
+DTSTAMP:20260630T092813Z
 UID:evt-jO4SAUsSmmlePvB
 DESCRIPTION:https://lu.ma/ai-leaders-dinner-sf\nLocation: San Francisco\, 
  California\nHost: Personal\nSource: html/san-francisco
 LOCATION:San Francisco\, California
 URL:https://lu.ma/ai-leaders-dinner-sf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What open agents can actually do: a meetup with Together AI & NVID
+ IA
+DTSTART:20260702T000000Z
+DTEND:20260702T033000Z
+DTSTAMP:20260630T092813Z
+UID:evt-zdkN4JEC5TAbRtp
+DESCRIPTION:https://lu.ma/AIEWF-OpenAgentsMeetup\nLocation: San Francisco\
+ , CA\nHost: Together AI Calendar\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/AIEWF-OpenAgentsMeetup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Demo Night
+DTSTART:20260702T003000Z
+DTEND:20260702T033000Z
+DTSTAMP:20260630T092813Z
+UID:evt-MknSAanO3FmvCYm
+DESCRIPTION:https://lu.ma/clickh-2crf\nLocation: CANOPY Jackson Square\, 5
+ 95 Pacific Ave 4th floor\, San Francisco\, CA 94133\, USA\nHost: ClickHous
+ e Events\nSource: html/san-francisco
+LOCATION:CANOPY Jackson Square\, 595 Pacific Ave 4th floor\, San Francisco
+ \, CA 94133\, USA
+URL:https://lu.ma/clickh-2crf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Engineer After Hours | Crafting Software Factories with Warp an
+ d Sequoia
+DTSTART:20260702T010000Z
+DTEND:20260702T050000Z
+DTSTAMP:20260630T092813Z
+UID:evt-C6MEXEZIzW9yHJa
+DESCRIPTION:https://lu.ma/warp-5xsy\nLocation: Novela\, 662 Mission St\, S
+ an Francisco\, CA 94105\, USA\nHost: Warp\nSource: html/san-francisco
+LOCATION:Novela\, 662 Mission St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/warp-5xsy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Engineer World’s Fair Afterparty w/ Tailscale\, Aikido Securi
+ ty\, Docker\, Inngest & Rootly AI
+DTSTART:20260702T010000Z
+DTEND:20260702T040000Z
+DTSTAMP:20260630T092813Z
+UID:evt-rlFftCItxhRRooj
+DESCRIPTION:https://lu.ma/2avil0ni\nLocation: San Francisco\, CA\nHost: Ro
+ otly\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/2avil0ni
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Infra After Dark | Amplify + Vermilion Cliffs Ventures
+DTSTART:20260702T010000Z
+DTEND:20260702T040000Z
+DTSTAMP:20260630T092813Z
+UID:evt-VHpDhfDYi9WUy8J
+DESCRIPTION:https://lu.ma/vermilion-zoog\nLocation: San Francisco\, CA\nHo
+ st: Vermilion Cliffs Ventures\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/vermilion-zoog
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Engineer After Dark
+DTSTART:20260702T013000Z
+DTEND:20260702T043000Z
+DTSTAMP:20260630T092813Z
+UID:evt-PfX7aZOgV4lQayX
+DESCRIPTION:https://lu.ma/vercel-vtf0\nLocation: San Francisco Museum of M
+ odern Art\, 151 3rd St\, San Francisco\, CA 94103\, USA\nHost: Vercel Even
+ ts\nSource: html/san-francisco
+LOCATION:San Francisco Museum of Modern Art\, 151 3rd St\, San Francisco\,
+  CA 94103\, USA
+URL:https://lu.ma/vercel-vtf0
 END:VEVENT
 END:VCALENDAR
