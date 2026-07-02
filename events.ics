@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:{AI} in Production
 DTSTART:20260703T010000Z
 DTEND:20260703T033000Z
-DTSTAMP:20260702T025541Z
+DTSTAMP:20260702T085036Z
 UID:evt-dAUFYCPa6r6DSqi
 DESCRIPTION:https://lu.ma/5kvakl4z\nLocation: San Francisco\, CA\nHost: In
  ngest\nSource: html/san-francisco
@@ -20,7 +20,7 @@ SUMMARY:AI Engineer World's Fair Rooftop Afterparty w/ Apify × Massive ×
   TopK
 DTSTART:20260703T013000Z
 DTEND:20260703T050000Z
-DTSTAMP:20260702T025541Z
+DTSTAMP:20260702T085036Z
 UID:evt-0uZqyNY5VLzH3MH
 DESCRIPTION:https://lu.ma/aie-sf-afterparty\nLocation: European Startup Em
  bassy\, 461 Bryant St\, San Francisco\, CA 94107\, USA\nHost: Apify Events
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI Open House – The Residency × Mission Robotics
 DTSTART:20260703T013000Z
 DTEND:20260703T040000Z
-DTSTAMP:20260702T025541Z
+DTSTAMP:20260702T085036Z
 UID:evt-KYphhzSnnOfdQ28
 DESCRIPTION:https://lu.ma/residency-mr-open-house\nLocation: San Francisco
  \, CA\nHost: Mission Robotics\nSource: html/san-francisco
@@ -44,11 +44,34 @@ BEGIN:VEVENT
 SUMMARY:YC S26 Welcoming ft. Userlens x The Prompting Company
 DTSTART:20260705T013000Z
 DTEND:20260705T053000Z
-DTSTAMP:20260702T025541Z
+DTSTAMP:20260702T085036Z
 UID:evt-acmWd53nT1CNB8S
 DESCRIPTION:https://lu.ma/vr6vru9v\nLocation: San Francisco\, CA\nHost: Us
  erlens (YC P26)\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/vr6vru9v
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Show & Tell: AI for GTM @Notion with Baseten\, Cognition and Samsa
+ ra
+DTSTART:20260715T010000Z
+DTEND:20260715T040000Z
+DTSTAMP:20260702T085036Z
+UID:evt-ntiEX2hGHWYfv63
+DESCRIPTION:https://lu.ma/b8ie1m1s\nLocation: Notion HQ\, 685 Market St\, 
+ San Francisco\, CA 94105\, USA\nHost: Upside\nSource: html/san-francisco
+LOCATION:Notion HQ\, 685 Market St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/b8ie1m1s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Valley x Pet Zen Dog-a-thon
+DTSTART:20260718T160000Z
+DTEND:20260719T040000Z
+DTSTAMP:20260702T085036Z
+UID:evt-DECjFUNkamRSmH4
+DESCRIPTION:https://lu.ma/rklrsomo\nLocation: San Francisco\, CA\nHost: AI
+  Valley\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/rklrsomo
 END:VEVENT
 END:VCALENDAR
