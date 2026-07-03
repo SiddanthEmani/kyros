@@ -5,63 +5,25 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:AI Engineer Trivia Night
-DTSTART:20260703T000000Z
-DTEND:20260703T040000Z
-DTSTAMP:20260702T192042Z
-UID:evt-GBHlJutxr0dsBW9
-DESCRIPTION:https://lu.ma/k9z2sucw\nLocation: Standard Deviant Brewing Pie
- r 70\, 1070 Maryland St suite 195\, San Francisco\, CA 94107\, USA\nHost: 
- Personal\nSource: html/san-francisco
-LOCATION:Standard Deviant Brewing Pier 70\, 1070 Maryland St suite 195\, S
- an Francisco\, CA 94107\, USA
-URL:https://lu.ma/k9z2sucw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:{AI} in Production
-DTSTART:20260703T010000Z
-DTEND:20260703T033000Z
-DTSTAMP:20260702T192042Z
-UID:evt-dAUFYCPa6r6DSqi
-DESCRIPTION:https://lu.ma/5kvakl4z\nLocation: San Francisco\, CA\nHost: In
- ngest\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/5kvakl4z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Engineer World's Fair Rooftop Afterparty w/ Apify × Massive ×
-  TopK
-DTSTART:20260703T013000Z
-DTEND:20260703T050000Z
-DTSTAMP:20260702T192042Z
-UID:evt-0uZqyNY5VLzH3MH
-DESCRIPTION:https://lu.ma/aie-sf-afterparty\nLocation: European Startup Em
- bassy\, 461 Bryant St\, San Francisco\, CA 94107\, USA\nHost: Apify Events
- \nSource: html/san-francisco
-LOCATION:European Startup Embassy\, 461 Bryant St\, San Francisco\, CA 941
- 07\, USA
-URL:https://lu.ma/aie-sf-afterparty
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Physical AI Open House – The Residency × Mission Robotics
-DTSTART:20260703T013000Z
-DTEND:20260703T040000Z
-DTSTAMP:20260702T192042Z
-UID:evt-KYphhzSnnOfdQ28
-DESCRIPTION:https://lu.ma/residency-mr-open-house\nLocation: San Francisco
- \, CA\nHost: Mission Robotics\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/residency-mr-open-house
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YC S26 Welcoming ft. Userlens x The Prompting Company
 DTSTART:20260705T013000Z
 DTEND:20260705T053000Z
-DTSTAMP:20260702T192042Z
+DTSTAMP:20260703T023908Z
 UID:evt-acmWd53nT1CNB8S
 DESCRIPTION:https://lu.ma/vr6vru9v\nLocation: San Francisco\, CA\nHost: Us
  erlens (YC P26)\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/vr6vru9v
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-Device Night | Founders Building Local Agents by AGI\, Inc.
+DTSTART:20260710T003000Z
+DTEND:20260710T033000Z
+DTSTAMP:20260703T023908Z
+UID:evt-03FqwYUU7KVwpB3
+DESCRIPTION:https://lu.ma/mjbsf60u\nLocation: San Francisco\, CA\nHost: AG
+ I\, Inc.\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/mjbsf60u
 END:VEVENT
 END:VCALENDAR
