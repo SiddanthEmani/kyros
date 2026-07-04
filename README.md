@@ -17,7 +17,13 @@ https://raw.githubusercontent.com/SiddanthEmani/kyros/main/events.ics
 ```
 
 - **Apple Calendar** &nbsp;`File → New Calendar Subscription` → paste URL
-- **Google Calendar** &nbsp;`Other calendars → + → From URL` → paste URL
+- **Google Calendar (desktop)** &nbsp;`Other calendars → + → From URL` → paste URL
+- **Android** &nbsp;the Google Calendar app has no "add by URL" option on
+  the phone itself — subscribe once from
+  [calendar.google.com](https://calendar.google.com) on any browser
+  (desktop or mobile) as above, using the same Google account as your
+  phone. The feed shows up in the Android app automatically, no
+  separate app-side step needed.
 - **Outlook / Fantastical / anything else** &nbsp;Add subscription by URL
 
 The feed refreshes four times a day. You'll see the next ~30 days of
