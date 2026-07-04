@@ -12,18 +12,21 @@
 
 ## Subscribe
 
+**[Add to Google Calendar](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fraw.githubusercontent.com%2FSiddanthEmani%2Fkyros%2Fmain%2Fevents.ics)**
+&nbsp;— one tap on Android or desktop. Google Calendar (app or web) opens
+straight to the "Subscribe" prompt, already filled in.
+
+Or add the raw feed URL manually:
+
 ```
 https://raw.githubusercontent.com/SiddanthEmani/kyros/main/events.ics
 ```
 
 - **Apple Calendar** &nbsp;`File → New Calendar Subscription` → paste URL
-- **Google Calendar (desktop)** &nbsp;`Other calendars → + → From URL` → paste URL
-- **Android** &nbsp;the Google Calendar app has no "add by URL" option on
-  the phone itself — subscribe once from
-  [calendar.google.com](https://calendar.google.com) on any browser
-  (desktop or mobile) as above, using the same Google account as your
-  phone. The feed shows up in the Android app automatically, no
-  separate app-side step needed.
+- **Google Calendar / Android** &nbsp;use the one-tap link above, or on
+  desktop: `Other calendars → + → From URL` → paste URL. Either way it
+  syncs to the Google account, so it shows up in the Android app
+  automatically.
 - **Outlook / Fantastical / anything else** &nbsp;Add subscription by URL
 
 The feed refreshes four times a day. You'll see the next ~30 days of
