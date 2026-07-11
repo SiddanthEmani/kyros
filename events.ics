@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:The Computer Use Agents Hackathon by H Company
 DTSTART:20260711T153000Z
 DTEND:20260713T013000Z
-DTSTAMP:20260711T074902Z
+DTSTAMP:20260711T131202Z
 UID:evt-qYnR54iNFlEYY4n
 DESCRIPTION:https://lu.ma/1zwlnq89\nLocation: San Francisco\, CA\nHost: H 
  Company\nSource: html/san-francisco
@@ -20,7 +20,7 @@ SUMMARY:Show & Tell: AI for GTM @Notion with Baseten\, Cognition and Samsa
  ra
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
-DTSTAMP:20260711T074902Z
+DTSTAMP:20260711T131202Z
 UID:evt-ntiEX2hGHWYfv63
 DESCRIPTION:https://lu.ma/b8ie1m1s\nLocation: Notion HQ\, 685 Market St\, 
  San Francisco\, CA 94105\, USA\nHost: Upside\nSource: html/san-francisco
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:AI Philosophy Nights: Indifferent Intelligence
 DTSTART:20260715T013000Z
 DTEND:20260715T043000Z
-DTSTAMP:20260711T074902Z
+DTSTAMP:20260711T131202Z
 UID:evt-ZGTulzUQaMCdozu
 DESCRIPTION:https://lu.ma/4esilsg5\nLocation: San Francisco\, California\n
  Host: SuperHuman Society\nSource: html/san-francisco
