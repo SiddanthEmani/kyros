@@ -9,7 +9,7 @@ SUMMARY:Show & Tell: AI for GTM @Notion with Baseten\, Cognition and Samsa
  ra
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
-DTSTAMP:20260712T081241Z
+DTSTAMP:20260712T131323Z
 UID:evt-ntiEX2hGHWYfv63
 DESCRIPTION:https://lu.ma/b8ie1m1s\nLocation: Notion HQ\, 685 Market St\, 
  San Francisco\, CA 94105\, USA\nHost: Upside\nSource: html/san-francisco
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AI Philosophy Nights: Indifferent Intelligence
 DTSTART:20260715T013000Z
 DTEND:20260715T043000Z
-DTSTAMP:20260712T081241Z
+DTSTAMP:20260712T131323Z
 UID:evt-ZGTulzUQaMCdozu
 DESCRIPTION:https://lu.ma/4esilsg5\nLocation: San Francisco\, California\n
  Host: SuperHuman Society\nSource: html/san-francisco
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Battle of the Paddles: AI Builders Edition
 DTSTART:20260716T010000Z
 DTEND:20260716T040000Z
-DTSTAMP:20260712T081241Z
+DTSTAMP:20260712T131323Z
 UID:evt-CPD6OsDVtGDySQJ
 DESCRIPTION:https://lu.ma/j7v7qeem\nLocation: SPIN San Francisco\, 690 Fol
  som St #100\, San Francisco\, CA 94107\, USA\nHost: MongoDB\nSource: html/
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Fonzi's July Tech Talk
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
-DTSTAMP:20260712T081241Z
+DTSTAMP:20260712T131323Z
 UID:evt-YiDENCpolcMFwP4
 DESCRIPTION:https://lu.ma/jrs8v2ms\nLocation: San Francisco\, California\n
  Host: AI Engineers - SF\nSource: html/san-francisco
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Commerce (un)Conference
 DTSTART:20260717T000000Z
 DTEND:20260717T040000Z
-DTSTAMP:20260712T081241Z
+DTSTAMP:20260712T131323Z
 UID:evt-ZuGPSMVg5n8Qpsw
 DESCRIPTION:https://lu.ma/i3y4x429\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
