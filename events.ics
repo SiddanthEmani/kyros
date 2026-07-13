@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Holo AI Night w/ NVIDIA & Black Forest Labs
 DTSTART:20260714T010000Z
 DTEND:20260714T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-MhwVFqKKosBwKWq
 DESCRIPTION:https://lu.ma/o5xmousw\nLocation: Ayoub & Kubein Building\, 97
  2 Mission St\, San Francisco\, CA 94103\, USA\nHost: H Company\nSource: di
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:9030 club reading "Qwen Agent World": #60 - ML Paper Reading Group
 DTSTART:20260714T020000Z
 DTEND:20260714T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-PUm1vPqOaRz7oeL
 DESCRIPTION:https://lu.ma/a17esobq\nLocation: San Francisco\, CA\nHost: 90
  /30 Club\nSource: discover/san-francisco
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Agent Data Demo Night: Live Web Data\, Memory\, Identity & Actions
 DTSTART:20260715T003000Z
 DTEND:20260715T033000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-uQphMQmAAz5PD53
 DESCRIPTION:https://lu.ma/the-agent-stack-jul14-2026\nLocation: Bright Dat
  a\, 625 2nd St\, San Francisco\, CA 94107\, USA\nHost: TechEquity Ai - Sil
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Sellers Meetup #4
 DTSTART:20260715T003000Z
 DTEND:20260715T023000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-O9oHplgjUX7m6Iv
 DESCRIPTION:https://lu.ma/mtkqj9q2\nLocation: The Irish Bank\, 10 Mark Ln\
  , San Francisco\, CA 94108\, USA\nHost: Personal\nSource: discover/san-fra
@@ -57,7 +57,7 @@ SUMMARY:Show & Tell: AI for GTM @Notion with Baseten\, Cognition and Samsa
  ra
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-ntiEX2hGHWYfv63
 DESCRIPTION:https://lu.ma/b8ie1m1s\nLocation: Notion HQ\, 685 Market St\, 
  San Francisco\, CA 94105\, USA\nHost: Upside\nSource: html/san-francisco
@@ -69,7 +69,7 @@ SUMMARY:AI Tech Founders\, Investors & Pitch Night by AstraTech I SAN FRAN
  CISCO
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-UwWY1ojtk9vp6Hp
 DESCRIPTION:https://lu.ma/mwnkc62w\nLocation: Pizzetta Napoletana\, 775 Fr
  ederick St\, San Francisco\, CA 94117\, USA\nHost: Astra Tech Hub\nSource:
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:AI Tech & Startup Night — San Francisco
 DTSTART:20260715T010000Z
 DTEND:20260715T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-rrOMP1j0x1MfO3X
 DESCRIPTION:https://lu.ma/wmreb8qa\nLocation: San Francisco\, CA\nHost: NO
  MAD GLOBAL HUB\nSource: discover/san-francisco
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Building the AI-Native Enterprise Frontend
 DTSTART:20260715T010000Z
 DTEND:20260715T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-5ibpEeyEE53bzDx
 DESCRIPTION:https://lu.ma/bsucmzqq\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: discover/san-francisco
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:AI Philosophy Nights: Indifferent Intelligence
 DTSTART:20260715T013000Z
 DTEND:20260715T043000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-ZGTulzUQaMCdozu
 DESCRIPTION:https://lu.ma/4esilsg5\nLocation: San Francisco\, California\n
  Host: SuperHuman Society\nSource: html/san-francisco
@@ -116,7 +116,7 @@ SUMMARY:AWS Agentic AI Showcase Extended - Agentic AI in Production with w
  ith MongoDB Mastra
 DTSTART:20260716T000000Z
 DTEND:20260716T033000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-LveAAWK5mncY7hn
 DESCRIPTION:https://lu.ma/8jn7nznr\nLocation: San Francisco\, CA\nHost: AI
  Camp\nSource: discover/san-francisco
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Battle Bots Hack Night & Watch Party (w/ OpenAI Codex)
 DTSTART:20260716T000000Z
 DTEND:20260716T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-bCJf3B196CiniPb
 DESCRIPTION:https://lu.ma/battle-bots-hack-night-jul15-2026\nLocation: 625
   2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] HackerSquad\nSource: 
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Break My AI 2.0
 DTSTART:20260716T003000Z
 DTEND:20260716T023000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-uesuA0tfoKOJGks
 DESCRIPTION:https://lu.ma/mc1nhwan\nLocation: 43 Dore St\, San Francisco\,
   CA 94103\, USA\nHost: Novita AI\nSource: discover/san-francisco
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Fonzi's July Tech Talk
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-YiDENCpolcMFwP4
 DESCRIPTION:https://lu.ma/jrs8v2ms\nLocation: San Francisco\, California\n
  Host: AI Engineers - SF\nSource: html/san-francisco
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Operations for Founders: A dinner on what to automate next
 DTSTART:20260716T010000Z
 DTEND:20260716T033000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-7BmF2A3WxSA9W2J
 DESCRIPTION:https://lu.ma/vw0wvb4l\nLocation: ABSteak by Chef Akira Back\,
   124 Ellis St\, San Francisco\, CA 94102\, USA\nHost: Plane\nSource: disco
@@ -175,7 +175,7 @@ SUMMARY:Beyond Black-Box AI for Drug Discovery: What to do when frontier A
  I models fail?
 DTSTART:20260716T010000Z
 DTEND:20260716T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-U3zPd9fIHdjDxx1
 DESCRIPTION:https://lu.ma/x8b3kpok\nLocation: San Francisco\, CA\nHost: Ni
  colas Sawaya (CEO\, Azulene Labs)\nSource: discover/san-francisco
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Battle of the Paddles: AI Builders Edition
 DTSTART:20260716T010000Z
 DTEND:20260716T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-CPD6OsDVtGDySQJ
 DESCRIPTION:https://lu.ma/j7v7qeem\nLocation: SPIN San Francisco\, 690 Fol
  som St #100\, San Francisco\, CA 94107\, USA\nHost: MongoDB\nSource: html/
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Commerce (un)Conference
 DTSTART:20260717T000000Z
 DTEND:20260717T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-ZuGPSMVg5n8Qpsw
 DESCRIPTION:https://lu.ma/i3y4x429\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -211,7 +211,7 @@ SUMMARY:Generating Revenue for SaaS\, AI or Fintech Startups and Platforms
   with AI & Agentics
 DTSTART:20260717T003000Z
 DTEND:20260717T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-rH0EyJg0D1mafwC
 DESCRIPTION:https://lu.ma/angellaunchjuly16\nLocation: 760 Market St\, San
   Francisco\, CA 94102\, USA\nHost: Angel Launch\nSource: discover/san-fran
@@ -223,10 +223,10 @@ BEGIN:VEVENT
 SUMMARY:AI x Biosecurity — LatchBio Benchmark Launch
 DTSTART:20260717T010000Z
 DTEND:20260717T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-1FKKkYCeOJ52P16
 DESCRIPTION:https://lu.ma/4s00vb76\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: discover/san-francisco
+ rsonal\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/4s00vb76
 END:VEVENT
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Founders running on Agent Armies: Meet-up by Mindra
 DTSTART:20260717T010000Z
 DTEND:20260717T050000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-e77WMW6jFmfia2m
 DESCRIPTION:https://lu.ma/q1nkba1z\nLocation: 545 2nd St\, San Francisco\,
   CA 94107\, USA\nHost: Personal\nSource: discover/san-francisco
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:San Francisco Hub - Hacknation Global AI Hackathon
 DTSTART:20260718T153000Z
 DTEND:20260719T130000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-Fq4eGvsU9xV5qtf
 DESCRIPTION:https://lu.ma/t5iktvzy\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: discover/san-francisco
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Agents Hack Day at Bright Data
 DTSTART:20260718T163000Z
 DTEND:20260719T020000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-DzgiEFQxuc20hel
 DESCRIPTION:https://lu.ma/ai-hack-day-bright-data-jul18-2026\nLocation: 62
  5 2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] HackerSquad\nSource:
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:How to prompt like a designer.
 DTSTART:20260721T013000Z
 DTEND:20260721T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-1NGXjWmQxjLFVKC
 DESCRIPTION:https://lu.ma/dx7dbdxv\nLocation: San Francisco\, CA\nHost: Fo
  unders on Tap\nSource: discover/san-francisco
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:vLLM x Crusoe Meetup: Production Open Source Inference
 DTSTART:20260722T000000Z
 DTEND:20260722T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-BXcad0jDa2Rgmib
 DESCRIPTION:https://lu.ma/n2ftxt1s\nLocation: San Francisco\, CA\nHost: vL
  LM Meetups and Events\nSource: discover/san-francisco
@@ -291,7 +291,7 @@ SUMMARY:Hands-on training: Building agents with ClickHouse\, Langfuse\, an
  d LibreChat
 DTSTART:20260722T000000Z
 DTEND:20260722T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-nKVScMYDfsFPymw
 DESCRIPTION:https://lu.ma/clickh-9f9d\nLocation: Commerce - San Francisco\
  , 575 Market St 4th Floor\, San Francisco\, CA 94105\, USA\nHost: ClickHou
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Build Week Community Meetup - San Francisco
 DTSTART:20260722T010000Z
 DTEND:20260722T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-dTFkcFk3F9U4lGq
 DESCRIPTION:https://lu.ma/codex-meetup-convex-jul21-2026\nLocation: San Fr
  ancisco\, CA\nHost: OpenAI Build Week\nSource: discover/san-francisco
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Builder Lounge SF with Parallel
 DTSTART:20260724T000000Z
 DTEND:20260724T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-wLOYc1uHkrvDlCt
 DESCRIPTION:https://lu.ma/openai-builderlounge-sf-july23-2026\nLocation: S
  an Francisco\, CA\nHost: OpenAI for Startups\nSource: discover/san-francis
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineering Leaders Dinner/Networking/Talks
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-IGAZkRbhQWuPl8C
 DESCRIPTION:https://lu.ma/otzbqs4u\nLocation: Pebblebed\, 1417 15th St\, S
  an Francisco\, CA 94103\, USA\nHost: CTO Circle\nSource: discover/san-fran
@@ -339,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:The Agent Natives Builders Hackathon
 DTSTART:20260725T000000Z
 DTEND:20260726T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-QizgqvXwLw3QB1A
 DESCRIPTION:https://lu.ma/web-a0-50-agent-native-startups-cb85\nLocation: 
  Frontier Tower 🧑‍🚀\, 995 Market St\, San Francisco\, CA 94103\, US
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Ship 2 Prod | YC AI SUS Black-Tie Yacht Gala
 DTSTART:20260725T020000Z
 DTEND:20260725T060000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-AYwTAXNDFwlNWU9
 DESCRIPTION:https://lu.ma/ojidqyj8\nLocation: San Francisco\, CA\nHost: Re
  sonance\nSource: discover/san-francisco
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:24hr AI for Science World Models Hack @ Zeon Systems
 DTSTART:20260725T163000Z
 DTEND:20260727T003000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-rDO1eaGYTFxkVmC
 DESCRIPTION:https://lu.ma/avi3l01q\nLocation: San Francisco\, CA\nHost: Wo
  rldwide Studios\nSource: discover/san-francisco
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Scalekit Agents in Production Build Day SF
 DTSTART:20260725T170000Z
 DTEND:20260726T023000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-lT7pb6UA8BnQkwZ
 DESCRIPTION:https://lu.ma/xhogf93u\nLocation: San Francisco\, CA\nHost: Sc
  alekit\nSource: discover/san-francisco
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:AI for Science World Model Demos @ Zeon Systems
 DTSTART:20260726T223000Z
 DTEND:20260727T003000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-7neV3VryFDQaN7o
 DESCRIPTION:https://lu.ma/5m9yhtzj\nLocation: San Francisco\, California\n
  Host: Worldwide Studios\nSource: discover/san-francisco
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:LangChain SF Meetup: LLM Wikis and Giving Your Agents Memory
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-sLxczKzHMzPSxvk
 DESCRIPTION:https://lu.ma/mylwoabu\nLocation: San Francisco\, CA\nHost: La
  ngChain Events\nSource: discover/san-francisco
@@ -408,7 +408,7 @@ SUMMARY:Telemetry-aware AI agents that act in Slack\, Linear\, and GitHub\
  , without your production data leaving your cloud
 DTSTART:20260730T003000Z
 DTEND:20260730T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-9ElSAkKCwR2oCkx
 DESCRIPTION:https://lu.ma/zkdv1uoq\nLocation: Mindspace Coworking San Fran
  cisco\, 575 Market St\, San Francisco\, CA 94105\, USA\nHost: groundcover\
@@ -422,7 +422,7 @@ SUMMARY:Bay Area Frontier Research Club #15 | Embodied AI (dinner + paper
  discussion @ Mission Robotics)
 DTSTART:20260730T003000Z
 DTEND:20260730T033000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-IFWHaBlouccVPx5
 DESCRIPTION:https://lu.ma/39h51wb0\nLocation: San Francisco\, CA\nHost: Th
  e Frontier Syndicate\nSource: discover/san-francisco
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:@Machine Speed: Continuous Compliance for the Agentic Era
 DTSTART:20260730T003000Z
 DTEND:20260730T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-GnHVRROISqAch6I
 DESCRIPTION:https://lu.ma/tt11iz2u\nLocation: San Francisco\, CA\nHost: Se
  cure Agentic Framework\nSource: discover/san-francisco
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:SF Socratic Agentic AI Summit
 DTSTART:20260731T010000Z
 DTEND:20260731T040000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-Iz9vN0fF1ZyKsDj
 DESCRIPTION:https://lu.ma/sf-socratic-2.0\nLocation: WorkOS\, 660 Market S
  t\, San Francisco\, CA 94104\, USA\nHost: AI Socratic\nSource: discover/sa
@@ -457,7 +457,7 @@ SUMMARY:Built by Agents: How Leading YC Companies are Building AI in Produ
  ction
 DTSTART:20260805T010000Z
 DTEND:20260805T030000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-GcOg3izudw0gO1g
 DESCRIPTION:https://lu.ma/e2b-2281\nLocation: Digital Jungle SF\, 972 Miss
  ion St\, San Francisco\, CA 94103\, USA\nHost: E2B\nSource: discover/san-f
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:SF DEMO NIGHT 🚀 (w/ The AI Collective)
 DTSTART:20260807T003000Z
 DTEND:20260807T033000Z
-DTSTAMP:20260713T022715Z
+DTSTAMP:20260713T091843Z
 UID:evt-r1tc4fbccdm6yPK
 DESCRIPTION:https://lu.ma/august-demo-2026\nLocation: AWS Builder Loft\, 5
  25 Market St\, San Francisco\, CA 94105\, USA\nHost: The AI Collective\nSo
