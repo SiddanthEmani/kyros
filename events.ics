@@ -8,11 +8,22 @@ BEGIN:VEVENT
 SUMMARY:AI x Biosecurity — LatchBio Benchmark Launch
 DTSTART:20260717T010000Z
 DTEND:20260717T040000Z
-DTSTAMP:20260716T134348Z
+DTSTAMP:20260716T190503Z
 UID:evt-1FKKkYCeOJ52P16
 DESCRIPTION:https://lu.ma/4s00vb76\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/4s00vb76
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autonomous 2026 - Moonlake AI Happy Hour.
+DTSTART:20260717T010000Z
+DTEND:20260717T040000Z
+DTSTAMP:20260716T190503Z
+UID:evt-KXmvxrDeUUzybvp
+DESCRIPTION:https://lu.ma/lk9se5mi\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/lk9se5mi
 END:VEVENT
 END:VCALENDAR
