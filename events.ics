@@ -5,46 +5,10 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:What we learned from OAI and Molecule.one's "Near-Autonomous AI" D
- iscovery of OAI-M1-03
-DTSTART:20260716T000000Z
-DTEND:20260716T020000Z
-DTSTAMP:20260715T190725Z
-UID:evt-YI9r8pjtl3Ooq1e
-DESCRIPTION:https://lu.ma/h0j19bqk\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/h0j19bqk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Battle of the Paddles: AI Builders Edition
-DTSTART:20260716T010000Z
-DTEND:20260716T040000Z
-DTSTAMP:20260715T190725Z
-UID:evt-CPD6OsDVtGDySQJ
-DESCRIPTION:https://lu.ma/j7v7qeem\nLocation: SPIN San Francisco\, 690 Fol
- som St #100\, San Francisco\, CA 94107\, USA\nHost: MongoDB\nSource: html/
- san-francisco
-LOCATION:SPIN San Francisco\, 690 Folsom St #100\, San Francisco\, CA 9410
- 7\, USA
-URL:https://lu.ma/j7v7qeem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fonzi's July Tech Talk
-DTSTART:20260716T010000Z
-DTEND:20260716T030000Z
-DTSTAMP:20260715T190725Z
-UID:evt-YiDENCpolcMFwP4
-DESCRIPTION:https://lu.ma/jrs8v2ms\nLocation: San Francisco\, California\n
- Host: AI Engineers - SF\nSource: html/san-francisco
-LOCATION:San Francisco\, California
-URL:https://lu.ma/jrs8v2ms
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI x Biosecurity — LatchBio Benchmark Launch
 DTSTART:20260717T010000Z
 DTEND:20260717T040000Z
-DTSTAMP:20260715T190725Z
+DTSTAMP:20260716T021447Z
 UID:evt-1FKKkYCeOJ52P16
 DESCRIPTION:https://lu.ma/4s00vb76\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
