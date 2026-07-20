@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:How to prompt like a designer.
 DTSTART:20260721T013000Z
 DTEND:20260721T040000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-1NGXjWmQxjLFVKC
 DESCRIPTION:https://lu.ma/dx7dbdxv\nLocation: San Francisco\, CA\nHost: Fo
  unders on Tap\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:vLLM x Crusoe Meetup: Production Open Source Inference
 DTSTART:20260722T000000Z
 DTEND:20260722T040000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-BXcad0jDa2Rgmib
 DESCRIPTION:https://lu.ma/n2ftxt1s\nLocation: San Francisco\, CA\nHost: vL
  LM Meetups and Events\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Build Week Community Meetup - San Francisco
 DTSTART:20260722T010000Z
 DTEND:20260722T030000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-dTFkcFk3F9U4lGq
 DESCRIPTION:https://lu.ma/codex-meetup-convex-jul21-2026\nLocation: San Fr
  ancisco\, CA\nHost: OpenAI Build Week\nSource: html/san-francisco
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:ML Suds & Science
 DTSTART:20260722T020000Z
 DTEND:20260722T043000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-wXb3F9IFI5AQNAY
 DESCRIPTION:https://lu.ma/9w02xctf\nLocation: San Francisco\, CA\nHost: Pe
  bblebed Events\nSource: html/san-francisco
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Omnigent & Multi-Agent Coding Meetup @ Databricks SF
 DTSTART:20260723T000000Z
 DTEND:20260723T030000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-WFwdhzwyCjrka05
 DESCRIPTION:https://lu.ma/omnigent_multi-agent_coding\nLocation: San Franc
  isco\, California\nHost: Databricks Community\nSource: html/san-francisco
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Forward Deployed: The State of Computer Use Agents
 DTSTART:20260723T010000Z
 DTEND:20260723T033000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-zl8K2dW6Um6Wgx5
 DESCRIPTION:https://lu.ma/xfx7c4nw\nLocation: San Francisco\, CA\nHost: Fo
  rward Deployed\nSource: html/san-francisco
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Builder Lounge SF with Parallel
 DTSTART:20260724T000000Z
 DTEND:20260724T030000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-wLOYc1uHkrvDlCt
 DESCRIPTION:https://lu.ma/openai-builderlounge-sf-july23-2026\nLocation: S
  an Francisco\, CA\nHost: OpenAI for Startups\nSource: html/san-francisco
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineering Leaders Dinner/Networking/Talks
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-IGAZkRbhQWuPl8C
 DESCRIPTION:https://lu.ma/otzbqs4u\nLocation: Pebblebed\, 1417 15th St\, S
  an Francisco\, CA 94103\, USA\nHost: CTO Circle\nSource: html/san-francisc
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Builders Meetup with dstack\, Crusoe\, and SGLang
 DTSTART:20260724T003000Z
 DTEND:20260724T043000Z
-DTSTAMP:20260720T085327Z
+DTSTAMP:20260720T135806Z
 UID:evt-ceehJcrwME8RRKZ
 DESCRIPTION:https://lu.ma/rxsn0u0h\nLocation: San Francisco\, CA\nHost: ds
  tack San Francisco\nSource: html/san-francisco
