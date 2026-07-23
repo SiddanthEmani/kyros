@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Builder Lounge SF with Parallel
 DTSTART:20260724T000000Z
 DTEND:20260724T030000Z
-DTSTAMP:20260723T022542Z
+DTSTAMP:20260723T082526Z
 UID:evt-wLOYc1uHkrvDlCt
 DESCRIPTION:https://lu.ma/openai-builderlounge-sf-july23-2026\nLocation: S
  an Francisco\, CA\nHost: OpenAI for Startups\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Voice AI Meetup: Build Smarter Voice Agents
 DTSTART:20260724T000000Z
 DTEND:20260724T030000Z
-DTSTAMP:20260723T022542Z
+DTSTAMP:20260723T082526Z
 UID:evt-lwgajY9DNLIfcih
 DESCRIPTION:https://lu.ma/m0thk5ai\nLocation: San Francisco\, CA\nHost: As
  semblyAI\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineering Leaders Dinner/Networking/Talks
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
-DTSTAMP:20260723T022542Z
+DTSTAMP:20260723T082526Z
 UID:evt-IGAZkRbhQWuPl8C
 DESCRIPTION:https://lu.ma/otzbqs4u\nLocation: Pebblebed\, 1417 15th St\, S
  an Francisco\, CA 94103\, USA\nHost: CTO Circle\nSource: html/san-francisc
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Builders Meetup with dstack\, Crusoe\, and SGLang
 DTSTART:20260724T003000Z
 DTEND:20260724T043000Z
-DTSTAMP:20260723T022542Z
+DTSTAMP:20260723T082526Z
 UID:evt-ceehJcrwME8RRKZ
 DESCRIPTION:https://lu.ma/rxsn0u0h\nLocation: San Francisco\, CA\nHost: ds
  tack San Francisco\nSource: html/san-francisco
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Building Creative Agents for Brands [Magnific Hacks]
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
-DTSTAMP:20260723T022542Z
+DTSTAMP:20260723T082526Z
 UID:evt-23vuMrP9d7sgIXa
 DESCRIPTION:https://lu.ma/magnific-ng2j\nLocation: Magnific - San Francisc
  o\, 1169 Howard St\, San Francisco\, CA 94103\, USA\nHost: Magnific\nSourc
@@ -66,11 +66,22 @@ BEGIN:VEVENT
 SUMMARY:The Origins of Neural Scaling Laws\, with Surya Ganguli
 DTSTART:20260724T013000Z
 DTEND:20260724T040000Z
-DTSTAMP:20260723T022542Z
+DTSTAMP:20260723T082526Z
 UID:evt-PPyDFrKMKEjbv5Y
 DESCRIPTION:https://lu.ma/h7mi5mrn\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/h7mi5mrn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Top Marketers Are Using Agents
+DTSTART:20260724T020000Z
+DTEND:20260724T040000Z
+DTSTAMP:20260723T082526Z
+UID:evt-WSCvAn4K3LsPR2C
+DESCRIPTION:https://lu.ma/gumloop-746z\nLocation: San Francisco\, CA\nHost
+ : Gumloop\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/gumloop-746z
 END:VEVENT
 END:VCALENDAR
