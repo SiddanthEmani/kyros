@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:OpenAI Builder Lounge SF with Parallel
 DTSTART:20260724T000000Z
 DTEND:20260724T030000Z
-DTSTAMP:20260723T135045Z
+DTSTAMP:20260723T190940Z
 UID:evt-wLOYc1uHkrvDlCt
 DESCRIPTION:https://lu.ma/openai-builderlounge-sf-july23-2026\nLocation: S
  an Francisco\, CA\nHost: OpenAI for Startups\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Voice AI Meetup: Build Smarter Voice Agents
 DTSTART:20260724T000000Z
 DTEND:20260724T030000Z
-DTSTAMP:20260723T135045Z
+DTSTAMP:20260723T190940Z
 UID:evt-lwgajY9DNLIfcih
 DESCRIPTION:https://lu.ma/m0thk5ai\nLocation: San Francisco\, CA\nHost: As
  semblyAI\nSource: html/san-francisco
@@ -27,10 +27,22 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/m0thk5ai
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Inference Layer w/ A16z & Dell Ventures Fireside Chat @Tesla |
+  Panel + Chat for AI Infrastructure Builders
+DTSTART:20260724T000000Z
+DTEND:20260724T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-pTsgHGwk0VC10uQ
+DESCRIPTION:https://lu.ma/A16z-Dell-AI-Infra\nLocation: San Francisco\, CA
+ \nHost: Leverage\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/A16z-Dell-AI-Infra
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI Engineering Leaders Dinner/Networking/Talks
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
-DTSTAMP:20260723T135045Z
+DTSTAMP:20260723T190940Z
 UID:evt-IGAZkRbhQWuPl8C
 DESCRIPTION:https://lu.ma/otzbqs4u\nLocation: Pebblebed\, 1417 15th St\, S
  an Francisco\, CA 94103\, USA\nHost: CTO Circle\nSource: html/san-francisc
@@ -39,21 +51,10 @@ LOCATION:Pebblebed\, 1417 15th St\, San Francisco\, CA 94103\, USA
 URL:https://lu.ma/otzbqs4u
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI Infra Builders Meetup with dstack\, Crusoe\, and SGLang
-DTSTART:20260724T003000Z
-DTEND:20260724T043000Z
-DTSTAMP:20260723T135045Z
-UID:evt-ceehJcrwME8RRKZ
-DESCRIPTION:https://lu.ma/rxsn0u0h\nLocation: San Francisco\, CA\nHost: ds
- tack San Francisco\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/rxsn0u0h
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Building Creative Agents for Brands [Magnific Hacks]
 DTSTART:20260724T003000Z
 DTEND:20260724T033000Z
-DTSTAMP:20260723T135045Z
+DTSTAMP:20260723T190940Z
 UID:evt-23vuMrP9d7sgIXa
 DESCRIPTION:https://lu.ma/magnific-ng2j\nLocation: Magnific - San Francisc
  o\, 1169 Howard St\, San Francisco\, CA 94103\, USA\nHost: Magnific\nSourc
@@ -63,25 +64,413 @@ LOCATION:Magnific - San Francisco\, 1169 Howard St\, San Francisco\, CA 94
 URL:https://lu.ma/magnific-ng2j
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Origins of Neural Scaling Laws\, with Surya Ganguli
-DTSTART:20260724T013000Z
+SUMMARY:Prompt to Production: AI Builders\, Secure Code & Agent Skills Wor
+ kshop
+DTSTART:20260724T010000Z
 DTEND:20260724T040000Z
-DTSTAMP:20260723T135045Z
-UID:evt-PPyDFrKMKEjbv5Y
-DESCRIPTION:https://lu.ma/h7mi5mrn\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: html/san-francisco
+DTSTAMP:20260723T190940Z
+UID:evt-FFMvsa495xzvinP
+DESCRIPTION:https://lu.ma/w60dlf9f\nLocation: Homebrew Club\, 111 Maiden L
+ n #540\, San Francisco\, CA 94108\, USA\nHost: mixers\nSource: discover/sa
+ n-francisco
+LOCATION:Homebrew Club\, 111 Maiden Ln #540\, San Francisco\, CA 94108\, U
+ SA
+URL:https://lu.ma/w60dlf9f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agentic Builders Night
+DTSTART:20260724T010000Z
+DTEND:20260724T033000Z
+DTSTAMP:20260723T190940Z
+UID:evt-Eb0PlP3IbQKLNAS
+DESCRIPTION:https://lu.ma/convex-yrhb\nLocation: San Francisco\, CA\nHost:
+  Convex.dev\nSource: discover/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/h7mi5mrn
+URL:https://lu.ma/convex-yrhb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Over dinner: Inference\, Routing\, & Token Burn
+DTSTART:20260724T010000Z
+DTEND:20260724T033000Z
+DTSTAMP:20260723T190940Z
+UID:evt-qZh9BvRpKZF7pOi
+DESCRIPTION:https://lu.ma/oglrdtr5\nLocation: San Francisco\, CA\nHost: Pi
+ oneer\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/oglrdtr5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How Top Marketers Are Using Agents
 DTSTART:20260724T020000Z
 DTEND:20260724T040000Z
-DTSTAMP:20260723T135045Z
+DTSTAMP:20260723T190940Z
 UID:evt-WSCvAn4K3LsPR2C
 DESCRIPTION:https://lu.ma/gumloop-746z\nLocation: San Francisco\, CA\nHost
  : Gumloop\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/gumloop-746z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build your AI Organization Workshop
+DTSTART:20260725T010000Z
+DTEND:20260725T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-pTHTBJvHKsGASI1
+DESCRIPTION:https://lu.ma/guides-g0nw\nLocation: Homebrew Club\, 111 Maide
+ n Ln #540\, San Francisco\, CA 94108\, USA\nHost: Moscone\nSource: discove
+ r/san-francisco
+LOCATION:Homebrew Club\, 111 Maiden Ln #540\, San Francisco\, CA 94108\, U
+ SA
+URL:https://lu.ma/guides-g0nw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ship 2 Prod | YC AI SUS Black-Tie Yacht Gala
+DTSTART:20260725T020000Z
+DTEND:20260725T060000Z
+DTSTAMP:20260723T190940Z
+UID:evt-AYwTAXNDFwlNWU9
+DESCRIPTION:https://lu.ma/ojidqyj8\nLocation: San Francisco\, CA\nHost: Re
+ sonance\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/ojidqyj8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open World Hackathon: building the future of physical AI
+DTSTART:20260725T160000Z
+DTEND:20260726T013000Z
+DTSTAMP:20260723T190940Z
+UID:evt-Y7YFupRpYLE3AE5
+DESCRIPTION:https://lu.ma/ttc3tp9d\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/ttc3tp9d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24hr AI for Science World Models Hack @ Zeon Systems
+DTSTART:20260725T163000Z
+DTEND:20260727T003000Z
+DTSTAMP:20260723T190940Z
+UID:evt-rDO1eaGYTFxkVmC
+DESCRIPTION:https://lu.ma/avi3l01q\nLocation: San Francisco\, CA\nHost: Wo
+ rldwide Studios\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/avi3l01q
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scalekit x Meetstream Agents in Production Build Day SF
+DTSTART:20260725T164500Z
+DTEND:20260726T010000Z
+DTSTAMP:20260723T190940Z
+UID:evt-lT7pb6UA8BnQkwZ
+DESCRIPTION:https://lu.ma/xhogf93u\nLocation: San Francisco\, CA\nHost: Sc
+ alekit\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/xhogf93u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Local AI Workshop
+DTSTART:20260725T230000Z
+DTEND:20260726T010000Z
+DTSTAMP:20260723T190940Z
+UID:evt-7YzO0TjXesOxAWe
+DESCRIPTION:https://lu.ma/p6yo9go4\nLocation: Studio 45 - informal spaces 
+ SF\, 45 29th St\, San Francisco\, CA 94110\, USA\nHost: Studio 45 - inform
+ al spaces SF\nSource: discover/san-francisco
+LOCATION:Studio 45 - informal spaces SF\, 45 29th St\, San Francisco\, CA 
+ 94110\, USA
+URL:https://lu.ma/p6yo9go4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off the Record: AI Researchers Roundtable Chat w/ Dinner
+DTSTART:20260725T230000Z
+DTEND:20260726T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-5tDB96fTGtB88Y9
+DESCRIPTION:https://lu.ma/o72f7h7g\nLocation: San Francisco\, CA\nHost: Op
+ enStages Calendar\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/o72f7h7g
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recursive Self Improvement for AI Agents - Hack
+DTSTART:20260726T170000Z
+DTEND:20260727T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-Gc2r3134If2d4AF
+DESCRIPTION:https://lu.ma/en4yjmyr\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/en4yjmyr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI for Science World Model Demos @ Zeon Systems
+DTSTART:20260726T223000Z
+DTEND:20260727T003000Z
+DTSTAMP:20260723T190940Z
+UID:evt-7neV3VryFDQaN7o
+DESCRIPTION:https://lu.ma/5m9yhtzj\nLocation: San Francisco\, California\n
+ Host: Worldwide Studios\nSource: discover/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/5m9yhtzj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building AI-Native Startups at Hackathon Speed: The Power of Trust
+ ed Allies & Community to Bring Bold Visions to Life - Light DAO Salon (SF)
+DTSTART:20260728T010000Z
+DTEND:20260728T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-xjFra92x9zBx7xn
+DESCRIPTION:https://lu.ma/SFLightDAOJuly\nLocation: San Francisco\, Califo
+ rnia\nHost: Light DAO\nSource: discover/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/SFLightDAOJuly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physical AI and Robotics Meetup
+DTSTART:20260729T000000Z
+DTEND:20260729T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-Nja29JtfPyYzOBk
+DESCRIPTION:https://lu.ma/isyfjno2\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/isyfjno2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCP V2 RELEASE EVENT
+DTSTART:20260729T003000Z
+DTEND:20260729T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-Ll9kh5NFAE75aFN
+DESCRIPTION:https://lu.ma/iqs73qmu\nLocation: San Francisco\, CA\nHost: Ma
+ nufact Events\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/iqs73qmu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LangChain SF Meetup: LLM Wikis and Giving Your Agents Memory
+DTSTART:20260729T010000Z
+DTEND:20260729T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-sLxczKzHMzPSxvk
+DESCRIPTION:https://lu.ma/mylwoabu\nLocation: San Francisco\, CA\nHost: La
+ ngChain Events\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/mylwoabu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Game Night: Open Source\, Closed Secrets
+DTSTART:20260730T000000Z
+DTEND:20260730T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-gwx5WayqF7Z4K5n
+DESCRIPTION:https://lu.ma/wbw8lox8\nLocation: San Francisco\, California\n
+ Host: AI Valley\nSource: discover/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/wbw8lox8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Telemetry-aware AI agents that act in Slack\, Linear\, and GitHub\
+ , without your production data leaving your cloud
+DTSTART:20260730T003000Z
+DTEND:20260730T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-9ElSAkKCwR2oCkx
+DESCRIPTION:https://lu.ma/zkdv1uoq\nLocation: Mindspace Coworking San Fran
+ cisco\, 575 Market St\, San Francisco\, CA 94105\, USA\nHost: groundcover\
+ nSource: discover/san-francisco
+LOCATION:Mindspace Coworking San Francisco\, 575 Market St\, San Francisco
+ \, CA 94105\, USA
+URL:https://lu.ma/zkdv1uoq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bay Area Frontier Research Club #15 | Embodied AI (dinner + paper 
+ discussion @ Mission Robotics)
+DTSTART:20260730T003000Z
+DTEND:20260730T033000Z
+DTSTAMP:20260723T190940Z
+UID:evt-IFWHaBlouccVPx5
+DESCRIPTION:https://lu.ma/39h51wb0\nLocation: San Francisco\, CA\nHost: Th
+ e Frontier Syndicate\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/39h51wb0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:@Machine Speed: Continuous Compliance for the Agentic Era
+DTSTART:20260730T003000Z
+DTEND:20260730T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-GnHVRROISqAch6I
+DESCRIPTION:https://lu.ma/tt11iz2u\nLocation: San Francisco\, CA\nHost: Se
+ cure Agentic Framework\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/tt11iz2u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agentic Happy Hour with GitKraken
+DTSTART:20260730T013000Z
+DTEND:20260730T043000Z
+DTSTAMP:20260723T190940Z
+UID:evt-4wYqBOXA7ec2pla
+DESCRIPTION:https://lu.ma/m7lqzial\nLocation: Dirty Habit\, 12 4th St\, Sa
+ n Francisco\, CA 94103\, USA\nHost: Personal\nSource: discover/san-francis
+ co
+LOCATION:Dirty Habit\, 12 4th St\, San Francisco\, CA 94103\, USA
+URL:https://lu.ma/m7lqzial
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☕️ OpenAI Codex Community Meetup-San Francisco #8
+DTSTART:20260731T000000Z
+DTEND:20260731T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-iZMrMUFofZK4eOF
+DESCRIPTION:https://lu.ma/h5x0pzw9\nLocation: San Francisco\, CA\nHost: Ta
+ tianaSF\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/h5x0pzw9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Agents to Teams: The Future of Multi-Agent Systems
+DTSTART:20260731T003000Z
+DTEND:20260731T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-11oSMnjtc9lWlrV
+DESCRIPTION:https://lu.ma/hs3x4zt6\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/hs3x4zt6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agents Over Drinks — with Tony Stoyanov (EliseAI)
+DTSTART:20260731T013000Z
+DTEND:20260731T043000Z
+DTSTAMP:20260723T190940Z
+UID:evt-5JNI9tUvJOo3yaw
+DESCRIPTION:https://lu.ma/8k55fy3x\nLocation: San Francisco\, CA\nHost: El
+ iseAI\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/8k55fy3x
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The AI Native Workforce Hackathon
+DTSTART:20260804T010000Z
+DTEND:20260804T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-lhtP9Qxy5CNX9pr
+DESCRIPTION:https://lu.ma/buildclub-ua0n\nLocation: WorkOS\, 660 Market St
+ \, San Francisco\, CA 94104\, USA\nHost: Build Club\nSource: discover/san-
+ francisco
+LOCATION:WorkOS\, 660 Market St\, San Francisco\, CA 94104\, USA
+URL:https://lu.ma/buildclub-ua0n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Built by Agents: How Leading YC Companies are Building AI in Produ
+ ction
+DTSTART:20260805T010000Z
+DTEND:20260805T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-GcOg3izudw0gO1g
+DESCRIPTION:https://lu.ma/e2b-2281\nLocation: Digital Jungle SF\, 972 Miss
+ ion St\, San Francisco\, CA 94103\, USA\nHost: E2B\nSource: discover/san-f
+ rancisco
+LOCATION:Digital Jungle SF\, 972 Mission St\, San Francisco\, CA 94103\, U
+ SA
+URL:https://lu.ma/e2b-2281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legal AI Vibe Lab #4: Agents\, Workflows\, and the Future of Legal
+  Work
+DTSTART:20260806T010000Z
+DTEND:20260806T050000Z
+DTSTAMP:20260723T190940Z
+UID:evt-p3VC8dNmrlchzEe
+DESCRIPTION:https://lu.ma/legal-ai\nLocation: San Francisco\, CA\nHost: Vi
+ be House\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/legal-ai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From AI User to AI Builder - Base44 x AI Collective (San Francisco
+ )
+DTSTART:20260807T010000Z
+DTEND:20260807T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-L3g9U30DWrx0RH0
+DESCRIPTION:https://lu.ma/genai-0kgd\nLocation: San Francisco\, CA\nHost: 
+ The AI Collective\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/genai-0kgd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agent Infra Night
+DTSTART:20260807T010000Z
+DTEND:20260807T040000Z
+DTSTAMP:20260723T190940Z
+UID:evt-tX5DoFxwdMGDg6Y
+DESCRIPTION:https://lu.ma/6uaouoxj\nLocation: San Francisco\, CA\nHost: Ag
+ ent Builders YC\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/6uaouoxj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSC AI x Snowflake: Build an AI Agent in <60 Min | SF
+DTSTART:20260807T010000Z
+DTEND:20260807T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-FBEiW5oSPgpVrOX
+DESCRIPTION:https://lu.ma/odscai-imyl\nLocation: Mindspace Coworking San F
+ rancisco\, 575 Market St\, San Francisco\, CA 94105\, USA\nHost: ODSC AI (
+ Open Data Science Conference)\nSource: discover/san-francisco
+LOCATION:Mindspace Coworking San Francisco\, 575 Market St\, San Francisco
+ \, CA 94105\, USA
+URL:https://lu.ma/odscai-imyl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WorkOS Agent Night
+DTSTART:20260813T000000Z
+DTEND:20260813T050000Z
+DTSTAMP:20260723T190940Z
+UID:evt-tu6XXwPbjAH5t9I
+DESCRIPTION:https://lu.ma/agent-night\nLocation: The Regency Ballroom\, 13
+ 00 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: WorkOS Events\nSou
+ rce: discover/san-francisco
+LOCATION:The Regency Ballroom\, 1300 Van Ness Ave\, San Francisco\, CA 941
+ 09\, USA
+URL:https://lu.ma/agent-night
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Engineers Tech Talk: August
+DTSTART:20260813T010000Z
+DTEND:20260813T030000Z
+DTSTAMP:20260723T190940Z
+UID:evt-z5KUOTFKDodAR40
+DESCRIPTION:https://lu.ma/kzwpdbs5\nLocation: San Francisco\, California\n
+ Host: AI Engineers - SF\nSource: discover/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/kzwpdbs5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NetSuite UG: When ERPs aren’t built for Agentic AI\, what are yo
+ ur options?
+DTSTART:20260820T000000Z
+DTEND:20260820T020000Z
+DTSTAMP:20260723T190940Z
+UID:evt-V4iv3DprqdF6NyD
+DESCRIPTION:https://lu.ma/b10ljxlb\nLocation: TechMantra Now\, 2150 N Firs
+ t St #460\, San Jose\, CA 95131\, USA\nHost: Personal\nSource: discover/sa
+ n-francisco
+LOCATION:TechMantra Now\, 2150 N First St #460\, San Jose\, CA 95131\, USA
+URL:https://lu.ma/b10ljxlb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Researcher Night: Grace Gong x Patronus AI
+DTSTART:20260820T003000Z
+DTEND:20260820T023000Z
+DTSTAMP:20260723T190940Z
+UID:evt-vXeIt8pYBL0qlAd
+DESCRIPTION:https://lu.ma/c3jansgp\nLocation: San Francisco\, CA\nHost: Pr
+ ivate Event\nSource: discover/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/c3jansgp
 END:VEVENT
 END:VCALENDAR
