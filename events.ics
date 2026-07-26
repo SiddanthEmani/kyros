@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:SF AI Code And Coffee Sunday July 26th!
 DTSTART:20260726T210000Z
 DTEND:20260727T000000Z
-DTSTAMP:20260726T131217Z
+DTSTAMP:20260726T190613Z
 UID:evt-ZjMdtXGwVDjRnNv
 DESCRIPTION:https://lu.ma/rhbtwo9u\nLocation: Salesforce Park\, 425 Missio
  n St\, San Francisco\, CA 94105\, USA\nHost: San Francisco AI Code And Cof
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI and Robotics Meetup
 DTSTART:20260729T000000Z
 DTEND:20260729T030000Z
-DTSTAMP:20260726T131217Z
+DTSTAMP:20260726T190613Z
 UID:evt-Nja29JtfPyYzOBk
 DESCRIPTION:https://lu.ma/isyfjno2\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Durable Multimodal AI Meetup with HeyGen\, Vapi\, and Modal
 DTSTART:20260729T003000Z
 DTEND:20260729T030000Z
-DTSTAMP:20260726T131217Z
+DTSTAMP:20260726T190613Z
 UID:evt-4KKdyjUxrCUBsbD
 DESCRIPTION:https://lu.ma/durable-ai-july\nLocation: San Francisco\, CA\nH
  ost: Temporal Community\nSource: html/san-francisco
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:MCP V2 RELEASE EVENT
 DTSTART:20260729T003000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260726T131217Z
+DTSTAMP:20260726T190613Z
 UID:evt-Ll9kh5NFAE75aFN
 DESCRIPTION:https://lu.ma/iqs73qmu\nLocation: San Francisco\, CA\nHost: Ma
  nufact Events\nSource: html/san-francisco
@@ -54,22 +54,11 @@ SUMMARY:Intelligence in the Open — Edition 01: Reasoning\, Evaluation &
  Long-Horizon Agents
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260726T131217Z
+DTSTAMP:20260726T190613Z
 UID:evt-XCxlrZIFrED0Nx5
 DESCRIPTION:https://lu.ma/w61gmib2\nLocation: San Francisco\, CA\nHost: Mi
  niMax\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/w61gmib2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agentic Happy Hour with GitKraken
-DTSTART:20260730T013000Z
-DTEND:20260730T043000Z
-DTSTAMP:20260726T131217Z
-UID:evt-4wYqBOXA7ec2pla
-DESCRIPTION:https://lu.ma/m7lqzial\nLocation: Dirty Habit\, 12 4th St\, Sa
- n Francisco\, CA 94103\, USA\nHost: Personal\nSource: html/san-francisco
-LOCATION:Dirty Habit\, 12 4th St\, San Francisco\, CA 94103\, USA
-URL:https://lu.ma/m7lqzial
 END:VEVENT
 END:VCALENDAR
