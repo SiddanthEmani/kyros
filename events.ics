@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI and Robotics Meetup
 DTSTART:20260729T000000Z
 DTEND:20260729T030000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-Nja29JtfPyYzOBk
 DESCRIPTION:https://lu.ma/isyfjno2\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Durable Multimodal AI Meetup with HeyGen\, Vapi\, and Modal
 DTSTART:20260729T003000Z
 DTEND:20260729T030000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-4KKdyjUxrCUBsbD
 DESCRIPTION:https://lu.ma/durable-ai-july\nLocation: San Francisco\, CA\nH
  ost: Temporal Community\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:MCP V2 RELEASE EVENT
 DTSTART:20260729T003000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-Ll9kh5NFAE75aFN
 DESCRIPTION:https://lu.ma/iqs73qmu\nLocation: San Francisco\, CA\nHost: Ma
  nufact Events\nSource: html/san-francisco
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:AI Nerd Meet Up
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-AUlyE6fg1iijyVx
 DESCRIPTION:https://lu.ma/kdgxf1fs\nLocation: San Francisco\, CA\nHost: [S
  F] HackerSquad\nSource: html/san-francisco
@@ -53,7 +53,7 @@ SUMMARY:Intelligence in the Open — Edition 01: Reasoning\, Evaluation &
  Long-Horizon Agents
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-XCxlrZIFrED0Nx5
 DESCRIPTION:https://lu.ma/w61gmib2\nLocation: San Francisco\, CA\nHost: Mi
  niMax\nSource: html/san-francisco
@@ -65,7 +65,7 @@ SUMMARY:Agent (After) Hour: Building Production Agents with Mastra + Mongo
  DB
 DTSTART:20260730T010000Z
 DTEND:20260730T033000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-0XX3CU4LndZ8t40
 DESCRIPTION:https://lu.ma/mastra-vulp\nLocation: Motoring Coffee\, 1525 Un
  ion St\, San Francisco\, CA 94123\, USA\nHost: Mastra\nSource: html/san-fr
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Happy Hour with GitKraken
 DTSTART:20260730T013000Z
 DTEND:20260730T043000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-4wYqBOXA7ec2pla
 DESCRIPTION:https://lu.ma/m7lqzial\nLocation: Dirty Habit\, 12 4th St\, Sa
  n Francisco\, CA 94103\, USA\nHost: Personal\nSource: html/san-francisco
@@ -85,10 +85,21 @@ LOCATION:Dirty Habit\, 12 4th St\, San Francisco\, CA 94103\, USA
 URL:https://lu.ma/m7lqzial
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:☕️ OpenAI Codex Community Meetup-San Francisco #8
+DTSTART:20260731T000000Z
+DTEND:20260731T030000Z
+DTSTAMP:20260728T082918Z
+UID:evt-iZMrMUFofZK4eOF
+DESCRIPTION:https://lu.ma/h5x0pzw9\nLocation: San Francisco\, CA\nHost: Ta
+ tianaSF\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/h5x0pzw9
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qualcomm x ZETIC x Liquid AI: Edge AI Builders Meetup
 DTSTART:20260731T000000Z
 DTEND:20260731T033000Z
-DTSTAMP:20260728T021107Z
+DTSTAMP:20260728T082918Z
 UID:evt-7FtTJSFEc9492Yw
 DESCRIPTION:https://lu.ma/i3evxecn\nLocation: Hanwha AI Center\, 300 Grant
   Ave Ste 500\, San Francisco\, CA 94108\, USA\nHost: ZETIC\nSource: html/s
