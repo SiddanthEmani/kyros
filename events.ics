@@ -9,7 +9,7 @@ SUMMARY:Agent (After) Hour: Building Production Agents with Mastra + Mongo
  DB
 DTSTART:20260730T010000Z
 DTEND:20260730T033000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-0XX3CU4LndZ8t40
 DESCRIPTION:https://lu.ma/mastra-vulp\nLocation: Motoring Coffee\, 1525 Un
  ion St\, San Francisco\, CA 94123\, USA\nHost: Mastra\nSource: html/san-fr
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Happy Hour with GitKraken
 DTSTART:20260730T013000Z
 DTEND:20260730T043000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-4wYqBOXA7ec2pla
 DESCRIPTION:https://lu.ma/m7lqzial\nLocation: Dirty Habit\, 12 4th St\, Sa
  n Francisco\, CA 94103\, USA\nHost: Personal\nSource: html/san-francisco
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:IREN AI Social
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-UHAODEGAFIQryhB
 DESCRIPTION:https://lu.ma/4yta9i2j\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:☕️ OpenAI Codex Community Meetup-San Francisco #8
 DTSTART:20260731T000000Z
 DTEND:20260731T030000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-iZMrMUFofZK4eOF
 DESCRIPTION:https://lu.ma/h5x0pzw9\nLocation: San Francisco\, CA\nHost: Ta
  tianaSF\nSource: html/san-francisco
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Qualcomm x ZETIC x Liquid AI: Edge AI Builders Meetup
 DTSTART:20260731T000000Z
 DTEND:20260731T033000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-7FtTJSFEc9492Yw
 DESCRIPTION:https://lu.ma/i3evxecn\nLocation: Hanwha AI Center\, 300 Grant
   Ave Ste 500\, San Francisco\, CA 94108\, USA\nHost: ZETIC\nSource: html/s
@@ -68,7 +68,7 @@ SUMMARY:Startup Reality 202: AI in Industries — From Foundation Models t
  o Vertical Moats
 DTSTART:20260731T003000Z
 DTEND:20260731T030000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-5rnwnFn8Rp1UoXX
 DESCRIPTION:https://lu.ma/4g3wb753\nLocation: Pilot.com\, Inc.\, 353 Sacra
  mento St #1900\, San Francisco\, CA 94111\, USA\nHost: NATEA Silicon Valle
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Taste: A Physical AI Data Happy Hour
 DTSTART:20260731T010000Z
 DTEND:20260731T040000Z
-DTSTAMP:20260729T083519Z
+DTSTAMP:20260729T140125Z
 UID:evt-HmPPD9bnc0ru6qn
 DESCRIPTION:https://lu.ma/ir1t9z73\nLocation: San Francisco\, CA\nHost: Un
  usual Ventures\nSource: html/san-francisco
