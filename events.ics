@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:AI Builders Basketball Tournament | .local Build Fest Week
 DTSTART:20260802T200000Z
 DTEND:20260803T000000Z
-DTSTAMP:20260731T135807Z
+DTSTAMP:20260731T192108Z
 UID:evt-Ku7GiCp5xSsdn5o
 DESCRIPTION:https://lu.ma/7x50iban\nLocation: San Francisco\, CA\nHost: Mo
  ngoDB\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Built on Baseten | AI Demo Night
 DTSTART:20260805T010000Z
 DTEND:20260805T030000Z
-DTSTAMP:20260731T135807Z
+DTSTAMP:20260731T192108Z
 UID:evt-pMhXGRqu65aEuC8
 DESCRIPTION:https://lu.ma/b4y2veki\nLocation: San Francisco\, CA\nHost: Ba
  seten Events\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:AI & Mobile meet-up by Software Mansion
 DTSTART:20260805T013000Z
 DTEND:20260805T043000Z
-DTSTAMP:20260731T135807Z
+DTSTAMP:20260731T192108Z
 UID:evt-D045fN7Xtf3XFEn
 DESCRIPTION:https://lu.ma/kgddqkx2\nLocation: The American Bookbinders Mus
  eum\, 355 Clementina St\, San Francisco\, CA 94103\, USA\nHost: Software M
@@ -38,5 +38,17 @@ DESCRIPTION:https://lu.ma/kgddqkx2\nLocation: The American Bookbinders Mus
 LOCATION:The American Bookbinders Museum\, 355 Clementina St\, San Francis
  co\, CA 94103\, USA
 URL:https://lu.ma/kgddqkx2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Model Question: Routing Models for Production Agents
+DTSTART:20260805T013000Z
+DTEND:20260805T040000Z
+DTSTAMP:20260731T192108Z
+UID:evt-SH14DdbsqYcHYkX
+DESCRIPTION:https://lu.ma/gmicloud-384l\nLocation: Notion HQ\, 685 Market 
+ St\, San Francisco\, CA 94105\, USA\nHost: Notion for Startups\nSource: ht
+ ml/san-francisco
+LOCATION:Notion HQ\, 685 Market St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/gmicloud-384l
 END:VEVENT
 END:VCALENDAR
