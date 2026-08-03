@@ -5,82 +5,10 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:9030 club reading "Reinforcement Learning via Self-Distillation": 
- #63 - ML Paper Reading Group
-DTSTART:20260804T020000Z
-DTEND:20260804T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-TGoOjZX2WAlmbod
-DESCRIPTION:https://lu.ma/q6qd9wx2\nLocation: 1680 Mission St\, San Franci
- sco\, CA 94103\, USA\nHost: 90/30 Club\nSource: discover/san-francisco
-LOCATION:1680 Mission St\, San Francisco\, CA 94103\, USA
-URL:https://lu.ma/q6qd9wx2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrappy AI Founders Play Soccer
-DTSTART:20260804T023000Z
-DTEND:20260804T050000Z
-DTSTAMP:20260803T022841Z
-UID:evt-XB38S6NnI800a7E
-DESCRIPTION:https://lu.ma/ft6j7nb9\nLocation: San Francisco\, CA\nHost: 12
-  Scrappy Founders\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/ft6j7nb9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Reading Night by HydraDB: Graph Neural Retrieval for LLM Rea
- soning
-DTSTART:20260805T000000Z
-DTEND:20260805T013000Z
-DTSTAMP:20260803T022841Z
-UID:evt-1BduaZldKgpsrsd
-DESCRIPTION:https://lu.ma/llxvc0d6\nLocation: San Francisco\, CA\nHost: Hy
- draDB\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/llxvc0d6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI After Hours
-DTSTART:20260805T000000Z
-DTEND:20260805T020000Z
-DTSTAMP:20260803T022841Z
-UID:evt-RTCWrlzAASoSsab
-DESCRIPTION:https://lu.ma/s914p2p7\nLocation: Saluhall SF\, 945 Market St 
- Fl 2\, San Francisco\, CA 94103\, USA\nHost: Relevance Events\nSource: dis
- cover/san-francisco
-LOCATION:Saluhall SF\, 945 Market St Fl 2\, San Francisco\, CA 94103\, USA
-URL:https://lu.ma/s914p2p7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Workato AI BuildHERs
-DTSTART:20260805T003000Z
-DTEND:20260805T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-EULHOmv0ekcX0fz
-DESCRIPTION:https://lu.ma/cacis465\nLocation: San Francisco\, California\n
- Host: Workato Community\nSource: discover/san-francisco
-LOCATION:San Francisco\, California
-URL:https://lu.ma/cacis465
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Built by Agents: How Leading YC Companies are Building AI in Produ
- ction
-DTSTART:20260805T010000Z
-DTEND:20260805T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-GcOg3izudw0gO1g
-DESCRIPTION:https://lu.ma/e2b-2281\nLocation: Digital Jungle SF\, 972 Miss
- ion St\, San Francisco\, CA 94103\, USA\nHost: E2B\nSource: discover/san-f
- rancisco
-LOCATION:Digital Jungle SF\, 972 Mission St\, San Francisco\, CA 94103\, U
- SA
-URL:https://lu.ma/e2b-2281
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Built on Baseten | AI Demo Night
 DTSTART:20260805T010000Z
 DTEND:20260805T030000Z
-DTSTAMP:20260803T022841Z
+DTSTAMP:20260803T093643Z
 UID:evt-pMhXGRqu65aEuC8
 DESCRIPTION:https://lu.ma/b4y2veki\nLocation: San Francisco\, CA\nHost: Ba
  seten Events\nSource: html/san-francisco
@@ -88,22 +16,10 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/b4y2veki
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Model Question: Routing Models for Production Agents
-DTSTART:20260805T013000Z
-DTEND:20260805T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-SH14DdbsqYcHYkX
-DESCRIPTION:https://lu.ma/gmicloud-384l\nLocation: Notion HQ\, 685 Market 
- St\, San Francisco\, CA 94105\, USA\nHost: Notion for Startups\nSource: ht
- ml/san-francisco
-LOCATION:Notion HQ\, 685 Market St\, San Francisco\, CA 94105\, USA
-URL:https://lu.ma/gmicloud-384l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AI & Mobile meet-up by Software Mansion
 DTSTART:20260805T013000Z
 DTEND:20260805T043000Z
-DTSTAMP:20260803T022841Z
+DTSTAMP:20260803T093643Z
 UID:evt-D045fN7Xtf3XFEn
 DESCRIPTION:https://lu.ma/kgddqkx2\nLocation: The American Bookbinders Mus
  eum\, 355 Clementina St\, San Francisco\, CA 94103\, USA\nHost: Software M
@@ -113,10 +29,22 @@ LOCATION:The American Bookbinders Museum\, 355 Clementina St\, San Francis
 URL:https://lu.ma/kgddqkx2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Model Question: Routing Models for Production Agents
+DTSTART:20260805T013000Z
+DTEND:20260805T040000Z
+DTSTAMP:20260803T093643Z
+UID:evt-SH14DdbsqYcHYkX
+DESCRIPTION:https://lu.ma/gmicloud-384l\nLocation: Notion HQ\, 685 Market 
+ St\, San Francisco\, CA 94105\, USA\nHost: Notion for Startups\nSource: ht
+ ml/san-francisco
+LOCATION:Notion HQ\, 685 Market St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/gmicloud-384l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧬 Inflection #002 — Health: AI's last problem w/ Omri Drory
 DTSTART:20260806T003000Z
 DTEND:20260806T030000Z
-DTSTAMP:20260803T022841Z
+DTSTAMP:20260803T093643Z
 UID:evt-MBkOP6D8AyA1Are
 DESCRIPTION:https://lu.ma/inflection002\nLocation: 270 Brannan St\, San Fr
  ancisco\, CA 94107\, USA\nHost: Pioneer Fund\nSource: html/san-francisco
@@ -124,46 +52,10 @@ LOCATION:270 Brannan St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/inflection002
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild AI SF # 1 Hidden Infrastructure of Intelligence
-DTSTART:20260806T010000Z
-DTEND:20260806T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-F3bLjXQtbf2rFgq
-DESCRIPTION:https://lu.ma/s9lskws9\nLocation: Frontier Tower 🧑‍🚀\,
-  995 Market St\, San Francisco\, CA 94103\, USA\nHost: Frontier Tower SF\n
- Source: discover/san-francisco
-LOCATION:Frontier Tower 🧑‍🚀\, 995 Market St\, San Francisco\, CA 9
- 4103\, USA
-URL:https://lu.ma/s9lskws9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legal AI Vibe Lab #4: Agents\, Workflows\, and the Future of Legal
-  Work
-DTSTART:20260806T010000Z
-DTEND:20260806T050000Z
-DTSTAMP:20260803T022841Z
-UID:evt-p3VC8dNmrlchzEe
-DESCRIPTION:https://lu.ma/legal-ai\nLocation: San Francisco\, CA\nHost: Vi
- be House\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/legal-ai
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cartesia: Building the Future of Voice AI
-DTSTART:20260806T013000Z
-DTEND:20260806T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-uvMOVzFT4VkND2e
-DESCRIPTION:https://lu.ma/1vz3zp2t\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/1vz3zp2t
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AlphaSignal's Pizza Agent Challenge ($2\,500 Cash Prize)
 DTSTART:20260807T003000Z
 DTEND:20260807T040000Z
-DTSTAMP:20260803T022841Z
+DTSTAMP:20260803T093643Z
 UID:evt-AxyTqFihn3AvzMz
 DESCRIPTION:https://lu.ma/o0id5abn\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -171,21 +63,10 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/o0id5abn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Art Gallery for Agents (Portal x3)
-DTSTART:20260807T003000Z
-DTEND:20260807T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-obOrdPRT7YBG3DA
-DESCRIPTION:https://lu.ma/artgallery3\nLocation: San Francisco\, CA\nHost:
-  Personal\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/artgallery3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reimagining Proteins with AI: Antibodies and Beyond
 DTSTART:20260807T003000Z
 DTEND:20260807T033000Z
-DTSTAMP:20260803T022841Z
+DTSTAMP:20260803T093643Z
 UID:evt-YNgOy8U9OvH0irf
 DESCRIPTION:https://lu.ma/2qiy3z11\nLocation: MBC BioLabs\, 135 Mississipp
  i St\, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-fr
@@ -194,291 +75,14 @@ LOCATION:MBC BioLabs\, 135 Mississippi St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/2qiy3z11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:From AI User to AI Builder - Base44 x AI Collective (San Francisco
- )
-DTSTART:20260807T010000Z
-DTEND:20260807T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-L3g9U30DWrx0RH0
-DESCRIPTION:https://lu.ma/genai-0kgd\nLocation: San Francisco\, CA\nHost: 
- The AI Collective\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/genai-0kgd
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Agent Infra Night
 DTSTART:20260807T010000Z
 DTEND:20260807T040000Z
-DTSTAMP:20260803T022841Z
+DTSTAMP:20260803T093643Z
 UID:evt-tX5DoFxwdMGDg6Y
 DESCRIPTION:https://lu.ma/6uaouoxj\nLocation: San Francisco\, CA\nHost: Ag
  ent Builders YC\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/6uaouoxj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ODSC AI x Snowflake: Build an AI Agent in <60 Min | SF
-DTSTART:20260807T010000Z
-DTEND:20260807T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-FBEiW5oSPgpVrOX
-DESCRIPTION:https://lu.ma/odscai-imyl\nLocation: Mindspace Coworking San F
- rancisco\, 575 Market St\, San Francisco\, CA 94105\, USA\nHost: ODSC AI (
- Open Data Science Conference)\nSource: discover/san-francisco
-LOCATION:Mindspace Coworking San Francisco\, 575 Market St\, San Francisco
- \, CA 94105\, USA
-URL:https://lu.ma/odscai-imyl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software Factory #1 — Multi-Agent Orchestration Round Table
-DTSTART:20260807T010000Z
-DTEND:20260807T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-M8WQ2ny2Mqh7iAR
-DESCRIPTION:https://lu.ma/software-factory\nLocation: San Francisco\, CA\n
- Host: Vibe House\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/software-factory
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Workshop for Beginners: Private ChatGPT Experience on Your Own 
- Computer - Running AI Locally
-DTSTART:20260808T003000Z
-DTEND:20260808T023000Z
-DTSTAMP:20260803T022841Z
-UID:evt-QZRzzwttZbSfXGH
-DESCRIPTION:https://lu.ma/r8ft63zq\nLocation: Homebrew Club\, 111 Maiden L
- n #540\, San Francisco\, CA 94108\, USA\nHost: Personal\nSource: discover/
- san-francisco
-LOCATION:Homebrew Club\, 111 Maiden Ln #540\, San Francisco\, CA 94108\, U
- SA
-URL:https://lu.ma/r8ft63zq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAI Global Open-source AI Challenge | ~US$730K Prize Pool | GOAI 
- Open-source Pioneer Summit | Silicon Valley Stop
-DTSTART:20260808T203000Z
-DTEND:20260808T230000Z
-DTSTAMP:20260803T022841Z
-UID:evt-9Au52fKQy20m1A2
-DESCRIPTION:https://lu.ma/rj50dx5x\nLocation: Q Bay Center\, 160 E Tasman 
- Dr\, San Jose\, CA 95134\, USA\nHost: Personal\nSource: discover/san-franc
- isco
-LOCATION:Q Bay Center\, 160 E Tasman Dr\, San Jose\, CA 95134\, USA
-URL:https://lu.ma/rj50dx5x
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Accountable AI: Governing Autonomous Agents in Production
-DTSTART:20260808T220000Z
-DTEND:20260809T020000Z
-DTSTAMP:20260803T022841Z
-UID:evt-znSLDqVMmCGLn8m
-DESCRIPTION:https://lu.ma/msf5yzmh\nLocation: Tesla San Francisco - Van Ne
- ss\, 999 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: Accountable 
- AI - SF Chapter\nSource: discover/san-francisco
-LOCATION:Tesla San Francisco - Van Ness\, 999 Van Ness Ave\, San Francisco
- \, CA 94109\, USA
-URL:https://lu.ma/msf5yzmh
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:👾 Hack with VoiceOS | $5k in OpenAI Credits
-DTSTART:20260809T170000Z
-DTEND:20260810T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-cTw4vOM0oViELXW
-DESCRIPTION:https://lu.ma/pxdhdo4a\nLocation: Frontier Tower 🧑‍🚀\,
-  995 Market St\, San Francisco\, CA 94103\, USA\nHost: Personal\nSource: d
- iscover/san-francisco
-LOCATION:Frontier Tower 🧑‍🚀\, 995 Market St\, San Francisco\, CA 9
- 4103\, USA
-URL:https://lu.ma/pxdhdo4a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Francisco. AI × Design Creative Picnic
-DTSTART:20260809T180000Z
-DTEND:20260809T210000Z
-DTSTAMP:20260803T022841Z
-UID:evt-J6gtzGp9SxVnYk4
-DESCRIPTION:https://lu.ma/prjctr-m24c\nLocation: Conservatory of Flowers\,
-  100 John F Kennedy Dr\, San Francisco\, CA 94118\, USA\nHost: Prjctr Glob
- al Community\nSource: discover/san-francisco
-LOCATION:Conservatory of Flowers\, 100 John F Kennedy Dr\, San Francisco\,
-  CA 94118\, USA
-URL:https://lu.ma/prjctr-m24c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Data Centers In My Backyard: a midwest field report on the AI b
- uildout
-DTSTART:20260811T003000Z
-DTEND:20260811T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-fffDMma2pREODqJ
-DESCRIPTION:https://lu.ma/00ewrebj\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/00ewrebj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Tech & Startup Night — San Francisco
-DTSTART:20260812T010000Z
-DTEND:20260812T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-fIpvjvW0FC8kuAE
-DESCRIPTION:https://lu.ma/70x9c2te\nLocation: San Francisco\, CA\nHost: NO
- MAD STARTUP & INVESTOR EVENTS\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/70x9c2te
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WorkOS Agent Night
-DTSTART:20260813T000000Z
-DTEND:20260813T050000Z
-DTSTAMP:20260803T022841Z
-UID:evt-tu6XXwPbjAH5t9I
-DESCRIPTION:https://lu.ma/agent-night\nLocation: The Regency Ballroom\, 13
- 00 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: WorkOS Events\nSou
- rce: discover/san-francisco
-LOCATION:The Regency Ballroom\, 1300 Van Ness Ave\, San Francisco\, CA 941
- 09\, USA
-URL:https://lu.ma/agent-night
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay Area Frontier Research Club #17 | AGI House SF (dinner + paper
-  discussion)
-DTSTART:20260813T003000Z
-DTEND:20260813T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-7lXa3ur9bVPQiCX
-DESCRIPTION:https://lu.ma/r5ae521o\nLocation: San Francisco\, CA\nHost: Th
- e Frontier Syndicate\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/r5ae521o
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Voice AI Workshop - SF Bay Area
-DTSTART:20260813T003000Z
-DTEND:20260813T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-UGY9T5AwefrWKb8
-DESCRIPTION:https://lu.ma/agoraio-cbba\nLocation: San Francisco\, CA\nHost
- : Agora's Event Calendar\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/agoraio-cbba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Engineers Tech Talk: August
-DTSTART:20260813T010000Z
-DTEND:20260813T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-z5KUOTFKDodAR40
-DESCRIPTION:https://lu.ma/kzwpdbs5\nLocation: San Francisco\, California\n
- Host: AI Engineers - SF\nSource: discover/san-francisco
-LOCATION:San Francisco\, California
-URL:https://lu.ma/kzwpdbs5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Artificial Analysis: Inference\, Measured
-DTSTART:20260813T010000Z
-DTEND:20260813T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-QysyAIJSLyQrrLX
-DESCRIPTION:https://lu.ma/0ukamlad\nLocation: San Francisco\, CA\nHost: Ar
- tificial Analysis\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/0ukamlad
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NetSuite UG: When ERPs aren’t built for Agentic AI\, what are yo
- ur options?
-DTSTART:20260820T000000Z
-DTEND:20260820T020000Z
-DTSTAMP:20260803T022841Z
-UID:evt-V4iv3DprqdF6NyD
-DESCRIPTION:https://lu.ma/b10ljxlb\nLocation: TechMantra Now\, 2150 N Firs
- t St #460\, San Jose\, CA 95131\, USA\nHost: Personal\nSource: discover/sa
- n-francisco
-LOCATION:TechMantra Now\, 2150 N First St #460\, San Jose\, CA 95131\, USA
-URL:https://lu.ma/b10ljxlb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Researcher Night: Grace Gong x Patronus AI
-DTSTART:20260820T003000Z
-DTEND:20260820T023000Z
-DTSTAMP:20260803T022841Z
-UID:evt-vXeIt8pYBL0qlAd
-DESCRIPTION:https://lu.ma/c3jansgp\nLocation: San Francisco\, CA\nHost: Pr
- ivate Event\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/c3jansgp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Future of Work Pitch Night + Open Demos: Worktech\, Robotics &
-  Agentic AI
-DTSTART:20260826T000000Z
-DTEND:20260826T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-1uJIpbDeiFuUVVV
-DESCRIPTION:https://lu.ma/yktcpve0\nLocation: San Francisco\, CA\nHost: On
- tology of Value®\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/yktcpve0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agents Builders Night @ Digital Garage
-DTSTART:20260826T000000Z
-DTEND:20260826T030000Z
-DTSTAMP:20260803T022841Z
-UID:evt-pH5od7w6LlWEV5L
-DESCRIPTION:https://lu.ma/cin8vln9\nLocation: San Francisco\, CA\nHost: Fo
- unders Bay\nSource: discover/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/cin8vln9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Embodied AI Night: Founders\, Builders\, and Researchers
-DTSTART:20260826T010000Z
-DTEND:20260826T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-BHbJE593S3IKaqj
-DESCRIPTION:https://lu.ma/7tvf89y2\nLocation: 680 2nd St\, San Francisco\,
-  CA 94107\, USA\nHost: Afore Events\nSource: discover/san-francisco
-LOCATION:680 2nd St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/7tvf89y2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Building Resilient Systems in the Age of Agentic Development
-DTSTART:20260828T000000Z
-DTEND:20260828T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-B20h3Y4ZsjdXzOe
-DESCRIPTION:https://lu.ma/antith-f2e9\nLocation: SPIN San Francisco\, 690 
- Folsom St #100\, San Francisco\, CA 94107\, USA\nHost: Antithesis Events\n
- Source: discover/san-francisco
-LOCATION:SPIN San Francisco\, 690 Folsom St #100\, San Francisco\, CA 9410
- 7\, USA
-URL:https://lu.ma/antith-f2e9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rootly AI x Anthropic Executive Dinner (San Francisco)
-DTSTART:20260828T010000Z
-DTEND:20260828T033000Z
-DTSTAMP:20260803T022841Z
-UID:evt-4B0J5ZFTnKmNqkt
-DESCRIPTION:https://lu.ma/2fe2ltao\nLocation: San Francisco\, California\n
- Host: Rootly\nSource: discover/san-francisco
-LOCATION:San Francisco\, California
-URL:https://lu.ma/2fe2ltao
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF Socratic Agentic AI Summit
-DTSTART:20260831T010000Z
-DTEND:20260831T040000Z
-DTSTAMP:20260803T022841Z
-UID:evt-Iz9vN0fF1ZyKsDj
-DESCRIPTION:https://lu.ma/sf-socratic-2.0\nLocation: WorkOS\, 660 Market S
- t\, San Francisco\, CA 94104\, USA\nHost: AI Socratic\nSource: discover/sa
- n-francisco
-LOCATION:WorkOS\, 660 Market St\, San Francisco\, CA 94104\, USA
-URL:https://lu.ma/sf-socratic-2.0
 END:VEVENT
 END:VCALENDAR
