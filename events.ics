@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Built on Baseten | AI Demo Night
 DTSTART:20260805T010000Z
 DTEND:20260805T030000Z
-DTSTAMP:20260804T083032Z
+DTSTAMP:20260804T140140Z
 UID:evt-pMhXGRqu65aEuC8
 DESCRIPTION:https://lu.ma/b4y2veki\nLocation: San Francisco\, CA\nHost: Ba
  seten Events\nSource: html/san-francisco
@@ -18,21 +18,19 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI & Mobile meet-up by Software Mansion
 DTSTART:20260805T013000Z
-DTEND:20260805T043000Z
-DTSTAMP:20260804T083032Z
+DTEND:20260805T040000Z
+DTSTAMP:20260804T140140Z
 UID:evt-D045fN7Xtf3XFEn
-DESCRIPTION:https://lu.ma/kgddqkx2\nLocation: The American Bookbinders Mus
- eum\, 355 Clementina St\, San Francisco\, CA 94103\, USA\nHost: Software M
- ansion events\nSource: html/san-francisco
-LOCATION:The American Bookbinders Museum\, 355 Clementina St\, San Francis
- co\, CA 94103\, USA
+DESCRIPTION:https://lu.ma/kgddqkx2\nLocation: San Francisco\, CA\nHost: So
+ ftware Mansion events\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
 URL:https://lu.ma/kgddqkx2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Model Question: Routing Models for Production Agents
 DTSTART:20260805T013000Z
 DTEND:20260805T040000Z
-DTSTAMP:20260804T083032Z
+DTSTAMP:20260804T140140Z
 UID:evt-SH14DdbsqYcHYkX
 DESCRIPTION:https://lu.ma/gmicloud-384l\nLocation: Notion HQ\, 685 Market 
  St\, San Francisco\, CA 94105\, USA\nHost: Notion for Startups\nSource: ht
@@ -44,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:🧬 Inflection #002 — Health: AI's last problem w/ Omri Drory
 DTSTART:20260806T003000Z
 DTEND:20260806T030000Z
-DTSTAMP:20260804T083032Z
+DTSTAMP:20260804T140140Z
 UID:evt-MBkOP6D8AyA1Are
 DESCRIPTION:https://lu.ma/inflection002\nLocation: 270 Brannan St\, San Fr
  ancisco\, CA 94107\, USA\nHost: Pioneer Fund\nSource: html/san-francisco
@@ -55,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:AlphaSignal's Pizza Agent Challenge ($2\,500 Cash Prize)
 DTSTART:20260807T003000Z
 DTEND:20260807T040000Z
-DTSTAMP:20260804T083032Z
+DTSTAMP:20260804T140140Z
 UID:evt-AxyTqFihn3AvzMz
 DESCRIPTION:https://lu.ma/o0id5abn\nLocation: San Francisco\, CA\nHost: Le
  verage\nSource: html/san-francisco
@@ -66,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Re-imagining Proteins with AI: Antibodies and Beyond
 DTSTART:20260807T003000Z
 DTEND:20260807T033000Z
-DTSTAMP:20260804T083032Z
+DTSTAMP:20260804T140140Z
 UID:evt-YNgOy8U9OvH0irf
 DESCRIPTION:https://lu.ma/2qiy3z11\nLocation: MBC BioLabs\, 135 Mississipp
  i St\, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-fr
@@ -78,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Agent Infra Night
 DTSTART:20260807T010000Z
 DTEND:20260807T040000Z
-DTSTAMP:20260804T083032Z
+DTSTAMP:20260804T140140Z
 UID:evt-tX5DoFxwdMGDg6Y
 DESCRIPTION:https://lu.ma/6uaouoxj\nLocation: San Francisco\, CA\nHost: Ag
  ent Builders\nSource: html/san-francisco
