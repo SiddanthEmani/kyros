@@ -5,48 +5,16 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Mahjong Party for AI Builders
-DTSTART:20260807T000000Z
-DTEND:20260807T030000Z
-DTSTAMP:20260806T235435Z
-UID:evt-geoE5GhFhwPYNh6
-DESCRIPTION:https://lu.ma/jp19k28s\nLocation: San Francisco\, California\n
- Host: Workato Community\nSource: html/san-francisco
-LOCATION:San Francisco\, California
-URL:https://lu.ma/jp19k28s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AlphaSignal's Pizza Agent Challenge ($2\,500 Cash Prize)
-DTSTART:20260807T003000Z
-DTEND:20260807T040000Z
-DTSTAMP:20260806T235435Z
-UID:evt-AxyTqFihn3AvzMz
-DESCRIPTION:https://lu.ma/o0id5abn\nLocation: San Francisco\, CA\nHost: Le
- verage\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/o0id5abn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Re-imagining Proteins with AI: Antibodies and Beyond
-DTSTART:20260807T003000Z
-DTEND:20260807T033000Z
-DTSTAMP:20260806T235435Z
-UID:evt-YNgOy8U9OvH0irf
-DESCRIPTION:https://lu.ma/2qiy3z11\nLocation: MBC BioLabs\, 135 Mississipp
- i St\, San Francisco\, CA 94107\, USA\nHost: Personal\nSource: html/san-fr
- ancisco
-LOCATION:MBC BioLabs\, 135 Mississippi St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/2qiy3z11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agent Infra Night
-DTSTART:20260807T010000Z
-DTEND:20260807T040000Z
-DTSTAMP:20260806T235435Z
-UID:evt-tX5DoFxwdMGDg6Y
-DESCRIPTION:https://lu.ma/6uaouoxj\nLocation: San Francisco\, CA\nHost: Ag
- ent Builders\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/6uaouoxj
+SUMMARY:👾 Hack with VoiceOS | $5k in OpenAI Credits
+DTSTART:20260809T170000Z
+DTEND:20260810T030000Z
+DTSTAMP:20260807T022844Z
+UID:evt-cTw4vOM0oViELXW
+DESCRIPTION:https://lu.ma/pxdhdo4a\nLocation: Frontier Tower 🧑‍🚀\,
+  995 Market St\, San Francisco\, CA 94103\, USA\nHost: Personal\nSource: h
+ tml/san-francisco
+LOCATION:Frontier Tower 🧑‍🚀\, 995 Market St\, San Francisco\, CA 9
+ 4103\, USA
+URL:https://lu.ma/pxdhdo4a
 END:VEVENT
 END:VCALENDAR
