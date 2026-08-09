@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:👾 Hack with VoiceOS | $5k in OpenAI Credits
 DTSTART:20260809T170000Z
 DTEND:20260810T030000Z
-DTSTAMP:20260809T065024Z
+DTSTAMP:20260809T124119Z
 UID:evt-cTw4vOM0oViELXW
 DESCRIPTION:https://lu.ma/pxdhdo4a\nLocation: Frontier Tower 🧑‍🚀\,
   995 Market St\, San Francisco\, CA 94103\, USA\nHost: Personal\nSource: h
@@ -22,7 +22,7 @@ SUMMARY:No Data Centers In My Backyard: a midwest field report on the AI b
  uildout
 DTSTART:20260811T003000Z
 DTEND:20260811T030000Z
-DTSTAMP:20260809T065024Z
+DTSTAMP:20260809T124119Z
 UID:evt-fffDMma2pREODqJ
 DESCRIPTION:https://lu.ma/00ewrebj\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:WorkOS Agent Night
 DTSTART:20260813T000000Z
 DTEND:20260813T050000Z
-DTSTAMP:20260809T065024Z
+DTSTAMP:20260809T124119Z
 UID:evt-tu6XXwPbjAH5t9I
 DESCRIPTION:https://lu.ma/agent-night\nLocation: The Regency Ballroom\, 13
  00 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: WorkOS Events\nSou
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineers Tech Talk: August
 DTSTART:20260813T010000Z
 DTEND:20260813T030000Z
-DTSTAMP:20260809T065024Z
+DTSTAMP:20260809T124119Z
 UID:evt-z5KUOTFKDodAR40
 DESCRIPTION:https://lu.ma/kzwpdbs5\nLocation: San Francisco\, California\n
  Host: AI Engineers - SF\nSource: html/san-francisco
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Artificial Analysis: Inference\, Measured
 DTSTART:20260813T010000Z
 DTEND:20260813T033000Z
-DTSTAMP:20260809T065024Z
+DTSTAMP:20260809T124119Z
 UID:evt-QysyAIJSLyQrrLX
 DESCRIPTION:https://lu.ma/0ukamlad\nLocation: San Francisco\, CA\nHost: Ar
  tificial Analysis\nSource: html/san-francisco
