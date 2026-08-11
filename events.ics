@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Founders 5k Sunset Run with Lore and LlamaIndex
 DTSTART:20260812T010000Z
 DTEND:20260812T030000Z
-DTSTAMP:20260811T065941Z
+DTSTAMP:20260811T125638Z
 UID:evt-AAdnNny5Vdi6B7Y
 DESCRIPTION:https://lu.ma/4iiiprxj\nLocation: Sue Bierman Park\, Washingto
  n St &\, Drumm St\, San Francisco\, CA 94111\, USA\nHost: Lore Community E
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:WorkOS Agent Night
 DTSTART:20260813T000000Z
 DTEND:20260813T050000Z
-DTSTAMP:20260811T065941Z
+DTSTAMP:20260811T125638Z
 UID:evt-tu6XXwPbjAH5t9I
 DESCRIPTION:https://lu.ma/agent-night\nLocation: The Regency Ballroom\, 13
  00 Van Ness Ave\, San Francisco\, CA 94109\, USA\nHost: WorkOS Events\nSou
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineers Tech Talk: August
 DTSTART:20260813T010000Z
 DTEND:20260813T030000Z
-DTSTAMP:20260811T065941Z
+DTSTAMP:20260811T125638Z
 UID:evt-z5KUOTFKDodAR40
 DESCRIPTION:https://lu.ma/kzwpdbs5\nLocation: San Francisco\, California\n
  Host: AI Engineers - SF\nSource: html/san-francisco
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Artificial Analysis: Inference\, Measured
 DTSTART:20260813T010000Z
 DTEND:20260813T033000Z
-DTSTAMP:20260811T065941Z
+DTSTAMP:20260811T125638Z
 UID:evt-QysyAIJSLyQrrLX
 DESCRIPTION:https://lu.ma/0ukamlad\nLocation: San Francisco\, CA\nHost: Ar
  tificial Analysis\nSource: html/san-francisco
