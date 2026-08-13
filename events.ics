@@ -8,23 +8,11 @@ BEGIN:VEVENT
 SUMMARY:AI for Science Demo Night @ Edison Scientific
 DTSTART:20260814T013000Z
 DTEND:20260814T040000Z
-DTSTAMP:20260813T130033Z
+DTSTAMP:20260813T190005Z
 UID:evt-MgPSQOoOYezefNc
 DESCRIPTION:https://lu.ma/worldwide-1i1a\nLocation: San Francisco\, CA\nHo
  st: Worldwide Studios\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/worldwide-1i1a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moonlighting with Gemini + Exa
-DTSTART:20260818T003000Z
-DTEND:20260818T033000Z
-DTSTAMP:20260813T130033Z
-UID:evt-lhtP9Qxy5CNX9pr
-DESCRIPTION:https://lu.ma/buildclub-ua0n\nLocation: WorkOS\, 660 Market St
- \, San Francisco\, CA 94104\, USA\nHost: Build Club\nSource: html/san-fran
- cisco
-LOCATION:WorkOS\, 660 Market St\, San Francisco\, CA 94104\, USA
-URL:https://lu.ma/buildclub-ua0n
 END:VEVENT
 END:VCALENDAR
