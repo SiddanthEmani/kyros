@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Moonlighting with Gemini + Exa
 DTSTART:20260818T003000Z
 DTEND:20260818T033000Z
-DTSTAMP:20260814T071938Z
+DTSTAMP:20260814T125801Z
 UID:evt-lhtP9Qxy5CNX9pr
 DESCRIPTION:https://lu.ma/buildclub-ua0n\nLocation: WorkOS\, 660 Market St
  \, San Francisco\, CA 94104\, USA\nHost: Build Club\nSource: html/san-fran
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Salt Bread Maxxing: Shio Pan x Multiplayer AI\, feat. Tano SF
 DTSTART:20260819T000000Z
 DTEND:20260819T030000Z
-DTSTAMP:20260814T071938Z
+DTSTAMP:20260814T125801Z
 UID:evt-oTRVWZUZzDF5gSf
 DESCRIPTION:https://lu.ma/saltbreadmaxxing\nLocation: San Francisco\, CA\n
  Host: PromptQL Events\nSource: html/san-francisco
