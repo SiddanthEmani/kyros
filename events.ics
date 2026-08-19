@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Reading Group (+🧋): Continual Learning Bench
 DTSTART:20260820T001500Z
 DTEND:20260820T024500Z
-DTSTAMP:20260819T063830Z
+DTSTAMP:20260819T123813Z
 UID:evt-r7IMVjTEKNNS2g3
 DESCRIPTION:https://lu.ma/l3hoha65\nLocation: San Francisco\, CA\nHost: Sn
  orkel AI Community Events\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Agents in Production: DevTools demo night
 DTSTART:20260820T003000Z
 DTEND:20260820T023000Z
-DTSTAMP:20260819T063830Z
+DTSTAMP:20260819T123813Z
 UID:evt-ZyFjwNGmPr04VjZ
 DESCRIPTION:https://lu.ma/0owahtma\nLocation: San Francisco\, CA\nHost: Sc
  alekit\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:AI & The Wet Lab
 DTSTART:20260820T003000Z
 DTEND:20260820T020000Z
-DTSTAMP:20260819T063830Z
+DTSTAMP:20260819T123813Z
 UID:evt-WrgFBcCH5rNErBb
 DESCRIPTION:https://lu.ma/aiandthewetlab_spc\nLocation: San Francisco\, Ca
  lifornia\nHost: South Park Commons\nSource: html/san-francisco
@@ -42,7 +42,7 @@ SUMMARY:The Reserve by Founder Social Club with HydraDB (Series A and late
  r stage AI)
 DTSTART:20260820T010000Z
 DTEND:20260820T033000Z
-DTSTAMP:20260819T063830Z
+DTSTAMP:20260819T123813Z
 UID:evt-5JFdsrosEb1Wr7w
 DESCRIPTION:https://lu.ma/95jql7sy\nLocation: San Francisco\, CA\nHost: Fo
  under Social Club\nSource: html/san-francisco
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:A Poem is a Machine Made Out of Words: Writing and AI
 DTSTART:20260820T020000Z
 DTEND:20260820T033000Z
-DTSTAMP:20260819T063830Z
+DTSTAMP:20260819T123813Z
 UID:evt-cFt1skia1raytr4
 DESCRIPTION:https://lu.ma/wordmachine\nLocation: tiat\, 151 Powell St\, Sa
  n Francisco\, CA 94102\, USA\nHost: tiat (the intersection of art & techno
@@ -66,7 +66,7 @@ SUMMARY:Open Models\, Production Agents: The New Economics of AI-Native En
  gineering
 DTSTART:20260821T010000Z
 DTEND:20260821T033000Z
-DTSTAMP:20260819T063830Z
+DTSTAMP:20260819T123813Z
 UID:evt-cfhICoVc1tRPHs5
 DESCRIPTION:https://lu.ma/o9tv62y5\nLocation: San Francisco\, CA\nHost: Fr
  iendliAI\nSource: html/san-francisco
