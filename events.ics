@@ -5,45 +5,10 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Salt Bread Maxxing: Shio Pan x Multiplayer AI\, feat. Tano SF
-DTSTART:20260819T000000Z
-DTEND:20260819T030000Z
-DTSTAMP:20260818T183202Z
-UID:evt-oTRVWZUZzDF5gSf
-DESCRIPTION:https://lu.ma/saltbreadmaxxing\nLocation: San Francisco\, CA\n
- Host: PromptQL Events\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/saltbreadmaxxing
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Humanoids Beyond the Demo: A Conversation with Nic Radford\, Found
- er & CEO of Persona AI
-DTSTART:20260819T003000Z
-DTEND:20260819T040000Z
-DTSTAMP:20260818T183202Z
-UID:evt-YoCNh4RV7SOm3EU
-DESCRIPTION:https://lu.ma/tu1kbg8n\nLocation: San Francisco\, CA\nHost: Sa
- vant VC\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/tu1kbg8n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The AI Dev Stack: Beyond Code w/ Antimetal\, Fireworks\, Braintrus
- t & Browserbase
-DTSTART:20260819T010000Z
-DTEND:20260819T030000Z
-DTSTAMP:20260818T183202Z
-UID:evt-l3YArEI8B3LXEIU
-DESCRIPTION:https://lu.ma/ai-dev-stack\nLocation: San Francisco\, CA\nHost
- : Antimetal\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/ai-dev-stack
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reading Group (+🧋): Continual Learning Bench
 DTSTART:20260820T001500Z
 DTEND:20260820T024500Z
-DTSTAMP:20260818T183202Z
+DTSTAMP:20260819T010033Z
 UID:evt-r7IMVjTEKNNS2g3
 DESCRIPTION:https://lu.ma/l3hoha65\nLocation: San Francisco\, CA\nHost: Sn
  orkel AI Community Events\nSource: html/san-francisco
@@ -54,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Agents in Production: DevTools demo night
 DTSTART:20260820T003000Z
 DTEND:20260820T023000Z
-DTSTAMP:20260818T183202Z
+DTSTAMP:20260819T010033Z
 UID:evt-ZyFjwNGmPr04VjZ
 DESCRIPTION:https://lu.ma/0owahtma\nLocation: San Francisco\, CA\nHost: Sc
  alekit\nSource: html/san-francisco
@@ -65,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:AI & The Wet Lab
 DTSTART:20260820T003000Z
 DTEND:20260820T020000Z
-DTSTAMP:20260818T183202Z
+DTSTAMP:20260819T010033Z
 UID:evt-WrgFBcCH5rNErBb
 DESCRIPTION:https://lu.ma/aiandthewetlab_spc\nLocation: San Francisco\, Ca
  lifornia\nHost: South Park Commons\nSource: html/san-francisco
@@ -77,7 +42,7 @@ SUMMARY:The Reserve by Founder Social Club with HydraDB (Series A and late
  r stage AI)
 DTSTART:20260820T010000Z
 DTEND:20260820T033000Z
-DTSTAMP:20260818T183202Z
+DTSTAMP:20260819T010033Z
 UID:evt-5JFdsrosEb1Wr7w
 DESCRIPTION:https://lu.ma/95jql7sy\nLocation: San Francisco\, CA\nHost: Fo
  under Social Club\nSource: html/san-francisco
@@ -88,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:A Poem is a Machine Made Out of Words: Writing and AI
 DTSTART:20260820T020000Z
 DTEND:20260820T033000Z
-DTSTAMP:20260818T183202Z
+DTSTAMP:20260819T010033Z
 UID:evt-cFt1skia1raytr4
 DESCRIPTION:https://lu.ma/wordmachine\nLocation: tiat\, 151 Powell St\, Sa
  n Francisco\, CA 94102\, USA\nHost: tiat (the intersection of art & techno
