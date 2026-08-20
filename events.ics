@@ -5,27 +5,61 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:A Poem is a Machine Made Out of Words: Writing and AI
-DTSTART:20260820T020000Z
-DTEND:20260820T033000Z
-DTSTAMP:20260820T010207Z
-UID:evt-cFt1skia1raytr4
-DESCRIPTION:https://lu.ma/wordmachine\nLocation: tiat\, 151 Powell St\, Sa
- n Francisco\, CA 94102\, USA\nHost: tiat (the intersection of art & techno
- logy)\nSource: html/san-francisco
-LOCATION:tiat\, 151 Powell St\, San Francisco\, CA 94102\, USA
-URL:https://lu.ma/wordmachine
+SUMMARY:Agents are changing the web with Parag Agrawal (founder\, Parallel
+ )
+DTSTART:20260821T010000Z
+DTEND:20260821T030000Z
+DTSTAMP:20260820T063823Z
+UID:evt-FwFtxl5kjBpkIrX
+DESCRIPTION:https://lu.ma/sy0mt1m4\nLocation: San Francisco\, CA\nHost: Ba
+ seten Events\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/sy0mt1m4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Models\, Production Agents: The New Economics of AI-Native En
  gineering
 DTSTART:20260821T010000Z
 DTEND:20260821T033000Z
-DTSTAMP:20260820T010207Z
+DTSTAMP:20260820T063823Z
 UID:evt-cfhICoVc1tRPHs5
 DESCRIPTION:https://lu.ma/o9tv62y5\nLocation: San Francisco\, CA\nHost: Fr
  iendliAI\nSource: html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/o9tv62y5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claude Community SF: Science Demo Night
+DTSTART:20260821T013000Z
+DTEND:20260821T043000Z
+DTSTAMP:20260820T063823Z
+UID:evt-NVHTrHaXJSXomD4
+DESCRIPTION:https://lu.ma/claude-p7e0\nLocation: San Francisco\, CA\nHost:
+  Claude Community Events\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/claude-p7e0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Founders + Engineers Billliards Night
+DTSTART:20260821T020000Z
+DTEND:20260821T050000Z
+DTSTAMP:20260820T063823Z
+UID:evt-VTmvvZ3VnfPsAfd
+DESCRIPTION:https://lu.ma/bj9o4jzd\nLocation: San Francisco\, CA\nHost: Ll
+ amaIndex Community\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/bj9o4jzd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ai open mic | comedy night
+DTSTART:20260821T020000Z
+DTEND:20260821T033000Z
+DTSTAMP:20260820T063823Z
+UID:evt-FqZ4zWaPn4fJrTq
+DESCRIPTION:https://lu.ma/aicomedynight\nLocation: tiat\, 151 Powell St\, 
+ San Francisco\, CA 94102\, USA\nHost: tiat (the intersection of art & tech
+ nology)\nSource: html/san-francisco
+LOCATION:tiat\, 151 Powell St\, San Francisco\, CA 94102\, USA
+URL:https://lu.ma/aicomedynight
 END:VEVENT
 END:VCALENDAR
