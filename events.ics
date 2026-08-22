@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Frontier Table SF: AI Founder Dinner
 DTSTART:20260822T023000Z
 DTEND:20260822T050000Z
-DTSTAMP:20260821T183032Z
+DTSTAMP:20260822T010148Z
 UID:evt-6jWgKV4i48dNZR6
 DESCRIPTION:https://lu.ma/frontierTableSF\nLocation: San Francisco\, CA\nH
  ost: Obvious Community Events\nSource: html/san-francisco
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Mistral Vibe Hackathon
 DTSTART:20260822T153000Z
 DTEND:20260823T030000Z
-DTSTAMP:20260821T183032Z
+DTSTAMP:20260822T010148Z
 UID:evt-FH6HxBSsvZGbAPi
 DESCRIPTION:https://lu.ma/mistral-summer-vibe-hackathon-sf\nLocation: San 
  Francisco\, CA\nHost: Mistral Events\nSource: html/san-francisco
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Dogathon: AI Valley × Pet Zen\, with Arcade.dev + Emergent
 DTSTART:20260822T160000Z
 DTEND:20260823T040000Z
-DTSTAMP:20260821T183032Z
+DTSTAMP:20260822T010148Z
 UID:evt-DECjFUNkamRSmH4
 DESCRIPTION:https://lu.ma/rklrsomo\nLocation: San Francisco\, CA\nHost: AI
   Valley\nSource: html/san-francisco
@@ -38,10 +38,10 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/rklrsomo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mistral Meetup with SGLang
+SUMMARY:Mistral Meetup with SGLang and Hugging Face
 DTSTART:20260826T003000Z
 DTEND:20260826T033000Z
-DTSTAMP:20260821T183032Z
+DTSTAMP:20260822T010148Z
 UID:evt-rcC3hLh6TmOO7Rb
 DESCRIPTION:https://lu.ma/summer-meetup-mistral-sglang\nLocation: San Fran
  cisco\, CA\nHost: Mistral Events\nSource: html/san-francisco
@@ -52,23 +52,12 @@ BEGIN:VEVENT
 SUMMARY:Physical AI: What's Working (and What Still Breaks)
 DTSTART:20260826T003000Z
 DTEND:20260826T030000Z
-DTSTAMP:20260821T183032Z
+DTSTAMP:20260822T010148Z
 UID:evt-xPF8eRZs2B5PAAP
 DESCRIPTION:https://lu.ma/rallysf-yfs4\nLocation: 1 Ferry Building ste 200
  \, San Francisco\, CA 94111\, USA\nHost: Rally SF\nSource: html/san-franci
  sco
 LOCATION:1 Ferry Building ste 200\, San Francisco\, CA 94111\, USA
 URL:https://lu.ma/rallysf-yfs4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Embodied AI Night: Founders\, Builders\, and Researchers
-DTSTART:20260826T010000Z
-DTEND:20260826T033000Z
-DTSTAMP:20260821T183032Z
-UID:evt-BHbJE593S3IKaqj
-DESCRIPTION:https://lu.ma/7tvf89y2\nLocation: San Francisco\, CA\nHost: Af
- ore Events\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/7tvf89y2
 END:VEVENT
 END:VCALENDAR
