@@ -5,10 +5,21 @@ X-WR-CALDESC:AI events in SF/SJ + virtual\, curated by Kyros.
 X-WR-CALNAME:Kyros AI Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+SUMMARY:Train Custom Models with Fireworks & LangChain + SF Happy Hour ⭐
+DTSTART:20260826T000000Z
+DTEND:20260826T033000Z
+DTSTAMP:20260824T010255Z
+UID:evt-xxVNXd7dNt7yzmS
+DESCRIPTION:https://lu.ma/phzy304n\nLocation: San Francisco\, CA\nHost: Fi
+ reworks\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/phzy304n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mistral Meetup with SGLang and Hugging Face
 DTSTART:20260826T003000Z
 DTEND:20260826T033000Z
-DTSTAMP:20260823T182457Z
+DTSTAMP:20260824T010255Z
 UID:evt-rcC3hLh6TmOO7Rb
 DESCRIPTION:https://lu.ma/summer-meetup-mistral-sglang\nLocation: San Fran
  cisco\, CA\nHost: Mistral Events\nSource: html/san-francisco
@@ -19,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI: What's Working (and What Still Breaks)
 DTSTART:20260826T003000Z
 DTEND:20260826T030000Z
-DTSTAMP:20260823T182457Z
+DTSTAMP:20260824T010255Z
 UID:evt-xPF8eRZs2B5PAAP
 DESCRIPTION:https://lu.ma/rallysf-yfs4\nLocation: 1 Ferry Building ste 200
  \, San Francisco\, CA 94111\, USA\nHost: Rally SF\nSource: html/san-franci
@@ -31,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Embodied AI Night: Founders\, Builders\, and Researchers
 DTSTART:20260826T010000Z
 DTEND:20260826T033000Z
-DTSTAMP:20260823T182457Z
+DTSTAMP:20260824T010255Z
 UID:evt-BHbJE593S3IKaqj
 DESCRIPTION:https://lu.ma/7tvf89y2\nLocation: San Francisco\, CA\nHost: Af
  ore Events\nSource: html/san-francisco
@@ -42,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Kebab
 DTSTART:20260827T000000Z
 DTEND:20260827T030000Z
-DTSTAMP:20260823T182457Z
+DTSTAMP:20260824T010255Z
 UID:evt-7HixftyHgdvIyql
 DESCRIPTION:https://lu.ma/kebab\nLocation: One Kearny Club\, 23 Geary St\,
   San Francisco\, CA 94108\, USA\nHost: Neon\nSource: html/san-francisco
@@ -54,7 +65,7 @@ SUMMARY:AI\, X-rays\, and Manufacturing: Lumafield SF Open House and Live
  Go/No-Go Recording
 DTSTART:20260827T000000Z
 DTEND:20260827T023000Z
-DTSTAMP:20260823T182457Z
+DTSTAMP:20260824T010255Z
 UID:evt-vG5lZObaMxFUXy2
 DESCRIPTION:https://lu.ma/uo8fmq5o\nLocation: Lumafield Headquarters\, 665
   3rd St Ste 100\, San Francisco\, CA 94107\, USA\nHost: Lumafield\nSource:
@@ -62,16 +73,5 @@ DESCRIPTION:https://lu.ma/uo8fmq5o\nLocation: Lumafield Headquarters\, 665
 LOCATION:Lumafield Headquarters\, 665 3rd St Ste 100\, San Francisco\, CA 
  94107\, USA
 URL:https://lu.ma/uo8fmq5o
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Durable AI: Agent Context is Everything
-DTSTART:20260827T003000Z
-DTEND:20260827T030000Z
-DTSTAMP:20260823T182457Z
-UID:evt-5HAZ5BKAHuQ1WqF
-DESCRIPTION:https://lu.ma/durable-ai-august\nLocation: San Francisco\, CA\
- nHost: Temporal Community\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/durable-ai-august
 END:VEVENT
 END:VCALENDAR
