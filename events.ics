@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Kebab
 DTSTART:20260827T000000Z
 DTEND:20260827T030000Z
-DTSTAMP:20260826T010518Z
+DTSTAMP:20260826T064231Z
 UID:evt-7HixftyHgdvIyql
 DESCRIPTION:https://lu.ma/kebab\nLocation: One Kearny Club\, 23 Geary St\,
   San Francisco\, CA 94108\, USA\nHost: Neon\nSource: html/san-francisco
@@ -20,7 +20,7 @@ SUMMARY:AI\, X-rays\, and Manufacturing: Lumafield SF Open House and Live
  Go/No-Go Recording
 DTSTART:20260827T000000Z
 DTEND:20260827T023000Z
-DTSTAMP:20260826T010518Z
+DTSTAMP:20260826T064231Z
 UID:evt-vG5lZObaMxFUXy2
 DESCRIPTION:https://lu.ma/uo8fmq5o\nLocation: Lumafield Headquarters\, 665
   3rd St Ste 100\, San Francisco\, CA 94107\, USA\nHost: Lumafield\nSource:
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Durable AI: Agent Context is Everything
 DTSTART:20260827T003000Z
 DTEND:20260827T030000Z
-DTSTAMP:20260826T010518Z
+DTSTAMP:20260826T064231Z
 UID:evt-5HAZ5BKAHuQ1WqF
 DESCRIPTION:https://lu.ma/durable-ai-august\nLocation: San Francisco\, CA\
  nHost: Temporal Community\nSource: html/san-francisco
