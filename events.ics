@@ -8,22 +8,11 @@ BEGIN:VEVENT
 SUMMARY:Agent Builder Happy Hour ☕
 DTSTART:20260829T003000Z
 DTEND:20260829T023000Z
-DTSTAMP:20260828T085350Z
+DTSTAMP:20260828T214132Z
 UID:evt-WeMs4wYSwjYe06u
 DESCRIPTION:https://lu.ma/nxqxrgcw\nLocation: 2146 3rd St\, San Francisco\
  , CA 94107\, USA\nHost: Personal\nSource: html/san-francisco
 LOCATION:2146 3rd St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/nxqxrgcw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grok @bot builder demos
-DTSTART:20260902T010000Z
-DTEND:20260902T030000Z
-DTSTAMP:20260828T085350Z
-UID:evt-zJf0yZmjHicPH7V
-DESCRIPTION:https://lu.ma/p4rvaf0y\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/p4rvaf0y
 END:VEVENT
 END:VCALENDAR
