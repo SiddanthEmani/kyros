@@ -132,3 +132,34 @@ def test_funcheap_cost_extraction(fixture_text, log):
 def test_funcheap_extracts_venue(fixture_text, log):
     events, _ = _funcheap(fixture_text, log)
     assert "Guadalupe River Park" in events[0].venue
+
+
+def test_ticketmaster_builds_a_valid_request(fixture_text, log, monkeypatch):
+    """The request itself, not just the response mapping — a wrong param
+    name here is a 400 that only shows up in production."""
+    import urllib.parse
+
+    from kyros.config import load_config
+
+    captured = []
+
+    def fake_get(url, log, headers=None):
+        captured.append(url)
+        return fixture_text("ticketmaster_events.json").encode()
+
+    monkeypatch.setattr(ticketmaster, "http_get", fake_get)
+    monkeypatch.setenv(ticketmaster.ENV_KEY, "test-key")
+    events = ticketmaster.fetch(load_config(), log)
+
+    assert len(captured) == 1        # totalPages=1 stops the paging loop
+    base, query = captured[0].split("?", 1)
+    assert base == ticketmaster.API_URL
+    params = dict(urllib.parse.parse_qsl(query))
+    assert params["apikey"] == "test-key"
+    assert params["geoPoint"] == "9q9k6m"      # downtown San Jose
+    assert params["radius"] == "50" and params["unit"] == "miles"
+    assert params["classificationName"] == "music"
+    assert params["sort"] == "date,asc"
+    for field in ("startDateTime", "endDateTime"):
+        assert params[field].endswith("Z") and "T" in params[field]
+    assert len(events) == 2
