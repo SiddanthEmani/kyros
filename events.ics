@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Grok @bot builder demos
 DTSTART:20260902T010000Z
 DTEND:20260902T030000Z
-DTSTAMP:20260830T155811Z
+DTSTAMP:20260830T202908Z
 UID:evt-zJf0yZmjHicPH7V
 DESCRIPTION:https://lu.ma/p4rvaf0y\nLocation: San Francisco\, CA\nHost: Pe
  rsonal\nSource: html/san-francisco
@@ -16,10 +16,21 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/p4rvaf0y
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Secrets of Best-in-Class Ai-Pilled Companies
+DTSTART:20260902T010000Z
+DTEND:20260902T030000Z
+DTSTAMP:20260830T202908Z
+UID:evt-EW8Dfk2eK0nMWdl
+DESCRIPTION:https://lu.ma/1a6a0ysf\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nSource: html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/1a6a0ysf
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Deep Tech Startups in the Age of AI by Fifty Years
 DTSTART:20260903T013000Z
 DTEND:20260903T033000Z
-DTSTAMP:20260830T155811Z
+DTSTAMP:20260830T202908Z
 UID:evt-eKOLHjZY69JpsBv
 DESCRIPTION:https://lu.ma/u5fkxj50\nLocation: San Francisco\, CA\nHost: Sc
  ientist to Founder Series\nSource: html/san-francisco
@@ -30,35 +41,12 @@ BEGIN:VEVENT
 SUMMARY:Grok Bot build night for women
 DTSTART:20260904T000000Z
 DTEND:20260904T040000Z
-DTSTAMP:20260830T155811Z
+DTSTAMP:20260830T202908Z
 UID:evt-NRWoIJ0rk2BEm8a
 DESCRIPTION:https://lu.ma/a16zgrokbotbuildnight\nLocation: a16z\, 180 Town
  send St\, San Francisco\, CA 94107\, USA\nHost: Cursor Community\nSource: 
  html/san-francisco
 LOCATION:a16z\, 180 Townsend St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/a16zgrokbotbuildnight
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deploying Physical AI in the Real World w Skild AI\, Dexterity\, W
- eave Robotics & Instawork
-DTSTART:20260904T003000Z
-DTEND:20260904T040000Z
-DTSTAMP:20260830T155811Z
-UID:evt-azBIZi4UjPPHMY2
-DESCRIPTION:https://lu.ma/7b9joney\nLocation: San Francisco\, CA\nHost: Sa
- vant VC\nSource: html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/7b9joney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Philosophy Nights: Metaphors for AI with Amy Kurzweil
-DTSTART:20260904T013000Z
-DTEND:20260904T043000Z
-DTSTAMP:20260830T155811Z
-UID:evt-QnqMwZyTXPZ0CQm
-DESCRIPTION:https://lu.ma/553nq69x\nLocation: San Francisco\, California\n
- Host: SuperHuman Society\nSource: html/san-francisco
-LOCATION:San Francisco\, California
-URL:https://lu.ma/553nq69x
 END:VEVENT
 END:VCALENDAR
