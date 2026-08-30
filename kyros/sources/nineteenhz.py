@@ -1,0 +1,257 @@
+"""19hz.info — the Bay Area electronic music listing.
+
+A hand-maintained, server-rendered HTML table (no API, no key). Because
+the markup is hand-maintained, columns are located by *header text*
+rather than by position, so a reordered or added column degrades instead
+of silently corrupting the feed.
+
+Row shape (as published):
+    Date/Time | Event Title @ Venue | Tags | Price | Age | Organizers | Links
+"""
+
+from __future__ import annotations
+
+import logging
+import re
+from datetime import datetime, timedelta
+from html.parser import HTMLParser
+
+from ..http import http_get
+from ..model import Event
+
+NAME = "nineteenhz"
+
+URL = "https://19hz.info/eventlisting_BayArea.php"
+
+# Header keyword -> logical column. First match wins per header cell.
+_COLUMN_HINTS = (
+    ("date", "date"),
+    ("event", "title"),
+    ("title", "title"),
+    ("tags", "tags"),
+    ("genre", "tags"),
+    ("price", "price"),
+    ("cost", "price"),
+    ("age", "age"),
+    ("organizer", "organizer"),
+    ("promoter", "organizer"),
+    ("link", "links"),
+)
+
+_MONTHS = {m: i for i, m in enumerate(
+    ["jan", "feb", "mar", "apr", "may", "jun",
+     "jul", "aug", "sep", "oct", "nov", "dec"], start=1)}
+
+_DATE_RE = re.compile(
+    r"(?P<month>jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+"
+    r"(?P<day>\d{1,2})", re.IGNORECASE)
+_TIME_RE = re.compile(
+    r"(?P<h>\d{1,2})(?::(?P<m>\d{2}))?\s*(?P<ap>am|pm)", re.IGNORECASE)
+_PRICE_RE = re.compile(r"\$\s*(\d+(?:\.\d{2})?)")
+_FREE_RE = re.compile(r"\bfree\b|\bno cover\b", re.IGNORECASE)
+
+
+class _TableParser(HTMLParser):
+    """Collect every table row as a list of cell texts (plus the first
+    href per cell, which is the event link)."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.rows: list[list[str]] = []
+        self.hrefs: list[list[str]] = []
+        self._row: list[str] | None = None
+        self._hrefs: list[str] | None = None
+        self._cell: list[str] | None = None
+        self._cell_href = ""
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "tr":
+            self._row, self._hrefs = [], []
+        elif tag in ("td", "th") and self._row is not None:
+            self._cell, self._cell_href = [], ""
+        elif tag == "a" and self._cell is not None and not self._cell_href:
+            for k, v in attrs:
+                if k == "href" and v:
+                    self._cell_href = v
+                    break
+        elif tag == "br" and self._cell is not None:
+            self._cell.append(" ")
+
+    def handle_endtag(self, tag):
+        if tag in ("td", "th") and self._cell is not None:
+            text = re.sub(r"\s+", " ", "".join(self._cell)).strip()
+            self._row.append(text)
+            self._hrefs.append(self._cell_href)
+            self._cell, self._cell_href = None, ""
+        elif tag == "tr" and self._row is not None:
+            if self._row:
+                self.rows.append(self._row)
+                self.hrefs.append(self._hrefs)
+            self._row, self._hrefs = None, None
+
+    def handle_data(self, data):
+        if self._cell is not None:
+            self._cell.append(data)
+
+
+def _column_map(header: list[str]) -> dict[str, int]:
+    mapping: dict[str, int] = {}
+    for idx, cell in enumerate(header):
+        low = cell.lower()
+        for hint, name in _COLUMN_HINTS:
+            if hint in low and name not in mapping:
+                mapping[name] = idx
+                break
+    return mapping
+
+
+def _looks_like_header(row: list[str]) -> bool:
+    low = " ".join(row).lower()
+    return "date" in low and ("event" in low or "title" in low)
+
+
+def _infer_year(month: int, day: int, today: datetime) -> int:
+    """19hz omits the year. A month more than one behind today has rolled
+    over into next year."""
+    year = today.year
+    if month < today.month - 1:
+        year += 1
+    elif month == today.month and day < today.day - 20:
+        year += 1
+    return year
+
+
+def parse_datetime(cell: str, tz, today: datetime | None = None
+                   ) -> tuple[datetime, datetime] | None:
+    """Parse a 19hz date cell like 'Fri: Sep 05 (10pm-4am)'."""
+    today = today or datetime.now(tz)
+    m = _DATE_RE.search(cell)
+    if not m:
+        return None
+    month = _MONTHS[m.group("month").lower()[:3]]
+    day = int(m.group("day"))
+    year = _infer_year(month, day, today)
+
+    times = _TIME_RE.findall(cell)
+    start_h, start_min = 21, 0  # club-night default when no time is given
+    if times:
+        start_h, start_min = _to_24h(times[0])
+    try:
+        start = datetime(year, month, day, start_h, start_min, tzinfo=tz)
+    except ValueError:
+        return None
+
+    if len(times) > 1:
+        end_h, end_min = _to_24h(times[1])
+        end = datetime(year, month, day, end_h, end_min, tzinfo=tz)
+        if end <= start:  # after-hours listing crossing midnight
+            end += timedelta(days=1)
+    else:
+        end = start + timedelta(hours=4)
+    return start, end
+
+
+def _to_24h(match: tuple[str, str, str]) -> tuple[int, int]:
+    h = int(match[0]) % 12
+    minute = int(match[1]) if match[1] else 0
+    if match[2].lower() == "pm":
+        h += 12
+    return h, minute
+
+
+def parse_price(cell: str) -> tuple[float | None, float | None, bool]:
+    """'Free', '$20', '$20-$30', 'Free b4 11pm/$15' -> (min, max, is_free)."""
+    amounts = [float(a) for a in _PRICE_RE.findall(cell or "")]
+    free = bool(_FREE_RE.search(cell or ""))
+    if free and not amounts:
+        return 0.0, 0.0, True
+    if not amounts:
+        return None, None, False
+    lo, hi = min(amounts), max(amounts)
+    if free:
+        lo = 0.0
+    return lo, hi, lo == 0.0 and hi == 0.0
+
+
+def parse_html(src: str, log: logging.Logger, tz=None,
+               today: datetime | None = None) -> list[Event]:
+    parser = _TableParser()
+    try:
+        parser.feed(src)
+    except Exception as e:  # noqa: BLE001
+        log.warning("19hz: HTML parse failed: %s", e)
+        return []
+
+    out: list[Event] = []
+    columns: dict[str, int] = {}
+    skipped = 0
+    for row, hrefs in zip(parser.rows, parser.hrefs):
+        if _looks_like_header(row):
+            columns = _column_map(row)
+            continue
+        if not columns or len(row) < 2:
+            continue
+        date_cell = _cell(row, columns, "date")
+        title_cell = _cell(row, columns, "title")
+        if not date_cell or not title_cell:
+            continue
+        when = parse_datetime(date_cell, tz, today)
+        if when is None:
+            skipped += 1
+            continue
+        start, end = when
+
+        title, _, venue = title_cell.partition(" @ ")
+        tags = _cell(row, columns, "tags")
+        price_cell = _cell(row, columns, "price")
+        price_min, price_max, free = parse_price(price_cell)
+        url = ""
+        idx = columns.get("title")
+        if idx is not None and idx < len(hrefs):
+            url = hrefs[idx]
+        if not url:
+            link_idx = columns.get("links")
+            if link_idx is not None and link_idx < len(hrefs):
+                url = hrefs[link_idx]
+
+        genres = tuple(t.strip() for t in re.split(r"[,/]", tags) if t.strip())
+        details = [p for p in (venue.strip(), price_cell,
+                               _cell(row, columns, "age"),
+                               _cell(row, columns, "organizer")) if p]
+        out.append(Event(
+            event_id=f"19hz-{start:%Y%m%d}-"
+                     f"{re.sub(r'[^a-z0-9]+', '', title.lower())[:24]}",
+            title=title.strip() or title_cell,
+            start=start, end=end,
+            location=venue.strip(),
+            description=" | ".join(details),
+            url=url,
+            source="19hz",
+            venue=venue.strip(),
+            price_min=price_min, price_max=price_max, is_free=free,
+            genres=genres,
+        ))
+    if skipped:
+        log.info("  19hz: skipped %d rows with unparseable dates", skipped)
+    return out
+
+
+def _cell(row: list[str], columns: dict[str, int], name: str) -> str:
+    idx = columns.get(name)
+    if idx is None or idx >= len(row):
+        return ""
+    return row[idx]
+
+
+def fetch(config: dict, log: logging.Logger) -> list[Event]:
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo(str(config.get("local_tz", "America/Los_Angeles")))
+    except Exception:  # noqa: BLE001
+        tz = None
+    raw = http_get(URL, log)
+    if not raw:
+        return []
+    events = parse_html(raw.decode("utf-8", "replace"), log, tz=tz)
+    log.info("  19hz: %d events", len(events))
+    return events

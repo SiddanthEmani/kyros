@@ -1,9 +1,9 @@
 # kyros
 
-> **An iCalendar feed of the highest-signal AI events in the SF Bay Area,
-> refreshed every 6 hours.** Ranked by host reputation, filtered for
-> technical depth, skips events that clash with your work day. One URL —
-> subscribe from any calendar app.
+> **An iCalendar feed of the best events in the SF Bay Area — EDM, concerts,
+> free things to do, and AI talks — refreshed every 6 hours.** San Jose
+> first, the rest of the Bay right behind it. One URL — subscribe from any
+> calendar app.
 
 [![refresh](https://github.com/SiddanthEmani/kyros/actions/workflows/refresh.yml/badge.svg)](https://github.com/SiddanthEmani/kyros/actions/workflows/refresh.yml)
 [![calendar feed](https://img.shields.io/badge/feed-events.ics-blue?logo=apple)](https://raw.githubusercontent.com/SiddanthEmani/kyros/main/events.ics)
@@ -16,23 +16,21 @@
 &nbsp;— one tap on Android or desktop. Google Calendar (app or web) opens
 straight to the "Subscribe" prompt, already filled in.
 
-Or add the raw feed URL manually:
+Or add a raw feed URL manually. Everything lives under
+`https://raw.githubusercontent.com/SiddanthEmani/kyros/main/`:
 
-```
-https://raw.githubusercontent.com/SiddanthEmani/kyros/main/events.ics
-```
+| feed | what's in it |
+|---|---|
+| `events.ics` | **everything**, tagged `[EDM]` / `[Live]` / `[AI]` / `[Free]` / `[Bay]` |
+| `feeds/edm.ics` | electronic — club nights, warehouse parties, festivals |
+| `feeds/music.ics` | all live music: concerts + EDM |
+| `feeds/free.ics` | free events only |
+| `feeds/ai.ics` | AI talks, demos, hackathons (the original kyros feed) |
 
 - **Apple Calendar** &nbsp;`File → New Calendar Subscription` → paste URL
 - **Google Calendar / Android** &nbsp;use the one-tap link above, or on
-  desktop: `Other calendars → + → From URL` → paste URL. Either way it
-  syncs to the Google account, so it shows up in the Android app
-  automatically.
+  desktop: `Other calendars → + → From URL` → paste URL
 - **Outlook / Fantastical / anything else** &nbsp;Add subscription by URL
-
-The feed refreshes four times a day. You'll see the next ~30 days of
-hand-rankable AI talks, demos, hackathons, and salons — without the noise
-of "AI for Founders Networking Drinks" or "Asian American Voices in Tech"
-that Luma's `category=ai` lumps in.
 
 `kyros` (κῦρος): authority, weight, signal over noise.
 
@@ -41,66 +39,114 @@ that Luma's `category=ai` lumps in.
 ## How it works
 
 ```
-Luma discover  ─►  filter  ─►  rank  ─►  cap  ─►  events.ics  ─►  your calendar
-   ~1700/day      ~250 left    top 40    every 6h     subscribe once
+Luma ┐
+ TM  ├─►  classify  ─►  geo filter  ─►  dedup  ─►  rank  ─►  cap  ─►  5 feeds
+19hz │     5 buckets     50mi of SJ    merge      SJ first   per cat    every 6h
+Fun. ┘
 ```
 
-1. **Fetch** — scrapes Luma's server-rendered discover HTML and paginates
-   the JSON discover API across SF, San Jose, and global-virtual events
-   for the next 30 days. Falls back to a CORS relay when the runner IP
-   is blocked.
-2. **Filter** — drops events past the horizon, events that don't mention
-   AI vocabulary in the title or host calendar (catches the Luma
-   `category=ai` leak), events outside SF/SJ, and weekday events that
-   start before 5 PM local.
-3. **Rank** — scores by host reputation (LangChain, Snorkel, Modal,
-   DeepMind, AI Tinkerers, …), technical title vocabulary (RAG, agentic,
-   evals, fine-tuning, …), and lightly penalizes purely-social titles.
-4. **Cap** — keeps the top N (default 40) and writes a clean `.ics`.
+1. **Fetch** — four sources, each isolated so a dead site can't take down a
+   refresh:
+   - **Luma** — AI talks, demos and hackathons. Scrapes the server-rendered
+     discover HTML and paginates the JSON discover API, falling back through
+     CORS relays when the runner IP is blocked.
+   - **Ticketmaster** — concerts and ticketed shows within 50 miles of
+     downtown San Jose (SAP Center, Shoreline, The Ritz, Fox Oakland, Chase
+     Center). Needs a free API key; skips itself without one.
+   - **19hz** — the Bay Area's electronic music listing. Its table is
+     hand-maintained, so columns are located by header text rather than
+     position.
+   - **Funcheap** — free and cheap events, region by region, South Bay first.
+2. **Classify** — each event lands in one or more of `ai`, `edm`, `concert`,
+   `free`, `community`. Anything that matches nothing is dropped, which is
+   what keeps "Networking Drinks" out of the feed.
+3. **Geo** — resolved to a Bay city and region by coordinates when a source
+   gives them, else by city and venue names. Outside 50 miles of San Jose
+   is dropped.
+4. **Dedup** — the same show arrives from Ticketmaster *and* 19hz *and*
+   Funcheap. Matches merge, so one event keeps Ticketmaster's price and
+   19hz's genre tags.
+5. **Rank & cap** — per-category scoring plus a **San Jose / South Bay
+   boost**, so SJ wins the caps while a strong SF show still makes it. Caps
+   are per category, then a combined cap over the union.
+6. **Write** — the combined `events.ics` plus the four category feeds.
 
-## How to run it yourself
+If a refresh collapses (blocked IP, changed markup), the run **fails loudly
+and keeps the existing feeds** rather than publishing an empty calendar.
 
-Fork the repo, enable Actions, done. The `kyros-refresh` workflow runs
-every 6 hours (00, 06, 12, 18 UTC), regenerates `events.ics`, and
-commits it back. Anyone subscribed to your raw URL gets the refresh
-automatically.
+## The Ticketmaster key (optional)
 
-No secrets, no API keys, no servers — just a `.ics` file in a public
-repo. Run locally with `python run.py` if you want to inspect.
+Concert coverage is much better with one. Grab a free key at
+[developer.ticketmaster.com](https://developer.ticketmaster.com/) (5,000
+calls/day; a refresh uses ~10) and add it as a repository secret named
+`TICKETMASTER_API_KEY`. Without it, that source logs `no key, skipping` and
+everything else still builds.
+
+## Running it locally
+
+```bash
+pip install -r requirements-dev.txt
+
+python run.py                      # build the feeds
+python run.py --explain            # ...and log the ranked keep-list per category
+python run.py --dry-run --explain  # fetch and rank, write nothing
+python run.py --offline --explain  # run the whole pipeline off committed fixtures
+python -m pytest -q                # offline parser + pipeline tests
+```
+
+`--ics-path` puts the combined feed anywhere; the category feeds follow it
+into the same directory, so a scratch run stays out of the repo:
+
+```bash
+python run.py --offline --ics-path /tmp/kyros/events.ics
+```
 
 ## Configuration (`config.json`)
 
 | key | default | meaning |
 |---|---|---|
-| `cities` | `["san-francisco", "san-jose"]` | Luma `city_slug`s to query |
-| `include_virtual_global` | `true` | also fetch virtual / global events |
 | `lookahead_days` | `30` | drop events past this horizon |
-| `min_weekday_hour_local` | `17` | weekday events must start at/after this hour, in `local_tz`. `0` disables |
-| `local_tz` | `"America/Los_Angeles"` | IANA tz for the schedule check |
-| `max_events_per_run` | `40` | top-N cap after ranking. `0` = unlimited |
+| `local_tz` | `"America/Los_Angeles"` | IANA tz for every schedule check |
+| `center` | SJ, `radius_miles: 50` | what counts as "around the area" |
+| `region_boost` | south-bay `3.0`, peninsula `1.5`, sf/east-bay `0.5` | the San Jose priority dial; San Jose proper gets `+1.0` on top |
+| `free_bonus` | `1.0` | score bonus for free events |
+| `sources` | all `true` | turn an individual source off |
+| `cities` / `luma_categories` | SJ, SF, Oakland, Palo Alto / `["ai"]` | Luma discover scope |
+| `ticketmaster_classifications` | `["music"]` | Discovery classifications to query |
+| `categories.<name>.cap` | 8–15 | top-N per category |
+| `categories.<name>.min_weekday_hour_local` | `16`–`17` | weekday events must start at/after this hour; weekends always pass |
+| `combined_cap` | `60` | cap on the combined feed |
+| `prefix_titles` | `true` | `[EDM]`-style tags in the combined feed |
+| `min_events_floor` | `5` | below this, keep the old feeds and fail the run |
+
+Old flat configs still work: `min_weekday_hour_local` and
+`max_events_per_run` are read and mapped onto the new shape.
 
 ## Files
 
 ```
-run.py                         # the entire job
+run.py                         # CLI entry point
+kyros/
+  config.py  http.py  model.py # config, fetching, the Event record
+  geo.py                       # Bay city registry, radius, SJ boost
+  classify.py  rank.py         # categories and per-category scoring
+  dedup.py  ics.py             # cross-source merge, feed writing
+  pipeline.py                  # fetch -> filter -> rank -> write
+  sources/                     # luma, ticketmaster, nineteenhz, funcheap
+tests/                         # offline, fixture-driven
+scripts/fetch_fixtures.py      # refresh fixtures when a site changes
 config.json                    # user-editable
-requirements.txt               # icalendar
 .github/workflows/refresh.yml  # 6-hourly schedule
-events.ics                     # output (committed by CI)
+events.ics  feeds/*.ics        # output (committed by CI)
 ```
 
 ## Why this exists
 
-I wanted one calendar I could open on Sunday night and see every meaningful
-AI talk in SF for the coming weeks — without scrolling through Luma's
-"AI Founders Networking Drinks" or "Asian American Voices in Tech" that
-its `category=ai` tag lumps in. The signal-to-noise on the raw discover
-feed is brutal, and the events I actually want are spread across 50+
-calendars.
-
-`kyros` is the small cron that does that filtering for me, and the public
-`.ics` URL means I can subscribe from any device and never think about it
-again.
+It started as one calendar I could open on Sunday night and see every
+meaningful AI talk in the Bay for the coming weeks. The same filtering turns
+out to be exactly what the rest of a week needs — which warehouse party is
+worth the drive, which show at The Ritz is on sale, what's free downtown this
+weekend — without scrolling five sites that each cover a third of it.
 
 ## License
 

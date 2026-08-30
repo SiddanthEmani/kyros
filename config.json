@@ -1,11 +1,37 @@
 {
-  "cities": [
-    "san-francisco",
-    "san-jose"
-  ],
-  "include_virtual_global": true,
-  "local_tz": "America/Los_Angeles",
   "lookahead_days": 30,
-  "max_events_per_run": 40,
-  "min_weekday_hour_local": 17
+  "local_tz": "America/Los_Angeles",
+
+  "center": { "lat": 37.3382, "lon": -121.8863, "radius_miles": 50 },
+  "region_boost": {
+    "south-bay": 3.0,
+    "peninsula": 1.5,
+    "sf": 0.5,
+    "east-bay": 0.5,
+    "north-bay": 0.0,
+    "bay-area": 0.0
+  },
+  "free_bonus": 1.0,
+
+  "sources": {
+    "luma": true,
+    "ticketmaster": true,
+    "nineteenhz": true,
+    "funcheap": true
+  },
+  "cities": ["san-jose", "san-francisco", "oakland", "palo-alto"],
+  "luma_categories": ["ai"],
+  "include_virtual_global": true,
+  "ticketmaster_classifications": ["music"],
+
+  "categories": {
+    "ai":        { "enabled": true, "cap": 12, "min_weekday_hour_local": 17 },
+    "edm":       { "enabled": true, "cap": 15, "min_weekday_hour_local": 16 },
+    "concert":   { "enabled": true, "cap": 15, "min_weekday_hour_local": 16 },
+    "free":      { "enabled": true, "cap": 12, "min_weekday_hour_local": 17 },
+    "community": { "enabled": true, "cap": 8,  "min_weekday_hour_local": 17 }
+  },
+  "combined_cap": 60,
+  "prefix_titles": true,
+  "min_events_floor": 5
 }
