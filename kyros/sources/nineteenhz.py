@@ -214,7 +214,12 @@ def parse_html(src: str, log: logging.Logger, tz=None,
             if link_idx is not None and link_idx < len(hrefs):
                 url = hrefs[link_idx]
 
+        # Every row on this page is electronic music, whatever the title
+        # says, so vouch for the genre rather than relying on the title
+        # regex — most rows are just a promoter and an artist name.
         genres = tuple(t.strip() for t in re.split(r"[,/]", tags) if t.strip())
+        if not any("electronic" in g.lower() for g in genres):
+            genres += ("electronic",)
         details = [p for p in (venue.strip(), price_cell,
                                _cell(row, columns, "age"),
                                _cell(row, columns, "organizer")) if p]
@@ -230,6 +235,11 @@ def parse_html(src: str, log: logging.Logger, tz=None,
             venue=venue.strip(),
             price_min=price_min, price_max=price_max, is_free=free,
             genres=genres,
+            # The listing is Bay-Area-only, so a venue we cannot place is
+            # still in the Bay; geo.OUT_OF_AREA excludes its Sacramento and
+            # Tahoe rows. The price column is authoritative.
+            region_hint="bay-area",
+            price_text_trusted=True,
         ))
     if skipped:
         log.info("  19hz: skipped %d rows with unparseable dates", skipped)

@@ -181,6 +181,14 @@ VENUE_CITY: dict[str, str] = {
 
 _STATE_SUFFIX_RE = re.compile(r",\s*(?:ca|california)\b", re.IGNORECASE)
 
+# Places a Bay-Area-scoped source still mentions, which are not the Bay.
+# Checked before any region hint is applied.
+OUT_OF_AREA = (
+    "sacramento", "reno", "tahoe", "truckee", "davis", "stockton",
+    "modesto", "fresno", "chico", "monterey", "carmel", "salinas",
+    "los angeles", "san diego", "las vegas", "portland", "seattle",
+)
+
 
 def haversine_miles(lat1: float, lon1: float,
                     lat2: float, lon2: float) -> float:
@@ -312,10 +320,17 @@ def resolve(event) -> None:
     event.city = city
     if city:
         event.region = BAY_CITIES[city][0]
-    elif event.lat is not None and event.lon is not None:
+        return
+    if event.lat is not None and event.lon is not None:
         # Coordinates we couldn't snap to a city: still Bay if close enough.
         d = haversine_miles(event.lat, event.lon, SJ_LAT, SJ_LON)
         event.region = BAY_AREA if d <= 75 else ""
+        return
+    # No city, no coordinates. A source that only covers one area can still
+    # vouch for the event — unless the text names somewhere else entirely.
+    haystack = f"{event.location} {event.venue} {event.title}".lower()
+    if event.region_hint and not any(p in haystack for p in OUT_OF_AREA):
+        event.region = event.region_hint
     else:
         event.region = ""
 

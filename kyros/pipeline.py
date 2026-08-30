@@ -144,33 +144,44 @@ def filter_and_rank(events: list, config: dict,
     tz = _tz(config)
     drops = {"lookahead": 0, "uncategorized": 0, "geo": 0,
              "schedule": 0, "nokey": 0}
-    kept: list = []
+    # Same counts split by source. Without this, "19hz fetched 518 events
+    # and none reached the feed" needs guesswork to explain.
+    by_source: dict[str, dict[str, int]] = {}
 
+    def _drop(ev, reason: str) -> None:
+        drops[reason] += 1
+        src = ev.source.split("/")[0] or "?"
+        by_source.setdefault(src, {}).setdefault(reason, 0)
+        by_source[src][reason] += 1
+
+    kept: list = []
     enrich(events, config)
     for ev in events:
         if not in_lookahead(ev, int(config.get("lookahead_days", 30))):
-            drops["lookahead"] += 1
+            _drop(ev, "lookahead")
             continue
         if not ev.categories:
-            drops["uncategorized"] += 1
+            _drop(ev, "uncategorized")
             continue
         if not geo.in_scope(ev, config):
-            drops["geo"] += 1
+            _drop(ev, "geo")
             continue
         if not fits_schedule(ev, config, tz):
-            drops["schedule"] += 1
+            _drop(ev, "schedule")
             continue
         if not ev.dedup_key():
-            drops["nokey"] += 1
+            _drop(ev, "nokey")
             continue
         kept.append(ev)
     log.info("Drop breakdown: %s", drops)
+    for src, reasons in sorted(by_source.items()):
+        log.info("  dropped from %-14s %s", src, reasons)
 
     before_dedup = len(kept)
     kept = merge_duplicates(kept, tz=tz, log=log)
 
-    stats: dict = {"drops": drops, "merged": before_dedup - len(kept),
-                   "categories": {}}
+    stats: dict = {"drops": drops, "drops_by_source": by_source,
+                   "merged": before_dedup - len(kept), "categories": {}}
     selected = apply_caps(kept, config, log, stats["categories"])
     selected.sort(key=lambda e: e.start)
     return selected, stats

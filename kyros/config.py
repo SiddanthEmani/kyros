@@ -35,7 +35,7 @@ DEFAULT_CONFIG: dict = {
         "nineteenhz": True, "funcheap": True,
     },
     # Luma discover slugs / categories (AI events).
-    "cities": ["san-jose", "san-francisco", "oakland", "palo-alto"],
+    "cities": ["san-francisco", "san-jose"],
     "luma_categories": ["ai"],
     "include_virtual_global": True,
     # Ticketmaster Discovery classifications to query.

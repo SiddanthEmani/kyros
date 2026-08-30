@@ -40,6 +40,22 @@ NEXT_DATA_RE = re.compile(
 
 _LUMA_HEADERS = {"Origin": "https://lu.ma", "Referer": "https://lu.ma/discover"}
 
+# The CORS relays are free services and are frequently down wholesale
+# (520/522/500 across every call). Retrying them per city burned 2.5 of a
+# 3-minute run for nothing, so once a relay has failed this many times it
+# is dropped for the rest of the run.
+_PROXY_FAILURE_LIMIT = 2
+_proxy_failures: dict[int, int] = {}
+
+
+def _proxy_usable(idx: int) -> bool:
+    return _proxy_failures.get(idx, 0) < _PROXY_FAILURE_LIMIT
+
+
+def reset_proxy_state() -> None:
+    """Test hook: forget which relays were written off."""
+    _proxy_failures.clear()
+
 
 def _get(url: str, log: logging.Logger) -> bytes | None:
     return http_get(url, log, headers=_LUMA_HEADERS)
@@ -125,8 +141,13 @@ def fetch_discover(city: str | None, category: str, lookahead_days: int,
                  " trying proxies", source, len(direct))
     merged = list(direct)
     for idx in range(len(PROXIES)):
+        if not _proxy_usable(idx):
+            log.info("  luma proxy #%d written off for this run, skipping", idx)
+            continue
         proxied = _run(via_proxy=idx)
         log.info("  luma proxy #%d for %s: %d events", idx, source, len(proxied))
+        if not proxied:
+            _proxy_failures[idx] = _proxy_failures.get(idx, 0) + 1
         merged.extend(proxied)
     return merged
 

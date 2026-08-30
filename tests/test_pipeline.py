@@ -40,7 +40,9 @@ def ev(title, **kw):
     ("SF Symphony: Mahler 5", {}, {"concert"}),
     ("Building agentic RAG systems", {"calendar_name": "AI Tinkerers"}, {"ai"}),
     ("San Jose Night Market", {}, {"community"}),
-    ("Free Outdoor Movie Night", {}, {"community", "free"}),
+    ("Free Outdoor Movie Night", {"price_text_trusted": True},
+     {"community", "free"}),
+    ("Free Outdoor Movie Night", {}, {"community"}),   # untrusted prose
     ("Happy Hour Networking Drinks", {}, set()),
 ])
 def test_classify(title, kwargs, expected):
@@ -50,8 +52,18 @@ def test_classify(title, kwargs, expected):
 def test_free_detection_from_price_fields():
     assert C.is_free(ev("Show", price_min=0.0, price_max=0.0))
     assert not C.is_free(ev("Show", price_min=0.0, price_max=15.0))
-    assert C.is_free(ev("Free entry all night"))
-    assert not C.is_free(ev("Free before 11pm, $20 after"))
+    assert C.is_free(ev("Free entry all night", price_text_trusted=True))
+    assert not C.is_free(ev("Free before 11pm, $20 after",
+                            price_text_trusted=True))
+
+
+def test_ticketed_source_prose_never_means_free():
+    """Ticketmaster blurbs say "free parking" and "smoke-free venue"; that
+    listed paid concerts in the free feed."""
+    paid = ev("Lido Pimienta", source="ticketmaster/music",
+              description="Free parking available. This is a smoke-free venue.")
+    assert not C.is_free(paid)
+    assert "free" not in C.classify(paid)
 
 
 # --- geography --------------------------------------------------------------
@@ -271,3 +283,50 @@ def test_report_appends_rather_than_truncating(tmp_path, log, monkeypatch):
                  report_path=path)
     assert path.read_text().startswith("earlier step output")
     assert "kyros pipeline check" in path.read_text()
+
+
+# --- regressions caught by the live PR check --------------------------------
+
+@pytest.mark.parametrize("title, genres", [
+    ("Lionel Richie and Earth, Wind & Fire", ("Music", "R&B", "Disco")),
+    ("House of Funk", ("Music", "Funk")),
+    ("Hail The Sun, A Lot Like Birds", ("Music", "Rock", "Hardcore")),
+    ("Temples", ("Music", "Rock", "Pop")),
+])
+def test_ambiguous_genre_words_are_not_edm(title, genres):
+    """house / disco / hardcore are ordinary band genres. Matching them
+    bare put all four of these in the EDM feed on the first live run."""
+    cats = C.classify(ev(title, genres=genres, source="ticketmaster/music"))
+    assert "edm" not in cats
+    assert "concert" in cats
+
+
+@pytest.mark.parametrize("title, genres", [
+    ("Steve Aoki - DIM MAK 30 TOUR", ("Music", "Dance/Electronic", "House")),
+    ("Flux Pavilion", ("Music", "Dance/Electronic", "Dubstep")),
+    ("Sunken Vessels: Anastasia Kristensen", ("techno", "electronic")),
+    ("Some Promoter Night", ("electronic",)),
+])
+def test_real_electronic_still_classifies_as_edm(title, genres):
+    assert "edm" in C.classify(ev(title, genres=genres))
+
+
+def test_bay_only_source_keeps_events_it_cannot_geocode():
+    """19hz names a venue and no city. Dropping those cost the entire
+    source: 518 events fetched, none reached the feed."""
+    cfg = load_config()
+    e = ev("Warehouse party", venue="Secret Location",
+           genres=("techno", "electronic"), region_hint="bay-area")
+    geo.resolve(e)
+    assert e.region == "bay-area"
+    assert geo.in_scope(e, cfg)
+
+
+def test_bay_only_source_still_excludes_out_of_area():
+    """That same listing carries Sacramento and Tahoe rows."""
+    cfg = load_config()
+    e = ev("Warehouse party", venue="Ace of Spades (Sacramento)",
+           genres=("techno",), region_hint="bay-area")
+    geo.resolve(e)
+    assert e.region == ""
+    assert not geo.in_scope(e, cfg)

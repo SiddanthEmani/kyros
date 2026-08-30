@@ -37,22 +37,35 @@ AI_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
-# Electronic / club / rave vocabulary. Matched against title, genre tags
-# and venue, so a 19hz row tagged "techno, warehouse" lands here even when
-# the title is just a promoter name.
-EDM_PATTERN = re.compile(
-    r"\bedm\b|\belectronic\b|\bdance/electronic\b|\bdance music\b"
-    r"|\bhouse\b|\btech[- ]?house\b|\bdeep house\b|\bafro[- ]?house\b"
-    r"|\btechno\b|\bminimal\b|\bhard ?techno\b|\btrance\b|\bpsytrance\b"
-    r"|\bdubstep\b|\briddim\b|\bbass(?:line| music)?\b|\bbreak(?:s|beat)\b"
-    r"|\bdrum ?(?:and|n|&) ?bass\b|\bdnb\b|\bd&b\b|\bjungle\b|\bgarage\b"
-    r"|\bukg\b|\bhardstyle\b|\bhardcore\b|\bgabber\b|\bdowntempo\b"
-    r"|\bdisco\b|\bnu[- ]?disco\b|\bfunky\b|\bacid\b|\belectro\b"
-    r"|\bdub\b|\bamapiano\b|\bbaile\b|\breggaeton\b|\bafrobeat[s]?\b"
-    r"|\brave\b|\bwarehouse\b|\bafter[- ]?hours\b|\bafters\b|\bb2b\b"
-    r"|\bdj\b|\bdjs\b|\bdj set\b|\bclub night\b|\bnightclub\b"
-    r"|\bopen[- ]?format\b|\bday ?party\b|\bboat party\b|\bsilent disco\b"
-    r"|\bsound ?system\b|\bselector[s]?\b|\bresidency\b",
+# Electronic music, split by how much a match is worth.
+#
+# STRONG terms mean electronic and nothing else. WEAK ones — house, disco,
+# bass, garage, dub, acid, hardcore — are also ordinary English and ordinary
+# band genres: matching them bare put "Lionel Richie and Earth, Wind & Fire"
+# (subgenre Disco), a post-hardcore bill, and a funk night called "House of
+# Funk" into the EDM feed. Only STRONG decides the category; WEAK is kept
+# for ranking, where a false positive is cheap.
+EDM_STRONG = re.compile(
+    r"\bedm\b|\belectronic\b|\bdance[/ ]electronic\b|\bdance music\b"
+    r"|\btechno\b|\bhard ?techno\b|\bminimal techno\b"
+    r"|\btrance\b|\bpsytrance\b|\bpsy[- ]?trance\b"
+    r"|\bdubstep\b|\briddim\b|\bbass music\b|\bbassline\b"
+    r"|\bdrum ?(?:and|n|&) ?bass\b|\bdnb\b|\bd&b\b|\bjungle\b"
+    r"|\bbreakbeat\b|\bbreakcore\b|\buk ?garage\b|\bukg\b|\bspeed garage\b"
+    r"|\btech[- ]house\b|\bdeep house\b|\bafro[- ]?house\b|\bacid house\b"
+    r"|\bprogressive house\b|\bhouse music\b|\bmelodic house\b"
+    r"|\bhardstyle\b|\bgabber\b|\bhard dance\b|\bhappy hardcore\b"
+    r"|\bnu[- ]?disco\b|\bitalo\b|\bamapiano\b|\bafro ?beats?\b"
+    r"|\bdowntempo\b|\belectro\b|\bsynthwave\b|\bidm\b|\bambient\b"
+    r"|\brave\b|\bwarehouse\b|\bafter[- ]?hours\b|\bafters\b"
+    r"|\bb2b\b|\bdj set\b|\bdjs?\b|\bsilent disco\b|\bboiler room\b"
+    r"|\bsound ?system\b|\bselectors?\b|\bopen decks\b|\bclub night\b",
+    re.IGNORECASE,
+)
+# Ambiguous on their own — never sufficient, only a ranking nudge.
+EDM_WEAK = re.compile(
+    r"\bhouse\b|\bdisco\b|\bbass\b|\bgarage\b|\bdub\b|\bacid\b"
+    r"|\bhardcore\b|\bnightclub\b|\bday ?party\b|\bresidency\b",
     re.IGNORECASE,
 )
 
@@ -114,6 +127,10 @@ def is_free(event) -> bool:
         return True
     if event.price_min is not None:
         return event.price_min <= 0 and not (event.price_max or 0) > 0
+    if not event.price_text_trusted:
+        # A ticketing API's blurb says "free parking" and "smoke-free
+        # venue"; believing it listed paid concerts as free events.
+        return False
     text = f"{event.title} {event.description[:400]}"
     if FREE_TEXT_RE.search(text) and not PAID_HINT_RE.search(text):
         return True
@@ -129,7 +146,7 @@ def classify(event) -> set[str]:
     if AI_PATTERN.search(f"{event.title} | {event.calendar_name}"):
         cats.add(AI)
 
-    if EDM_PATTERN.search(hay):
+    if EDM_STRONG.search(hay):
         cats.add(EDM)
 
     # Ticketmaster stamps its segment/genre names onto event.genres, so a

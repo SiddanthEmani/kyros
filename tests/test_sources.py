@@ -25,7 +25,7 @@ def test_19hz_splits_title_and_venue(fixture_text, log):
     ev = _nineteenhz(fixture_text, log)[0]
     assert ev.title == "Sunken Vessels: Anastasia Kristensen"
     assert ev.venue == "Public Works (San Francisco)"
-    assert ev.genres == ("techno", "minimal")
+    assert ev.genres == ("techno", "minimal", "electronic")
     assert ev.url == "https://ra.co/events/2001"
 
 

@@ -102,6 +102,8 @@ def edm_base(event) -> float:
     score += _venue_tier(event)
     # A row tagged with real genres beats an untagged "club night".
     score += min(len(event.genres), 3) * 0.8
+    if C.EDM_WEAK.search(hay):
+        score += 0.3
     score -= sum(0.4 for k in SOCIAL_KW if k in event.title.lower())
     return score
 

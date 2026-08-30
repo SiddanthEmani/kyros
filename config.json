@@ -19,7 +19,7 @@
     "nineteenhz": true,
     "funcheap": true
   },
-  "cities": ["san-jose", "san-francisco", "oakland", "palo-alto"],
+  "cities": ["san-francisco", "san-jose"],
   "luma_categories": ["ai"],
   "include_virtual_global": true,
   "ticketmaster_classifications": ["music"],

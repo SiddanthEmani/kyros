@@ -24,6 +24,12 @@ NAME = "funcheap"
 BASE = "https://sf.funcheap.com"
 # South Bay first — it's the priority region and the thinnest coverage.
 REGIONS = ("san-jose", "south-bay", "peninsula", "san-francisco", "east-bay")
+# Feed slug -> the region its events are in, for items whose text names no
+# city we know.
+REGION_OF_FEED = {
+    "san-jose": "south-bay", "south-bay": "south-bay",
+    "peninsula": "peninsula", "san-francisco": "sf", "east-bay": "east-bay",
+}
 WP_POSTS = BASE + "/wp-json/wp/v2/posts?per_page=50&page=1&search={}"
 REGION_RSS = BASE + "/region/{}/feed/"
 
@@ -136,6 +142,8 @@ def _make_event(title: str, link: str, body: str, region: str,
         location=location, description=text[:1200], url=link,
         source=f"funcheap/{region}", venue=venue,
         price_min=price_min, price_max=price_max, is_free=free,
+        region_hint=REGION_OF_FEED.get(region, ""),
+        price_text_trusted=True,   # posts carry an explicit "Cost:" line
     )
 
 

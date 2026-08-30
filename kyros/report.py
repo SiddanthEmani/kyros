@@ -73,6 +73,18 @@ def build(selected: list, raw_count: int, source_counts: dict[str, int],
             f"{k} {v}" for k, v in drops.items() if v)
             + f" · merged {stats.get('merged', 0)} duplicates", ""]
 
+    by_source = stats.get("drops_by_source") or {}
+    if by_source:
+        lines += ["**Where each source's events were dropped**", "",
+                  "| source | " + " | ".join(
+                      ("lookahead", "uncategorized", "geo", "schedule"))
+                  + " |", "|---|---|---|---|---|"]
+        for src, reasons in sorted(by_source.items()):
+            lines.append(f"| `{src}` | " + " | ".join(
+                str(reasons.get(k, 0)) for k in
+                ("lookahead", "uncategorized", "geo", "schedule")) + " |")
+        lines.append("")
+
     cats = _category_table(stats.get("categories") or {})
     if cats:
         lines += cats + [""]

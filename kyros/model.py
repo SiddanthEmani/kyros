@@ -13,6 +13,7 @@ class Event:
         # enrichment
         "categories", "city", "region", "lat", "lon", "venue",
         "price_min", "price_max", "is_free", "genres",
+        "region_hint", "price_text_trusted",
     )
 
     def __init__(self, event_id: str, title: str, start: datetime,
@@ -23,7 +24,9 @@ class Event:
                  price_min: float | None = None,
                  price_max: float | None = None,
                  is_free: bool = False,
-                 genres: tuple[str, ...] = ()):
+                 genres: tuple[str, ...] = (),
+                 region_hint: str = "",
+                 price_text_trusted: bool = False):
         self.event_id = event_id or ""
         self.title = (title or "(untitled)").strip() or "(untitled)"
         self.start = start
@@ -41,6 +44,13 @@ class Event:
         self.price_max = price_max
         self.is_free = bool(is_free)
         self.genres = tuple(g for g in genres if g)
+        # Region to fall back on when the text names no known city. Set by
+        # sources that only ever publish one area (19hz is Bay-Area-only).
+        self.region_hint = region_hint
+        # Whether prose like "free" can be believed. True only for sources
+        # with an explicit cost line; a ticketing API's blurb says "free
+        # parking" and means nothing about admission.
+        self.price_text_trusted = bool(price_text_trusted)
         # Filled in later by geo.resolve() / classify.classify().
         self.categories: set[str] = set()
         self.city = ""
@@ -69,8 +79,10 @@ class Event:
         self.categories |= other.categories
         self.genres = tuple(dict.fromkeys(self.genres + other.genres))
         self.is_free = self.is_free or other.is_free
+        self.price_text_trusted = (self.price_text_trusted
+                                   or other.price_text_trusted)
         for field in ("location", "description", "url", "venue",
-                      "calendar_name", "city", "region"):
+                      "calendar_name", "city", "region", "region_hint"):
             if not getattr(self, field) and getattr(other, field):
                 setattr(self, field, getattr(other, field))
         for field in ("lat", "lon", "price_min", "price_max"):
