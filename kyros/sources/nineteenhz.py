@@ -21,6 +21,11 @@ from ..model import Event
 
 NAME = "nineteenhz"
 
+# What the last parse actually saw. The workflow log is only readable from
+# the tail, so the layout is reported at the end of a run rather than where
+# it is discovered — two failed fixes went in blind for want of this.
+LAST_LAYOUT: dict = {}
+
 URL = "https://19hz.info/eventlisting_BayArea.php"
 
 # Header keyword -> logical column. First match wins per header cell.
@@ -199,12 +204,15 @@ def parse_html(src: str, log: logging.Logger, tz=None,
     for row, hrefs in zip(parser.rows, parser.hrefs):
         if _looks_like_header(row):
             columns = _column_map(row)
-            log.info("  19hz header=%s -> columns=%s",
-                     [c[:22] for c in row], columns)
+            LAST_LAYOUT.setdefault("headers", []).append(
+                {"header": [c[:24] for c in row], "columns": dict(columns)})
             continue
         if not columns or len(row) < 2:
             continue
         offset = _row_offset(row, columns)
+        if "sample_row" not in LAST_LAYOUT:
+            LAST_LAYOUT["sample_row"] = [c[:24] for c in row]
+            LAST_LAYOUT["sample_offset"] = offset
         date_cell = _cell(row, columns, "date", offset)
         title_cell = _cell(row, columns, "title", offset)
         if not date_cell or not title_cell:
@@ -289,6 +297,7 @@ def _cell(row: list[str], columns: dict[str, int], name: str,
 
 
 def fetch(config: dict, log: logging.Logger) -> list[Event]:
+    LAST_LAYOUT.clear()
     try:
         from zoneinfo import ZoneInfo
         tz = ZoneInfo(str(config.get("local_tz", "America/Los_Angeles")))
