@@ -347,17 +347,31 @@ def test_dance_electronic_umbrella_needs_corroboration(genres, expected):
     assert ("edm" in C.classify(ev("Some Act", genres=genres))) is expected
 
 
-def test_curated_listing_can_win_a_cap_against_an_arena_show():
+def test_curated_listing_is_competitive_outside_san_jose():
     """19hz rows have no venue prestige and often no city, so they scored
-    below every Ticketmaster listing — 309 eligible, 0 selected."""
+    below every Ticketmaster listing — 309 eligible, 0 selected. A San Jose
+    show still outranks them (that is the whole point of the SJ boost); the
+    fix is that an unplaced Bay row is no longer worth nothing."""
     cfg = load_config()
     hz = ev("Direct to Earth: warehouse techno", event_id="a",
             venue="Secret Location", genres=("techno", "electronic"),
             source="19hz", region_hint="bay-area")
-    tm = ev("Big Room DJ", event_id="b", venue="SAP Center at San Jose",
+    sf = ev("Big Room DJ", event_id="b", venue="The Warfield",
+            location="San Francisco, CA", genres=("Music", "Dance/Electronic"),
+            source="ticketmaster/music")
+    sj = ev("Big Room DJ", event_id="c", venue="SAP Center at San Jose",
             location="San Jose, CA", genres=("Music", "Dance/Electronic"),
             source="ticketmaster/music")
-    for e in (hz, tm):
+    for e in (hz, sf, sj):
         geo.resolve(e)
         e.categories = C.classify(e)
-    assert rank.category_score(hz, "edm", cfg) > rank.category_score(tm, "edm", cfg)
+    score = lambda e: rank.category_score(e, "edm", cfg)   # noqa: E731
+    assert score(hz) > score(sf)      # was buried under every TM listing
+    assert score(sj) > score(hz)      # San Jose priority still wins
+
+
+def test_unplaced_bay_row_is_not_worth_zero():
+    cfg = load_config()
+    e = ev("Warehouse night", venue="Secret Location", region_hint="bay-area")
+    geo.resolve(e)
+    assert geo.region_boost(e, cfg) > 0
