@@ -330,3 +330,34 @@ def test_bay_only_source_still_excludes_out_of_area():
     geo.resolve(e)
     assert e.region == ""
     assert not geo.in_scope(e, cfg)
+
+
+@pytest.mark.parametrize("genres, expected", [
+    # Ticketmaster files Disco/Funk/Soul under the Dance/Electronic genre,
+    # so the umbrella label alone cannot mean "club night".
+    (("Music", "Dance/Electronic", "Disco"), False),
+    (("Music", "Dance/Electronic", "Funk"), False),
+    (("Music", "Dance/Electronic", "Soul"), False),
+    # A real electronic subgenre, or the umbrella with nothing contradicting.
+    (("Music", "Dance/Electronic", "House"), True),
+    (("Music", "Dance/Electronic", "Dubstep"), True),
+    (("Music", "Dance/Electronic"), True),
+])
+def test_dance_electronic_umbrella_needs_corroboration(genres, expected):
+    assert ("edm" in C.classify(ev("Some Act", genres=genres))) is expected
+
+
+def test_curated_listing_can_win_a_cap_against_an_arena_show():
+    """19hz rows have no venue prestige and often no city, so they scored
+    below every Ticketmaster listing — 309 eligible, 0 selected."""
+    cfg = load_config()
+    hz = ev("Direct to Earth: warehouse techno", event_id="a",
+            venue="Secret Location", genres=("techno", "electronic"),
+            source="19hz", region_hint="bay-area")
+    tm = ev("Big Room DJ", event_id="b", venue="SAP Center at San Jose",
+            location="San Jose, CA", genres=("Music", "Dance/Electronic"),
+            source="ticketmaster/music")
+    for e in (hz, tm):
+        geo.resolve(e)
+        e.categories = C.classify(e)
+    assert rank.category_score(hz, "edm", cfg) > rank.category_score(tm, "edm", cfg)

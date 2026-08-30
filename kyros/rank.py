@@ -94,9 +94,16 @@ def ai_base(event) -> float:
     return score
 
 
+# Sources whose whole editorial purpose is the category, and which carry
+# no venue prestige to score on.
+CURATED_EDM_SOURCES = ("19hz",)
+
+
 def edm_base(event) -> float:
     hay = f"{event.title} {event.venue} {event.calendar_name}".lower()
     score = 2.0
+    if any(s in event.source for s in CURATED_EDM_SOURCES):
+        score += 2.5
     if any(k in hay for k in EDM_REPUTABLE):
         score += 3.0
     score += _venue_tier(event)

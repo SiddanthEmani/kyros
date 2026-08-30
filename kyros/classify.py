@@ -62,6 +62,17 @@ EDM_STRONG = re.compile(
     r"|\bsound ?system\b|\bselectors?\b|\bopen decks\b|\bclub night\b",
     re.IGNORECASE,
 )
+# Ticketmaster files Disco, Funk and Soul *underneath* the
+# "Dance/Electronic" genre, so that label alone is not evidence of a club
+# night — it is how "Lionel Richie and Earth, Wind & Fire" reached the EDM
+# feed. When one of these appears alongside it, the act is the subgenre,
+# not the genre.
+NOT_CLUB_SUBGENRES = (
+    "disco", "funk", "soul", "r&b", "rnb", "motown", "pop", "rock",
+    "latin", "country", "folk", "metal", "punk", "hardcore", "reggae",
+    "jazz", "blues", "world", "singer", "songwriter",
+)
+
 # Ambiguous on their own — never sufficient, only a ranking nudge.
 EDM_WEAK = re.compile(
     r"\bhouse\b|\bdisco\b|\bbass\b|\bgarage\b|\bdub\b|\bacid\b"
@@ -113,6 +124,23 @@ FREE_TEXT_RE = re.compile(
 PAID_HINT_RE = re.compile(r"\$\s*[1-9]")
 
 
+def _is_electronic(event, hay: str) -> bool:
+    """EDM needs an unambiguous signal — and a taxonomy label that a
+    non-club act inherits does not count as one."""
+    match = EDM_STRONG.search(hay)
+    if not match:
+        return False
+    if match.group(0).lower().replace(" ", "/") not in ("dance/electronic",):
+        return True
+    # Matched only on the umbrella label: check what is filed under it.
+    genre_text = " ".join(event.genres).lower()
+    if any(sub in genre_text for sub in NOT_CLUB_SUBGENRES):
+        # Something more specific than the umbrella has to vouch for it.
+        rest = EDM_STRONG.sub("", hay, count=1)
+        return bool(EDM_STRONG.search(rest))
+    return True
+
+
 def _haystack(event) -> str:
     return " | ".join(filter(None, (
         event.title, event.calendar_name, event.venue,
@@ -146,7 +174,7 @@ def classify(event) -> set[str]:
     if AI_PATTERN.search(f"{event.title} | {event.calendar_name}"):
         cats.add(AI)
 
-    if EDM_STRONG.search(hay):
+    if _is_electronic(event, hay):
         cats.add(EDM)
 
     # Ticketmaster stamps its segment/genre names onto event.genres, so a

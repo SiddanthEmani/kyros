@@ -230,10 +230,11 @@ def explain(kept: list, config: dict, log: logging.Logger) -> None:
                   reverse=True)
         log.info("--- %s (%d) ---", cat, len(rows))
         for e in rows:
-            log.info("  %6.2f %s %-46s %-14s %s",
+            log.info("  %6.2f %s %-46s %-14s %-28s %s",
                      rank.category_score(e, cat, config),
                      e.start.strftime("%m-%d %H:%M"), e.title[:46],
-                     e.city or e.region or "?", e.source)
+                     e.city or e.region or "?",
+                     ",".join(e.genres)[:28], e.source)
 
 
 def run(ics_path: Path | None = None, dry_run: bool = False,

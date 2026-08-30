@@ -26,7 +26,7 @@ DEFAULT_CONFIG: dict = {
     # while keeping the rest of the Bay eligible.
     "region_boost": {
         "south-bay": 3.0, "peninsula": 1.5, "sf": 0.5,
-        "east-bay": 0.5, "north-bay": 0.0, "bay-area": 0.0,
+        "east-bay": 0.5, "north-bay": 0.0, "bay-area": 1.0,
     },
     "free_bonus": 1.0,
 
