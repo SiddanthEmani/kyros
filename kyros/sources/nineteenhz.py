@@ -54,7 +54,10 @@ _DATE_RE = re.compile(
     r"(?P<day>\d{1,2})", re.IGNORECASE)
 _TIME_RE = re.compile(
     r"(?P<h>\d{1,2})(?::(?P<m>\d{2}))?\s*(?P<ap>am|pm)", re.IGNORECASE)
-_PRICE_RE = re.compile(r"\$\s*(\d+(?:\.\d{2})?)")
+# "$19-30" is a range: only the first number carries the dollar sign, so a
+# per-number pattern silently reported the maximum as 19.
+_PRICE_RE = re.compile(
+    r"\$\s*(\d+(?:\.\d{2})?)(?:\s*[-–—]\s*\$?\s*(\d+(?:\.\d{2})?))?")
 _FREE_RE = re.compile(r"\bfree\b|\bno cover\b", re.IGNORECASE)
 
 
@@ -168,7 +171,8 @@ def _to_24h(match: tuple[str, str, str]) -> tuple[int, int]:
 
 def parse_price(cell: str) -> tuple[float | None, float | None, bool]:
     """'Free', '$20', '$20-$30', 'Free b4 11pm/$15' -> (min, max, is_free)."""
-    amounts = [float(a) for a in _PRICE_RE.findall(cell or "")]
+    amounts = [float(a) for pair in _PRICE_RE.findall(cell or "")
+               for a in pair if a]
     free = bool(_FREE_RE.search(cell or ""))
     if free and not amounts:
         return 0.0, 0.0, True
@@ -200,8 +204,9 @@ def parse_html(src: str, log: logging.Logger, tz=None,
             continue
         if not columns or len(row) < 2:
             continue
-        date_cell = _cell(row, columns, "date")
-        title_cell = _cell(row, columns, "title")
+        offset = _row_offset(row, columns)
+        date_cell = _cell(row, columns, "date", offset)
+        title_cell = _cell(row, columns, "title", offset)
         if not date_cell or not title_cell:
             continue
         when = parse_datetime(date_cell, tz, today)
@@ -211,17 +216,17 @@ def parse_html(src: str, log: logging.Logger, tz=None,
         start, end = when
 
         title, _, venue = title_cell.partition(" @ ")
-        tags = _cell(row, columns, "tags")
-        price_cell = _cell(row, columns, "price")
+        tags = _cell(row, columns, "tags", offset)
+        price_cell = _cell(row, columns, "price", offset)
         price_min, price_max, free = parse_price(price_cell)
         url = ""
         idx = columns.get("title")
-        if idx is not None and idx < len(hrefs):
-            url = hrefs[idx]
+        if idx is not None and 0 <= idx + offset < len(hrefs):
+            url = hrefs[idx + offset]
         if not url:
             link_idx = columns.get("links")
-            if link_idx is not None and link_idx < len(hrefs):
-                url = hrefs[link_idx]
+            if link_idx is not None and 0 <= link_idx + offset < len(hrefs):
+                url = hrefs[link_idx + offset]
 
         # Every row on this page is electronic music, whatever the title
         # says, so vouch for the genre rather than relying on the title
@@ -230,8 +235,8 @@ def parse_html(src: str, log: logging.Logger, tz=None,
         if not any("electronic" in g.lower() for g in genres):
             genres += ("electronic",)
         details = [p for p in (venue.strip(), price_cell,
-                               _cell(row, columns, "age"),
-                               _cell(row, columns, "organizer")) if p]
+                               _cell(row, columns, "age", offset),
+                               _cell(row, columns, "organizer", offset)) if p]
         out.append(Event(
             event_id=f"19hz-{start:%Y%m%d}-"
                      f"{re.sub(r'[^a-z0-9]+', '', title.lower())[:24]}",
@@ -255,9 +260,30 @@ def parse_html(src: str, log: logging.Logger, tz=None,
     return out
 
 
-def _cell(row: list[str], columns: dict[str, int], name: str) -> str:
+def _row_offset(row: list[str], columns: dict[str, int]) -> int:
+    """How far this row's cells sit from where the header said they would.
+
+    Data rows on the live page carry a leading cell the header row does not,
+    so header positions alone put the tags column where the title should be
+    and shipped events titled "house, tech house, techno". The date is the
+    one cell we can recognise by content, so it anchors the whole row.
+    """
+    want = columns.get("date")
+    if want is None:
+        return 0
+    for idx, cell in enumerate(row):
+        if _DATE_RE.search(cell):
+            return idx - want
+    return 0
+
+
+def _cell(row: list[str], columns: dict[str, int], name: str,
+          offset: int = 0) -> str:
     idx = columns.get(name)
-    if idx is None or idx >= len(row):
+    if idx is None:
+        return ""
+    idx += offset
+    if idx < 0 or idx >= len(row):
         return ""
     return row[idx]
 

@@ -163,3 +163,33 @@ def test_ticketmaster_builds_a_valid_request(fixture_text, log, monkeypatch):
     for field in ("startDateTime", "endDateTime"):
         assert params[field].endswith("Z") and "T" in params[field]
     assert len(events) == 2
+
+
+def test_19hz_rows_shifted_from_their_header(fixture_text, log):
+    """The live page's data rows carry a leading cell the header row lacks.
+    Trusting header positions shipped events titled "house, tech house,
+    techno" — the tags column — with price text as their genres."""
+    events = nineteenhz.parse_html(
+        fixture_text("19hz_shifted_rows.html"), log, tz=TZ, today=TODAY)
+    assert len(events) == 2
+
+    first = events[0]
+    assert first.title == "Housepitality w/ Kate Simko"
+    assert first.venue == "Public Works (San Francisco)"
+    assert first.genres == ("house", "tech house", "techno", "electronic")
+    assert (first.price_min, first.price_max) == (12.0, 30.0)
+    assert first.url == "https://tickets.example/xyz"
+    assert (first.start.hour, first.end.hour) == (22, 3)
+
+    second = events[1]
+    assert second.title == "Bass Odyssey"
+    assert second.venue == "The Ritz (San Jose)"
+    assert second.is_free
+
+
+def test_19hz_unshifted_rows_still_parse(fixture_text, log):
+    """The offset must be 0 when header and rows already line up."""
+    events = nineteenhz.parse_html(
+        fixture_text("19hz_bayarea.html"), log, tz=TZ, today=TODAY)
+    assert events[0].title == "Sunken Vessels: Anastasia Kristensen"
+    assert events[0].venue == "Public Works (San Francisco)"
