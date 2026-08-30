@@ -30,11 +30,15 @@ jobs:
       - name: Run tests
         run: python -m pytest -q
 
-      - name: Sync with main
+      - name: Sync with the branch being built
         run: |
           git config user.name  "kyros-bot"
           git config user.email "kyros-bot@users.noreply.github.com"
-          git pull --rebase --quiet origin main
+          # Pull the branch we are on, not main. actions/checkout clones
+          # shallow, so rebasing onto another branch's truncated history
+          # makes every file common to both an add/add conflict. On main
+          # this is the same no-op fast path it always was.
+          git pull --rebase --quiet origin "$GITHUB_REF_NAME"
 
       - name: Build feeds
         env:
