@@ -24,10 +24,16 @@ NAME = "nineteenhz"
 URL = "https://19hz.info/eventlisting_BayArea.php"
 
 # Header keyword -> logical column. First match wins per header cell.
+# Order matters: the first hint found in a header cell wins, so the most
+# specific phrasings come first. A generic "event" rule ahead of "tags"
+# lets a header like "Event Tags" steal the title column, which is exactly
+# how genre lists ended up as event titles in the feed.
 _COLUMN_HINTS = (
+    ("date/time", "date"),
     ("date", "date"),
-    ("event", "title"),
+    ("event title", "title"),
     ("title", "title"),
+    ("venue", "title"),
     ("tags", "tags"),
     ("genre", "tags"),
     ("price", "price"),
@@ -36,6 +42,7 @@ _COLUMN_HINTS = (
     ("organizer", "organizer"),
     ("promoter", "organizer"),
     ("link", "links"),
+    ("event", "title"),
 )
 
 _MONTHS = {m: i for i, m in enumerate(
@@ -188,6 +195,8 @@ def parse_html(src: str, log: logging.Logger, tz=None,
     for row, hrefs in zip(parser.rows, parser.hrefs):
         if _looks_like_header(row):
             columns = _column_map(row)
+            log.info("  19hz header=%s -> columns=%s",
+                     [c[:22] for c in row], columns)
             continue
         if not columns or len(row) < 2:
             continue
