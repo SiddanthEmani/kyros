@@ -168,9 +168,9 @@ def test_uncategorized_events_are_dropped(log):
     junk = ev("Networking Drinks", event_id="j", location="San Jose, CA")
     good = ev("Techno night", event_id="g", location="San Jose, CA",
               genres=("techno",))
-    kept, drops = pipeline.filter_and_rank([junk, good], cfg, log)
+    kept, stats = pipeline.filter_and_rank([junk, good], cfg, log)
     assert [e.title for e in kept] == ["Techno night"]
-    assert drops["uncategorized"] == 1
+    assert stats["drops"]["uncategorized"] == 1
 
 
 # --- feed output ------------------------------------------------------------
@@ -206,7 +206,68 @@ def test_publish_guard_keeps_existing_feed(tmp_path, log, monkeypatch):
     out = tmp_path / "events.ics"
     out.write_bytes(b"BEGIN:VCALENDAR\nEND:VCALENDAR\n")
     monkeypatch.setattr(pipeline, "fetch_all",
-                        lambda cfg, log, offline=False: [])
+                        lambda cfg, log, offline=False: ([], {}))
     rc = pipeline.run(ics_path=out)
     assert rc == 1
     assert out.read_bytes().startswith(b"BEGIN:VCALENDAR")
+
+
+# --- run report -------------------------------------------------------------
+
+def test_fetch_all_reports_per_source_counts(log, monkeypatch):
+    """A source that quietly returns nothing is the failure mode these
+    parsers actually have, so the count has to survive to the report."""
+    from kyros import sources
+
+    def ok(cfg, lg):
+        return [ev("Techno night", event_id="a", location="San Jose, CA")]
+
+    def dead(cfg, lg):
+        return []
+
+    def broken(cfg, lg):
+        raise RuntimeError("site changed")
+
+    monkeypatch.setattr(sources, "SOURCES",
+                        {"ok": ok, "dead": dead, "broken": broken})
+    monkeypatch.setattr(pipeline, "SOURCES", sources.SOURCES)
+    events, counts = pipeline.fetch_all(load_config(), log)
+    assert len(events) == 1
+    assert counts == {"ok": 1, "dead": 0, "broken": -1}
+
+
+def test_report_flags_dead_sources(tmp_path, log):
+    from kyros import report
+    cfg = load_config()
+    e = ev("Techno night", event_id="e1", location="San Jose, CA",
+           genres=("techno",))
+    geo.resolve(e)
+    e.categories = C.classify(e)
+    text = report.build([e], 5, {"19hz": 4, "funcheap": 0, "luma": -1},
+                        {"drops": {"geo": 2}, "merged": 1,
+                         "categories": {"edm": {"eligible": 1, "kept": 1}}},
+                        cfg)
+    assert "1 events selected" in text
+    assert "no events from" in text and "funcheap" in text
+    assert "raised an exception" in text          # luma
+    assert "Techno night" in text
+
+
+def test_require_events_fails_a_collapsed_run(tmp_path, log, monkeypatch):
+    monkeypatch.setattr(pipeline, "fetch_all",
+                        lambda cfg, log, offline=False: ([], {}))
+    rc = pipeline.run(ics_path=tmp_path / "events.ics", dry_run=True,
+                      require_events=1)
+    assert rc == 1
+
+
+def test_report_appends_rather_than_truncating(tmp_path, log, monkeypatch):
+    """$GITHUB_STEP_SUMMARY may already hold earlier steps' output."""
+    monkeypatch.setattr(pipeline, "fetch_all",
+                        lambda cfg, log, offline=False: ([], {}))
+    path = tmp_path / "summary.md"
+    path.write_text("earlier step output\n")
+    pipeline.run(ics_path=tmp_path / "events.ics", dry_run=True,
+                 report_path=path)
+    assert path.read_text().startswith("earlier step output")
+    assert "kyros pipeline check" in path.read_text()

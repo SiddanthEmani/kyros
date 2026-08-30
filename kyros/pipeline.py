@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import classify as C
-from . import geo, ics, rank
+from . import geo, ics, rank, report
 from .config import PROJECT_DIR, category_config, enabled_categories, \
     load_config, source_enabled
 from .dedup import merge_duplicates
@@ -66,14 +66,21 @@ def prune_old_logs() -> None:
 # ---------------------------------------------------------------------------
 
 def fetch_all(config: dict, log: logging.Logger,
-              offline: bool = False) -> list:
+              offline: bool = False) -> tuple[list, dict[str, int]]:
     """Run every enabled source. A source that raises is logged and
-    skipped — a dead site must not take down the whole refresh."""
+    skipped — a dead site must not take down the whole refresh.
+
+    Returns the events plus a per-source count. The count is what the PR
+    check reports on: a source that silently starts returning nothing is
+    the failure mode these parsers actually have.
+    """
     if offline:
         from .sources import offline as offline_source
         log.info("Offline mode: reading committed fixtures")
-        return offline_source.fetch(config, log)
+        got = offline_source.fetch(config, log)
+        return got, {"offline-fixtures": len(got)}
     events: list = []
+    counts: dict[str, int] = {}
     for name, fetch in SOURCES.items():
         if not source_enabled(config, name):
             log.info("Source %s disabled in config", name)
@@ -83,10 +90,12 @@ def fetch_all(config: dict, log: logging.Logger,
             got = fetch(config, log)
         except Exception as e:  # noqa: BLE001
             log.exception("Source %s failed: %s", name, e)
+            counts[name] = -1          # -1 = raised, distinct from 0
             continue
         log.info("Source %s: %d raw events", name, len(got))
+        counts[name] = len(got)
         events.extend(got)
-    return events
+    return events, counts
 
 
 # ---------------------------------------------------------------------------
@@ -128,6 +137,8 @@ def enrich(events: list, config: dict) -> None:
 
 def filter_and_rank(events: list, config: dict,
                     log: logging.Logger) -> tuple[list, dict]:
+    """Returns (selected, stats). stats carries the drop breakdown and the
+    per-category eligible/kept counts for the run report."""
     """Apply lookahead, category, geo and schedule filters, dedup across
     sources, then rank and cap per category."""
     tz = _tz(config)
@@ -155,14 +166,18 @@ def filter_and_rank(events: list, config: dict,
         kept.append(ev)
     log.info("Drop breakdown: %s", drops)
 
+    before_dedup = len(kept)
     kept = merge_duplicates(kept, tz=tz, log=log)
 
-    selected = apply_caps(kept, config, log)
+    stats: dict = {"drops": drops, "merged": before_dedup - len(kept),
+                   "categories": {}}
+    selected = apply_caps(kept, config, log, stats["categories"])
     selected.sort(key=lambda e: e.start)
-    return selected, drops
+    return selected, stats
 
 
-def apply_caps(kept: list, config: dict, log: logging.Logger) -> list:
+def apply_caps(kept: list, config: dict, log: logging.Logger,
+               stats: dict | None = None) -> list:
     """Per-category caps first (so every category gets its share), then
     the combined cap over the union."""
     chosen: list = []
@@ -175,6 +190,8 @@ def apply_caps(kept: list, config: dict, log: logging.Logger) -> list:
         picked = pool[:cap] if cap > 0 else pool
         log.info("Category %-9s: %d eligible -> %d kept", cat, len(pool),
                  len(picked))
+        if stats is not None:
+            stats[cat] = {"eligible": len(pool), "kept": len(picked)}
         for e in picked:
             if id(e) not in seen:
                 seen.add(id(e))
@@ -210,7 +227,8 @@ def explain(kept: list, config: dict, log: logging.Logger) -> None:
 
 def run(ics_path: Path | None = None, dry_run: bool = False,
         show_explain: bool = False, config_path: Path | None = None,
-        offline: bool = False) -> int:
+        offline: bool = False, report_path: Path | None = None,
+        require_events: int = 0) -> int:
     log = setup_logging()
     prune_old_logs()
     config = load_config(config_path)
@@ -220,13 +238,26 @@ def run(ics_path: Path | None = None, dry_run: bool = False,
              (config.get("center") or {}).get("radius_miles"),
              enabled_categories(config), int(config.get("combined_cap", 0)))
 
-    events = fetch_all(config, log, offline=offline)
+    events, source_counts = fetch_all(config, log, offline=offline)
     log.info("Fetched %d raw events from all sources", len(events))
 
-    kept, _drops = filter_and_rank(events, config, log)
+    kept, stats = filter_and_rank(events, config, log)
     log.info("Selected %d events for the feed", len(kept))
     if show_explain:
         explain(kept, config, log)
+
+    if report_path is not None:
+        text = report.build(kept, len(events), source_counts, stats, config)
+        # Append: $GITHUB_STEP_SUMMARY may already hold earlier output.
+        with report_path.open("a", encoding="utf-8") as fh:
+            fh.write(text + "\n")
+        log.info("Wrote run report to %s", report_path)
+
+    if require_events > 0 and len(kept) < require_events:
+        log.error("Only %d events selected, required at least %d — "
+                  "treating this as a broken pipeline.",
+                  len(kept), require_events)
+        return 1
 
     out = ics_path or (PROJECT_DIR / "events.ics")
     if dry_run:

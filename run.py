@@ -32,6 +32,13 @@ def main() -> int:
                         help="Log the ranked keep-list per category")
     parser.add_argument("--offline", action="store_true",
                         help="Read committed fixtures instead of the network")
+    parser.add_argument("--report", default=None, metavar="PATH",
+                        help="Append a markdown run report to PATH "
+                             "(e.g. $GITHUB_STEP_SUMMARY)")
+    parser.add_argument("--require-events", type=int, default=0,
+                        metavar="N",
+                        help="Exit non-zero if fewer than N events are "
+                             "selected. Use in CI to catch a dead parser")
     args = parser.parse_args()
     try:
         return run(
@@ -39,6 +46,8 @@ def main() -> int:
             dry_run=args.dry_run,
             show_explain=args.explain,
             offline=args.offline,
+            report_path=Path(args.report) if args.report else None,
+            require_events=args.require_events,
             config_path=Path(args.config) if args.config else None,
         )
     except KeyboardInterrupt:

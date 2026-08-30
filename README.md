@@ -94,6 +94,11 @@ python run.py --offline --explain  # run the whole pipeline off committed fixtur
 python -m pytest -q                # offline parser + pipeline tests
 ```
 
+Two flags exist for CI: `--report PATH` appends a markdown run report
+(per-source counts, drop breakdown, top picks) — the PR check points it at
+`$GITHUB_STEP_SUMMARY` — and `--require-events N` exits non-zero when fewer
+than N events survive, which is how a silently-dead parser gets caught.
+
 `--ics-path` puts the combined feed anywhere; the category feeds follow it
 into the same directory, so a scratch run stays out of the repo:
 
@@ -131,12 +136,14 @@ kyros/
   geo.py                       # Bay city registry, radius, SJ boost
   classify.py  rank.py         # categories and per-category scoring
   dedup.py  ics.py             # cross-source merge, feed writing
-  pipeline.py                  # fetch -> filter -> rank -> write
+  pipeline.py  report.py       # fetch -> filter -> rank -> write, run report
   sources/                     # luma, ticketmaster, nineteenhz, funcheap
 tests/                         # offline, fixture-driven
 scripts/fetch_fixtures.py      # refresh fixtures when a site changes
 config.json                    # user-editable
-.github/workflows/refresh.yml  # 6-hourly schedule
+.github/workflows/
+  refresh.yml                  # 6-hourly schedule, commits the feeds
+  pr-check.yml                 # every PR commit: tests + a live dry run
 events.ics  feeds/*.ics        # output (committed by CI)
 ```
 
