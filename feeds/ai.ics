@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Grok @bot builder demos
 DTSTART:20260902T010000Z
 DTEND:20260902T030000Z
-DTSTAMP:20260831T123611Z
+DTSTAMP:20260831T222338Z
 UID:evt-zJf0yZmjHicPH7V
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/p4rvaf0y\nLocation: San Francisco\, CA\nHost: Pe
@@ -21,7 +21,7 @@ SUMMARY:Bay Area Frontier Research Club #20 | AI X Bio: Turning Biological
   Systems into New Tools & Therapies (dinner + paper discussion @ Stanford)
 DTSTART:20260903T003000Z
 DTEND:20260903T033000Z
-DTSTAMP:20260831T123611Z
+DTSTAMP:20260831T222338Z
 UID:evt-eWNp59YwaEDM3mE
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/d3ryhrpp\nLocation: Stanford\, CA\nHost: The Fro
@@ -30,10 +30,23 @@ LOCATION:Stanford\, CA
 URL:https://lu.ma/d3ryhrpp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grok Bot After Dark | SF
+DTSTART:20260903T010000Z
+DTEND:20260903T050000Z
+DTSTAMP:20260831T222338Z
+UID:evt-LpETraSsGguBzcc
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/spacexai-7alp\nLocation: Radhaus\, 2 Marina Blvd
+  Bldg A\, San Francisco\, CA 94123\, USA\nHost: SpaceXAI\nCategories: ai\n
+ Source: luma-html/san-francisco
+LOCATION:Radhaus\, 2 Marina Blvd Bldg A\, San Francisco\, CA 94123\, USA
+URL:https://lu.ma/spacexai-7alp
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Deep Tech Startups in the Age of AI by Fifty Years
 DTSTART:20260903T013000Z
 DTEND:20260903T033000Z
-DTSTAMP:20260831T123611Z
+DTSTAMP:20260831T222338Z
 UID:evt-eKOLHjZY69JpsBv
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/u5fkxj50\nLocation: San Francisco\, CA\nHost: Sc
@@ -45,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Grok Bot build night for women
 DTSTART:20260904T000000Z
 DTEND:20260904T040000Z
-DTSTAMP:20260831T123611Z
+DTSTAMP:20260831T222338Z
 UID:evt-NRWoIJ0rk2BEm8a
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/a16zgrokbotbuildnight\nLocation: a16z\, 180 Town
@@ -59,7 +72,7 @@ SUMMARY:Deploying Physical AI in the Real World w Skild AI\, Dexterity\, W
  eave Robotics & Instawork
 DTSTART:20260904T003000Z
 DTEND:20260904T040000Z
-DTSTAMP:20260831T123611Z
+DTSTAMP:20260831T222338Z
 UID:evt-azBIZi4UjPPHMY2
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/7b9joney\nLocation: San Francisco\, CA\nHost: Sa
@@ -68,28 +81,29 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/7b9joney
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Longevity x Posture: AI vs TechNeck?
+DTSTART:20260904T003000Z
+DTEND:20260904T023000Z
+DTSTAMP:20260831T222338Z
+UID:evt-VfzoQMEMtIFQEfe
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/870i4r3g\nLocation: Cathay Innovation\, 101 Miss
+ ion St\, San Francisco\, CA 94105\, USA\nHost: Don't Die SF\nCategories: a
+ i\nSource: luma-html/san-francisco
+LOCATION:Cathay Innovation\, 101 Mission St\, San Francisco\, CA 94105\, U
+ SA
+URL:https://lu.ma/870i4r3g
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI Philosophy Nights: Metaphors for AI with Amy Kurzweil
 DTSTART:20260904T013000Z
 DTEND:20260904T043000Z
-DTSTAMP:20260831T123611Z
+DTSTAMP:20260831T222338Z
 UID:evt-QnqMwZyTXPZ0CQm
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/553nq69x\nLocation: San Francisco\, California\n
  Host: SuperHuman Society\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, California
 URL:https://lu.ma/553nq69x
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spatial Intelligence + Generative 3D Hackathon with Mint\, Tripo\,
-  World Labs\, Convex and Founders Inc.
-DTSTART:20260905T170000Z
-DTEND:20260906T030000Z
-DTSTAMP:20260831T123611Z
-UID:evt-ILBNJlfial3ou6k
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/b101ml40\nLocation: San Francisco\, CA\nHost: Fo
- unders\, Inc. Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/b101ml40
 END:VEVENT
 END:VCALENDAR
