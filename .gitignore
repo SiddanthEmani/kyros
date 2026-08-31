@@ -9,3 +9,4 @@ logs/
 *.tmp
 *.log
 Image.jpeg
+.pytest_cache/

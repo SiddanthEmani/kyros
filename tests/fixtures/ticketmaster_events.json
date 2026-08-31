@@ -1,0 +1,56 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Kaytranada: Timeless Tour",
+        "id": "G5vYZ9abc1",
+        "url": "https://www.ticketmaster.com/event/G5vYZ9abc1",
+        "info": "Doors at 7pm.",
+        "dates": { "start": { "dateTime": "2026-09-12T02:30:00Z" } },
+        "classifications": [
+          { "segment": { "name": "Music" },
+            "genre": { "name": "Dance/Electronic" },
+            "subGenre": { "name": "House" } }
+        ],
+        "priceRanges": [ { "type": "standard", "min": 55.0, "max": 125.0 } ],
+        "promoter": { "name": "Another Planet Entertainment" },
+        "_embedded": {
+          "venues": [
+            { "name": "SAP Center at San Jose",
+              "city": { "name": "San Jose" },
+              "state": { "stateCode": "CA" },
+              "address": { "line1": "525 W Santa Clara St" },
+              "location": { "latitude": "37.3327", "longitude": "-121.9012" } }
+          ]
+        }
+      },
+      {
+        "name": "Free Community Concert in the Park",
+        "id": "G5vYZ9abc2",
+        "url": "https://www.ticketmaster.com/event/G5vYZ9abc2",
+        "dates": { "start": { "dateTime": "2026-09-13T19:00:00Z" },
+                   "end": { "dateTime": "2026-09-13T22:00:00Z" } },
+        "classifications": [
+          { "segment": { "name": "Music" }, "genre": { "name": "Jazz" },
+            "subGenre": { "name": "Undefined" } }
+        ],
+        "priceRanges": [ { "type": "standard", "min": 0, "max": 0 } ],
+        "_embedded": {
+          "venues": [
+            { "name": "Cesar Chavez Plaza",
+              "city": { "name": "San Jose" },
+              "state": { "stateCode": "CA" },
+              "location": { "latitude": "37.3336", "longitude": "-121.8896" } }
+          ]
+        }
+      },
+      {
+        "name": "Date To Be Announced Show",
+        "id": "G5vYZ9abc3",
+        "dates": { "start": { "localDate": "2026-10-01", "timeTBA": true } },
+        "_embedded": { "venues": [ { "name": "The Ritz" } ] }
+      }
+    ]
+  },
+  "page": { "size": 200, "totalElements": 3, "totalPages": 1, "number": 0 }
+}

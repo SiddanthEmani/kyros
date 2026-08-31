@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>San Jose Events - Funcheap</title>
+  <item>
+    <title>Free Outdoor Movie Night: "Spirited Away" in San Jose</title>
+    <link>https://sf.funcheap.com/free-outdoor-movie-san-jose/</link>
+    <content:encoded><![CDATA[
+      <p>Bring a blanket for a free screening under the stars.</p>
+      <p>When: Saturday, September 12, 2026 at 7:30 pm - 10:00 pm<br/>
+      Where: Guadalupe River Park, San Jose<br/>
+      Cost: FREE</p>
+    ]]></content:encoded>
+  </item>
+  <item>
+    <title>San Jose Night Market with 100+ Food Vendors</title>
+    <link>https://sf.funcheap.com/san-jose-night-market/</link>
+    <content:encoded><![CDATA[
+      <p>Night market returns downtown.</p>
+      <p>When: Friday, September 18, 2026, 5:00 pm to 11:00 pm<br/>
+      Where: Downtown San Jose<br/>
+      Cost: $5 entry</p>
+    ]]></content:encoded>
+  </item>
+  <item>
+    <title>Ongoing: Rotating Art Exhibit</title>
+    <link>https://sf.funcheap.com/rotating-art-exhibit/</link>
+    <content:encoded><![CDATA[
+      <p>An ongoing exhibit with no announced dates.</p>
+      <p>Where: Somewhere in the South Bay<br/>Cost: FREE</p>
+    ]]></content:encoded>
+  </item>
+</channel>
+</rss>
