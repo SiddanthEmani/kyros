@@ -6,7 +6,7 @@ offline. When a site changes its markup, run this from a machine with
 network access, eyeball the diff, and commit the new fixtures together
 with any parser change they force.
 
-Usage: python scripts/fetch_fixtures.py [19hz|funcheap|ticketmaster|all]
+Usage: python scripts/fetch_fixtures.py [funcheap|ticketmaster|all]
 """
 
 from __future__ import annotations
@@ -24,7 +24,7 @@ sys.path.insert(0, str(ROOT))
 
 from kyros.geo import geohash  # noqa: E402
 from kyros.http import http_get  # noqa: E402
-from kyros.sources import funcheap, nineteenhz, ticketmaster  # noqa: E402
+from kyros.sources import funcheap, ticketmaster  # noqa: E402
 
 FIXTURES = ROOT / "tests" / "fixtures"
 
@@ -32,14 +32,6 @@ FIXTURES = ROOT / "tests" / "fixtures"
 def _log() -> logging.Logger:
     logging.basicConfig(level=logging.INFO, format="%(message)s")
     return logging.getLogger("fixtures")
-
-
-def fetch_19hz(log) -> None:
-    raw = http_get(nineteenhz.URL, log)
-    if not raw:
-        log.error("19hz: fetch failed")
-        return
-    _write("19hz_bayarea.live.html", raw.decode("utf-8", "replace"), log)
 
 
 def fetch_funcheap(log) -> None:
@@ -82,7 +74,7 @@ def _write(name: str, text: str, log) -> None:
              "it replaces", path, len(text))
 
 
-TARGETS = {"19hz": fetch_19hz, "funcheap": fetch_funcheap,
+TARGETS = {"funcheap": fetch_funcheap,
            "ticketmaster": fetch_ticketmaster}
 
 

@@ -45,7 +45,7 @@ class Event:
         self.is_free = bool(is_free)
         self.genres = tuple(g for g in genres if g)
         # Region to fall back on when the text names no known city. Set by
-        # sources that only ever publish one area (19hz is Bay-Area-only).
+        # sources that only ever publish one area (a region-scoped feed).
         self.region_hint = region_hint
         # Whether prose like "free" can be believed. True only for sources
         # with an explicit cost line; a ticketing API's blurb says "free
@@ -64,9 +64,9 @@ class Event:
     def fuzzy_key(self, tz=None) -> str:
         """Cross-source key: normalized title + local start date + city.
 
-        The same show reaches us from Ticketmaster, 19hz and Funcheap with
-        different ids and slightly different titles, so exact keys alone
-        leave duplicates in the feed.
+        The same show reaches us from several sources with different ids
+        and slightly different titles, so exact keys alone leave duplicates
+        in the feed.
         """
         title = re.sub(r"[^a-z0-9]+", "", self.title.lower())[:24]
         start = self.start.astimezone(tz) if tz else self.start

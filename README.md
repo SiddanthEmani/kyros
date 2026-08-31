@@ -22,7 +22,7 @@ Or add a raw feed URL manually. Everything lives under
 | feed | what's in it |
 |---|---|
 | `events.ics` | **everything**, tagged `[EDM]` / `[Live]` / `[AI]` / `[Free]` / `[Bay]` |
-| `feeds/edm.ics` | electronic — club nights, warehouse parties, festivals |
+| `feeds/edm.ics` | electronic — club nights and DJ shows |
 | `feeds/music.ics` | all live music: concerts + EDM |
 | `feeds/free.ics` | free events only |
 | `feeds/ai.ics` | AI talks, demos, hackathons (the original kyros feed) |
@@ -41,11 +41,10 @@ Or add a raw feed URL manually. Everything lives under
 ```
 Luma ┐
  TM  ├─►  classify  ─►  geo filter  ─►  dedup  ─►  rank  ─►  cap  ─►  5 feeds
-19hz │     5 buckets     50mi of SJ    merge      SJ first   per cat    every 6h
-Fun. ┘
+Fun. ┘     5 buckets     50mi of SJ    merge      SJ first   per cat    every 6h
 ```
 
-1. **Fetch** — four sources, each isolated so a dead site can't take down a
+1. **Fetch** — three sources, each isolated so a dead site can't take down a
    refresh:
    - **Luma** — AI talks, demos and hackathons. Scrapes the server-rendered
      discover HTML and paginates the JSON discover API, falling back through
@@ -53,9 +52,6 @@ Fun. ┘
    - **Ticketmaster** — concerts and ticketed shows within 50 miles of
      downtown San Jose (SAP Center, Shoreline, The Ritz, Fox Oakland, Chase
      Center). Needs a free API key; skips itself without one.
-   - **19hz** — the Bay Area's electronic music listing. Its table is
-     hand-maintained, so columns are located by header text rather than
-     position.
    - **Funcheap** — free and cheap events, region by region, South Bay first.
 2. **Classify** — each event lands in one or more of `ai`, `edm`, `concert`,
    `free`, `community`. Anything that matches nothing is dropped, which is
@@ -63,9 +59,9 @@ Fun. ┘
 3. **Geo** — resolved to a Bay city and region by coordinates when a source
    gives them, else by city and venue names. Outside 50 miles of San Jose
    is dropped.
-4. **Dedup** — the same show arrives from Ticketmaster *and* 19hz *and*
-   Funcheap. Matches merge, so one event keeps Ticketmaster's price and
-   19hz's genre tags.
+4. **Dedup** — the same show arrives from more than one source. Matches
+   merge, so one event keeps Ticketmaster's price and another source's
+   genre tags.
 5. **Rank & cap** — per-category scoring plus a **San Jose / South Bay
    boost**, so SJ wins the caps while a strong SF show still makes it. Caps
    are per category, then a combined cap over the union.
@@ -137,7 +133,7 @@ kyros/
   classify.py  rank.py         # categories and per-category scoring
   dedup.py  ics.py             # cross-source merge, feed writing
   pipeline.py  report.py       # fetch -> filter -> rank -> write, run report
-  sources/                     # luma, ticketmaster, nineteenhz, funcheap
+  sources/                     # luma, ticketmaster, funcheap
 tests/                         # offline, fixture-driven
 scripts/fetch_fixtures.py      # refresh fixtures when a site changes
 config.json                    # user-editable

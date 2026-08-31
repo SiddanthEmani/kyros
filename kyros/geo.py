@@ -82,7 +82,7 @@ BAY_CITIES: dict[str, tuple[str, float, float]] = {
     "vallejo": (NORTH_BAY, 38.1041, -122.2566),
 }
 
-# Venue -> city, for sources that print a venue but no city (19hz).
+# Venue -> city, for sources that print a venue but no city.
 VENUE_CITY: dict[str, str] = {
     # San Jose / South Bay
     "the ritz": "san jose",

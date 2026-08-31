@@ -144,8 +144,8 @@ def filter_and_rank(events: list, config: dict,
     tz = _tz(config)
     drops = {"lookahead": 0, "uncategorized": 0, "geo": 0,
              "schedule": 0, "nokey": 0}
-    # Same counts split by source. Without this, "19hz fetched 518 events
-    # and none reached the feed" needs guesswork to explain.
+    # Same counts split by source. Without this, "a source fetched 518
+    # events and none reached the feed" needs guesswork to explain.
     by_source: dict[str, dict[str, int]] = {}
 
     def _drop(ev, reason: str) -> None:
@@ -221,21 +221,6 @@ def apply_caps(kept: list, config: dict, log: logging.Logger,
 # Run
 # ---------------------------------------------------------------------------
 
-def explain_layouts(log: logging.Logger) -> None:
-    """Report what the scraped tables actually looked like, at the end of
-    the run where the log is readable."""
-    from .sources import nineteenhz
-    layout = nineteenhz.LAST_LAYOUT
-    if not layout:
-        return
-    for entry in layout.get("headers", []):
-        log.info("19hz layout: header=%s", entry["header"])
-        log.info("19hz layout: columns=%s", entry["columns"])
-    if "sample_row" in layout:
-        log.info("19hz layout: first row=%s (offset=%s)",
-                 layout["sample_row"], layout.get("sample_offset"))
-
-
 def explain(kept: list, config: dict, log: logging.Logger) -> None:
     """Print the ranked keep-list per category — the fast way to see why
     the feed looks the way it does after a source changes."""
@@ -272,7 +257,6 @@ def run(ics_path: Path | None = None, dry_run: bool = False,
     log.info("Selected %d events for the feed", len(kept))
     if show_explain:
         explain(kept, config, log)
-        explain_layouts(log)
 
     if report_path is not None:
         text = report.build(kept, len(events), source_counts, stats, config)

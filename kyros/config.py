@@ -31,8 +31,7 @@ DEFAULT_CONFIG: dict = {
     "free_bonus": 1.0,
 
     "sources": {
-        "luma": True, "ticketmaster": True,
-        "nineteenhz": True, "funcheap": True,
+        "luma": True, "ticketmaster": True, "funcheap": True,
     },
     # Luma discover slugs / categories (AI events).
     "cities": ["san-francisco", "san-jose"],

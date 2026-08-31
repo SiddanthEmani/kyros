@@ -124,16 +124,17 @@ def test_dedup_merges_same_show_from_two_sources():
             url="https://ticketmaster.com/1", location="San Jose, CA",
             venue="SAP Center", price_min=55.0, price_max=125.0,
             source="ticketmaster")
-    hz = ev("Kaytranada Timeless Tour", event_id="19hz-1",
-            location="San Jose, CA", genres=("house",), source="19hz")
-    for e in (tm, hz):
+    fc = ev("Kaytranada Timeless Tour", event_id="fc-1",
+            location="San Jose, CA", genres=("house",),
+            source="funcheap/san-jose")
+    for e in (tm, fc):
         geo.resolve(e)
         e.categories = C.classify(e)
-    merged = merge_duplicates([tm, hz], tz=TZ)
+    merged = merge_duplicates([tm, fc], tz=TZ)
     assert len(merged) == 1
     assert merged[0].price_min == 55.0        # kept Ticketmaster's price
-    assert "house" in merged[0].genres        # kept 19hz's genres
-    assert "19hz" in merged[0].source
+    assert "house" in merged[0].genres        # kept the other source's genres
+    assert "funcheap" in merged[0].source
 
 
 def test_dedup_keeps_distinct_events():
@@ -255,7 +256,7 @@ def test_report_flags_dead_sources(tmp_path, log):
            genres=("techno",))
     geo.resolve(e)
     e.categories = C.classify(e)
-    text = report.build([e], 5, {"19hz": 4, "funcheap": 0, "luma": -1},
+    text = report.build([e], 5, {"ticketmaster": 4, "funcheap": 0, "luma": -1},
                         {"drops": {"geo": 2}, "merged": 1,
                          "categories": {"edm": {"eligible": 1, "kept": 1}}},
                         cfg)
@@ -312,8 +313,8 @@ def test_real_electronic_still_classifies_as_edm(title, genres):
 
 
 def test_bay_only_source_keeps_events_it_cannot_geocode():
-    """19hz names a venue and no city. Dropping those cost the entire
-    source: 518 events fetched, none reached the feed."""
+    """A region-scoped source may name a venue and no city. Dropping those
+    once cost an entire source: 518 events fetched, none reached the feed."""
     cfg = load_config()
     e = ev("Warehouse party", venue="Secret Location",
            genres=("techno", "electronic"), region_hint="bay-area")
@@ -323,7 +324,7 @@ def test_bay_only_source_keeps_events_it_cannot_geocode():
 
 
 def test_bay_only_source_still_excludes_out_of_area():
-    """That same listing carries Sacramento and Tahoe rows."""
+    """A Bay-scoped feed can still mention Sacramento or Tahoe."""
     cfg = load_config()
     e = ev("Warehouse party", venue="Ace of Spades (Sacramento)",
            genres=("techno",), region_hint="bay-area")
@@ -348,14 +349,14 @@ def test_dance_electronic_umbrella_needs_corroboration(genres, expected):
 
 
 def test_curated_listing_is_competitive_outside_san_jose():
-    """19hz rows have no venue prestige and often no city, so they scored
-    below every Ticketmaster listing — 309 eligible, 0 selected. A San Jose
-    show still outranks them (that is the whole point of the SJ boost); the
-    fix is that an unplaced Bay row is no longer worth nothing."""
+    """A row with no venue prestige and no city once scored 0.0 against
+    every Ticketmaster listing. A San Jose show still outranks it (that is
+    the point of the SJ boost); the fix is that an unplaced Bay row is no
+    longer worth nothing."""
     cfg = load_config()
     hz = ev("Direct to Earth: warehouse techno", event_id="a",
             venue="Secret Location", genres=("techno", "electronic"),
-            source="19hz", region_hint="bay-area")
+            region_hint="bay-area")
     sf = ev("Big Room DJ", event_id="b", venue="The Warfield",
             location="San Francisco, CA", genres=("Music", "Dance/Electronic"),
             source="ticketmaster/music")

@@ -16,7 +16,6 @@
   "sources": {
     "luma": true,
     "ticketmaster": true,
-    "nineteenhz": true,
     "funcheap": true
   },
   "cities": ["san-francisco", "san-jose"],

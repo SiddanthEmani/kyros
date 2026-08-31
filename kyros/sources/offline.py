@@ -12,7 +12,7 @@ import logging
 from datetime import datetime, timedelta, timezone
 
 from ..config import PROJECT_DIR
-from . import funcheap, nineteenhz, ticketmaster
+from . import funcheap, ticketmaster
 
 FIXTURES = PROJECT_DIR / "tests" / "fixtures"
 
@@ -45,10 +45,6 @@ def _shift_to_future(events: list, tz) -> list:
 def fetch(config: dict, log: logging.Logger) -> list:
     tz = _tz(config)
     events: list = []
-
-    hz = FIXTURES / "19hz_bayarea.html"
-    if hz.exists():
-        events += nineteenhz.parse_html(hz.read_text(), log, tz=tz)
 
     tm = FIXTURES / "ticketmaster_events.json"
     if tm.exists():

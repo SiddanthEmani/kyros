@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """kyros — Bay Area event feed refresh job.
 
-Fetches events from Luma (AI), Ticketmaster (concerts), 19hz (electronic)
+Fetches events from Luma (AI), Ticketmaster (concerts and club shows)
 and Funcheap (free/cheap), classifies and ranks them with San Jose
 weighted first, and writes a combined iCalendar feed plus per-category
 feeds.

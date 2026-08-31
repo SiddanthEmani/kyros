@@ -4,61 +4,7 @@ import json
 
 from conftest import TODAY, TZ
 
-from kyros.sources import funcheap, nineteenhz, ticketmaster
-
-
-# --- 19hz -------------------------------------------------------------------
-
-def _nineteenhz(fixture_text, log):
-    return nineteenhz.parse_html(
-        fixture_text("19hz_bayarea.html"), log, tz=TZ, today=TODAY)
-
-
-def test_19hz_parses_every_dated_row(fixture_text, log):
-    events = _nineteenhz(fixture_text, log)
-    # 6 rows in the fixture; the "TBA" row has no parseable date.
-    assert len(events) == 5
-    assert all(e.start.tzinfo is not None for e in events)
-
-
-def test_19hz_splits_title_and_venue(fixture_text, log):
-    ev = _nineteenhz(fixture_text, log)[0]
-    assert ev.title == "Sunken Vessels: Anastasia Kristensen"
-    assert ev.venue == "Public Works (San Francisco)"
-    assert ev.genres == ("techno", "minimal", "electronic")
-    assert ev.url == "https://ra.co/events/2001"
-
-
-def test_19hz_after_hours_end_crosses_midnight(fixture_text, log):
-    ev = _nineteenhz(fixture_text, log)[0]  # 10pm-4am
-    assert ev.start.hour == 22
-    assert ev.end.day == ev.start.day + 1
-    assert ev.end.hour == 4
-
-
-def test_19hz_year_rolls_over_for_past_months(fixture_text, log):
-    jan = [e for e in _nineteenhz(fixture_text, log) if e.start.month == 1][0]
-    assert jan.start.year == TODAY.year + 1
-
-
-def test_19hz_price_parsing(fixture_text, log):
-    by_title = {e.title: e for e in _nineteenhz(fixture_text, log)}
-    free = by_title["Sunday Sessions: Open Decks"]
-    assert free.is_free and free.price_min == 0.0
-    ranged = by_title["Sunken Vessels: Anastasia Kristensen"]
-    assert (ranged.price_min, ranged.price_max) == (20.0, 30.0)
-    # "Free b4 11pm/$15" is not a free event, but the floor is 0.
-    partial = by_title["New Year Warehouse: TBA"]
-    assert partial.price_min == 0.0 and partial.price_max == 15.0
-    assert not partial.is_free
-
-
-def test_19hz_maps_columns_by_header_not_position(fixture_text, log):
-    """The second table in the fixture swaps Price and Tags."""
-    portola = [e for e in _nineteenhz(fixture_text, log)
-               if e.title.startswith("Portola")][0]
-    assert portola.price_min == 189.0
-    assert "techno" in portola.genres
+from kyros.sources import funcheap, ticketmaster
 
 
 # --- Ticketmaster -----------------------------------------------------------
@@ -164,32 +110,3 @@ def test_ticketmaster_builds_a_valid_request(fixture_text, log, monkeypatch):
         assert params[field].endswith("Z") and "T" in params[field]
     assert len(events) == 2
 
-
-def test_19hz_rows_shifted_from_their_header(fixture_text, log):
-    """The live page's data rows carry a leading cell the header row lacks.
-    Trusting header positions shipped events titled "house, tech house,
-    techno" — the tags column — with price text as their genres."""
-    events = nineteenhz.parse_html(
-        fixture_text("19hz_shifted_rows.html"), log, tz=TZ, today=TODAY)
-    assert len(events) == 2
-
-    first = events[0]
-    assert first.title == "Housepitality w/ Kate Simko"
-    assert first.venue == "Public Works (San Francisco)"
-    assert first.genres == ("house", "tech house", "techno", "electronic")
-    assert (first.price_min, first.price_max) == (12.0, 30.0)
-    assert first.url == "https://tickets.example/xyz"
-    assert (first.start.hour, first.end.hour) == (22, 3)
-
-    second = events[1]
-    assert second.title == "Bass Odyssey"
-    assert second.venue == "The Ritz (San Jose)"
-    assert second.is_free
-
-
-def test_19hz_unshifted_rows_still_parse(fixture_text, log):
-    """The offset must be 0 when header and rows already line up."""
-    events = nineteenhz.parse_html(
-        fixture_text("19hz_bayarea.html"), log, tz=TZ, today=TODAY)
-    assert events[0].title == "Sunken Vessels: Anastasia Kristensen"
-    assert events[0].venue == "Public Works (San Francisco)"
