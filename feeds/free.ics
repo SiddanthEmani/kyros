@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bingo Loco
 DTSTART:20260905T014500Z
 DTEND:20260905T034500Z
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:rZ7HnEZ1AfPJGN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tic
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:San José “Lowrider Day” Festival + Classic Car Cruise (2026)
 DTSTART;TZID=America/Los_Angeles:20260906T120000
 DTEND;TZID=America/Los_Angeles:20260906T180000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260906-sanjoslowriderdayfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jos-lowrider-day-festival-classic-
@@ -75,7 +75,7 @@ SUMMARY:Free Drive-In Movie Night + $2 Nachos at West Wind (East Bay + San
   Jose)
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T200000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260910-freedriveinmovienight2na
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drivein-movie-night-2-nachos-san-
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Free Punk Rock 50th Anniversary Exhibition Opening w/ Q&A (SF)
 DTSTART;TZID=America/Los_Angeles:20260910T190000
 DTEND;TZID=America/Los_Angeles:20260910T210000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260910-freepunkrock50thannivers
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/free-punk-rock-50th-anniversary-exhibi
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -172,30 +172,30 @@ SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
  js-magic-giveaways-mountain-view/\nVenue: you are. Enjoy their state-of-th
  e-art\, climate-controlled mobile golf studio pow\nPrice: Free\nCategories
- : edm\, free\nSource: funcheap/san-jose+funcheap/san-francisco\n\nThe Goog
- le Visitor Experience hosts the Endless Summer Festival\, a free\, all-age
- s outdoor celebration in Mountain View. The event features family-friendly
-  DJs\, live magic shows\, hands-on crafts\, sports activities like pickleb
- all and basketball\, a mini market of local makers\, creative workshops wi
- th community nonprofits\, and unique experiences such as a slime truck and
-  3D chalk art. Attendees can enjoy sweet treats\, mocktails\, seasonal caf
- e items\, Android photo ops\, and special giveaways throughout the day. Re
- gistration for reminders is available online. Original Event Description: 
- _Our biggest community celebration of the year🥳! The Google Visitor Exp
- erience invites the public to our free\, all-ages Endless Summer Festival!
-  🗓️ Saturday\, September 12 | 11 a.m. to 4 p.m. 🌞Join us for an af
- ternoon of live entertainment\, hands-on activities\, and summer fun. 🪄
- 🎵Music & Shows: Catch family-friendly DJs and magic show performances. 
- 🏀⛳️Sports & Action: Get moving at our dedicated activity zone featu
- ring pickleball\, HoopBus basketball\, and golf fun. 🎨✍🏽Hands-On C
- reativity: Enjoy a slime truck\, 3D chalk art\, seed bar\, henna art and s
- o many more custom crafts with local nonprofits and community
+ : edm\, free\nSource: funcheap/san-jose\n\nThe Google Visitor Experience h
+ osts the Endless Summer Festival\, a free\, all-ages outdoor celebration i
+ n Mountain View. The event features family-friendly DJs\, live magic shows
+ \, hands-on crafts\, sports activities like pickleball and basketball\, a 
+ mini market of local makers\, creative workshops with community nonprofits
+ \, and unique experiences such as a slime truck and 3D chalk art. Attendee
+ s can enjoy sweet treats\, mocktails\, seasonal cafe items\, Android photo
+  ops\, and special giveaways throughout the day. Registration for reminder
+ s is available online. Original Event Description: _Our biggest community 
+ celebration of the year🥳! The Google Visitor Experience invites the pub
+ lic to our free\, all-ages Endless Summer Festival! 🗓️ Saturday\, Sep
+ tember 12 | 11 a.m. to 4 p.m. 🌞Join us for an afternoon of live enterta
+ inment\, hands-on activities\, and summer fun. 🪄🎵Music & Shows: Catc
+ h family-friendly DJs and magic show performances. 🏀⛳️Sports & Acti
+ on: Get moving at our dedicated activity zone featuring pickleball\, HoopB
+ us basketball\, and golf fun. 🎨✍🏽Hands-On Creativity: Enjoy a slim
+ e truck\, 3D chalk art\, seed bar\, henna art and so many more custom craf
+ ts with local nonprofits and community
 LOCATION:you are. Enjoy their state-of-the-art\, climate-controlled mobile
   golf studio pow
 URL:https://sf.funcheap.com/googles-free-endless-summer-festival-djs-magic
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:BL3SS - 360 Set - North American Tour 2026
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:rZ7HnEZ1AfPwQK
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/bl3ss-360-set-the-independent-
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH!))) Presents - Magic Sword w/ Skylimit
 DTSTART:20260914T030000Z
 DTEND:20260914T050000Z
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:rZ7HnEZ1Afa3Q7
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-magic-moes-a
@@ -290,76 +290,45 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-magic-moes-alley-tic
  kets/14252684
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Culture on Ocean” Free Ocean Ave. Culture Block Party (SF)
-DTSTART;TZID=America/Los_Angeles:20260919T140000
-DTEND;TZID=America/Los_Angeles:20260919T160000
-DTSTAMP:20260901T160019Z
-UID:funcheap-20260919-cultureonoceanfreeoceana
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/culture-ocean-free-ocean-ave-culture-b
- lock-party-sf/\nVenue: in San Francisco\, featuring live cultural performa
- nces\, hands-on arts activities\nPrice: Free\nCategories: free\nSource: fu
- ncheap/san-francisco\n\nCulture on Ocean is a free block party on Ocean Av
- enue in San Francisco\, featuring live cultural performances\, hands-on ar
- ts activities\, community organizations\, music\, and food. The afternoon 
- event encourages families and neighbors to celebrate the local community
- ’s diversity and creativity. All ages are welcome. Original Event Descri
- ption: _🎨🌎 Culture on Ocean is coming! 🌎🎶 Join us for a free a
- fternoon celebrating the arts\, culture\, and community that make Ocean Av
- enue special! 💙 📅 Saturday\, September 19 📍 Granada Avenue & Ocea
- n Avenue ⏰ 12–2 PM Come enjoy live cultural performances\, hands-on ar
- ts activities\, community organizations\, music\, and more! Bring your fam
- ily\, friends\, and neighbors and celebrate the incredible diversity and c
- reativity of our community. 🎭🎨🪇 ✨ Support Local. Shop Local. Lo
- ve Ocean Ave. ✨ #ArtsAndCulture #CommunityEvent #SupportLocal #SanFranci
- scoEvents #OceanAvenueAssociation🎨🌎_ Text extracted from provided im
- age: CULTURE ON OCEAN AN ARTS & CULTURE BLOCK PARTY SATURDAY SEPTEMBER 19 
- 12PM–2PM GRANADA AVE BETWEEN OCEAN & HOLLOWAY MUSIC FOOD ART COMMUNITY S
- upport Local * Shop Local * Love Ocean Ave CIVIC JOY FUND OCEAN AVENUE ASS
- OCIATION
-LOCATION:in San Francisco\, featuring live cultural performances\, hands-o
- n arts activities
-URL:https://sf.funcheap.com/culture-ocean-free-ocean-ave-culture-block-par
- ty-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Let's Glow BART Anime Festival
-DTSTART:20260919T230000Z
-DTEND:20260920T040000Z
-DTSTAMP:20260901T160019Z
-UID:evt-WPLKrC59Zns3UjZ
+SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
+ nt)
+DTSTART;TZID=America/Los_Angeles:20260919T160000
+DTEND;TZID=America/Los_Angeles:20260919T210000
+DTSTAMP:20260901T203019Z
+UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
-DESCRIPTION:https://lu.ma/vaottzct\nVenue: Warm Springs/South Fremont Stat
- ion RSVP on Eventbrite at letsglowfestival.eventb\nLocation: Warm Springs 
- BART\, Warm Spgs BART\, Fremont\, CA 94539\, USA\nPrice: Free\nHost: Perso
- nal\nCategories: community\, free\nSource: luma/san-francisco+luma/san-jos
- e+luma/virtual+funcheap/san-jose+funcheap/south-bay\n\nBART’s Let’s Gl
- ow! BART Anime Festival returns to Warm Springs/South Fremont Station for 
- a celebration of anime\, art\, music\, cosplay and transit fandom. This ye
- ar’s free festival will be bigger and better than ever\, following a hug
- e turnout of more than 4\,000 attendees last year! The festival celebrates
-  the shared fandom of anime and transit\, with an expanded lineup of artis
- ts\, performances\, food\, cosplay\, and more. Get to know BART’s anime 
- mascots at bart.gov/anime . Details What: Let’s Glow! BART Anime Festiva
- l When: Saturday\, September 19\, 4pm to 9pm Where: Warm Springs/South Fre
- mont Station RSVP on Eventbrite at letsglowfestival.eventbrite.com . Not r
- equired but helps us get a headcount. Free to attend What to expect Artist
-  Alley: More than 100 artists will sell a mix of BART\, anime-\, and trans
- it-themed art\, along with their own original artwork. Check back for the 
- full catalog in the coming weeks. Music and performances: AniClover will D
- J all night\, and SanFlare will perform wotagei\, a high-energy style of s
- ynchronized fan dancing. SanFlare will also teach attendees the official B
- ART wotagei dance. Special Youtaite concert: An exclusive VTuber concert p
- roduced by Neon Shrine f
-LOCATION:Warm Springs BART\, Warm Spgs BART\, Fremont\, CA 94539\, USA
-URL:https://lu.ma/vaottzct
+DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
+ ings-south-fremont/\nVenue: Warm Springs/South Fremont Station RSVP on Eve
+ ntbrite at letsglowfestival.eventb\nPrice: Free\nCategories: community\, f
+ ree\nSource: funcheap/san-jose+funcheap/south-bay\n\nBART’s Let’s Glow
+ ! BART Anime Festival returns to Warm Springs/South Fremont Station for a 
+ celebration of anime\, art\, music\, cosplay and transit fandom. This year
+ ’s free festival will be bigger and better than ever\, following a huge 
+ turnout of more than 4\,000 attendees last year! The festival celebrates t
+ he shared fandom of anime and transit\, with an expanded lineup of artists
+ \, performances\, food\, cosplay\, and more. Get to know BART’s anime ma
+ scots at bart.gov/anime . Details What: Let’s Glow! BART Anime Festival 
+ When: Saturday\, September 19\, 4pm to 9pm Where: Warm Springs/South Fremo
+ nt Station RSVP on Eventbrite at letsglowfestival.eventbrite.com . Not req
+ uired but helps us get a headcount. Free to attend What to expect Artist A
+ lley: More than 100 artists will sell a mix of BART\, anime-\, and transit
+ -themed art\, along with their own original artwork. Check back for the fu
+ ll catalog in the coming weeks. Music and performances: AniClover will DJ 
+ all night\, and SanFlare will perform wotagei\, a high-energy style of syn
+ chronized fan dancing. SanFlare will also teach attendees the official BAR
+ T wotagei dance. Special Youtaite concert: An exclusive VTuber concert pro
+ duced by Neon Shrine f
+LOCATION:Warm Springs/South Fremont Station RSVP on Eventbrite at letsglow
+ festival.eventb
+URL:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-springs-sou
+ th-fremont/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SF’s 2026 “Comedy Day” Festival in the Park w/ 50+ Comics (G
  olden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260920T170000
 DTEND;TZID=America/Los_Angeles:20260920T190000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260920-sfs2026comedydayfestival
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/comedy-day-park-golden-gate-park/\nLoc
@@ -385,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Bay Area “Chuseok” Korean Harvest Festival (The Presidio)
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260901T160019Z
+DTSTAMP:20260901T203019Z
 UID:funcheap-20260926-2026bayareachuseokkorean
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bay-area-chuseok-korean-harvest-festiv
@@ -411,5 +380,28 @@ DESCRIPTION:https://sf.funcheap.com/bay-area-chuseok-korean-harvest-festiv
 LOCATION:san francisco
 URL:https://sf.funcheap.com/bay-area-chuseok-korean-harvest-festival-presi
  dio/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Outdoor Movie Night in Duboce Park “How to Train Your Drago
+ n” (Fall 2026)
+DTSTART;TZID=America/Los_Angeles:20260926T190000
+DTEND;TZID=America/Los_Angeles:20260926T210000
+DTSTAMP:20260901T203019Z
+UID:funcheap-20260926-freeoutdoormovienightind
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-t
+ rain-dragon-fall-2026/\nLocation: san francisco\nPrice: Free\nCategories: 
+ community\, free\nSource: funcheap/san-francisco\n\nOutdoor Movie Night re
+ turns to Duboce Park on Saturday\, September 26. Join Friends of Duboce Pa
+ rk for a magical evening as we screen How to Train Your Dragon (2025) on t
+ he big outdoor screen! The movie starts at dusk\, approximately 7 p.m.\, o
+ n Saturday\, September 26 on the Upper Lawn. Pack a picnic and bring your 
+ blankets\, low chairs\, and cozy layers. Arrive early to grab a good spot!
+  This is a free\, family-friendly event. The event is sponsored by Friends
+  of Duboce Park and San Francisco Recreation & Parks. For more information
+ \, please visit https://friendsofdubocepark.org/movienight .
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-train-dra
+ gon-fall-2026/
 END:VEVENT
 END:VCALENDAR
