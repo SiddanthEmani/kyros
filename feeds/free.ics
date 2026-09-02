@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bingo Loco
 DTSTART:20260905T014500Z
 DTEND:20260905T034500Z
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:rZ7HnEZ1AfPJGN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tic
@@ -40,10 +40,41 @@ URL:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tickets/149
  66323
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Chinatown Car Show & Car Parade (SF)
+DTSTART;TZID=America/Los_Angeles:20260906T100000
+DTEND;TZID=America/Los_Angeles:20260906T153000
+DTSTAMP:20260902T202912Z
+UID:funcheap-20260906-2026chinatowncarshowcarp
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/2026-chinatown-car-show-car-parade-sf/
+ \nVenue: SF Chinatown\, San Francisco\, CA Let’s make history and put on
+  an unforgettable s\nPrice: Free\nCategories: community\, free\nSource: fu
+ ncheap/san-francisco\n\nExperience the 5th Annual SF Chinatown Car Show & 
+ Parade on Grant Ave (Broadway to California). Enjoy a stunning lineup of v
+ intage\, classic\, and luxury cars alongside traditional lion dances\, liv
+ e music\, and martial arts demonstrations. The event runs from 10:00 am to
+  3:30 pm\, with the highly anticipated car parade beginning at 3:00 pm. Ad
+ mission is free and open to everyone—come celebrate the best of our comm
+ unity! CALLING ALL INCREDIBLE CREATORS & INFLUENCERS! Are you ready to bri
+ ng high-energy content to your community? The 5th Annual SF Chinatown Car 
+ Show & Parade \, presented by the Chinese American Association of Commerce
+ \, invites content creators\, vloggers\, and social media influencers to p
+ artner with us! We want you to capture the excitement live and share the e
+ lectric atmosphere of classic cars\, live music\, lion dances\, and commun
+ ity culture with your followers. Livestream & Promotion Opportunity Go liv
+ e on YouTube\, Instagram\, Facebook\, or your favorite platform during the
+  event\, showcase the incredible vehicle displays\, and give your audience
+  an exclusive front-row seat to this landmark San Francisco celebration. C
+ ompete to Win: Creator Prizes! To show our appreciation for
+LOCATION:SF Chinatown\, San Francisco\, CA Let’s make history and put on
+  an unforgettable s
+URL:https://sf.funcheap.com/2026-chinatown-car-show-car-parade-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San José “Lowrider Day” Festival + Classic Car Cruise (2026)
 DTSTART;TZID=America/Los_Angeles:20260906T120000
 DTEND;TZID=America/Los_Angeles:20260906T180000
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:funcheap-20260906-sanjoslowriderdayfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jos-lowrider-day-festival-classic-
@@ -75,7 +106,7 @@ SUMMARY:Free Drive-In Movie Night + $2 Nachos at West Wind (East Bay + San
   Jose)
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T200000
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:funcheap-20260910-freedriveinmovienight2na
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drivein-movie-night-2-nachos-san-
@@ -106,41 +137,10 @@ URL:https://sf.funcheap.com/free-drivein-movie-night-2-nachos-san-jose-wes
  t-wind-drivein-fall-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Punk Rock 50th Anniversary Exhibition Opening w/ Q&A (SF)
-DTSTART;TZID=America/Los_Angeles:20260910T190000
-DTEND;TZID=America/Los_Angeles:20260910T210000
-DTSTAMP:20260902T155510Z
-UID:funcheap-20260910-freepunkrock50thannivers
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/free-punk-rock-50th-anniversary-exhibi
- tion-opening-qa-sf/\nLocation: san francisco\nPrice: Free\nCategories: con
- cert\, free\nSource: funcheap/san-francisco\n\nKiel meets the Bay Area: NO
-  PUNK. NO FUTURE. opens September 10 with a conversation between NO MORE a
- nd punk historian Jack Boulware. Fifty years after punk declared itself ag
- ainst everything and everyone\, the Goethe-Institut San Francisco presents
-  NO PUNK. NO FUTURE. \, an exhibition exploring the connections between th
- e punk scenes of Kiel\, Germany\, and the San Francisco Bay Area. Though s
- eparated by an ocean\, both communities were driven by self-expression\, n
- onconformity\, DIY culture\, and a refusal to follow the rules. Through ph
- otography\, archival materials\, music\, and personal stories\, the exhibi
- tion traces the people\, images\, and networks that connected punk communi
- ties across the Atlantic while highlighting what made each scene unique. O
- pening Conversation Join us for a special conversation featuring: Andy A. 
- Schwarz and Tina Sanudakura of the seminal Kiel post-punk band NO MORE Jac
- k Boulware \, San Francisco writer and punk historian\, and author of Gimm
- e Something Better: The Profound\, Progressive\, and Occasionally Pointles
- s History of Bay Area Punk from Dead Kennedys to Green Day About the Exhib
- ition NO PUNK. NO FUTURE. takes its starting point from Kein Kiel \, a pro
- ject dev
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-punk-rock-50th-anniversary-exhibition-ope
- ning-qa-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -172,7 +172,7 @@ SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -202,10 +202,44 @@ URL:https://sf.funcheap.com/googles-free-endless-summer-festival-djs-magic
  -giveaways-mountain-view/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn 
+ (Oakland)
+DTSTART;TZID=America/Los_Angeles:20260912T190000
+DTEND;TZID=America/Los_Angeles:20260913T190000
+DTSTAMP:20260902T202912Z
+UID:funcheap-20260912-freesummeroutdoormovieni
+CATEGORIES:edm,free
+DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
+ ia-2-dj-popcorn-oakland/\nVenue: \, this free\, family-friendly event invi
+ tes neighbors from across the East Bay to\nPrice: Free\nCategories: edm\, 
+ free\nSource: funcheap/east-bay\n\nRed Oak Realty\, in partnership with th
+ e Montclair Village Association\, is excited to announce the return of the
+  beloved Montclair Outdoor Movie Night Series\, bringing another free comm
+ unity movie night to the heart of Montclair Village this summer. Montclair
+  Movie Nights 2026 Red Oak Realty – 6450 Moraga Ave\, Oakland\, CA (park
+ ing lot off Medau Place) Zootopia 2 — Saturday\, September 12\, 2026\, 7
+ :00 PM Held in the Red Oak parking lot off Medau Place at Moraga Avenue\, 
+ this free\, family-friendly event invites neighbors from across the East B
+ ay to gather for unforgettable evenings under the stars. The festivities b
+ egin at 7:00 PM with music from Bukue One\, the Oakland-born DJ known for 
+ his upbeat blend of classic hip-hop\, reggae\, soul\, and funk. Guests can
+  enjoy lawn games including cornhole and jumbo Jenga before the movie\, al
+ ong with complimentary popcorn provided by CRUfit and sweet treats from Gh
+ irardelli Chocolate Company. The film will begin at approximately 8:00–8
+ :30 PM\, just after sunset. Attendees are encouraged to arrive early to ex
+ plore Montclair Village\, enjoy dinner at one of the neighborhood’s many
+  restaurants\, browse local shops\, and experience the vibrant community s
+ piri
+LOCATION:\, this free\, family-friendly event invites neighbors from acros
+ s the East Bay to
+URL:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootopia-2-dj-
+ popcorn-oakland/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BL3SS - 360 Set - North American Tour 2026
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:rZ7HnEZ1AfPwQK
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/bl3ss-360-set-the-independent-
@@ -225,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -257,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH!))) Presents - Magic Sword w/ Skylimit
 DTSTART:20260914T030000Z
 DTEND:20260914T050000Z
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:rZ7HnEZ1Afa3Q7
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-magic-moes-a
@@ -290,11 +324,43 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-magic-moes-alley-tic
  kets/14252684
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
+DTSTART;TZID=America/Los_Angeles:20260919T150000
+DTEND;TZID=America/Los_Angeles:20260919T170000
+DTSTAMP:20260902T202912Z
+UID:funcheap-20260919-pacificpearlmidautumnmoo
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
+ pleasanton/\nVenue: Pacific Pearl\, near 85 Degrees Bakery Cafe\, 2693–2
+ 733 Stoneridge Drive\, Pleasant\nPrice: Free\nCategories: community\, free
+ \nSource: funcheap/east-bay\n\nPacific Pearl Shopping Center invites famil
+ ies and community members to welcome the season at its Mid-Autumn Moon Fes
+ tival on Saturday\, September 19\, from 1 to 3 p.m. The free celebration w
+ ill take place near 85 Degrees Cafe at the Pleasanton shopping center. Gue
+ sts can enjoy an energetic lion dance presented by FlyU After School\, a m
+ artial-arts presentation by Pallen’s Martial Arts Tri Valley\, face pain
+ ting\, a balloon artist and a hands-on craft station for children. The aft
+ ernoon is designed to bring neighbors together for a lively celebration in
+ spired by the Mid-Autumn Festival’s traditions of family\, community and
+  togetherness. “Pacific Pearl is proud to create welcoming experiences t
+ hat reflect the cultures and traditions represented throughout the Tri-Val
+ ley\,” said Brandi Hardy\, Director of Marketing for Pacific Pearl. “W
+ e look forward to gathering with families for an afternoon filled with col
+ or\, creativity and memorable performances.” Admission is free. Activiti
+ es and craft materials will be available while supplies last. Guests are e
+ ncouraged to arrive early and make an afternoon of the celebration by expl
+ oring Pacific Pearl’s diverse collection of restaurants\, specialty f
+LOCATION:Pacific Pearl\, near 85 Degrees Bakery Cafe\, 2693–2733 Stoneri
+ dge Drive\, Pleasant
+URL:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-pleasant
+ on/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260902T155510Z
+DTSTAMP:20260902T202912Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -324,84 +390,35 @@ URL:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-springs-sou
  th-fremont/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s 2026 “Comedy Day” Festival in the Park w/ 50+ Comics (G
- olden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20260920T170000
-DTEND;TZID=America/Los_Angeles:20260920T190000
-DTSTAMP:20260902T155510Z
-UID:funcheap-20260920-sfs2026comedydayfestival
+SUMMARY:Free TideFest 2026: Outdoor Music + Art Festival by Ocean Beach (S
+ F)
+DTSTART;TZID=America/Los_Angeles:20260919T190000
+DTEND;TZID=America/Los_Angeles:20260919T210000
+DTSTAMP:20260902T202912Z
+UID:funcheap-20260919-freetidefest2026outdoorm
 CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/comedy-day-park-golden-gate-park/\nLoc
- ation: san francisco\nPrice: Free\nCategories: community\, free\nSource: f
- uncheap/san-francisco\n\nSan Francisco’s original\, longest-running\, fr
- ee\, outdoor comedy concert in the world\, Comedy Day in the Park is back 
- to celebrate its 45th anniversary . If you like lounging in the park\, lau
- ghing your ass off\, then Comedy Day might be the best way for you to spen
- d a Sunday afternoon. The biggest single-day comedy event of the year in S
- an Francisco is the annual five-hour free comedy show in the park with ove
- r 50 comedians . 44th Anniversary Comedy Day One stage\; five hours\; 50 c
- omedians September 20\, 2026 | Noon to 5 pm Sharon Meadow\, Golden Gate Pa
- rk – SF FREE Lineup and schedule subject to change. Check comedyday.or g
-  for updates and lineup for 2026. Every year is different\, but surprise g
- uests are known to make an appearance. Past surprise guests at Comedy Day 
- have included Robin Williams\, Whoopi Goldberg\, Dave Chappelle\, Eddie Iz
- zard\, Patton Oswalt\, Ellen DeGeneres\, Kids in the Hall\, and many other
- s.
+DESCRIPTION:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-f
+ estival-ocean-beach-sf/\nLocation: san francisco\nPrice: Free\nCategories:
+  community\, free\nSource: funcheap/san-francisco\n\nTideFest is a free ne
+ w music festival just steps from Ocean Beach\, bringing together live musi
+ c\, art\, food\, and community for an unforgettable day on San Francisco
+ ’s west side. Presented by The Riptide\, organized by ArtyHood\, and sup
+ ported by Live Music Society’s Music in Action grant program\, TideFest 
+ celebrates the creativity\, culture\, and community that make San Francisc
+ o special. Spend the day enjoying live performances from an exciting lineu
+ p of Bay Area bands and DJs\, discovering work from local artists and crea
+ tive vendors\, and tasting food and drinks from local offerings. Featuring
+  performances by Bayonics\, Momotombo SF\, Don’t Tell John\, Long Tall D
+ an and the Foogie Boogies\, This Train Don’t Stop\, Starry Eyed Cadet\, 
+ DJ Brown Angel\, Stanley Frank Sensation\, Los Ahijados De La Changa\, and
+  DJ Veesh Maria. Whether you come to dance to live music\, discover new ar
+ tists\, share a meal with friends\, or simply enjoy the ocean atmosphere\,
+  TideFest has something for everyone. Saturday\, September 19\, 2026 Tarav
+ al Street @ Lower Great Highway\, San Francisco What to Expect -Live Bay A
+ rea bands and DJs -Local artists\, makers\, and creative vendors -Food ven
+ dors with a variety of cuisines an
 LOCATION:san francisco
-URL:https://sf.funcheap.com/comedy-day-park-golden-gate-park/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Bay Area “Chuseok” Korean Harvest Festival (The Presidio)
-DTSTART;TZID=America/Los_Angeles:20260926T110000
-DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260902T155510Z
-UID:funcheap-20260926-2026bayareachuseokkorean
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/bay-area-chuseok-korean-harvest-festiv
- al-presidio/\nLocation: san francisco\nPrice: Free\nCategories: community\
- , free\nSource: funcheap/san-francisco\n\nThe Bay Area Chuseok Festival \,
-  hosted by Korean Center\, Inc. \, returns to the Presidio for its 8th ann
- ual celebration of Korean culture\, community\, and tradition. The free fe
- stival honors Chuseok\, Korea’s harvest holiday \, bringing thousands of
-  people together for a day of cultural connection\, Korean food\, music\, 
- performances\, traditional games\, family-friendly activities\, local vend
- ors\, and more at the Presidio’s Main Parade Lawn. Bay Area Chuseok Fest
- ival Saturday\, September 26\, 2026 – 11:00 AM – 4:00 PM San Francisco
-  Presidio\, Main Parade Lawn FREE – RSVP Festival Highlights: Live Perfo
- rmances: Enjoy live music and cultural performances celebrating Korean and
-  Korean American culture. Korean Food & Drinks: Sample Korean and Korean-i
- nspired food and beverages from local vendors. Local Community: Browse boo
- ths from local artists\, makers\, small businesses\, nonprofit organizatio
- ns\, and community groups. Family-Friendly Activities: Get hands-on with t
- raditional Korean games and other activities for all ages. Whether you’r
- e reconnecting with Korean heritage\, bringing the family out for a cultur
- al day\, or simply looking to experience something new\, the Chuseok Festi
- val offers a welcomi
-LOCATION:san francisco
-URL:https://sf.funcheap.com/bay-area-chuseok-korean-harvest-festival-presi
- dio/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Outdoor Movie Night in Duboce Park “How to Train Your Drago
- n” (Fall 2026)
-DTSTART;TZID=America/Los_Angeles:20260926T190000
-DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260902T155510Z
-UID:funcheap-20260926-freeoutdoormovienightind
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-t
- rain-dragon-fall-2026/\nLocation: san francisco\nPrice: Free\nCategories: 
- community\, free\nSource: funcheap/san-francisco\n\nOutdoor Movie Night re
- turns to Duboce Park on Saturday\, September 26. Join Friends of Duboce Pa
- rk for a magical evening as we screen How to Train Your Dragon (2025) on t
- he big outdoor screen! The movie starts at dusk\, approximately 7 p.m.\, o
- n Saturday\, September 26 on the Upper Lawn. Pack a picnic and bring your 
- blankets\, low chairs\, and cozy layers. Arrive early to grab a good spot!
-  This is a free\, family-friendly event. The event is sponsored by Friends
-  of Duboce Park and San Francisco Recreation & Parks. For more information
- \, please visit https://friendsofdubocepark.org/movienight .
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-train-dra
- gon-fall-2026/
+URL:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-festival-
+ ocean-beach-sf/
 END:VEVENT
 END:VCALENDAR
