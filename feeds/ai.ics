@@ -5,35 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Bay Area Frontier Research Club #20 | AI X Bio: Turning Biological
-  Systems into New Tools & Therapies (dinner + paper discussion @ Stanford)
-DTSTART:20260903T003000Z
-DTEND:20260903T033000Z
-DTSTAMP:20260902T202912Z
-UID:evt-eWNp59YwaEDM3mE
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/d3ryhrpp\nLocation: Stanford\, CA\nHost: The Fro
- ntier Syndicate\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Stanford\, CA
-URL:https://lu.ma/d3ryhrpp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deep Tech Startups in the Age of AI by Fifty Years
-DTSTART:20260903T013000Z
-DTEND:20260903T033000Z
-DTSTAMP:20260902T202912Z
-UID:evt-eKOLHjZY69JpsBv
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/u5fkxj50\nLocation: San Francisco\, CA\nHost: Sc
- ientist to Founder Series\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/u5fkxj50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grok Bot build night for women
 DTSTART:20260904T000000Z
 DTEND:20260904T040000Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:evt-NRWoIJ0rk2BEm8a
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/a16zgrokbotbuildnight\nLocation: a16z\, 180 Town
@@ -46,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Longevity x Posture: AI vs TechNeck?
 DTSTART:20260904T003000Z
 DTEND:20260904T023000Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:evt-VfzoQMEMtIFQEfe
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/870i4r3g\nLocation: Cathay Innovation\, 101 Miss
@@ -61,7 +36,7 @@ SUMMARY:Deploying Physical AI in the Real World w Skild AI\, Dexterity\, W
  eave Robotics & Instawork
 DTSTART:20260904T010000Z
 DTEND:20260904T040000Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:evt-azBIZi4UjPPHMY2
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/7b9joney\nLocation: San Francisco\, CA\nHost: Sa
@@ -73,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:AI Philosophy Nights: Metaphors for AI with Amy Kurzweil
 DTSTART:20260904T013000Z
 DTEND:20260904T043000Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:evt-QnqMwZyTXPZ0CQm
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/553nq69x\nLocation: San Francisco\, California\n
@@ -86,25 +61,12 @@ SUMMARY:Spatial Intelligence + Generative 3D Hackathon with Mint\, Tripo\,
   World Labs\, Convex and Founders Inc.
 DTSTART:20260905T170000Z
 DTEND:20260906T030000Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:evt-ILBNJlfial3ou6k
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/b101ml40\nLocation: San Francisco\, CA\nHost: Fo
  unders\, Inc. Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/b101ml40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Corgi Cup 🏁🏆
-DTSTART:20260910T000000Z
-DTEND:20260910T020000Z
-DTSTAMP:20260902T202912Z
-UID:evt-wu4SpeSIQFoMoJW
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/the-corgi-cup\nLocation: 9 Claude Ln\, San Franc
- isco\, CA 94108\, USA\nHost: Arize AI\nCategories: ai\nSource: luma-html/s
- an-francisco
-LOCATION:9 Claude Ln\, San Francisco\, CA 94108\, USA
-URL:https://lu.ma/the-corgi-cup
 END:VEVENT
 END:VCALENDAR

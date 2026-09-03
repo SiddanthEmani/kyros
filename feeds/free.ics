@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bingo Loco
 DTSTART:20260905T014500Z
 DTEND:20260905T034500Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:rZ7HnEZ1AfPJGN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tic
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Chinatown Car Show & Car Parade (SF)
 DTSTART;TZID=America/Los_Angeles:20260906T100000
 DTEND;TZID=America/Los_Angeles:20260906T153000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260906-2026chinatowncarshowcarp
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-chinatown-car-show-car-parade-sf/
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:San José “Lowrider Day” Festival + Classic Car Cruise (2026)
 DTSTART;TZID=America/Los_Angeles:20260906T120000
 DTEND;TZID=America/Los_Angeles:20260906T180000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260906-sanjoslowriderdayfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jos-lowrider-day-festival-classic-
@@ -106,7 +106,7 @@ SUMMARY:Free Drive-In Movie Night + $2 Nachos at West Wind (East Bay + San
   Jose)
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T200000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260910-freedriveinmovienight2na
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drivein-movie-night-2-nachos-san-
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -172,7 +172,7 @@ SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -206,7 +206,7 @@ SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn
  (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:BL3SS - 360 Set - North American Tour 2026
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:rZ7HnEZ1AfPwQK
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/bl3ss-360-set-the-independent-
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -288,46 +288,10 @@ URL:https://sf.funcheap.com/latino-conservation-week-guided-hike-free-food
  -redwood-city/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(((folkYEAH!))) Presents - Magic Sword w/ Skylimit
-DTSTART:20260914T030000Z
-DTEND:20260914T050000Z
-DTSTAMP:20260902T202912Z
-UID:rZ7HnEZ1Afa3Q7
-CATEGORIES:edm,free
-DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-magic-moes-a
- lley-tickets/14252684\nVenue: Moe's Alley\nLocation: 1535 Commercial Way\,
-  Santa Cruz\, CA\nPrice: Free\nGenres: Music\, Dance/Electronic\, Alternat
- ive\, Electronic Pop\nCategories: edm\, free\nSource: ticketmaster/music\n
- \n(((folkYEAH!))) Presents - Magic Sword with special guest Skylimit!Sunda
- y\, September 13thDoors 7pm / Show: 8pm$20 in advance / $25 day of the sho
- w21+ *Tickets on sale July 16th at 10AM** No Refunds | All sales are final
- * Avoid scammers! Only purchase tickets from moesalley.com or ticketweb.co
- m* Tickets requested by email will be delivered 3 days prior to the event*
- Will Call tickets will be available at the door on the day of the event===
- =MAGIC SWORDIn the beginning there was light and darkness. A creation of p
- erfect balance. As time passed\, evil spread over the land like a plague\,
-  slowly consuming everything in its path. In the final moments before ligh
- t was lost to the shadow for all time\, a weapon of infinite power was cre
- ated\, the Magic Sword. Thus\, restoring balance to the universe. The gene
- sis of things are often small. As the single seed grows to a mighty oak\, 
- so too did the path of the Keeper begin as a single choice in an age long 
- past. Once a humble king\, he was manipulated into unleashing the Dark One
- . All of reality was torn asunder as the Lord of Shadow was released from 
- their ancient prison\, having been bound by the power of the the Magic Swo
- rd. From that day forth\, the King was cursed to be the eternal Keeper of 
- this powerful key. He has been compelled for millennia to find the Chosen 
- One who will unleash the true power of the weapon and wont rest until the 
- grand design is complete with the Darkness bound once again. The Keeper of
-  the Magic Sword searches endles
-LOCATION:1535 Commercial Way\, Santa Cruz\, CA
-URL:https://www.ticketweb.com/event/folkyeah-presents-magic-moes-alley-tic
- kets/14252684
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -360,7 +324,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -394,7 +358,7 @@ SUMMARY:Free TideFest 2026: Outdoor Music + Art Festival by Ocean Beach (S
  F)
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260902T202912Z
+DTSTAMP:20260903T024629Z
 UID:funcheap-20260919-freetidefest2026outdoorm
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-f
@@ -420,5 +384,28 @@ DESCRIPTION:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-f
 LOCATION:san francisco
 URL:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-festival-
  ocean-beach-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Outdoor Movie Night in Duboce Park “How to Train Your Drago
+ n” (Fall 2026)
+DTSTART;TZID=America/Los_Angeles:20260926T190000
+DTEND;TZID=America/Los_Angeles:20260926T210000
+DTSTAMP:20260903T024629Z
+UID:funcheap-20260926-freeoutdoormovienightind
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-t
+ rain-dragon-fall-2026/\nLocation: san francisco\nPrice: Free\nCategories: 
+ community\, free\nSource: funcheap/san-francisco\n\nOutdoor Movie Night re
+ turns to Duboce Park on Saturday\, September 26. Join Friends of Duboce Pa
+ rk for a magical evening as we screen How to Train Your Dragon (2025) on t
+ he big outdoor screen! The movie starts at dusk\, approximately 7 p.m.\, o
+ n Saturday\, September 26 on the Upper Lawn. Pack a picnic and bring your 
+ blankets\, low chairs\, and cozy layers. Arrive early to grab a good spot!
+  This is a free\, family-friendly event. The event is sponsored by Friends
+  of Duboce Park and San Francisco Recreation & Parks. For more information
+ \, please visit https://friendsofdubocepark.org/movienight .
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-train-dra
+ gon-fall-2026/
 END:VEVENT
 END:VCALENDAR
