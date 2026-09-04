@@ -5,166 +5,69 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Breaking Models 🚨AI Security Session 7: Too Much Agency
-DTSTART:20260906T213000Z
-DTEND:20260906T230000Z
-DTSTAMP:20260904T024439Z
-UID:evt-9wwLnda6Jhspexj
+SUMMARY:Spatial Intelligence + Generative 3D Hackathon with Mint\, Tripo\,
+  World Labs\, Convex and Founders Inc.
+DTSTART:20260905T170000Z
+DTEND:20260906T030000Z
+DTSTAMP:20260904T103010Z
+UID:evt-ILBNJlfial3ou6k
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/vpncnsas\nLocation: Hacker Dojo\, 855 Maude Ave\
- , Mountain View\, CA 94043\, USA\nHost: Personal\nCategories: ai\nSource: 
- luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
-URL:https://lu.ma/vpncnsas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bay Area Frontier Research Club #22 | Robotics & Embodied AI (dinn
- er + paper discussion @ Mission Robotics)
-DTSTART:20260910T003000Z
-DTEND:20260910T033000Z
-DTSTAMP:20260904T024439Z
-UID:evt-guGDoAdrP4myI9C
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/7wv4khq9\nLocation: San Francisco\, CA\nHost: Th
- e Frontier Syndicate\nCategories: ai\nSource: luma/san-francisco+luma/san-
- jose+luma/virtual
+DESCRIPTION:https://lu.ma/b101ml40\nLocation: San Francisco\, CA\nHost: Fo
+ unders\, Inc. Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/7wv4khq9
+URL:https://lu.ma/b101ml40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Llama Lounge 26: The AI Startup Event Series @ Microsoft
-DTSTART:20260911T000000Z
-DTEND:20260911T033000Z
-DTSTAMP:20260904T024439Z
-UID:evt-F09YBBMDvanF48y
+SUMMARY:Blinkko Launch Party: A first look at the social wearable that bri
+ ngs AI into real-world connection.
+DTSTART:20260909T010000Z
+DTEND:20260909T040000Z
+DTSTAMP:20260904T103010Z
+UID:evt-w6V6FgMM4f1ZBEY
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/llamalounge26\nLocation: Microsoft\, 1045 La Ave
- nida St\, Mountain View\, CA 94043\, USA\nHost: Llama Lounge: The AI Start
- up Series\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/v
- irtual
-LOCATION:Microsoft\, 1045 La Avenida St\, Mountain View\, CA 94043\, USA
-URL:https://lu.ma/llamalounge26
+DESCRIPTION:https://lu.ma/bpipdia5\nLocation: 221 11th St\, San Francisco\
+ , CA 94103\, USA\nHost: Blinkko\nCategories: ai\nSource: luma-html/san-fra
+ ncisco
+LOCATION:221 11th St\, San Francisco\, CA 94103\, USA
+URL:https://lu.ma/bpipdia5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI meetup (SV) for GenAI\, LLMs\, and Agent
-DTSTART:20260911T003000Z
-DTEND:20260911T033000Z
-DTSTAMP:20260904T024439Z
-UID:evt-ylrkm1JAuAeMonr
+SUMMARY:The Corgi Cup 🏁🏆
+DTSTART:20260910T000000Z
+DTEND:20260910T020000Z
+DTSTAMP:20260904T103010Z
+UID:evt-wu4SpeSIQFoMoJW
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/oyjqtbrb\nLocation: ThoughtSpot\, 444 Castro St 
- #1000\, Mountain View\, CA 94041\, USA\nHost: AICamp\nCategories: ai\nSour
- ce: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:ThoughtSpot\, 444 Castro St #1000\, Mountain View\, CA 94041\, US
- A
-URL:https://lu.ma/oyjqtbrb
+DESCRIPTION:https://lu.ma/the-corgi-cup\nLocation: 9 Claude Ln\, San Franc
+ isco\, CA 94108\, USA\nHost: Arize AI\nCategories: ai\nSource: luma-html/s
+ an-francisco
+LOCATION:9 Claude Ln\, San Francisco\, CA 94108\, USA
+URL:https://lu.ma/the-corgi-cup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI Art Workshop: Create a Place You Wish Existed
-DTSTART:20260911T013000Z
-DTEND:20260911T033000Z
-DTSTAMP:20260904T024439Z
-UID:evt-tzpQSCEstVavDsq
+SUMMARY:Agentic PM Kickoff w/ PostHog\, Linear\, Supabase & Dreambase
+DTSTART:20260910T010000Z
+DTEND:20260910T040000Z
+DTSTAMP:20260904T103010Z
+UID:evt-mgs8akIoPXqIV1l
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/jvc34lbb\nLocation: Gallery House\, 826 Santa Cr
- uz Ave\, Menlo Park\, CA 94025\, USA\nHost: Personal\nCategories: ai\nSour
- ce: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Gallery House\, 826 Santa Cruz Ave\, Menlo Park\, CA 94025\, USA
-URL:https://lu.ma/jvc34lbb
+DESCRIPTION:https://lu.ma/posthog-tpmz\nLocation: 2360 3rd St\, San Franci
+ sco\, CA 94107\, USA\nHost: PostHog\nCategories: ai\nSource: luma-html/san
+ -francisco
+LOCATION:2360 3rd St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/posthog-tpmz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agentic Commerce: Designing the Next Business Infrastructure
-DTSTART:20260913T210000Z
-DTEND:20260914T013000Z
-DTSTAMP:20260904T024439Z
-UID:evt-aXOYCnIVSrIiDL1
+SUMMARY:Agents in Sales: Fireside Chat with Bobby Morrison (ex-Shopify CRO
+ )
+DTSTART:20260910T013000Z
+DTEND:20260910T033000Z
+DTSTAMP:20260904T103010Z
+UID:evt-CjrBnlXY53B8AOu
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/ucan-2026\nLocation: Plug and Play Tech Center\,
-  440 N Wolfe Rd\, Sunnyvale\, CA 94085\, USA\nHost: UCAN by Alibaba Design
- \nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Plug and Play Tech Center\, 440 N Wolfe Rd\, Sunnyvale\, CA 94085
- \, USA
-URL:https://lu.ma/ucan-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TrueFoundry Agent Harness Hackathon
-DTSTART:20260919T163000Z
-DTEND:20260920T030000Z
-DTSTAMP:20260904T024439Z
-UID:evt-x4XWFqVISgA8ctG
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/truefoundry-agent-harness-hackathon-sep19-2026\n
- Location: 3120 Scott Blvd\, Santa Clara\, CA 95054\, USA\nHost: [SF] Hacke
- rSquad\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
- ual
-LOCATION:3120 Scott Blvd\, Santa Clara\, CA 95054\, USA
-URL:https://lu.ma/truefoundry-agent-harness-hackathon-sep19-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Trivia and Game Night: WeAreDevelopers Pre-Party with PagerDuty
- \, Box\, and Arize!
-DTSTART:20260924T000000Z
-DTEND:20260924T020000Z
-DTSTAMP:20260904T024439Z
-UID:evt-cCYWBCT2RdviKmA
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/prtcc7pw\nLocation: Guildhouse\, 420 First St\, 
- San Jose\, CA 95113\, USA\nHost: PagerDuty Community Events\nCategories: a
- i\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Guildhouse\, 420 First St\, San Jose\, CA 95113\, USA
-URL:https://lu.ma/prtcc7pw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daytona & SambaNova AI Builders - San Jose\, September 2026
-DTSTART:20260924T003000Z
-DTEND:20260924T033000Z
-DTSTAMP:20260904T024439Z
-UID:evt-7lDjAkg3NPRzIgp
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/ai-builders-san-jose\nLocation: San Jose\, CA\nH
- ost: Personal\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+lu
- ma/virtual
-LOCATION:San Jose\, CA
-URL:https://lu.ma/ai-builders-san-jose
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agents in Production
-DTSTART:20260924T004500Z
-DTEND:20260924T030000Z
-DTSTAMP:20260904T024439Z
-UID:evt-2ENKv3vS5Rh48cE
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/00q9b0m0\nLocation: JJ Lake Business Center\, 34
- 0 E Middlefield Rd\, Mountain View\, CA 94043\, USA\nHost: Realm Labs\nCat
- egories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:JJ Lake Business Center\, 340 E Middlefield Rd\, Mountain View\, 
- CA 94043\, USA
-URL:https://lu.ma/00q9b0m0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Applied in Cybersecurity Lightning Talks
-DTSTART:20260925T000000Z
-DTEND:20260925T030000Z
-DTSTAMP:20260904T024439Z
-UID:evt-qZobjBODNG7E1om
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/de7znk3m\nLocation: Nutanix\, 1740 Technology Dr
- \, San Jose\, CA 95110\, USA\nHost: Women in Cybersecurity - Silicon Valle
- y\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Nutanix\, 1740 Technology Dr\, San Jose\, CA 95110\, USA
-URL:https://lu.ma/de7znk3m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Curious Agents Club Meetup
-DTSTART:20260925T003000Z
-DTEND:20260925T033000Z
-DTSTAMP:20260904T024439Z
-UID:evt-EEHprCaPKFtgHqY
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/8bdy35rc\nLocation: Mountain View\, CA\nHost: Pe
- rsonal\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
- ual
-LOCATION:Mountain View\, CA
-URL:https://lu.ma/8bdy35rc
+DESCRIPTION:https://lu.ma/agents-in-sales\nLocation: San Francisco\, CA\nH
+ ost: Gumloop\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/agents-in-sales
 END:VEVENT
 END:VCALENDAR
