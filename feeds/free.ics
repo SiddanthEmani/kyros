@@ -5,45 +5,46 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Bingo Loco
-DTSTART:20260905T014500Z
-DTEND:20260905T034500Z
-DTSTAMP:20260904T201411Z
-UID:rZ7HnEZ1AfPJGN
+SUMMARY:NB Ridaz Live At TIkI PETE
+DTSTART:20260905T030000Z
+DTEND:20260905T050000Z
+DTSTAMP:20260905T024602Z
+UID:rZ7HnEZ1AfJA7N
 CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tic
- kets/14966323\nVenue: San Jose Improv\nLocation: 62 S Second St\, San Jose
- \, CA\nPrice: Free\nGenres: Music\, Pop\, Other\nCategories: concert\, fre
- e\nSource: ticketmaster/music\n\nThere is a ticket delivery delay in place
-  until two days prior to the event. Tickets will not be emailed until then
- . Tickets are only available online until the delivery delay is lifted.DO 
- NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM T
- ICKET RESALE IS STRICTLY PROHIBITED.TICKETS SUSPECTED OF BEING PURCHASED F
- OR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE
-  SAN JOSE IMPROV.EVENT INFO:There is a two-item minimum purchase requireme
- nt in the showroom for all guests. Seating is general admission\, first-co
- me\, first-served\, with the exception of groups and premium booths.No cel
- l phone use\, photography or video recording is permitted during performan
- ces.All sales are final.MISCELLANOUS:For group sales info\, e-mail our Eve
- nts Manager to learn about special menu options and reserved seating.Addit
- ional questions may be addressed in our Frequently Asked Questions.For fur
- ther assistance\, contact San Jose Improv. This event is 21 and over. Any 
- ticket holder unable to present valid identification indicating that they 
- are at least 21 years of age will not be admitted to this event\, and will
-  not be eligible for a refund. By purchasing tickets to this event\, you a
- re authorizing this charge and agreeing to our terms and conditions herein
- . • ALL SALES ARE FINAL\, unless the event is canceled. • No refunds\,
-  transfers\, or exchanges. Ticket resales are not permitted. • Ticket pr
- ices and fees are "market-priced" and may fluctuate. • Mandatory two-i
-LOCATION:62 S Second St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tickets/149
- 66323
+DESCRIPTION:https://www.ticketweb.com/event/nb-ridaz-live-at-tiki-tiki-pet
+ e-tickets/14985123\nVenue: Tiki Pete\nLocation: 23 N Market St\, San Jose\
+ , CA\nPrice: Free\nGenres: Music\, Hip-Hop/Rap\, Latin Hip-Hop\nCategories
+ : concert\, free\nSource: ticketmaster/music\n\nThis event is 21 and over.
+  Any ticket holder unable to present valid identification indicating that 
+ they are at least 21 years of age will not be admitted to this event\, and
+  will not be eligible for a refund. TICKETS WILL BE SENT 3 DAYS PRIOR TO E
+ VENT AND YOUR NAME WILL ALSO APPEAR ON WILL CALL NO UNACCOMPANIED MINORS W
+ ILL BE ALLOWED ENTRY. NO REFUNDS. UNLESS OTHERWISE SPECIFIED OR ARRANGED\,
+  ADMISSION IS STANDING ROOM ONLY You must possess a valid Ticket that perm
+ its access to the Event and check in at marked locations during specified 
+ time periods. TICKET AND VALID ID REQUIRED YOUR TICKET Please be advised\,
+  the purchase and/or use of a Ticket to\, and/or entry into\, the Event sh
+ all constitute Your unconditional acceptance to be bound by any and all of
+  the terms and conditions contained within this agreement (this Agreement)
+  between You and The Venue and Sucka Punch Production or California Live (
+ the Company) to attend all or part of the Event and For safety reasons\, C
+ ompany reserves the right to\, without any prior notice or compensation to
+  You: postpone\, cancel\, interrupt or stop the Event\; provisionally keep
+  visitors on the Event site at the end of the Event\; totally or partially
+  vacate the Event site\; and deny access to the Event site regardless of t
+ he possession of a valid Ticket. You understand that the artists and/or li
+ neup for the Event may be changed and that such occurrence shall not\, und
+ er any circumstances\, entitle You to any claim whatsoever\, including\, b
+ ut not lim
+LOCATION:23 N Market St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/nb-ridaz-live-at-tiki-tiki-pete-ticket
+ s/14985123
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Chinatown Car Show & Car Parade (SF)
 DTSTART;TZID=America/Los_Angeles:20260906T100000
 DTEND;TZID=America/Los_Angeles:20260906T153000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260906-2026chinatowncarshowcarp
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-chinatown-car-show-car-parade-sf/
@@ -74,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:San José “Lowrider Day” Festival + Classic Car Cruise (2026)
 DTSTART;TZID=America/Los_Angeles:20260906T120000
 DTEND;TZID=America/Los_Angeles:20260906T180000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260906-sanjoslowriderdayfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jos-lowrider-day-festival-classic-
@@ -106,7 +107,7 @@ SUMMARY:Free Drive-In Movie Night + $2 Nachos at West Wind (East Bay + San
   Jose)
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T200000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260910-freedriveinmovienight2na
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drivein-movie-night-2-nachos-san-
@@ -140,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -172,7 +173,7 @@ SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -206,7 +207,7 @@ SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn
  (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -239,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -271,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -304,7 +305,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -338,7 +339,7 @@ SUMMARY:Free TideFest 2026: Outdoor Music + Art Festival by Ocean Beach (S
  F)
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260919-freetidefest2026outdoorm
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-f
@@ -370,7 +371,7 @@ SUMMARY:Free Outdoor Movie Night in Duboce Park “How to Train Your Drago
  n” (Fall 2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260926-freeoutdoormovienightind
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-t

@@ -5,59 +5,47 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[EDM] The Chainsmokers (18+ Event)
-DTSTART:20260905T000000Z
-DTEND:20260905T020000Z
-DTSTAMP:20260904T201411Z
-UID:Z7r9jZ1A7PUOU
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PUOU\nVenue: Disco
- very Meadows\nLocation: 180 Woz Way\, San Jose\, CA\nGenres: Music\, Dance
- /Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:180 Woz Way\, San Jose\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7PUOU
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live/Free] Bingo Loco
-DTSTART:20260905T014500Z
-DTEND:20260905T034500Z
-DTSTAMP:20260904T201411Z
-UID:rZ7HnEZ1AfPJGN
+SUMMARY:[Live/Free] NB Ridaz Live At TIkI PETE
+DTSTART:20260905T030000Z
+DTEND:20260905T050000Z
+DTSTAMP:20260905T024602Z
+UID:rZ7HnEZ1AfJA7N
 CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tic
- kets/14966323\nVenue: San Jose Improv\nLocation: 62 S Second St\, San Jose
- \, CA\nPrice: Free\nGenres: Music\, Pop\, Other\nCategories: concert\, fre
- e\nSource: ticketmaster/music\n\nThere is a ticket delivery delay in place
-  until two days prior to the event. Tickets will not be emailed until then
- . Tickets are only available online until the delivery delay is lifted.DO 
- NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM T
- ICKET RESALE IS STRICTLY PROHIBITED.TICKETS SUSPECTED OF BEING PURCHASED F
- OR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF THE
-  SAN JOSE IMPROV.EVENT INFO:There is a two-item minimum purchase requireme
- nt in the showroom for all guests. Seating is general admission\, first-co
- me\, first-served\, with the exception of groups and premium booths.No cel
- l phone use\, photography or video recording is permitted during performan
- ces.All sales are final.MISCELLANOUS:For group sales info\, e-mail our Eve
- nts Manager to learn about special menu options and reserved seating.Addit
- ional questions may be addressed in our Frequently Asked Questions.For fur
- ther assistance\, contact San Jose Improv. This event is 21 and over. Any 
- ticket holder unable to present valid identification indicating that they 
- are at least 21 years of age will not be admitted to this event\, and will
-  not be eligible for a refund. By purchasing tickets to this event\, you a
- re authorizing this charge and agreeing to our terms and conditions herein
- . • ALL SALES ARE FINAL\, unless the event is canceled. • No refunds\,
-  transfers\, or exchanges. Ticket resales are not permitted. • Ticket pr
- ices and fees are "market-priced" and may fluctuate. • Mandatory two-i
-LOCATION:62 S Second St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/bingo-loco-san-jose-improv-tickets/149
- 66323
+DESCRIPTION:https://www.ticketweb.com/event/nb-ridaz-live-at-tiki-tiki-pet
+ e-tickets/14985123\nVenue: Tiki Pete\nLocation: 23 N Market St\, San Jose\
+ , CA\nPrice: Free\nGenres: Music\, Hip-Hop/Rap\, Latin Hip-Hop\nCategories
+ : concert\, free\nSource: ticketmaster/music\n\nThis event is 21 and over.
+  Any ticket holder unable to present valid identification indicating that 
+ they are at least 21 years of age will not be admitted to this event\, and
+  will not be eligible for a refund. TICKETS WILL BE SENT 3 DAYS PRIOR TO E
+ VENT AND YOUR NAME WILL ALSO APPEAR ON WILL CALL NO UNACCOMPANIED MINORS W
+ ILL BE ALLOWED ENTRY. NO REFUNDS. UNLESS OTHERWISE SPECIFIED OR ARRANGED\,
+  ADMISSION IS STANDING ROOM ONLY You must possess a valid Ticket that perm
+ its access to the Event and check in at marked locations during specified 
+ time periods. TICKET AND VALID ID REQUIRED YOUR TICKET Please be advised\,
+  the purchase and/or use of a Ticket to\, and/or entry into\, the Event sh
+ all constitute Your unconditional acceptance to be bound by any and all of
+  the terms and conditions contained within this agreement (this Agreement)
+  between You and The Venue and Sucka Punch Production or California Live (
+ the Company) to attend all or part of the Event and For safety reasons\, C
+ ompany reserves the right to\, without any prior notice or compensation to
+  You: postpone\, cancel\, interrupt or stop the Event\; provisionally keep
+  visitors on the Event site at the end of the Event\; totally or partially
+  vacate the Event site\; and deny access to the Event site regardless of t
+ he possession of a valid Ticket. You understand that the artists and/or li
+ neup for the Event may be changed and that such occurrence shall not\, und
+ er any circumstances\, entitle You to any claim whatsoever\, including\, b
+ ut not lim
+LOCATION:23 N Market St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/nb-ridaz-live-at-tiki-tiki-pete-ticket
+ s/14985123
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[AI] Spatial Intelligence + Generative 3D Hackathon with Mint\, Tr
  ipo\, World Labs\, Convex and Founders Inc.
 DTSTART:20260905T170000Z
 DTEND:20260906T030000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:evt-ILBNJlfial3ou6k
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/b101ml40\nLocation: San Francisco\, CA\nHost: Fo
@@ -69,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Deep Purple with Special Guest Kansas
 DTSTART:20260906T010000Z
 DTEND:20260906T030000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_66-RLZO
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/deep-purple-with-special-guest-ka
@@ -85,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Public Image Ltd. w/ Plague Vendor
 DTSTART:20260906T023000Z
 DTEND:20260906T043000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:Z7r9jZ1AAvpeo
 CATEGORIES:community
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvpeo\nVenue: Rio T
@@ -98,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Grupo Duelo - GRAVEDAD TOUR 2026
 DTSTART:20260906T030000Z
 DTEND:20260906T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_AJqRyP7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/grupo-duelo-gravedad-tour-2026-sa
@@ -113,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] 2026 Chinatown Car Show & Car Parade (SF)
 DTSTART;TZID=America/Los_Angeles:20260906T100000
 DTEND;TZID=America/Los_Angeles:20260906T153000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260906-2026chinatowncarshowcarp
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-chinatown-car-show-car-parade-sf/
@@ -145,7 +133,7 @@ SUMMARY:[Bay/Free] San José “Lowrider Day” Festival + Classic Car Cru
  ise (2026)
 DTSTART;TZID=America/Los_Angeles:20260906T120000
 DTEND;TZID=America/Los_Angeles:20260906T180000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260906-sanjoslowriderdayfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jos-lowrider-day-festival-classic-
@@ -176,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] World Arts West Dance Festival (Presidio Tunnel Tops)
 DTSTART;TZID=America/Los_Angeles:20260906T160000
 DTEND;TZID=America/Los_Angeles:20260906T180000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260906-worldartswestdancefestiv
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/world-arts-west-dance-festival-presidi
@@ -205,7 +193,7 @@ SUMMARY:[AI] Blinkko Launch Party: A first look at the social wearable tha
  t brings AI into real-world connection.
 DTSTART:20260909T010000Z
 DTEND:20260909T040000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:evt-w6V6FgMM4f1ZBEY
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/bpipdia5\nLocation: 221 11th St\, San Francisco\
@@ -218,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] wave to earth - the pieces tour
 DTSTART:20260909T031500Z
 DTEND:20260909T051500Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_1DMvkmg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/wave-to-earth-the-pieces-tour-san
@@ -241,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] The Corgi Cup 🏁🏆
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:evt-wu4SpeSIQFoMoJW
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/the-corgi-cup\nLocation: 9 Claude Ln\, San Franc
@@ -255,7 +243,7 @@ SUMMARY:[AI] Bay Area Frontier Research Club #22 | Robotics & Embodied AI
  (dinner + paper discussion @ Mission Robotics)
 DTSTART:20260910T003000Z
 DTEND:20260910T033000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:evt-guGDoAdrP4myI9C
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/7wv4khq9\nLocation: San Francisco\, CA\nHost: Th
@@ -268,7 +256,7 @@ SUMMARY:[Bay/Free] Free Drive-In Movie Night + $2 Nachos at West Wind (Eas
  t Bay + San Jose)
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T200000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260910-freedriveinmovienight2na
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drivein-movie-night-2-nachos-san-
@@ -302,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Soda Stereo - ECOS Tour
 DTSTART:20260911T030000Z
 DTEND:20260911T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_awwb7Mr
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/soda-stereo-ecos-tour-san-jose-ca
@@ -326,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -357,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] CODICIADO - Así Es La Vida Tour
 DTSTART:20260912T030000Z
 DTEND:20260912T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZbz3nxnRH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/codiciado-asi-es-la-vida-tour-san
@@ -375,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Flux Pavilion - Ages 21+
 DTSTART:20260912T040000Z
 DTEND:20260912T060000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:Z7r9jZ1A7PyOK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PyOK\nVenue: The M
@@ -389,7 +377,7 @@ SUMMARY:[EDM/Free] Google’s Free “Endless Summer Festival” w/ DJs\,
  Magic & Giveaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -423,7 +411,7 @@ SUMMARY:[EDM/Free] Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ
   + Popcorn (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -456,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] SABAI presents: IKIGAI Bay Area
 DTSTART:20260913T030000Z
 DTEND:20260913T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_6TJqbSx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sabai-presents-ikigai-bay-area-sa
@@ -472,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Palomazo Norteño - Clase Maestra Tour
 DTSTART:20260913T030000Z
 DTEND:20260913T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_FNtvEnU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/palomazo-norteno-clase-maestra-to
@@ -504,7 +492,7 @@ SUMMARY:[Bay/Free] Latino Conservation Week Guided Hike + Free Food (Redwo
  od City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -536,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] ANDREA BOCELLI "Romanza - 30th Anniversary World Tour"
 DTSTART:20260914T030000Z
 DTEND:20260914T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_ddjjMmd
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniv
@@ -560,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Five Finger Death Punch
 DTSTART:20260917T014500Z
 DTEND:20260917T034500Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_eplUIuH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/five-finger-death-punch-mountain-
@@ -577,7 +565,7 @@ SUMMARY:[EDM] The Schizophonics "Burning Floor Tour" w/ Fever Dog\, The Tr
  emolos + DJ Archive 65
 DTSTART:20260918T030000Z
 DTEND:20260918T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:rZ7HnEZ1Afko_7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/the-schizophonics-burning-floo
@@ -613,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Carin Leon - De Sonora Para El Mundo Tour 2026
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_eBfZy7s
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/carin-leon-de-sonora-para-el-san-
@@ -637,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Kany Garcia: Puerta Abierta Tour
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_FQ8mbrW
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/kany-garcia-puerta-abierta-tour-s
@@ -652,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Daft Disko
 DTSTART:20260919T040000Z
 DTEND:20260919T060000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:rZ7HnEZ1AfaaqV
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/daft-disko-the-ritz-tickets/14
@@ -669,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Mild Minds - DJ Set (21+)
 DTSTART:20260919T050000Z
 DTEND:20260919T070000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:Z7r9jZ1A7Pw7F
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7Pw7F\nVenue: 1015 
@@ -682,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -715,7 +703,7 @@ SUMMARY:[Bay/Free] “Let’s Glow” BART Anime Festival (Warm Springs /
  South Fremont)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -748,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Steve Aoki (18+) - DIM MAK 30 TOUR
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZbyk0x_-f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/steve-aoki-18-dim-mak-30-san-fran
@@ -776,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] GODSMACK - The Rise of Rock World Tour 2026
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_dKlXXzG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-m
@@ -793,7 +781,7 @@ SUMMARY:[Bay/Free] Free TideFest 2026: Outdoor Music + Art Festival by Oce
  an Beach (SF)
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260919-freetidefest2026outdoorm
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-tidefest-2026-outdoor-music-art-f
@@ -824,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Anish Kumar (21+)
 DTSTART:20260920T050000Z
 DTEND:20260920T070000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_ud0A07i
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/anish-kumar-21-san-francisco-cali
@@ -840,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Temples
 DTSTART:20260923T030000Z
 DTEND:20260923T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:Z7r9jZ1A7x3vp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp\nVenue: The C
@@ -853,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN SAN JOSE
 DTSTART:20260924T023000Z
 DTEND:20260924T043000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_1mWZNyw
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pure
@@ -889,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Temples
 DTSTART:20260924T030000Z
 DTEND:20260924T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:Z7r9jZ1A7x3v9
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9\nVenue: The C
@@ -902,7 +890,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Return Of The Carnival Of Sins: Mötley Crüe
 DTSTART:20260925T013000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZbUD3X2kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-return-of-the-carnival-of-mou
@@ -915,11 +903,48 @@ URL:https://www.ticketmaster.com/the-return-of-the-carnival-of-mountain-vi
  ew-california-09-24-2026/event/1C00636ED2F8F19C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Moe's Alley Presents: Tania Cassette w/ HOLY WATER + DJ Arch
+ ive 65
+DTSTART:20260926T040000Z
+DTEND:20260926T060000Z
+DTSTAMP:20260905T024602Z
+UID:rZ7HnEZ1AfJ8qK
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-tania-cass
+ ette-moes-alley-tickets/14990753\nVenue: Moe's Alley\nLocation: 1535 Comme
+ rcial Way\, Santa Cruz\, CA\nPrice: $25\nGenres: Music\, Alternative\, Got
+ h\, Post-Punk\nCategories: edm\nSource: ticketmaster/music\n\nMoes Alley p
+ resents Tania Cassette\, the voice of Glass Spells supporting the release 
+ of her forthcoming LP The Death of Me! Special guest HOLY WATER opens the 
+ show plus DJ Archive 65. Friday\, September 25\, 2026Doors: 8pm / Show: 9p
+ m$20 in advance / $25 day of the show21+* No Refunds | All sales are final
+ * Avoid scammers! Only purchase tickets from moesalley.com or ticketweb.co
+ m* Tickets requested by email will be delivered 3 days prior to the event*
+  Will Call tickets will be available at the door on the day of the event==
+ ==TANIA CASSETTETania Cassette is a synthpop and dark pop artist with an 8
+ 0s glow and a modern dance heartbeat\, built on hooks that land fast and l
+ inger long into the night. Known as the voice of Glass Spells\, she emerge
+ d into her solo era with singles The Flame and Por Tu Amor leading into he
+ r debut album The Death of Me\, out September 4th. Shimmering\, dancefloor
+  ready\, and heavy with yearning\, the record moves through passion and re
+ birth in a world of nostalgic tenderness and dark glamour.HOLY WATERJacob 
+ came up in the Punk / Hardcore scene in Northern California. Jacobs band L
+ ONELY KINGS released 4 Full length Records for FEARLESS RECORDS. Lonely Ki
+ ngs Extensively toured USA / EUROPE / UK with bands like AT THE DRIVE IN\,
+  HOT WATER MUSIC\, THE MISFITS\, AFI etc. HOLY WATER was established in 20
+ 18 after 12 years doing DJ gigs playing Indie Dance\, Tech House\, Industr
+ ial\, and Post Punk. HOLY WATER is a combination of Jacobs love of electro
+ nic dance music and the
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-tania-cassette-moe
+ s-alley-tickets/14990753
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay/Free] Free Outdoor Movie Night in Duboce Park “How to Train
   Your Dragon” (Fall 2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:funcheap-20260926-freeoutdoormovienightind
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-duboce-park-t
@@ -942,7 +967,7 @@ SUMMARY:[EDM] Lionel Richie and Earth\, Wind & Fire - Sing a Song All Nigh
  t Long
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_d2ADlKy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire
@@ -959,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -983,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -1008,7 +1033,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -1035,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -1060,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -1088,7 +1113,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260904T201411Z
+DTSTAMP:20260905T024602Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
