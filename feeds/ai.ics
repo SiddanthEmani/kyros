@@ -8,12 +8,36 @@ BEGIN:VEVENT
 SUMMARY:Open Model Hack - Gradient x Google Deepmind
 DTSTART:20260912T163000Z
 DTEND:20260913T023000Z
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:evt-FCTQx6RPSAxTcMy
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/openmodelhack\nLocation: San Francisco\, CA\nHos
  t: tokens&\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/openmodelhack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Filmmaking Masterclass + Hackathon
+DTSTART:20260913T160000Z
+DTEND:20260914T020000Z
+DTSTAMP:20260911T103219Z
+UID:evt-sVz87LJ5H6PZMDo
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/pw54q8np\nLocation: San Francisco\, CA\nHost: Th
+ e Multimodal Society\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/pw54q8np
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What is Law in the Age of AI?
+DTSTART:20260915T003000Z
+DTEND:20260915T033000Z
+DTSTAMP:20260911T103219Z
+UID:evt-0CC7zosf0DQb9FR
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/81aqxabn\nLocation: San Francisco\, CA\nHost: Im
+ bue Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/81aqxabn
 END:VEVENT
 END:VCALENDAR

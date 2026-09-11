@@ -5,28 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Rules
-DTSTART:20260911T040000Z
-DTEND:20260911T060000Z
-DTSTAMP:20260911T024913Z
-UID:rZ7HnEZ1AfFza7
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/rules-the-independent-tickets/
- 14238244\nVenue: The Independent\nLocation: 628 Divisadero St\, San Franci
- sco\, CA\nPrice: Free\nGenres: Music\, Alternative\nCategories: concert\, 
- free\nSource: ticketmaster/music\n\nPlease note - there is a delivery dela
- y set for 2 weeks prior to show. This event is 18 and over. Any ticket hol
- der unable to present valid identification indicating that they are at lea
- st 18 years of age will not be admitted to this event\, and will not be el
- igible for a refund. Support acts subject to change without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/rules-the-independent-tickets/14238244
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -57,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Free Online Encore: 22nd Queer Women of Color Film Fest (2026)
 DTSTART;TZID=America/Los_Angeles:20260911T190000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260911-freeonlineencore22ndquee
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-online-encore-22nd-queer-women-co
@@ -72,11 +54,47 @@ URL:https://sf.funcheap.com/free-online-encore-22nd-queer-women-color-film
  -fest-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:anaiis with special guest Elliott Skinner (SOLD OUT)
+DTSTART:20260912T040000Z
+DTEND:20260912T060000Z
+DTSTAMP:20260911T103219Z
+UID:rZ7HnEZ1AfPsZd
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/anaiis-with-special-guest-elli
+ ott-swedish-american-hall-tickets/14971003\nVenue: Swedish American Hall\n
+ Location: 2174 Market St\, San Francisco\, CA\nPrice: Free\nGenres: Music\
+ , R&B\, Soul\nCategories: concert\, free\nSource: ticketmaster/music\n\nli
+ mited first come first served open seating London-based polymath anaiis ma
+ kes the kind of music that speaks to an innate sense of wonder. On her lat
+ est album Devotion & The Black Divine\, the songs swell with emotional cla
+ rity as she lovingly pushes herself beyond the edges of her comfort zone. 
+ Recorded live-to-tape at London's 5db Studios\, the record feels like a co
+ nversation with the natural world\, our inner selves\, and the power of re
+ cognising one's own divinity. anaiis draws from the collective consciousne
+ ss\, and this time\, that depth rests on a growing sense of homecoming. No
+ t to a place\, but to the self. Artist Presale: Tue Jun 09\, 10:00 AM Publ
+ ic Onsale: Fri Jun 12th \, 10:00 AM For any event that is listed as 18 or 
+ 21 and over\, ANY ticket holder unable to present valid identification ind
+ icating that they are of age will not be admitted to this event\, and will
+  not be eligible for a refund. Any event listed as All Ages\, means 6 year
+ s of age or older. ALL tickets are standing room only unless otherwise spe
+ cified. If you need special accommodations\, contact info@cafedunord.com. 
+ Support acts are subject to change without refund. Professional Cameras ar
+ e not allowed without prior approval. Professional Camera defined as detac
+ hable lens or of professional grade as determined by the venue staff. When
+  in doubt\, just email us ahead of the show! We might be able to get you a
+  Photo Pass depending on Artist's approval. This event is 21 and over. Any
+  ticket holder unable to present
+LOCATION:2174 Market St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/anaiis-with-special-guest-elliott-swed
+ ish-american-hall-tickets/14971003
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -110,7 +128,7 @@ SUMMARY:San Jose’s Free “Cultura in the Park” Festival w/ Live Maria
  chi (Plaza de Cesar Chavez)
 DTSTART;TZID=America/Los_Angeles:20260912T120000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260912-sanjosesfreeculturainthe
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-joses-free-cultura-park-festival-l
@@ -144,7 +162,7 @@ SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn
  (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -177,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Black Uhuru w/ The Jethro Jeremiah Band **SOLD OUT - THANK YOU!*
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:rZ7HnEZ1AfOFON
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/black-uhuru-w-the-jethro-moes-
@@ -213,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -245,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -278,7 +296,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -311,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:FREE “Drunk Theatre” SF’s Wildest Comedy Show (Sept 19)
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260919-freedrunktheatresfswilde
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drunk-theatre-sfs-wildest-comedy-
@@ -345,7 +363,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260911T024913Z
+DTSTAMP:20260911T103219Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
