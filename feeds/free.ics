@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -36,65 +36,11 @@ LOCATION:on Friday\, September 11\, 2026\, featuring lion dancing\, live m
 URL:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online Encore: 22nd Queer Women of Color Film Fest (2026)
-DTSTART;TZID=America/Los_Angeles:20260911T190000
-DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T154920Z
-UID:funcheap-20260911-freeonlineencore22ndquee
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-online-encore-22nd-queer-women-co
- lor-film-fest-2026/\nVenue: .\nPrice: Free\nCategories: community\, free\n
- Source: funcheap/san-francisco\n\nMissed the International Queer Women of 
- Color Film Festival (QWOCFF) in San Francisco? The films are coming to you
- \, FREE\, from September 11 to 21\, 2026. QWOCFF 2026 extends beyond June\
- , with 47 films screening from LBTQIA+ BIPOC filmmakers. We Resist\, and W
- e Roll. Everywhere.
-LOCATION:.
-URL:https://sf.funcheap.com/free-online-encore-22nd-queer-women-color-film
- -fest-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:anaiis with special guest Elliott Skinner (SOLD OUT)
-DTSTART:20260912T040000Z
-DTEND:20260912T060000Z
-DTSTAMP:20260911T154920Z
-UID:rZ7HnEZ1AfPsZd
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/anaiis-with-special-guest-elli
- ott-swedish-american-hall-tickets/14971003\nVenue: Swedish American Hall\n
- Location: 2174 Market St\, San Francisco\, CA\nPrice: Free\nGenres: Music\
- , R&B\, Soul\nCategories: concert\, free\nSource: ticketmaster/music\n\nli
- mited first come first served open seating London-based polymath anaiis ma
- kes the kind of music that speaks to an innate sense of wonder. On her lat
- est album Devotion & The Black Divine\, the songs swell with emotional cla
- rity as she lovingly pushes herself beyond the edges of her comfort zone. 
- Recorded live-to-tape at London's 5db Studios\, the record feels like a co
- nversation with the natural world\, our inner selves\, and the power of re
- cognising one's own divinity. anaiis draws from the collective consciousne
- ss\, and this time\, that depth rests on a growing sense of homecoming. No
- t to a place\, but to the self. Artist Presale: Tue Jun 09\, 10:00 AM Publ
- ic Onsale: Fri Jun 12th \, 10:00 AM For any event that is listed as 18 or 
- 21 and over\, ANY ticket holder unable to present valid identification ind
- icating that they are of age will not be admitted to this event\, and will
-  not be eligible for a refund. Any event listed as All Ages\, means 6 year
- s of age or older. ALL tickets are standing room only unless otherwise spe
- cified. If you need special accommodations\, contact info@cafedunord.com. 
- Support acts are subject to change without refund. Professional Cameras ar
- e not allowed without prior approval. Professional Camera defined as detac
- hable lens or of professional grade as determined by the venue staff. When
-  in doubt\, just email us ahead of the show! We might be able to get you a
-  Photo Pass depending on Artist's approval. This event is 21 and over. Any
-  ticket holder unable to present
-LOCATION:2174 Market St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/anaiis-with-special-guest-elliott-swed
- ish-american-hall-tickets/14971003
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -128,7 +74,7 @@ SUMMARY:San Jose’s Free “Cultura in the Park” Festival w/ Live Maria
  chi (Plaza de Cesar Chavez)
 DTSTART;TZID=America/Los_Angeles:20260912T120000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260912-sanjosesfreeculturainthe
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-joses-free-cultura-park-festival-l
@@ -162,7 +108,7 @@ SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn
  (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -192,10 +138,41 @@ URL:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootopia-2-dj-
  popcorn-oakland/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:10th Annual Richmond District Autumn Moon Festival 2026 (SF)
+DTSTART;TZID=America/Los_Angeles:20260912T190000
+DTEND;TZID=America/Los_Angeles:20260912T210000
+DTSTAMP:20260911T202455Z
+UID:funcheap-20260912-10thannualrichmonddistri
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/10th-annual-richmond-district-autumn-m
+ oon-festival-2026-sf/\nVenue: s\, San Francisco🎟️ FREE Admission\nPri
+ ce: Free\nCategories: community\, free\nSource: funcheap/san-francisco\n\n
+ Celebrate the 10th Annual SF Richmond District Autumn Moon Festival on Cle
+ ment Street with over 90 local vendors\, hot food\, live performances\, a 
+ rabbit petting zoo\, a giant mooncake cutting ceremony\, family activities
+ \, raffles\, and giveaways. The free event is family-friendly and features
+  cultural entertainment\, community booths\, and festive Mid-Autumn decora
+ tions. All ages are welcome. Original Event Description: _Celebrate 10 yea
+ rs of community\, culture\, and Mid-Autumn festivities in the heart of San
+  Francisco’s Richmond District!On Saturday\, September 12\, 2026\, Cleme
+ nt Street will come alive for the 10th Annual SF Richmond District Autumn 
+ Moon Festival — a free\, family-friendly street festival bringing togeth
+ er local businesses\, community organizations\, performers\, artists\, foo
+ d vendors\, and neighbors from across San Francisco and the Bay Area.🌕 
+ What to ExpectThis year’s 10th anniversary celebration will be bigger an
+ d more exciting\, featuring:🛍️ 90+ local vendors & community booths 
+ — explore local businesses\, artists\, makers\, community organizations\
+ , and more.🍜 Hot food & local flavors — enjoy a variety of delicious 
+ food while exploring Clement Street.🎤 Live performances — exper
+LOCATION:s\, San Francisco🎟️ FREE Admission
+URL:https://sf.funcheap.com/10th-annual-richmond-district-autumn-moon-fest
+ ival-2026-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Uhuru w/ The Jethro Jeremiah Band **SOLD OUT - THANK YOU!*
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:rZ7HnEZ1AfOFON
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/black-uhuru-w-the-jethro-moes-
@@ -231,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -260,10 +237,42 @@ URL:https://sf.funcheap.com/latino-conservation-week-guided-hike-free-food
  -redwood-city/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Panel: Bay Area Protest Photojournalists + Pop-Up Exhibit (SF
+  Main Library)
+DTSTART;TZID=America/Los_Angeles:20260917T190000
+DTEND;TZID=America/Los_Angeles:20260917T210000
+DTSTAMP:20260911T202455Z
+UID:funcheap-20260917-freepanelbayareaprotestp
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/free-panel-bay-area-protest-photojourn
+ alists-popup-exhibit-sf-main-library/\nLocation: san francisco\nPrice: Fre
+ e\nCategories: concert\, free\nSource: funcheap/san-francisco\n\nPhotojour
+ nalists on the Front Lines of Protest: A panel discussion hosted by Indivi
+ sible San Francisco and Pro Bono Photo. Indivisible SF presents a panel of
+  local photojournalists from Pro Bono Photo and other news organizations w
+ ho will share selections from their portfolios and discuss the role photoj
+ ournalism plays in documenting protest\, civic action and pro-democracy mo
+ vements. From the civil rights and voting rights movements of the 1960s to
+  today’s social justice actions\, the San Francisco Bay Area has long be
+ en a significant site of protest and civil disobedience. Who documents the
+ se fleeting moments of protest and civic action? Local photojournalists sh
+ are their experiences covering pro-democracy movements and street demonstr
+ ations throughout the Bay Area. Hear firsthand accounts from photographers
+  documenting recent protests and demonstrations\, view a curated projectio
+ n of their work and engage directly with the panelists during an audience 
+ Q&A. Pop-Up Gallery: A selection of photographs by participating photojour
+ nalists will be displayed alongside historical protest photography from SF
+ PL collections\, connecting contemporary documentation of Bay Area demonst
+ rations with
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-panel-bay-area-protest-photojournalists-p
+ opup-exhibit-sf-main-library/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -296,7 +305,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -326,67 +335,60 @@ URL:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-springs-sou
  th-fremont/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FREE “Drunk Theatre” SF’s Wildest Comedy Show (Sept 19)
-DTSTART;TZID=America/Los_Angeles:20260919T190000
-DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T154920Z
-UID:funcheap-20260919-freedrunktheatresfswilde
+SUMMARY:Golden Gate Park Nature Festival (SF)
+DTSTART;TZID=America/Los_Angeles:20260927T100000
+DTEND;TZID=America/Los_Angeles:20260927T140000
+DTSTAMP:20260911T202455Z
+UID:funcheap-20260927-goldengateparknaturefest
 CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-drunk-theatre-sfs-wildest-comedy-
- show-sept-19/\nVenue: and When Location: Eclectic Box SF\, San Francisco\,
-  CA Parking: Eclectic Box is a\nPrice: Free\nCategories: community\, free\
- nSource: funcheap/san-francisco\n\nA comedian takes five shots of whiskey 
- in a row and tries to perform an improvised play with five sober comedians
- . What could go wrong?! What Is Drunk Theatre? A comedian takes five shots
-  of whiskey in a row\, then attempts to perform a fully improvised play wi
- th five sober comedians in San Francisco. This unpredictable improv comedy
-  show blends chaos\, sharp wit\, and audience interaction for a truly one
- ‑of‑a‑kind night out in the Bay Area. Drunk Theatre has been feature
- d in outlets like the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\,
-  Thrillist\, and TimeOut for its wild\, anything‑can‑happen energy. Wh
- ere and When Location: Eclectic Box SF\, San Francisco\, CA Parking: Eclec
- tic Box is at the corner of 16th and Valencia\, so the parking situation i
- s unreliable. Plan ahead. Doors: 9:30pm Show: 9:45pm (starts promptly) Run
- time: Approximately 75–90 minutes Tickets and Seating Tickets : $20 at t
- he door – FREE with secret code FUNCHEAP (while supplies last – limite
- d to first 15 tickets) Limited ticket availability at the door\; advance p
- urchase recommended Seating is first‑come\, first‑served Parties that 
- have not collected their tickets by showtime may have their tickets releas
- ed and sold a
-LOCATION:and When Location: Eclectic Box SF\, San Francisco\, CA Parking: 
- Eclectic Box is a
-URL:https://sf.funcheap.com/free-drunk-theatre-sfs-wildest-comedy-show-sep
- t-19/
+DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
+ Venue: 55 Music Concourse Dr.\nPrice: Free\nCategories: community\, free\n
+ Source: funcheap/san-francisco\n\nCome and celebrate the incredible biodiv
+ ersity of San Francisco at the Golden Gate Park Nature Festival\, a free p
+ ublic event taking place on Academy property at 55 Music Concourse Dr.! Di
+ scover the people\, organizations\, and community groups working every day
+  to protect\, restore\, and conserve nature right here in our city. From l
+ ocal wildlife and thriving habitats to innovative restoration projects\, t
+ here’s plenty to see\, learn\, and experience. Enjoy fun educational pro
+ grams\, interactive activities\, hands-on experiences\, informational tabl
+ es\, and exciting displays hosted by Reimagining San Francisco (RSF) membe
+ rs\, City agencies\, and nonprofit organizations dedicated to making San F
+ rancisco a healthier\, more vibrant place for people and nature. Learn som
+ ething new. Meet your local nature champions. Get inspired. Get involved. 
+ When: Sunday\, September 27\, 2026 Time: 10Am-2PM Location: 55 Music Conco
+ urse Dr.
+LOCATION:55 Music Concourse Dr.
+URL:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival 
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260911T154920Z
+DTSTAMP:20260911T202455Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
  ciencenatureart-festival-sf/\nVenue: Randall Museum 199 Museum Way\, San F
  rancisco\, CA 94114 Open in Maps Organizer Ra\nPrice: Free\nCategories: co
- mmunity\, free\nSource: funcheap/san-jose+funcheap/san-francisco\n\nThe Ra
- ndall Museum celebrates its 75th anniversary with a free\, family-friendly
-  festival featuring the opening of a new history exhibit\, live music\, cr
- afts\, climbing wall\, skateboarding\, archery\, and more. The event inclu
- des activities and entertainment for all ages\, instructor showcases\, and
-  guest speakers\, highlighting the museum’s legacy of hands-on art\, sci
- ence\, and nature programming. Original Event Description: _The Randall Mu
- seum (199 Museum Way) will celebrate its 75th anniversary on the slopes of
-  Corona Heights Park on Sunday\, September 27\, from 1 to 5 p.m. This free
- \, family-friendly celebration will feature the opening of a new history e
- xhibit\, live music\, crafts\, climbing\, skateboarding\, archery and more
- . For decades\, the museum has offered hands-on art\, science and nature p
- rogramming rooted in the area’s distinctive hillside ecology. Ahead of t
- he milestone\, San Franciscans are invited to share their stories and memo
- ries of how the Randall has brought joy\, inspiration\, learning and commu
- nity to their lives. sun 27 sep Randall Museum 75th Anniversary Celebratio
- n 1:00 pm – 5:00 pm Event Details September marks the 75th Anniversary o
- f our opening on the slopes of Corona Hei
+ mmunity\, free\nSource: funcheap/san-jose\n\nThe Randall Museum celebrates
+  its 75th anniversary with a free\, family-friendly festival featuring the
+  opening of a new history exhibit\, live music\, crafts\, climbing wall\, 
+ skateboarding\, archery\, and more. The event includes activities and ente
+ rtainment for all ages\, instructor showcases\, and guest speakers\, highl
+ ighting the museum’s legacy of hands-on art\, science\, and nature progr
+ amming. Original Event Description: _The Randall Museum (199 Museum Way) w
+ ill celebrate its 75th anniversary on the slopes of Corona Heights Park on
+  Sunday\, September 27\, from 1 to 5 p.m. This free\, family-friendly cele
+ bration will feature the opening of a new history exhibit\, live music\, c
+ rafts\, climbing\, skateboarding\, archery and more. For decades\, the mus
+ eum has offered hands-on art\, science and nature programming rooted in th
+ e area’s distinctive hillside ecology. Ahead of the milestone\, San Fran
+ ciscans are invited to share their stories and memories of how the Randall
+  has brought joy\, inspiration\, learning and community to their lives. su
+ n 27 sep Randall Museum 75th Anniversary Celebration 1:00 pm – 5:00 pm E
+ vent Details September marks the 75th Anniversary of our opening on the sl
+ opes of Corona Hei
 LOCATION:Randall Museum 199 Museum Way\, San Francisco\, CA 94114 Open in 
  Maps Organizer Ra
 URL:https://sf.funcheap.com/randall-museum-75th-anniversary-free-sciencena
