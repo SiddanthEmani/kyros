@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Chinatown Night Market (Sept. 2026)
 DTSTART;TZID=America/Los_Angeles:20260911T170000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260911-sfschinatownnightmarkets
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Free Online Encore: 22nd Queer Women of Color Film Fest (2026)
 DTSTART;TZID=America/Los_Angeles:20260911T190000
 DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260911-freeonlineencore22ndquee
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-online-encore-22nd-queer-women-co
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:anaiis with special guest Elliott Skinner (SOLD OUT)
 DTSTART:20260912T040000Z
 DTEND:20260912T060000Z
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:rZ7HnEZ1AfPsZd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/anaiis-with-special-guest-elli
@@ -94,7 +94,7 @@ SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
  eaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -128,7 +128,7 @@ SUMMARY:San Jose’s Free “Cultura in the Park” Festival w/ Live Maria
  chi (Plaza de Cesar Chavez)
 DTSTART;TZID=America/Los_Angeles:20260912T120000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260912-sanjosesfreeculturainthe
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-joses-free-cultura-park-festival-l
@@ -162,7 +162,7 @@ SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn
  (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Black Uhuru w/ The Jethro Jeremiah Band **SOLD OUT - THANK YOU!*
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:rZ7HnEZ1AfOFON
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/black-uhuru-w-the-jethro-moes-
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -296,7 +296,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:FREE “Drunk Theatre” SF’s Wildest Comedy Show (Sept 19)
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260919-freedrunktheatresfswilde
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-drunk-theatre-sfs-wildest-comedy-
@@ -363,7 +363,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260911T103219Z
+DTSTAMP:20260911T154920Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
