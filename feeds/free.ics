@@ -5,79 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Google’s Free “Endless Summer Festival” w/ DJs\, Magic & Giv
- eaways (Mountain View)
-DTSTART;TZID=America/Los_Angeles:20260912T110000
-DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260912T145544Z
-UID:funcheap-20260912-googlesfreeendlesssummer
-CATEGORIES:edm,free
-DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
- js-magic-giveaways-mountain-view/\nVenue: you are. Enjoy their state-of-th
- e-art\, climate-controlled mobile golf studio pow\nPrice: Free\nCategories
- : edm\, free\nSource: funcheap/san-jose\n\nThe Google Visitor Experience h
- osts the Endless Summer Festival\, a free\, all-ages outdoor celebration i
- n Mountain View. The event features family-friendly DJs\, live magic shows
- \, hands-on crafts\, sports activities like pickleball and basketball\, a 
- mini market of local makers\, creative workshops with community nonprofits
- \, and unique experiences such as a slime truck and 3D chalk art. Attendee
- s can enjoy sweet treats\, mocktails\, seasonal cafe items\, Android photo
-  ops\, and special giveaways throughout the day. Registration for reminder
- s is available online. Original Event Description: _Our biggest community 
- celebration of the year🥳! The Google Visitor Experience invites the pub
- lic to our free\, all-ages Endless Summer Festival! 🗓️ Saturday\, Sep
- tember 12 | 11 a.m. to 4 p.m. 🌞Join us for an afternoon of live enterta
- inment\, hands-on activities\, and summer fun. 🪄🎵Music & Shows: Catc
- h family-friendly DJs and magic show performances. 🏀⛳️Sports & Acti
- on: Get moving at our dedicated activity zone featuring pickleball\, HoopB
- us basketball\, and golf fun. 🎨✍🏽Hands-On Creativity: Enjoy a slim
- e truck\, 3D chalk art\, seed bar\, henna art and so many more custom craf
- ts with local nonprofits and community
-LOCATION:you are. Enjoy their state-of-the-art\, climate-controlled mobile
-  golf studio pow
-URL:https://sf.funcheap.com/googles-free-endless-summer-festival-djs-magic
- -giveaways-mountain-view/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Jose’s Free “Cultura in the Park” Festival w/ Live Maria
- chi (Plaza de Cesar Chavez)
-DTSTART;TZID=America/Los_Angeles:20260912T120000
-DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260912T145544Z
-UID:funcheap-20260912-sanjosesfreeculturainthe
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/san-joses-free-cultura-park-festival-l
- ive-mariachi-plaza-de-cesar-chavez/\nVenue: Plaza De Cesar Chavez\, San Jo
- se\, CAFeaturing:Live CumbiaLive MariachiDJ’sAztec D\nPrice: Free\nCateg
- ories: community\, free\nSource: funcheap/san-jose\n\nCultura in the Park 
- Festival brings a free celebration of art\, music\, and community to Plaza
-  de Cesar Chavez in San Jose. The event features live cumbia\, mariachi\, 
- DJs\, Aztec and folklorico dance\, food vendors\, art\, resources\, and fr
- ee activities for kids. Open to all ages\, this festival highlights Latin 
- American culture and traditions. Original Event Description: _Celebrate vi
- brant cultures with food\, music\, and fun at Cultura in the Park Festival
-  in San Jose!CULTURA IN THE PARK FESTIVAL\, San Jose\, CAGet ready for an 
- epic day at the Cultura in the Park Festival in beautiful San Jose\, CA! T
- his free in-person event is all about celebrating art\, music\, and commun
- ity in the middle of the city. Bring your friends and family\, enjoy live 
- performances\, delicious eats\, and celebrate the cultura with us. Free Ad
- mission!Date: Saturday\, September 12\, 2026Time: 12pm – 4pmLocation: Pl
- aza De Cesar Chavez\, San Jose\, CAFeaturing:Live CumbiaLive MariachiDJ’
- sAztec DanceFolklorico DanceFoodArtVendorsResourcesJumpersFree Kids Activi
- tiesCultura in The Park : Ven a disfrutar de un día lleno de música\, ba
- ile y comida deliciosa en la Plaza de Cesar Chavez en San Jose\, CA\, USA.
-  Este evento en persona es un
-LOCATION:Plaza De Cesar Chavez\, San Jose\, CAFeaturing:Live CumbiaLive Ma
- riachiDJ’sAztec D
-URL:https://sf.funcheap.com/san-joses-free-cultura-park-festival-live-mari
- achi-plaza-de-cesar-chavez/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ + Popcorn 
  (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -110,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:10th Annual Richmond District Autumn Moon Festival 2026 (SF)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T210000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260912-10thannualrichmonddistri
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/10th-annual-richmond-district-autumn-m
@@ -141,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Black Uhuru w/ The Jethro Jeremiah Band **SOLD OUT - THANK YOU!*
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:rZ7HnEZ1AfOFON
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/black-uhuru-w-the-jethro-moes-
@@ -177,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -210,7 +142,7 @@ SUMMARY:Free Panel: Bay Area Protest Photojournalists + Pop-Up Exhibit (SF
   Main Library)
 DTSTART;TZID=America/Los_Angeles:20260917T190000
 DTEND;TZID=America/Los_Angeles:20260917T210000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260917-freepanelbayareaprotestp
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/free-panel-bay-area-protest-photojourn
@@ -241,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -270,44 +202,42 @@ URL:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-pleasant
  on/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
- nt)
-DTSTART;TZID=America/Los_Angeles:20260919T160000
-DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260912T145544Z
-UID:funcheap-20260919-letsglowbartanimefestiva
+SUMMARY:Let's Glow BART Anime Festival
+DTSTART:20260919T230000Z
+DTEND:20260920T040000Z
+DTSTAMP:20260912T200813Z
+UID:evt-WPLKrC59Zns3UjZ
 CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
- ings-south-fremont/\nVenue: Warm Springs/South Fremont Station RSVP on Eve
- ntbrite at letsglowfestival.eventb\nPrice: Free\nCategories: community\, f
- ree\nSource: funcheap/san-jose+funcheap/south-bay\n\nBART’s Let’s Glow
- ! BART Anime Festival returns to Warm Springs/South Fremont Station for a 
- celebration of anime\, art\, music\, cosplay and transit fandom. This year
- ’s free festival will be bigger and better than ever\, following a huge 
- turnout of more than 4\,000 attendees last year! The festival celebrates t
- he shared fandom of anime and transit\, with an expanded lineup of artists
- \, performances\, food\, cosplay\, and more. Get to know BART’s anime ma
- scots at bart.gov/anime . Details What: Let’s Glow! BART Anime Festival 
- When: Saturday\, September 19\, 4pm to 9pm Where: Warm Springs/South Fremo
- nt Station RSVP on Eventbrite at letsglowfestival.eventbrite.com . Not req
- uired but helps us get a headcount. Free to attend What to expect Artist A
- lley: More than 100 artists will sell a mix of BART\, anime-\, and transit
- -themed art\, along with their own original artwork. Check back for the fu
- ll catalog in the coming weeks. Music and performances: AniClover will DJ 
- all night\, and SanFlare will perform wotagei\, a high-energy style of syn
- chronized fan dancing. SanFlare will also teach attendees the official BAR
- T wotagei dance. Special Youtaite concert: An exclusive VTuber concert pro
- duced by Neon Shrine f
-LOCATION:Warm Springs/South Fremont Station RSVP on Eventbrite at letsglow
- festival.eventb
-URL:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-springs-sou
- th-fremont/
+DESCRIPTION:https://lu.ma/vaottzct\nVenue: Warm Springs/South Fremont Stat
+ ion RSVP on Eventbrite at letsglowfestival.eventb\nLocation: Warm Springs 
+ BART\, Warm Spgs BART\, Fremont\, CA 94539\, USA\nPrice: Free\nHost: Perso
+ nal\nCategories: community\, free\nSource: luma/san-francisco+luma/san-jos
+ e+luma/virtual+funcheap/san-jose+funcheap/south-bay\n\nBART’s Let’s Gl
+ ow! BART Anime Festival returns to Warm Springs/South Fremont Station for 
+ a celebration of anime\, art\, music\, cosplay and transit fandom. This ye
+ ar’s free festival will be bigger and better than ever\, following a hug
+ e turnout of more than 4\,000 attendees last year! The festival celebrates
+  the shared fandom of anime and transit\, with an expanded lineup of artis
+ ts\, performances\, food\, cosplay\, and more. Get to know BART’s anime 
+ mascots at bart.gov/anime . Details What: Let’s Glow! BART Anime Festiva
+ l When: Saturday\, September 19\, 4pm to 9pm Where: Warm Springs/South Fre
+ mont Station RSVP on Eventbrite at letsglowfestival.eventbrite.com . Not r
+ equired but helps us get a headcount. Free to attend What to expect Artist
+  Alley: More than 100 artists will sell a mix of BART\, anime-\, and trans
+ it-themed art\, along with their own original artwork. Check back for the 
+ full catalog in the coming weeks. Music and performances: AniClover will D
+ J all night\, and SanFlare will perform wotagei\, a high-energy style of s
+ ynchronized fan dancing. SanFlare will also teach attendees the official B
+ ART wotagei dance. Special Youtaite concert: An exclusive VTuber concert p
+ roduced by Neon Shrine f
+LOCATION:Warm Springs BART\, Warm Spgs BART\, Fremont\, CA 94539\, USA
+URL:https://lu.ma/vaottzct
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T170000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260927-bodhimidautumnfestivalwl
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
@@ -340,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Golden Gate Park Nature Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260927-goldengateparknaturefest
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
@@ -367,7 +297,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260912T145544Z
+DTSTAMP:20260912T200813Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -395,5 +325,71 @@ LOCATION:Randall Museum 199 Museum Way\, San Francisco\, CA 94114 Open in
  Maps Organizer Ra
 URL:https://sf.funcheap.com/randall-museum-75th-anniversary-free-sciencena
  tureart-festival-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free “German Day” Festival 2026 (Golden Gate Park)
+DTSTART;TZID=America/Los_Angeles:20260927T190000
+DTEND;TZID=America/Los_Angeles:20260927T210000
+DTSTAMP:20260912T200813Z
+UID:funcheap-20260927-sfsfreegermandayfestival
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/sfs-free-german-day-festival-2026-gold
+ en-gate-park/\nVenue: San Francisco’s Golden Gate Park band shell and mu
+ sic concourseLearn more and st\nPrice: Free\nCategories: concert\, free\nS
+ ource: funcheap/san-francisco\n\nSF German Day 2026 is a free\, family-fri
+ endly festival in Golden Gate Park celebrating German culture with live mu
+ sic\, dance\, German beer and wine\, traditional foods\, cultural exhibits
+ \, and activities for all ages. The event features local breweries\, winer
+ ies\, and organizations\, offering a festive day of community and German t
+ raditions in San Francisco. Original Event Description: _Join us for SF Ge
+ rman Day 2026—a free celebration of German culture with food\, music\, b
+ eer\, dance\, and family activities! Save the Date – SF German Day 2026!
+  Mark your calendars for Sunday\, September 27\, 2026\, as we celebrate SF
+  German Day in beautiful Golden Gate Park! Join us for a day of German cul
+ ture\, music\, food\, dance\, beer\, family activities\, and community as 
+ we bring a taste of Germany to the heart of San Francisco. Whether you hav
+ e German roots\, love German traditions\, or are simply looking for a fun 
+ day in the park\, everyone is welcome! Live music and performances German 
+ beer from Standard Deviant Brewery German wines from Beringer and Gundlach
+ -Bundschu wineries German Pretzels\, Sausages\, Döner Kebab\, and Pastrie
+ s Cultural exhibits and local organizations Family-friendly activities for
+  all age
+LOCATION:San Francisco’s Golden Gate Park band shell and music concourse
+ Learn more and st
+URL:https://sf.funcheap.com/sfs-free-german-day-festival-2026-golden-gate-
+ park/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free Outdoor “Butchertown Jazz Festival” 2026 (Bayview)
+DTSTART;TZID=America/Los_Angeles:20261011T190000
+DTEND;TZID=America/Los_Angeles:20261011T210000
+DTSTAMP:20260912T200813Z
+UID:funcheap-20261011-sfsfreeoutdoorbutchertow
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-fest
+ ival-2026-bayview/\nVenue: Lane Street between Underwood & Van Dyke\, Bayv
+ iew\, San FranciscoAdmission: FREEA\nPrice: Free\nCategories: concert\, fr
+ ee\nSource: funcheap/san-francisco\n\nThe 7th Annual Butchertown Jazz Fest
+ ival is a free\, family-friendly event at Gratta Wines in San Francisco’
+ s Bayview\, featuring live jazz and soul performances\, local food and win
+ e\, artists\, makers\, and community organizations. Attendees can enjoy a 
+ vibrant outdoor neighborhood celebration that highlights the creativity an
+ d culture of the Bayview district. The festival includes musical performan
+ ces\, food and beverage vendors\, and local art\, offering a welcoming atm
+ osphere for both residents and visitors. Original Event Description: _The 
+ 7th Annual Butchertown Jazz Festival — a free celebration of music\, foo
+ d\, wine\, art\, and community in San Francisco’s Bayview.7th Annual But
+ chertown Jazz FestivalOn Sunday\, October 11\, 2026\, Gratta Wines invites
+  you to spend the day with us for one of the neighborhood’s most beloved
+  community gatherings.The Butchertown Jazz Festival brings together live j
+ azz and soul music\, local food and wine\, artists\, makers\, small busine
+ sses\, and community organizations for a day that celebrates the creativit
+ y\, culture\, and spirit of the Bayview.At its heart\, this festival is ab
+ out bringing people together. Whether you’re a longtime Bayview resident
+ \, visiting fro
+LOCATION:Lane Street between Underwood & Van Dyke\, Bayview\, San Francisc
+ oAdmission: FREEA
+URL:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-festival-202
+ 6-bayview/
 END:VEVENT
 END:VCALENDAR
