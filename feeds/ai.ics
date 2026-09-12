@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Open Model Hack - Gradient x Google Deepmind
 DTSTART:20260912T163000Z
 DTEND:20260913T023000Z
-DTSTAMP:20260912T025733Z
+DTSTAMP:20260912T100045Z
 UID:evt-FCTQx6RPSAxTcMy
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/openmodelhack\nLocation: San Francisco\, CA\nHos
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AI Filmmaking Masterclass + Hackathon
 DTSTART:20260913T160000Z
 DTEND:20260914T020000Z
-DTSTAMP:20260912T025733Z
+DTSTAMP:20260912T100045Z
 UID:evt-sVz87LJ5H6PZMDo
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/pw54q8np\nLocation: San Francisco\, CA\nHost: Th
@@ -32,12 +32,24 @@ BEGIN:VEVENT
 SUMMARY:What is Law in the Age of AI?
 DTSTART:20260915T003000Z
 DTEND:20260915T033000Z
-DTSTAMP:20260912T025733Z
+DTSTAMP:20260912T100045Z
 UID:evt-0CC7zosf0DQb9FR
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/81aqxabn\nLocation: San Francisco\, CA\nHost: Im
  bue Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/81aqxabn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women + AI x Luxfit Collab: Oh\, She Lifts
+DTSTART:20260915T010000Z
+DTEND:20260915T033000Z
+DTSTAMP:20260912T100045Z
+UID:evt-yLzyrWX5d4R4WgW
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/f49ieour\nLocation: San Francisco\, CA\nHost: Wo
+ men + AI\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/f49ieour
 END:VEVENT
 END:VCALENDAR
