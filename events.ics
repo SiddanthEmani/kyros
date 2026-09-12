@@ -5,55 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Live/Free] SF’s Chinatown Night Market (Sept. 2026)
-DTSTART;TZID=America/Los_Angeles:20260911T170000
-DTEND;TZID=America/Los_Angeles:20260911T210000
-DTSTAMP:20260911T202455Z
-UID:funcheap-20260911-sfschinatownnightmarkets
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/\
- nVenue: on Friday\, September 11\, 2026\, featuring lion dancing\, live mu
- sic by Jest Jammin\nPrice: Free\nCategories: concert\, free\nSource: funch
- eap/east-bay\n\nThe BeChinatown Night Market returns to Grant Avenue on Fr
- iday\, September 11\, 2026\, featuring lion dancing\, live music by Jest J
- ammin’\, games\, arts and crafts\, and a celebration of Asian American f
- ood and culture. The event runs from 5 PM to 9 PM\, with activities on bot
- h Grant Ave and Waverly Place. Admission is free and open to all ages. Ori
- ginal Event Description: _TWO MORE NIGHT MARKETS! 🗓️Friday\, Sept. 11
-  📍Grant Ave.\, between California and Pacific ⏰ 5 p.m. – 9 p.m. 
- 🀄️on Waverly\, 5 p.m. – 9 p.m. 🦁Lion dancing w/ @liondanceme 6 p
- .m. 🎤 Jest Jammin’ LIVE on main stage (Grant & Jackson)_ Text extract
- ed from provided image: COME FOR COMMUNITY STAY FOR FUN BeChinatown Night 
- Market on Grant 2ND FRIDAY OF MAY-OCTOBER 五至十月，第二個星期
- 五 5:00 PM – 9:00 PM GRANT AVE – CALIFORNIA TO PACIFIC 2026 MAY 5月 
- X JUN 6月 X JUL 7月 X AUG 8月 X SEP 9月 11 OCT 10月 9 Games Arts & Cr
- afts Waverly Place Asian American Food And Culture Live Music & Karaoke Po
- rtsmouth Square Garage $8 parking Next one ➡ Sponsors: CIVIC JOY FUND\, 
- Far East Cafe\, Recology\, Portsmouth Square Garage Participating Partners
- : NBC Bay Area\, Telemundo 48\, Chinatown Volunteer Coalition
-LOCATION:on Friday\, September 11\, 2026\, featuring lion dancing\, live m
- usic by Jest Jammin
-URL:https://sf.funcheap.com/sfs-chinatown-night-market-sept-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[EDM] RDC Fixated x Everbloom After Hours'26
-DTSTART:20260912T020000Z
-DTEND:20260912T090000Z
-DTSTAMP:20260911T202455Z
-UID:evt-DwkNPDz9O5IKP3M
-CATEGORIES:edm
-DESCRIPTION:https://lu.ma/opjceyhi\nLocation: Mosaic Restaurant and Ultra 
- Lounge\, 211 S 1st St\, San Jose\, CA 95113\, USA\nHost: Personal\nCategor
- ies: edm\nSource: luma-html/san-francisco
-LOCATION:Mosaic Restaurant and Ultra Lounge\, 211 S 1st St\, San Jose\, CA
-  95113\, USA
-URL:https://lu.ma/opjceyhi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] CODICIADO - Así Es La Vida Tour
 DTSTART:20260912T030000Z
 DTEND:20260912T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZbz3nxnRH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/codiciado-asi-es-la-vida-tour-san
@@ -71,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Flux Pavilion - Ages 21+
 DTSTART:20260912T040000Z
 DTEND:20260912T060000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:Z7r9jZ1A7PyOK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PyOK\nVenue: The M
@@ -84,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Open Model Hack - Gradient x Google Deepmind
 DTSTART:20260912T163000Z
 DTEND:20260913T023000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:evt-FCTQx6RPSAxTcMy
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/openmodelhack\nLocation: San Francisco\, CA\nHos
@@ -97,7 +52,7 @@ SUMMARY:[EDM/Free] Google’s Free “Endless Summer Festival” w/ DJs\,
  Magic & Giveaways (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20260912T110000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260912-googlesfreeendlesssummer
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/googles-free-endless-summer-festival-d
@@ -131,7 +86,7 @@ SUMMARY:[Bay/Free] San Jose’s Free “Cultura in the Park” Festival w/
   Live Mariachi (Plaza de Cesar Chavez)
 DTSTART;TZID=America/Los_Angeles:20260912T120000
 DTEND;TZID=America/Los_Angeles:20260912T160000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260912-sanjosesfreeculturainthe
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-joses-free-cultura-park-festival-l
@@ -164,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Read in the Park - South Bay 📚
 DTSTART:20260912T220000Z
 DTEND:20260913T003000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:evt-GvSoAuKy4TcAQvx
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/9t3jot9d\nLocation: Sunnyvale\, CA\nHost: Read i
@@ -178,7 +133,7 @@ SUMMARY:[EDM/Free] Free Summer Outdoor Movie Night: “Zootopia 2” w/ DJ
   + Popcorn (Oakland)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260913T190000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260912-freesummeroutdoormovieni
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-summer-outdoor-movie-night-zootop
@@ -212,7 +167,7 @@ SUMMARY:[Bay/Free] 10th Annual Richmond District Autumn Moon Festival 2026
   (SF)
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T210000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260912-10thannualrichmonddistri
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/10th-annual-richmond-district-autumn-m
@@ -243,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] SABAI presents: IKIGAI Bay Area
 DTSTART:20260913T030000Z
 DTEND:20260913T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_6TJqbSx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sabai-presents-ikigai-bay-area-sa
@@ -259,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Palomazo Norteño - Clase Maestra Tour
 DTSTART:20260913T030000Z
 DTEND:20260913T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_FNtvEnU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/palomazo-norteno-clase-maestra-to
@@ -291,7 +246,7 @@ SUMMARY:[Live/Free] Black Uhuru w/ The Jethro Jeremiah Band **SOLD OUT - T
  HANK YOU!*
 DTSTART:20260913T040000Z
 DTEND:20260913T060000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:rZ7HnEZ1AfOFON
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/black-uhuru-w-the-jethro-moes-
@@ -327,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] AI Filmmaking Masterclass + Hackathon
 DTSTART:20260913T160000Z
 DTEND:20260914T020000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:evt-sVz87LJ5H6PZMDo
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/pw54q8np\nLocation: San Francisco\, CA\nHost: Th
@@ -340,7 +295,7 @@ SUMMARY:[Bay/Free] Latino Conservation Week Guided Hike + Free Food (Redwo
  od City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -372,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] ANDREA BOCELLI "Romanza - 30th Anniversary World Tour"
 DTSTART:20260914T030000Z
 DTEND:20260914T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_ddjjMmd
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/andrea-bocelli-romanza-30th-anniv
@@ -396,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] What is Law in the Age of AI?
 DTSTART:20260915T003000Z
 DTEND:20260915T033000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:evt-0CC7zosf0DQb9FR
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/81aqxabn\nLocation: San Francisco\, CA\nHost: Im
@@ -408,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Five Finger Death Punch
 DTSTART:20260917T014500Z
 DTEND:20260917T034500Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_eplUIuH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/five-finger-death-punch-mountain-
@@ -425,7 +380,7 @@ SUMMARY:[Live/Free] Free Panel: Bay Area Protest Photojournalists + Pop-Up
   Exhibit (SF Main Library)
 DTSTART;TZID=America/Los_Angeles:20260917T190000
 DTEND;TZID=America/Los_Angeles:20260917T210000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260917-freepanelbayareaprotestp
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/free-panel-bay-area-protest-photojourn
@@ -456,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Carin Leon - De Sonora Para El Mundo Tour 2026
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_eBfZy7s
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/carin-leon-de-sonora-para-el-san-
@@ -480,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Kany Garcia: Puerta Abierta Tour
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_FQ8mbrW
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/kany-garcia-puerta-abierta-tour-s
@@ -495,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Daft Disko
 DTSTART:20260919T040000Z
 DTEND:20260919T060000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:rZ7HnEZ1AfaaqV
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/daft-disko-the-ritz-tickets/14
@@ -512,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Mild Minds - DJ Set (21+)
 DTSTART:20260919T050000Z
 DTEND:20260919T070000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:Z7r9jZ1A7Pw7F
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7Pw7F\nVenue: 1015 
@@ -525,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] District 6 SOMA Family Summit
 DTSTART;TZID=America/Los_Angeles:20260919T110000
 DTEND;TZID=America/Los_Angeles:20260919T143000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260919-district6somafamilysummi
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/district-6-soma-family-summit/\nLocati
@@ -554,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -587,7 +542,7 @@ SUMMARY:[Bay/Free] “Let’s Glow” BART Anime Festival (Warm Springs /
  South Fremont)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -620,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Steve Aoki (18+) - DIM MAK 30 TOUR
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZbyk0x_-f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/steve-aoki-18-dim-mak-30-san-fran
@@ -648,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] GODSMACK - The Rise of Rock World Tour 2026
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_dKlXXzG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-m
@@ -664,7 +619,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Anish Kumar (21+)
 DTSTART:20260920T050000Z
 DTEND:20260920T070000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_ud0A07i
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/anish-kumar-21-san-francisco-cali
@@ -680,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN SAN JOSE
 DTSTART:20260924T023000Z
 DTEND:20260924T043000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_1mWZNyw
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pure
@@ -716,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Return Of The Carnival Of Sins: Mötley Crüe
 DTSTART:20260925T013000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZbUD3X2kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-return-of-the-carnival-of-mou
@@ -732,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -749,7 +704,7 @@ SUMMARY:[EDM] Lionel Richie and Earth\, Wind & Fire - Sing a Song All Nigh
  t Long
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_d2ADlKy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire
@@ -766,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -787,10 +742,44 @@ URL:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud-2026-sa
  n-jose-california-09-26-2026/event/1C0064ADEAA11FD4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park
+ )
+DTSTART;TZID=America/Los_Angeles:20260927T100000
+DTEND;TZID=America/Los_Angeles:20260927T170000
+DTSTAMP:20260912T025733Z
+UID:funcheap-20260927-bodhimidautumnfestivalwl
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
+ en-gate-park/\nVenue: . Complete challenges\, collect stamps\, and redeem 
+ special gifts along the way! 💰\nPrice: Free\nCategories: community\, fr
+ ee\nSource: funcheap/san-francisco\n\nThe Bodhi Mid-Autumn Festival Commun
+ ity Fair offers a day of lantern displays\, Hanfu experiences\, multicultu
+ ral performances\, crafts\, games\, and family-friendly activities at the 
+ San Francisco County Fair Building in Golden Gate Park. The event includes
+  free admission\, a photo booth\, cultural showcases\, interactive station
+ s\, and special gifts for attendees dressed in Hanfu. Activities are desig
+ ned for all ages\, celebrating cultural diversity and togetherness during 
+ the Mid-Autumn Festival. Original Event Description: _Celebrate Mid-Autumn
+  Festival with lanterns\, Hanfu\, performances\, meditation\, blessings\, 
+ crafts\, games & family fun. Free admission!🌕 Celebrate Mid-Autumn Fest
+ ival in Golden Gate Park! Step into a vibrant Mid-Autumn celebration fille
+ d with lanterns\, traditional Chinese culture\, multicultural performances
+ \, games\, photo opportunities\, and family fun! Join Bodhi Meditation San
+  Francisco for our FREE Mid-Autumn Festival Community Fair at the San Fran
+ cisco County Fair Building in Golden Gate Park. Whether you want to experi
+ ence Chinese culture\, dress up in Hanfu\, enjoy live performances from di
+ fferent cultures\, take home a free printed photo\, play games\, or simply
+  spend a
+LOCATION:. Complete challenges\, collect stamps\, and redeem special gifts
+  along the way! 💰
+URL:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-golden-gate-
+ park/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay/Free] Golden Gate Park Nature Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260927-goldengateparknaturefest
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
@@ -817,7 +806,7 @@ SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -850,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -875,7 +864,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -902,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -927,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -955,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -979,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -995,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -1019,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -1040,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -1053,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -1065,10 +1054,32 @@ URL:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tickets/142
  66324
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Holy Priest (18+)
+DTSTART:20261010T023000Z
+DTEND:20261010T043000Z
+DTSTAMP:20260912T025733Z
+UID:G5vYZ_CQwHuk4
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
+ fornia-10-09-2026/event/1C0064E6B2F0D195\nVenue: Bill Graham Civic Auditor
+ ium\nLocation: 99 Grove Street\, San Francisco\, CA\nGenres: Music\, Dance
+ /Electronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: tic
+ ketmaster/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or pa
+ ssport will be required for entry. Do not bring a photo or digital copy. P
+ lease be sure to select the lowest available price level first. There are 
+ a limited number of tickets available at each price level. All price level
+ s provide the same concert experience. All tickets for this show are gener
+ al admission\, standing on floor level or seated upstairs on a first come\
+ , first serve basis.
+LOCATION:99 Grove Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/holy-priest-18-san-francisco-california-1
+ 0-09-2026/event/1C0064E6B2F0D195
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260911T202455Z
+DTSTAMP:20260912T025733Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
