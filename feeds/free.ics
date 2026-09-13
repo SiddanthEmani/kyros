@@ -5,74 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
-DTSTART;TZID=America/Los_Angeles:20260913T100000
-DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260913T153338Z
-UID:funcheap-20260913-latinoconservationweekgu
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
- ree-food-redwood-city/\nVenue: El Corte de Madera CreekMeeting Location: C
- ubberley Community Center in Palo Alt\nPrice: Free\nCategories: community\
- , free\nSource: funcheap/peninsula\n\nKick off Latino Conservation Week 20
- 26 with Latino Outdoors SF Bay Area\, Midpeninsula Regional Open Space Dis
- trict\, and Hispanic Access Foundation at El Corte de Madera Creek Preserv
- e in Redwood City. The event features a free\, guided ranger hike of about
-  2.5 miles to the Methuselah Tree\, an old-growth redwood\, with food and 
- snacks provided. Attendees meet at Cubberley Community Center in Palo Alto
-  and are shuttled to the trailhead. RSVP is required\; no pets allowed. Or
- iginal Event Description: _Kick off Latino Conservation Week with Latino O
- utdoors SF Bay Area\, Midpeninsula Regional Open Space District and Hispan
- ic Access FoundationLatino Conservation Week: Disfrutando y Conservando Nu
- estra Tierra is an initiative of Hispanic Access Foundation. Latino Conser
- vation Week was created to support the Latino community getting into the o
- utdoors and participating in activities to protect our natural resources.J
- oin us\, Latino Outdoors SF Bay Area\, Midpeninsula Regional Open Space Di
- strict and Hispanic Access Foundation to kick off LCW 2026.Event OverviewW
- here: El Corte de Madera CreekMeeting Location: Cubberley Community Center
-  in Palo Alto. Please meet here\, we will shuttle over\, bus tran
-LOCATION:El Corte de Madera CreekMeeting Location: Cubberley Community Cen
- ter in Palo Alt
-URL:https://sf.funcheap.com/latino-conservation-week-guided-hike-free-food
- -redwood-city/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Math Quest: Free Outdoor Escape Room Adventure (Salesforce 
- Park)
-DTSTART;TZID=America/Los_Angeles:20260913T110000
-DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260913T153338Z
-UID:funcheap-20260913-familymathquestfreeoutdo
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/family-math-quest-free-outdoor-escape-
- room-adventure-salesforce-park/\nLocation: san francisco\nPrice: Free\nCat
- egories: community\, free\nSource: funcheap/san-francisco\n\nA day of puzz
- les\, discovery\, and creative problem-solving! Join us at Salesforce Park
-  for Journey Across America\, an outdoor\, escape-room-style Family Math Q
- uest! Kids and parents work together to solve creative math and logic puzz
- les\, crack codes\, uncover clues\, and make their way across America\, di
- scovering famous cities\, iconic landmarks\, national parks\, and natural 
- wonders along the way. Cross the country without ever leaving San Francisc
- o! Designed for kids in grades K-6 and their families. Work at your own pa
- ce and arrive anytime during the event\; allow about 1.5 hours to complete
-  the quest. Sunday\, September 13 11:00 AM–2:00 PM PT Salesforce Park\, 
- San Francisco (4th floor park) Free What is a Family Math Quest? A Family 
- Math Quest is part outdoor escape room\, part treasure hunt\, and part mat
- h adventure. Families move between stations\, solving creative math and lo
- gic puzzles\, cracking codes\, and uncovering clues together. There’s no
-  set start time or pace\, arrive anytime during the event window and work 
- your way through the quest at your own speed. Plan for about 1.5 hours of 
- problem-solving\, teamwork\, and fun outside!
-LOCATION:san francisco
-URL:https://sf.funcheap.com/family-math-quest-free-outdoor-escape-room-adv
- enture-salesforce-park/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Panel: Bay Area Protest Photojournalists + Pop-Up Exhibit (SF
   Main Library)
 DTSTART;TZID=America/Los_Angeles:20260917T190000
 DTEND;TZID=America/Los_Angeles:20260917T210000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260917-freepanelbayareaprotestp
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/free-panel-bay-area-protest-photojourn
@@ -103,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Mustard Service
 DTSTART:20260918T030000Z
 DTEND:20260918T050000Z
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:rZ7HnEZ1Af0Y0K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustard-service-the-independen
@@ -121,7 +58,7 @@ SUMMARY:SF’s “Oktoberfest on Front” Free Block Party + Beer Hall Gam
  es (2026)
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260918-sfsoktoberfestonfrontfre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-oktoberfest-front-free-block-party
@@ -151,10 +88,49 @@ URL:https://sf.funcheap.com/sfs-oktoberfest-front-free-block-party-beer-ha
  ll-games-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lido Pimienta
+DTSTART:20260919T030000Z
+DTEND:20260919T050000Z
+DTSTAMP:20260913T201603Z
+UID:rZ7HnEZ1Af0IvN
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-
+ tickets/14928063\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Avenue\
+ , San Francisco\, CA\nPrice: Free\nGenres: Music\, Dance/Electronic\, Lati
+ n Electronica\nCategories: concert\, free\nSource: ticketmaster/music\n\n2
+ 1+ ONLY. Please note - there is a delivery delay set for 2 weeks prior to 
+ show. This event is 21 and over. Any ticket holder unable to present valid
+  identification indicating that they are at least 21 years of age will not
+  be admitted to this event\, and will not be eligible for a refund. Anothe
+ r Planet Entertainment is committed to producing safe events. Please revie
+ w our most up-to-date COVID-19 policy requirements for entry at https://ap
+ econcerts.com/health-safety * Policy is subject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-tickets/
+ 14928063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIIRD (Night 1)
+DTSTART:20260919T040000Z
+DTEND:20260919T060000Z
+DTSTAMP:20260913T201603Z
+UID:rZ7HnEZ1Afx8Qd
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/biird-night-1-brick-and-mortar
+ -music-hall-tickets/14890683\nVenue: Brick and Mortar Music Hall\nLocation
+ : 1710 Mission Street \, San Francisco\, CA\nPrice: Free\nGenres: Music\, 
+ Folk\, Irish Folk\nCategories: concert\, free\nSource: ticketmaster/music\
+ n\nFOR ANY SHOW THAT IS ALL AGES or 18 & UP: Anyone under 21 years old mus
+ t pay an additional $5 at the door.
+LOCATION:1710 Mission Street \, San Francisco\, CA
+URL:https://www.ticketweb.com/event/biird-night-1-brick-and-mortar-music-h
+ all-tickets/14890683
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -187,7 +163,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -220,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T170000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260927-bodhimidautumnfestivalwl
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
@@ -253,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Golden Gate Park Nature Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260927-goldengateparknaturefest
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
@@ -280,7 +256,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -313,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Free “German Day” Festival 2026 (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T190000
 DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20260927-sfsfreegermandayfestival
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-german-day-festival-2026-gold
@@ -346,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Free Outdoor “Butchertown Jazz Festival” 2026 (Bayview)
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20260913T153338Z
+DTSTAMP:20260913T201603Z
 UID:funcheap-20261011-sfsfreeoutdoorbutchertow
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-fest
