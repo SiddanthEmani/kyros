@@ -5,30 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:BL3SS - 360 Set - North American Tour 2026
-DTSTART:20260913T040000Z
-DTEND:20260913T060000Z
-DTSTAMP:20260913T025709Z
-UID:rZ7HnEZ1AfPwQK
-CATEGORIES:edm,free
-DESCRIPTION:https://www.ticketweb.com/event/bl3ss-360-set-the-independent-
- tickets/14972693\nVenue: The Independent\nLocation: 628 Divisadero St\, Sa
- n Francisco\, CA\nPrice: Free\nGenres: Music\, Dance/Electronic\, Alternat
- ive\nCategories: edm\, free\nSource: ticketmaster/music\n\nPlease note - t
- here is a delivery delay set for 2 weeks prior to show. This event is 18 a
- nd over. Any ticket holder unable to present valid identification indicati
- ng that they are at least 18 years of age will not be admitted to this eve
- nt\, and will not be eligible for a refund. Support acts subject to change
-  without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/bl3ss-360-set-the-independent-tickets/
- 14972693
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Latino Conservation Week Guided Hike + Free Food (Redwood City)
 DTSTART;TZID=America/Los_Angeles:20260913T100000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260913-latinoconservationweekgu
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/latino-conservation-week-guided-hike-f
@@ -61,7 +41,7 @@ SUMMARY:Family Math Quest: Free Outdoor Escape Room Adventure (Salesforce
  Park)
 DTSTART;TZID=America/Los_Angeles:20260913T110000
 DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260913-familymathquestfreeoutdo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/family-math-quest-free-outdoor-escape-
@@ -92,7 +72,7 @@ SUMMARY:Free Panel: Bay Area Protest Photojournalists + Pop-Up Exhibit (SF
   Main Library)
 DTSTART;TZID=America/Los_Angeles:20260917T190000
 DTEND;TZID=America/Los_Angeles:20260917T210000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260917-freepanelbayareaprotestp
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/free-panel-bay-area-protest-photojourn
@@ -120,11 +100,28 @@ URL:https://sf.funcheap.com/free-panel-bay-area-protest-photojournalists-p
  opup-exhibit-sf-main-library/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mustard Service
+DTSTART:20260918T030000Z
+DTEND:20260918T050000Z
+DTSTAMP:20260913T110200Z
+UID:rZ7HnEZ1Af0Y0K
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/mustard-service-the-independen
+ t-tickets/14930913\nVenue: The Independent\nLocation: 628 Divisadero St\, 
+ San Francisco\, CA\nPrice: Free\nGenres: Music\, Alternative\, Hip-Hop/Rap
+ \, Alternative Rap\nCategories: concert\, free\nSource: ticketmaster/music
+ \n\nPlease note - there is a delivery delay set for 2 weeks prior to show.
+  Support acts subject to change without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/mustard-service-the-independent-ticket
+ s/14930913
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s “Oktoberfest on Front” Free Block Party + Beer Hall Gam
  es (2026)
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260918-sfsoktoberfestonfrontfre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-oktoberfest-front-free-block-party
@@ -157,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -189,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Let's Glow BART Anime Festival
 DTSTART:20260919T230000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:evt-WPLKrC59Zns3UjZ
 CATEGORIES:community,free
 DESCRIPTION:https://lu.ma/vaottzct\nVenue: Warm Springs/South Fremont Stat
@@ -221,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T170000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260927-bodhimidautumnfestivalwl
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
@@ -254,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Golden Gate Park Nature Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260927-goldengateparknaturefest
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
@@ -281,7 +278,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -314,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Free “German Day” Festival 2026 (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T190000
 DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20260927-sfsfreegermandayfestival
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-german-day-festival-2026-gold
@@ -347,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Free Outdoor “Butchertown Jazz Festival” 2026 (Bayview)
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20260913T025709Z
+DTSTAMP:20260913T110200Z
 UID:funcheap-20261011-sfsfreeoutdoorbutchertow
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-fest
