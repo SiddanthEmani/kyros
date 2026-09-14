@@ -9,7 +9,7 @@ SUMMARY:Free Panel: Bay Area Protest Photojournalists + Pop-Up Exhibit (SF
   Main Library)
 DTSTART;TZID=America/Los_Angeles:20260917T190000
 DTEND;TZID=America/Los_Angeles:20260917T210000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260917-freepanelbayareaprotestp
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/free-panel-bay-area-protest-photojourn
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Mustard Service
 DTSTART:20260918T030000Z
 DTEND:20260918T050000Z
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:rZ7HnEZ1Af0Y0K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustard-service-the-independen
@@ -58,7 +58,7 @@ SUMMARY:SF’s “Oktoberfest on Front” Free Block Party + Beer Hall Gam
  es (2026)
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260918-sfsoktoberfestonfrontfre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-oktoberfest-front-free-block-party
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Lido Pimienta
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:rZ7HnEZ1Af0IvN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:BIIRD (Night 1)
 DTSTART:20260919T040000Z
 DTEND:20260919T060000Z
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:rZ7HnEZ1Afx8Qd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/biird-night-1-brick-and-mortar
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -159,44 +159,42 @@ URL:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-pleasant
  on/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
- nt)
-DTSTART;TZID=America/Los_Angeles:20260919T160000
-DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260913T201603Z
-UID:funcheap-20260919-letsglowbartanimefestiva
+SUMMARY:Let's Glow BART Anime Festival
+DTSTART:20260919T230000Z
+DTEND:20260920T040000Z
+DTSTAMP:20260914T031111Z
+UID:evt-WPLKrC59Zns3UjZ
 CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
- ings-south-fremont/\nVenue: Warm Springs/South Fremont Station RSVP on Eve
- ntbrite at letsglowfestival.eventb\nPrice: Free\nCategories: community\, f
- ree\nSource: funcheap/san-jose+funcheap/south-bay\n\nBART’s Let’s Glow
- ! BART Anime Festival returns to Warm Springs/South Fremont Station for a 
- celebration of anime\, art\, music\, cosplay and transit fandom. This year
- ’s free festival will be bigger and better than ever\, following a huge 
- turnout of more than 4\,000 attendees last year! The festival celebrates t
- he shared fandom of anime and transit\, with an expanded lineup of artists
- \, performances\, food\, cosplay\, and more. Get to know BART’s anime ma
- scots at bart.gov/anime . Details What: Let’s Glow! BART Anime Festival 
- When: Saturday\, September 19\, 4pm to 9pm Where: Warm Springs/South Fremo
- nt Station RSVP on Eventbrite at letsglowfestival.eventbrite.com . Not req
- uired but helps us get a headcount. Free to attend What to expect Artist A
- lley: More than 100 artists will sell a mix of BART\, anime-\, and transit
- -themed art\, along with their own original artwork. Check back for the fu
- ll catalog in the coming weeks. Music and performances: AniClover will DJ 
- all night\, and SanFlare will perform wotagei\, a high-energy style of syn
- chronized fan dancing. SanFlare will also teach attendees the official BAR
- T wotagei dance. Special Youtaite concert: An exclusive VTuber concert pro
- duced by Neon Shrine f
-LOCATION:Warm Springs/South Fremont Station RSVP on Eventbrite at letsglow
- festival.eventb
-URL:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-springs-sou
- th-fremont/
+DESCRIPTION:https://lu.ma/vaottzct\nVenue: Warm Springs/South Fremont Stat
+ ion RSVP on Eventbrite at letsglowfestival.eventb\nLocation: Warm Springs 
+ BART\, Warm Spgs BART\, Fremont\, CA 94539\, USA\nPrice: Free\nHost: Perso
+ nal\nCategories: community\, free\nSource: luma/san-francisco+luma/san-jos
+ e+luma/virtual+funcheap/san-jose+funcheap/south-bay\n\nBART’s Let’s Gl
+ ow! BART Anime Festival returns to Warm Springs/South Fremont Station for 
+ a celebration of anime\, art\, music\, cosplay and transit fandom. This ye
+ ar’s free festival will be bigger and better than ever\, following a hug
+ e turnout of more than 4\,000 attendees last year! The festival celebrates
+  the shared fandom of anime and transit\, with an expanded lineup of artis
+ ts\, performances\, food\, cosplay\, and more. Get to know BART’s anime 
+ mascots at bart.gov/anime . Details What: Let’s Glow! BART Anime Festiva
+ l When: Saturday\, September 19\, 4pm to 9pm Where: Warm Springs/South Fre
+ mont Station RSVP on Eventbrite at letsglowfestival.eventbrite.com . Not r
+ equired but helps us get a headcount. Free to attend What to expect Artist
+  Alley: More than 100 artists will sell a mix of BART\, anime-\, and trans
+ it-themed art\, along with their own original artwork. Check back for the 
+ full catalog in the coming weeks. Music and performances: AniClover will D
+ J all night\, and SanFlare will perform wotagei\, a high-energy style of s
+ ynchronized fan dancing. SanFlare will also teach attendees the official B
+ ART wotagei dance. Special Youtaite concert: An exclusive VTuber concert p
+ roduced by Neon Shrine f
+LOCATION:Warm Springs BART\, Warm Spgs BART\, Fremont\, CA 94539\, USA
+URL:https://lu.ma/vaottzct
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T170000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260927-bodhimidautumnfestivalwl
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
@@ -229,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Golden Gate Park Nature Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260927-goldengateparknaturefest
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
@@ -256,7 +254,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -289,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Free “German Day” Festival 2026 (Golden Gate Park)
 DTSTART;TZID=America/Los_Angeles:20260927T190000
 DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20260927-sfsfreegermandayfestival
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-german-day-festival-2026-gold
@@ -322,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s Free Outdoor “Butchertown Jazz Festival” 2026 (Bayview)
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20260913T201603Z
+DTSTAMP:20260914T031111Z
 UID:funcheap-20261011-sfsfreeoutdoorbutchertow
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-fest
