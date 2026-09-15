@@ -5,48 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:What is Law in the Age of AI?
-DTSTART:20260915T003000Z
-DTEND:20260915T033000Z
-DTSTAMP:20260914T212524Z
-UID:evt-0CC7zosf0DQb9FR
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/81aqxabn\nLocation: San Francisco\, CA\nHost: Im
- bue Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/81aqxabn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women + AI x Luxfit Collab: Oh\, She Lifts
-DTSTART:20260915T010000Z
-DTEND:20260915T033000Z
-DTSTAMP:20260914T212524Z
-UID:evt-yLzyrWX5d4R4WgW
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/f49ieour\nLocation: San Francisco\, CA\nHost: Wo
- men + AI\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/f49ieour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:90/30 Club Reading: Can LLM Agents Discover? Evaluating Creativity
-  on ML Engineering Tasks
-DTSTART:20260915T020000Z
-DTEND:20260915T050000Z
-DTSTAMP:20260914T212524Z
-UID:evt-vEdfXoZGk0XQfsM
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/jgeqv9um\nLocation: Mox\, 1680 Mission St\, San 
- Francisco\, CA 94103\, USA\nHost: 90/30 Club\nCategories: ai\nSource: luma
- -html/san-francisco
-LOCATION:Mox\, 1680 Mission St\, San Francisco\, CA 94103\, USA
-URL:https://lu.ma/jgeqv9um
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:All Things Agent Setups
 DTSTART:20260916T003000Z
 DTEND:20260916T033000Z
-DTSTAMP:20260914T212524Z
+DTSTAMP:20260915T031258Z
 UID:evt-yqRYriugnX9wi2u
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/allthings-kj2x\nLocation: Sentry\, 45 Fremont St
@@ -54,5 +16,17 @@ DESCRIPTION:https://lu.ma/allthings-kj2x\nLocation: Sentry\, 45 Fremont St
  ource: luma-html/san-francisco
 LOCATION:Sentry\, 45 Fremont St\, San Francisco\, CA 94105\, USA
 URL:https://lu.ma/allthings-kj2x
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3x GTM: Selling at AI Speed (SF)
+DTSTART:20260916T013000Z
+DTEND:20260916T043000Z
+DTSTAMP:20260915T031258Z
+UID:evt-Es5AdKqcuGveSf9
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/7xa5tvva\nLocation: San Francisco\, CA\nHost: El
+ iseAI\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/7xa5tvva
 END:VEVENT
 END:VCALENDAR
