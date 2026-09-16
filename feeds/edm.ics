@@ -5,10 +5,26 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+SUMMARY:Kany Garcia: Puerta Abierta Tour
+DTSTART:20260919T030000Z
+DTEND:20260919T050000Z
+DTSTAMP:20260916T204920Z
+UID:G5vYZ_FQ8mbrW
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/kany-garcia-puerta-abierta-tour-s
+ an-jose-california-09-18-2026/event/1C00648690B987BD\nVenue: San Jose Civi
+ c\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Pop\, Ele
+ ctro Pop\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/m
+ usic
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/kany-garcia-puerta-abierta-tour-san-jose-
+ california-09-18-2026/event/1C00648690B987BD
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Daft Disko
 DTSTART:20260919T040000Z
 DTEND:20260919T060000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:rZ7HnEZ1AfaaqV
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/daft-disko-the-ritz-tickets/14
@@ -25,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Mild Minds - DJ Set (21+)
 DTSTART:20260919T050000Z
 DTEND:20260919T070000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:Z7r9jZ1A7Pw7F
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7Pw7F\nVenue: 1015 
@@ -38,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Steve Aoki (18+) - DIM MAK 30 TOUR
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZbyk0x_-f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/steve-aoki-18-dim-mak-30-san-fran
@@ -66,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Anish Kumar (21+)
 DTSTART:20260920T043000Z
 DTEND:20260920T063000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZ_ud0A07i
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/anish-kumar-21-san-francisco-cali
@@ -79,36 +95,10 @@ URL:https://www.ticketmaster.com/anish-kumar-21-san-francisco-california-0
  9-19-2026/event/1C0064D0E416412C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Temples
-DTSTART:20260923T030000Z
-DTEND:20260923T050000Z
-DTSTAMP:20260916T160243Z
-UID:Z7r9jZ1A7x3vp
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp\nVenue: The C
- hapel\nLocation: 777 Valencia Street\, San Francisco\, CA\nGenres: Music\,
-  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:777 Valencia Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Temples
-DTSTART:20260924T030000Z
-DTEND:20260924T050000Z
-DTSTAMP:20260916T160243Z
-UID:Z7r9jZ1A7x3v9
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9\nVenue: The C
- hapel\nLocation: 777 Valencia Street\, San Francisco\, CA\nGenres: Music\,
-  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:777 Valencia Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZ_d2ADlKy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire
@@ -125,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:"The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -150,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -178,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -202,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -218,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -231,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -246,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -268,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260916T160243Z
+DTSTAMP:20260916T204920Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -281,5 +271,28 @@ DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
 LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/electric-feels-indie-rock-the-ritz-tic
  kets/14239214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
+DTSTART:20261016T030000Z
+DTEND:20261016T050000Z
+DTSTAMP:20260916T204920Z
+UID:G5vYZ_ki2fDlR
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
+ san-francisco-california-10-15-2026/event/1C00646B0F53BAEF\nVenue: Bill Gr
+ aham Civic Auditorium\nLocation: 99 Grove Street\, San Francisco\, CA\nGen
+ res: Music\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSou
+ rce: ticketmaster/music\n\nPlease be sure to select the lowest available p
+ rice level first. There are a limited number of tickets available at each 
+ price level. All price levels provide the same concert experience. All tic
+ kets for this show are general admission\, standing on floor level or seat
+ ed upstairs on a first come\, first serve basis. Please be sure to select 
+ the lowest available price level first. There are a limited number of tick
+ ets available at each price level. All price levels provide the same conce
+ rt experience.
+LOCATION:99 Grove Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-san-fran
+ cisco-california-10-15-2026/event/1C00646B0F53BAEF
 END:VEVENT
 END:VCALENDAR
