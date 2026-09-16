@@ -5,35 +5,23 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:All Things Agent Setups
-DTSTART:20260916T003000Z
-DTEND:20260916T033000Z
-DTSTAMP:20260915T204925Z
-UID:evt-yqRYriugnX9wi2u
+SUMMARY:Bay Area Frontier Research Club #23 | Founders Edition: The Knowle
+ dge Supply Chain (dinner + paper discussion @ AGI House SF)
+DTSTART:20260917T003000Z
+DTEND:20260917T033000Z
+DTSTAMP:20260916T030927Z
+UID:evt-UczB3DYfpVfMqzN
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/allthings-kj2x\nLocation: Sentry\, 45 Fremont St
- \, San Francisco\, CA 94105\, USA\nHost: All Things Web\nCategories: ai\nS
- ource: luma-html/san-francisco
-LOCATION:Sentry\, 45 Fremont St\, San Francisco\, CA 94105\, USA
-URL:https://lu.ma/allthings-kj2x
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3x GTM: Selling at AI Speed (SF)
-DTSTART:20260916T013000Z
-DTEND:20260916T043000Z
-DTSTAMP:20260915T204925Z
-UID:evt-Es5AdKqcuGveSf9
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/7xa5tvva\nLocation: San Francisco\, CA\nHost: El
- iseAI\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/wgvn22n1\nLocation: San Francisco\, CA\nHost: Th
+ e Frontier Syndicate\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/7xa5tvva
+URL:https://lu.ma/wgvn22n1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Francisco | Claude in Sales Meetup
 DTSTART:20260917T010000Z
 DTEND:20260917T040000Z
-DTSTAMP:20260915T204925Z
+DTSTAMP:20260916T030927Z
 UID:evt-9Od3f0F1Zqw4tPI
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claude-4n2g\nLocation: Gray Area / Grand Theater
@@ -47,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Humongous AI Meetup
 DTSTART:20260917T010000Z
 DTEND:20260917T030000Z
-DTSTAMP:20260915T204925Z
+DTSTAMP:20260916T030927Z
 UID:evt-ojire2dkEAeTukt
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/lyzw2vit\nLocation: San Francisco\, CA\nHost: Ma
@@ -59,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Voice AI Happy Hour & Fireside Chat
 DTSTART:20260917T010000Z
 DTEND:20260917T030000Z
-DTSTAMP:20260915T204925Z
+DTSTAMP:20260916T030927Z
 UID:evt-duK9evIhfNlqNAC
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/h2qu25rt\nLocation: San Francisco\, CA\nHost: Co
