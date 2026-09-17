@@ -8,12 +8,25 @@ BEGIN:VEVENT
 SUMMARY:AI Journal Club ft. Google + NVIDIA
 DTSTART:20260918T003000Z
 DTEND:20260918T030000Z
-DTSTAMP:20260917T031358Z
+DTSTAMP:20260917T105348Z
 UID:evt-tBDJucyC87iSB1J
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/0460rgnq\nLocation: San Francisco\, CA\nHost: Wo
  rkato Community\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/0460rgnq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco | Claude Fable 5.1 Build Day
+DTSTART:20260919T160000Z
+DTEND:20260919T230000Z
+DTSTAMP:20260917T105348Z
+UID:evt-EZCwRbZdoggH6yR
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/claudesanfranciscobuildday\nLocation: 590 Howard
+  St\, San Francisco\, CA 94105\, USA\nHost: Claude Community Events\nCateg
+ ories: ai\nSource: luma-html/san-francisco
+LOCATION:590 Howard St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/claudesanfranciscobuildday
 END:VEVENT
 END:VCALENDAR
