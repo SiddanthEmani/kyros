@@ -5,77 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[AI] Bay Area Frontier Research Club #23 | Founders Edition: The K
- nowledge Supply Chain (dinner + paper discussion @ AGI House SF)
-DTSTART:20260917T003000Z
-DTEND:20260917T033000Z
-DTSTAMP:20260916T204920Z
-UID:evt-UczB3DYfpVfMqzN
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/wgvn22n1\nLocation: San Francisco\, CA\nHost: Th
- e Frontier Syndicate\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/wgvn22n1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] San Francisco | Claude in Sales Meetup
-DTSTART:20260917T010000Z
-DTEND:20260917T040000Z
-DTSTAMP:20260916T204920Z
-UID:evt-9Od3f0F1Zqw4tPI
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/claude-4n2g\nLocation: Gray Area / Grand Theater
- \, 2665 Mission St\, San Francisco\, CA 94110\, USA\nHost: Claude Communit
- y Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Gray Area / Grand Theater\, 2665 Mission St\, San Francisco\, CA 
- 94110\, USA
-URL:https://lu.ma/claude-4n2g
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Humongous AI Meetup
-DTSTART:20260917T010000Z
-DTEND:20260917T030000Z
-DTSTAMP:20260916T204920Z
-UID:evt-ojire2dkEAeTukt
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/lyzw2vit\nLocation: San Francisco\, CA\nHost: Ma
- china Ventures\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/lyzw2vit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Voice AI Happy Hour & Fireside Chat
-DTSTART:20260917T010000Z
-DTEND:20260917T030000Z
-DTSTAMP:20260916T204920Z
-UID:evt-duK9evIhfNlqNAC
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/h2qu25rt\nLocation: San Francisco\, CA\nHost: Co
- val\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/h2qu25rt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live] Five Finger Death Punch
-DTSTART:20260917T014500Z
-DTEND:20260917T034500Z
-DTSTAMP:20260916T204920Z
-UID:G5vYZ_eplUIuH
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/five-finger-death-punch-mountain-
- view-california-09-16-2026/event/1C006425ABDA837C\nVenue: Shoreline Amphit
- heatre\nLocation: One Amphitheatre Parkway\, Mountain View\, CA\nGenres: M
- usic\, Metal\, Nu-Metal\nHost: LIVE NATION MUSIC\nCategories: concert\nSou
- rce: ticketmaster/music
-LOCATION:One Amphitheatre Parkway\, Mountain View\, CA
-URL:https://www.ticketmaster.com/five-finger-death-punch-mountain-view-cal
- ifornia-09-16-2026/event/1C006425ABDA837C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] AI Journal Club ft. Google + NVIDIA
 DTSTART:20260918T003000Z
 DTEND:20260918T030000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:evt-tBDJucyC87iSB1J
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/0460rgnq\nLocation: San Francisco\, CA\nHost: Wo
@@ -87,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Mustard Service
 DTSTART:20260918T030000Z
 DTEND:20260918T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:rZ7HnEZ1Af0Y0K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustard-service-the-independen
@@ -101,11 +34,46 @@ URL:https://www.ticketweb.com/event/mustard-service-the-independent-ticket
  s/14930913
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Fort Mason Fall 2026 Art Walk: Mural\, 100-Artist Show 
+ + Free Drink Tickets (SF)
+DTSTART;TZID=America/Los_Angeles:20260917T203000
+DTEND;TZID=America/Los_Angeles:20260918T170000
+DTSTAMP:20260917T031358Z
+UID:funcheap-20260917-fortmasonfall2026artwalk
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/fort-mason-fall-2026-art-walk-mural-10
+ 0artist-show-free-drink-tickets-sf/\nLocation: san francisco\nPrice: Free\
+ nCategories: community\, free\nSource: funcheap/san-francisco\n\nFort Maso
+ n Art Walk returns for its fall edition with exhibitions\, opening recepti
+ ons\, artist and curator talks\, live performances\, gallery tours\, and h
+ ands-on letterpress and block printing across the Fort Mason Center campus
+ . Highlights include Leah Rosenberg’s new mural project\, Haines Gallery
+ ’s 250 Years\, Indigenous Futures group exhibition\, SF Camerawork’s T
+ APE UP: The Members Show\, and a closing live set by Niko Otis. Registrati
+ on is recommended and includes a free drink ticket. Original Event Descrip
+ tion: _𝗬𝗢𝗨’𝗥𝗘 𝗜𝗡𝗩𝗜𝗧𝗘𝗗: Please join u
+ s for the Fort Mason Art Walk (9/17)! This FREE event features new exhibit
+ ions\, opening receptions\, artist/curator talks\, live performances\, and
+  hands-on artmaking across the #fortmasoncenter campus\, including: ⭐ #F
+ ortMasonArt debuts a new mural project by @leahmartharosenberg\, 𝙏𝙝
+ 𝙚 𝙎𝙚𝙖 𝙄𝙨 𝘽𝙪𝙩 𝘼𝙣𝙤𝙩𝙝𝙚𝙧 𝙎
+ 𝙠𝙮\, in the passageway between Buildings B and C\, with artist/curat
+ or talks with @fsmigiel at 6p & 7p ⭐ @hainesgallery opens 𝟮𝟱𝟬 
+ 𝙔𝙚𝙖𝙧𝙨\, 𝙄𝙣𝙙𝙞𝙜𝙚𝙣𝙤𝙪𝙨 𝙁𝙪
+ 𝙩𝙪𝙧𝙚𝙨\, a group show of leading Native American artists\, w
+ ith a public reception\, 5-8p ⭐ @for_site unveils 𝘼𝙩𝙩𝙚𝙣
+ 𝙩𝙞𝙫𝙚 𝙀𝙖𝙧𝙩𝙝 at the Guardhouse ⭐ @aicd.sf prese
+ nts two new large-scale sculptural spheres +
+LOCATION:san francisco
+URL:https://sf.funcheap.com/fort-mason-fall-2026-art-walk-mural-100artist-
+ show-free-drink-tickets-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Free] Bernal Scream 2026: 2x Haunted House/Mazes at Santa Clara F
  airgrounds (Sept. 18 – Nov. 8)
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260918-bernalscream20262xhaunte
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/bernal-scream-2026-2x-haunted-housemaz
@@ -133,44 +101,10 @@ URL:https://sf.funcheap.com/bernal-scream-2026-2x-haunted-housemazes-santa
  -clara-fairgrounds-sept-18-nov-8/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] SF’s “Oktoberfest on Front” Free Block Party + Be
- er Hall Games (2026)
-DTSTART;TZID=America/Los_Angeles:20260918T190000
-DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260916T204920Z
-UID:funcheap-20260918-sfsoktoberfestonfrontfre
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sfs-oktoberfest-front-free-block-party
- -beer-hall-games-2026/\nVenue: s. The event is co-hosted by the Downtown S
- F Partnership and Schroeder’s and wel\nPrice: Free\nCategories: communit
- y\, free\nSource: funcheap/san-francisco\n\nOktoberfest on Front is a free
- \, all-ages Bavarian-themed block party in downtown San Francisco\, featur
- ing live music\, beer hall games\, and German food specials. Attendees can
-  enjoy stein holding contests\, best-dressed competitions\, and bar specia
- ls with over 70 beers on tap from local venues. The event is co-hosted by 
- the Downtown SF Partnership and Schroeder’s and welcomes families\, bike
- s\, and pets. Alcohol service is restricted to those 21+ with valid ID. Or
- iginal Event Description: _Dust off your lederhosen and dirndl! San Franci
- sco’s biggest Oktoberfest celebration returns to Downtown on Friday\, Se
- ptember 18\, 2026.Co-hosted by the Downtown SF Partnership and Schroeder
- ’s\, join us for a full-blown Bavarian celebration in the streets featur
- ing live music\, legendary beer hall games\, and all ice cold beer your he
- art desires! Prost! 🍻Live Music on the Outdoor Stage: Dance in the stre
- ets to authentic Bavarian yodeling and polka by Ladyhosen\, followed by da
- nce hits from powerhouse party band\, Pop Rocks.Front Street Festivities: 
- Get in on the action with classic beer hall games like stein holding\, bee
- r chugging (non-alcoholic)\, our best-dressed contest\, and more!Bar Speci
- als: With over
-LOCATION:s. The event is co-hosted by the Downtown SF Partnership and Schr
- oeder’s and wel
-URL:https://sf.funcheap.com/sfs-oktoberfest-front-free-block-party-beer-ha
- ll-games-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay] San Francisco Armenian Food Festival 2026 (Sept. 18-20)
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260918-sanfranciscoarmenianfood
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/san-francisco-armenian-food-festival-2
@@ -184,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Kany Garcia: Puerta Abierta Tour
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_FQ8mbrW
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/kany-garcia-puerta-abierta-tour-s
@@ -200,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Carin Leon - De Sonora Para El Mundo Tour 2026
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_eBfZy7s
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/carin-leon-de-sonora-para-el-san-
@@ -224,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Lido Pimienta
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:rZ7HnEZ1Af0IvN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-
@@ -243,10 +177,42 @@ URL:https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-tickets/
  14928063
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay] Landry & Summers: Improv Legends
+DTSTART;TZID=America/Los_Angeles:20260918T200000
+DTEND;TZID=America/Los_Angeles:20260919T130000
+DTSTAMP:20260917T031358Z
+UID:funcheap-20260918-landrysummersimprovlegen
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/landry-summers-improv-legends/\nVenue:
+  Pan Theater\, 120 Frank Ogawa Plaza\, Oakland\, CA Tickets: $20 (General 
+ Admission)\nCategories: community\nSource: funcheap/san-jose+funcheap/sout
+ h-bay+funcheap/san-francisco\n\nImprov Legends Shaun Landry & Hans Summers
+  Return to the San Francisco Bay Area for Two Nights They will be at Oakla
+ nd’s Pan Theater for two nights only: September 18 & 19 OAKLAND\, CA —
+  August 21\, 2026 — Pan Theater will host improv legends Shaun Landry an
+ d Hans Summers for two performances on Friday\, September 18\, and Saturda
+ y\, September 19\, at 8:00 p.m. Landry will also lead her award-winning wo
+ rkshop\, The Art of the Improvised Monologue\, on Saturday\, September 19\
+ , from 1:00 p.m. to 4:00 p.m. The Second City alums have been performing t
+ ogether since 1986. Landry and Summers founded Oui Be Negroes\, America’
+ s first almost all Black improv troupe\, and trained during Chicago’s ea
+ rly improv renaissance under Del Close and other pioneers of the art form.
+  Both have taught and performed at iO\, iO West\, The Second City\, and ot
+ her leading institutions\, and their work is documented in Amy E. Seham’
+ s acclaimed improv history\, Whose Improv Is It Anyway?: Beyond Second Cit
+ y. “Their work reminds us of what improvisational theater can be. It sho
+ ws us the power improv has to make audiences think\, to transform people\,
+ ” said Pan Theater founder David Alger. “For Bay Area performers and a
+ udiences\, g
+LOCATION:Pan Theater\, 120 Frank Ogawa Plaza\, Oakland\, CA Tickets: $20 (
+ General Admission)
+URL:https://sf.funcheap.com/landry-summers-improv-legends/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Daft Disko
 DTSTART:20260919T040000Z
 DTEND:20260919T060000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:rZ7HnEZ1AfaaqV
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/daft-disko-the-ritz-tickets/14
@@ -260,10 +226,27 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/daft-disko-the-ritz-tickets/14249774
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] BIIRD (Night 1)
+DTSTART:20260919T040000Z
+DTEND:20260919T060000Z
+DTSTAMP:20260917T031358Z
+UID:rZ7HnEZ1Afx8Qd
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/biird-night-1-brick-and-mortar
+ -music-hall-tickets/14890683\nVenue: Brick and Mortar Music Hall\nLocation
+ : 1710 Mission Street \, San Francisco\, CA\nPrice: Free\nGenres: Music\, 
+ Folk\, Irish Folk\nCategories: concert\, free\nSource: ticketmaster/music\
+ n\nFOR ANY SHOW THAT IS ALL AGES or 18 & UP: Anyone under 21 years old mus
+ t pay an additional $5 at the door.
+LOCATION:1710 Mission Street \, San Francisco\, CA
+URL:https://www.ticketweb.com/event/biird-night-1-brick-and-mortar-music-h
+ all-tickets/14890683
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Mild Minds - DJ Set (21+)
 DTSTART:20260919T050000Z
 DTEND:20260919T070000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:Z7r9jZ1A7Pw7F
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7Pw7F\nVenue: 1015 
@@ -276,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] District 6 SOMA Family Summit
 DTSTART;TZID=America/Los_Angeles:20260919T110000
 DTEND;TZID=America/Los_Angeles:20260919T143000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260919-district6somafamilysummi
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/district-6-soma-family-summit/\nLocati
@@ -305,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -338,7 +321,7 @@ SUMMARY:[Bay/Free] “Let’s Glow” BART Anime Festival (Warm Springs /
  South Fremont)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -368,10 +351,40 @@ URL:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-springs-sou
  th-fremont/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Bay Area “Photographerz” City Shoot Meetup + Golden
+  Hour Photo Walk (SF)
+DTSTART;TZID=America/Los_Angeles:20260919T160000
+DTEND;TZID=America/Los_Angeles:20260919T180000
+DTSTAMP:20260917T031358Z
+UID:funcheap-20260919-bayareaphotographerzcity
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/bay-area-photographerz-city-shoot-meet
+ up-golden-hour-photo-walk-sf/\nLocation: san francisco\nPrice: Free\nCateg
+ ories: community\, free\nSource: funcheap/san-francisco\n\nJoin fellow pho
+ tographers for the BAPZ Bay Area Photographerz city shoot meetup in downto
+ wn San Francisco. This free event welcomes all photographers for a golden 
+ hour walk and challenge shoot\, starting at Transamerica. After the photo 
+ walk\, attendees are invited for a casual dinner at Little Italy Pizza (pa
+ y for your own food). No RSVP required. Original Event Description: _It’
+ s that time again for a reunion city shoot. 📸 All photographers welcome
+ d to join for this city walk and challenge shoot. Get to know other photog
+ raphers\, while getting some gorgeous shots of downtown. Aiming and hoping
+  for a gorgeous golden hour as well. 🌞 Going to plan a casual dinner af
+ ter for those who want to stay afterwards (Little Italy Pizza). 🍕 Will 
+ post more details later but for now mark your calendars. Drop questions in
+  the comments pls. #bayareaphotographerz #bayareaphotographers #bapz #phot
+ ographymeetup_ Text extracted from provided image: BAPZ BAY AREA PHOTOGRAP
+ HERZ MEETUP SEPT 19\, 2026 CITY SHOOT IN SAN FRANCISCO 4:00 PM MEET AT TRA
+ NSAMERICA
+LOCATION:san francisco
+URL:https://sf.funcheap.com/bay-area-photographerz-city-shoot-meetup-golde
+ n-hour-photo-walk-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Steve Aoki (18+) - DIM MAK 30 TOUR
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZbyk0x_-f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/steve-aoki-18-dim-mak-30-san-fran
@@ -399,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] GODSMACK - The Rise of Rock World Tour 2026
 DTSTART:20260920T020000Z
 DTEND:20260920T040000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_dKlXXzG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-m
@@ -412,10 +425,25 @@ URL:https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-mountain-
  view-california-09-19-2026/event/1C006434EBFBEE0C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Elder\, Blackwater Holylight
+DTSTART:20260920T020000Z
+DTEND:20260920T040000Z
+DTSTAMP:20260917T031358Z
+UID:rZ7HnEZ1AfxK0N
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/elder-blackwater-holylight-the
+ -ritz-tickets/14893923\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose
+ \, CA\nPrice: $37-$521\nGenres: Music\, Rock\, Stoner Metal\nCategories: c
+ oncert\nSource: ticketmaster/music
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/elder-blackwater-holylight-the-ritz-ti
+ ckets/14893923
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Anish Kumar (21+)
 DTSTART:20260920T043000Z
 DTEND:20260920T063000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_ud0A07i
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/anish-kumar-21-san-francisco-cali
@@ -432,7 +460,7 @@ SUMMARY:[Live/Free] SF’s Free “Opera Day” Outdoor Concert w/ 13 Oper
  a Companies (Transamerica Redwood Park)
 DTSTART;TZID=America/Los_Angeles:20260920T170000
 DTEND;TZID=America/Los_Angeles:20260921T170000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260920-sfsfreeoperadayoutdoorco
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-opera-day-outdoor-concert-13-
@@ -463,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN SAN JOSE
 DTSTART:20260924T023000Z
 DTEND:20260924T043000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_1mWZNyw
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pure
@@ -499,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Return Of The Carnival Of Sins: Mötley Crüe
 DTSTART:20260925T013000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZbUD3X2kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-return-of-the-carnival-of-mou
@@ -512,10 +540,41 @@ URL:https://www.ticketmaster.com/the-return-of-the-carnival-of-mountain-vi
  ew-california-09-24-2026/event/1C00636ED2F8F19C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Free Ferry Rides: SF Bay Ferry “Transit Trivia” Nig
+ ht Aboard Oakland Ferry
+DTSTART;TZID=America/Los_Angeles:20260925T181500
+DTEND;TZID=America/Los_Angeles:20260925T193000
+DTSTAMP:20260917T031358Z
+UID:funcheap-20260925-freeferryridessfbayferry
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-
+ trivia-night-aboard-oakland-ferry/\nLocation: san francisco\nPrice: Free\n
+ Categories: community\, free\nSource: funcheap/san-francisco\n\nYoung Prof
+ essionals in Transportation hosts a Transit Month trivia night and social 
+ mixer aboard the San Francisco Bay Ferry. Meet at Gate G at the SF Ferry T
+ erminal for the ride to Jack London Square in Oakland and return to San Fr
+ ancisco. Attendees may join either leg of the trip\, and the first 25 RSVP
+ s receive vouchers for the ride to Oakland. Original Event Description: Ha
+ ppy Transit Month! ⛴️🚢🛶🚊🚉🚂 In collaboration with the Sa
+ n Francisco Bay Ferry\, we are hosting a trivia night and social mixer on 
+ board the Ferry from the San Francisco Ferry Terminal to Jack London Squar
+ e in Oakland. We will plan to meet at 6:15 pm to catch the ferry to Oaklan
+ d\, and will stay on the ferry to return to San Francisco by 7:30 pm. RSVP
+  at the link in bio! First 25 RSVPs get vouchers covering the ride to Oakl
+ and. If you can’t stay with us the whole time\, you are welcome to join 
+ during either leg of the trip. 🗓️ WHEN: Friday September 25\, 2026\, 
+ 6:15 pm – 7:30 pm ⛴️ Meet at: SF Ferry Terminal Gate G Hope to see y
+ ou all there! RSVP here or at the link in bio: https://yptransportation.ap
+ p.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F58468
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-trivia-n
+ ight-aboard-oakland-ferry/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -532,7 +591,7 @@ SUMMARY:[EDM] Lionel Richie and Earth\, Wind & Fire - Sing a Song All Nigh
  t Long
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_d2ADlKy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire
@@ -549,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -573,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Cristian Castro: Nada Solo Exitos Tour 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_7iWzLEh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
@@ -590,7 +649,7 @@ SUMMARY:[Bay/Free] Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park
  )
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T170000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260927-bodhimidautumnfestivalwl
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
@@ -620,37 +679,11 @@ URL:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-golden-gate-
  park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Golden Gate Park Nature Festival (SF)
-DTSTART;TZID=America/Los_Angeles:20260927T100000
-DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260916T204920Z
-UID:funcheap-20260927-goldengateparknaturefest
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/\n
- Venue: 55 Music Concourse Dr.\nPrice: Free\nCategories: community\, free\n
- Source: funcheap/san-francisco\n\nCome and celebrate the incredible biodiv
- ersity of San Francisco at the Golden Gate Park Nature Festival\, a free p
- ublic event taking place on Academy property at 55 Music Concourse Dr.! Di
- scover the people\, organizations\, and community groups working every day
-  to protect\, restore\, and conserve nature right here in our city. From l
- ocal wildlife and thriving habitats to innovative restoration projects\, t
- here’s plenty to see\, learn\, and experience. Enjoy fun educational pro
- grams\, interactive activities\, hands-on experiences\, informational tabl
- es\, and exciting displays hosted by Reimagining San Francisco (RSF) membe
- rs\, City agencies\, and nonprofit organizations dedicated to making San F
- rancisco a healthier\, more vibrant place for people and nature. Learn som
- ething new. Meet your local nature champions. Get inspired. Get involved. 
- When: Sunday\, September 27\, 2026 Time: 10Am-2PM Location: 55 Music Conco
- urse Dr.
-LOCATION:55 Music Concourse Dr.
-URL:https://sf.funcheap.com/golden-gate-park-nature-festival-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -680,44 +713,10 @@ URL:https://sf.funcheap.com/randall-museum-75th-anniversary-free-sciencena
  tureart-festival-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live/Free] SF’s Free “German Day” Festival 2026 (Golden Gat
- e Park)
-DTSTART;TZID=America/Los_Angeles:20260927T190000
-DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260916T204920Z
-UID:funcheap-20260927-sfsfreegermandayfestival
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/sfs-free-german-day-festival-2026-gold
- en-gate-park/\nVenue: San Francisco’s Golden Gate Park band shell and mu
- sic concourseLearn more and st\nPrice: Free\nCategories: concert\, free\nS
- ource: funcheap/san-francisco\n\nSF German Day 2026 is a free\, family-fri
- endly festival in Golden Gate Park celebrating German culture with live mu
- sic\, dance\, German beer and wine\, traditional foods\, cultural exhibits
- \, and activities for all ages. The event features local breweries\, winer
- ies\, and organizations\, offering a festive day of community and German t
- raditions in San Francisco. Original Event Description: _Join us for SF Ge
- rman Day 2026—a free celebration of German culture with food\, music\, b
- eer\, dance\, and family activities! Save the Date – SF German Day 2026!
-  Mark your calendars for Sunday\, September 27\, 2026\, as we celebrate SF
-  German Day in beautiful Golden Gate Park! Join us for a day of German cul
- ture\, music\, food\, dance\, beer\, family activities\, and community as 
- we bring a taste of Germany to the heart of San Francisco. Whether you hav
- e German roots\, love German traditions\, or are simply looking for a fun 
- day in the park\, everyone is welcome! Live music and performances German 
- beer from Standard Deviant Brewery German wines from Beringer and Gundlach
- -Bundschu wineries German Pretzels\, Sausages\, Döner Kebab\, and Pastrie
- s Cultural exhibits and local organizations Family-friendly activities for
-  all age
-LOCATION:San Francisco’s Golden Gate Park band shell and music concourse
- Learn more and st
-URL:https://sf.funcheap.com/sfs-free-german-day-festival-2026-golden-gate-
- park/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -742,7 +741,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -769,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -794,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -822,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -846,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -864,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -880,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -904,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -925,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -938,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -953,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -975,7 +974,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -990,44 +989,10 @@ URL:https://www.ticketweb.com/event/electric-feels-indie-rock-the-ritz-tic
  kets/14239214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live/Free] SF’s Free Outdoor “Butchertown Jazz Festival” 20
- 26 (Bayview)
-DTSTART;TZID=America/Los_Angeles:20261011T190000
-DTEND;TZID=America/Los_Angeles:20261011T210000
-DTSTAMP:20260916T204920Z
-UID:funcheap-20261011-sfsfreeoutdoorbutchertow
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-fest
- ival-2026-bayview/\nVenue: Lane Street between Underwood & Van Dyke\, Bayv
- iew\, San FranciscoAdmission: FREEA\nPrice: Free\nCategories: concert\, fr
- ee\nSource: funcheap/san-francisco\n\nThe 7th Annual Butchertown Jazz Fest
- ival is a free\, family-friendly event at Gratta Wines in San Francisco’
- s Bayview\, featuring live jazz and soul performances\, local food and win
- e\, artists\, makers\, and community organizations. Attendees can enjoy a 
- vibrant outdoor neighborhood celebration that highlights the creativity an
- d culture of the Bayview district. The festival includes musical performan
- ces\, food and beverage vendors\, and local art\, offering a welcoming atm
- osphere for both residents and visitors. Original Event Description: _The 
- 7th Annual Butchertown Jazz Festival — a free celebration of music\, foo
- d\, wine\, art\, and community in San Francisco’s Bayview.7th Annual But
- chertown Jazz FestivalOn Sunday\, October 11\, 2026\, Gratta Wines invites
-  you to spend the day with us for one of the neighborhood’s most beloved
-  community gatherings.The Butchertown Jazz Festival brings together live j
- azz and soul music\, local food and wine\, artists\, makers\, small busine
- sses\, and community organizations for a day that celebrates the creativit
- y\, culture\, and spirit of the Bayview.At its heart\, this festival is ab
- out bringing people together. Whether you’re a longtime Bayview resident
- \, visiting fro
-LOCATION:Lane Street between Underwood & Van Dyke\, Bayview\, San Francisc
- oAdmission: FREEA
-URL:https://sf.funcheap.com/sfs-free-outdoor-butchertown-jazz-festival-202
- 6-bayview/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] 2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -1051,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -1075,7 +1040,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260916T204920Z
+DTSTAMP:20260917T031358Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
