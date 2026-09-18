@@ -5,46 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Fort Mason Fall 2026 Art Walk: Mural\, 100-Artist Show + Free Drin
- k Tickets (SF)
-DTSTART;TZID=America/Los_Angeles:20260917T203000
-DTEND;TZID=America/Los_Angeles:20260918T170000
-DTSTAMP:20260918T030138Z
-UID:funcheap-20260917-fortmasonfall2026artwalk
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/fort-mason-fall-2026-art-walk-mural-10
- 0artist-show-free-drink-tickets-sf/\nLocation: san francisco\nPrice: Free\
- nCategories: community\, free\nSource: funcheap/san-francisco\n\nFort Maso
- n Art Walk returns for its fall edition with exhibitions\, opening recepti
- ons\, artist and curator talks\, live performances\, gallery tours\, and h
- ands-on letterpress and block printing across the Fort Mason Center campus
- . Highlights include Leah Rosenberg’s new mural project\, Haines Gallery
- ’s 250 Years\, Indigenous Futures group exhibition\, SF Camerawork’s T
- APE UP: The Members Show\, and a closing live set by Niko Otis. Registrati
- on is recommended and includes a free drink ticket. Original Event Descrip
- tion: _𝗬𝗢𝗨’𝗥𝗘 𝗜𝗡𝗩𝗜𝗧𝗘𝗗: Please join u
- s for the Fort Mason Art Walk (9/17)! This FREE event features new exhibit
- ions\, opening receptions\, artist/curator talks\, live performances\, and
-  hands-on artmaking across the #fortmasoncenter campus\, including: ⭐ #F
- ortMasonArt debuts a new mural project by @leahmartharosenberg\, 𝙏𝙝
- 𝙚 𝙎𝙚𝙖 𝙄𝙨 𝘽𝙪𝙩 𝘼𝙣𝙤𝙩𝙝𝙚𝙧 𝙎
- 𝙠𝙮\, in the passageway between Buildings B and C\, with artist/curat
- or talks with @fsmigiel at 6p & 7p ⭐ @hainesgallery opens 𝟮𝟱𝟬 
- 𝙔𝙚𝙖𝙧𝙨\, 𝙄𝙣𝙙𝙞𝙜𝙚𝙣𝙤𝙪𝙨 𝙁𝙪
- 𝙩𝙪𝙧𝙚𝙨\, a group show of leading Native American artists\, w
- ith a public reception\, 5-8p ⭐ @for_site unveils 𝘼𝙩𝙩𝙚𝙣
- 𝙩𝙞𝙫𝙚 𝙀𝙖𝙧𝙩𝙝 at the Guardhouse ⭐ @aicd.sf prese
- nts two new large-scale sculptural spheres +
-LOCATION:san francisco
-URL:https://sf.funcheap.com/fort-mason-fall-2026-art-walk-mural-100artist-
- show-free-drink-tickets-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bernal Scream 2026: 2x Haunted House/Mazes at Santa Clara Fairgrou
  nds (Sept. 18 – Nov. 8)
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T210000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260918-bernalscream20262xhaunte
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/bernal-scream-2026-2x-haunted-housemaz
@@ -75,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Lido Pimienta
 DTSTART:20260919T030000Z
 DTEND:20260919T050000Z
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:rZ7HnEZ1Af0IvN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-
@@ -97,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:BIIRD (Night 1)
 DTSTART:20260919T040000Z
 DTEND:20260919T060000Z
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:rZ7HnEZ1Afx8Qd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/biird-night-1-brick-and-mortar
@@ -114,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Pacific Pearl Mid-Autumn Moon Festival (Pleasanton)
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260919-pacificpearlmidautumnmoo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/pacific-pearl-midautumn-moon-festival-
@@ -147,7 +112,7 @@ SUMMARY:“Let’s Glow” BART Anime Festival (Warm Springs / South Fremo
  nt)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T210000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260919-letsglowbartanimefestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-bart-anime-festival-warm-spr
@@ -181,7 +146,7 @@ SUMMARY:Bay Area “Photographerz” City Shoot Meetup + Golden Hour Photo
   Walk (SF)
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T180000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260919-bayareaphotographerzcity
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/bay-area-photographerz-city-shoot-meet
@@ -211,7 +176,7 @@ SUMMARY:SF’s Free “Opera Day” Outdoor Concert w/ 13 Opera Companies
  (Transamerica Redwood Park)
 DTSTART;TZID=America/Los_Angeles:20260920T170000
 DTEND;TZID=America/Los_Angeles:20260921T170000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260920-sfsfreeoperadayoutdoorco
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-opera-day-outdoor-concert-13-
@@ -243,7 +208,7 @@ SUMMARY:Free Ferry Rides: SF Bay Ferry “Transit Trivia” Night Aboard O
  akland Ferry
 DTSTART;TZID=America/Los_Angeles:20260925T181500
 DTEND;TZID=America/Los_Angeles:20260925T193000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260925-freeferryridessfbayferry
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-
@@ -274,7 +239,7 @@ SUMMARY:Free Nob Hill Outdoor Movie Night “The Sound of Music” + Free
  Popcorn (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260926-freenobhilloutdoormovien
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-sound-music-f
@@ -297,44 +262,45 @@ URL:https://sf.funcheap.com/free-outdoor-movie-night-sound-music-free-popc
  orn-nob-hill/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bodhi Mid-Autumn Festival w/ Lanterns (Golden Gate Park)
-DTSTART;TZID=America/Los_Angeles:20260927T100000
-DTEND;TZID=America/Los_Angeles:20260927T170000
-DTSTAMP:20260918T030138Z
-UID:funcheap-20260927-bodhimidautumnfestivalwl
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-gold
- en-gate-park/\nVenue: . Complete challenges\, collect stamps\, and redeem 
- special gifts along the way! 💰\nPrice: Free\nCategories: community\, fr
- ee\nSource: funcheap/san-francisco\n\nThe Bodhi Mid-Autumn Festival Commun
- ity Fair offers a day of lantern displays\, Hanfu experiences\, multicultu
- ral performances\, crafts\, games\, and family-friendly activities at the 
- San Francisco County Fair Building in Golden Gate Park. The event includes
-  free admission\, a photo booth\, cultural showcases\, interactive station
- s\, and special gifts for attendees dressed in Hanfu. Activities are desig
- ned for all ages\, celebrating cultural diversity and togetherness during 
- the Mid-Autumn Festival. Original Event Description: _Celebrate Mid-Autumn
-  Festival with lanterns\, Hanfu\, performances\, meditation\, blessings\, 
- crafts\, games & family fun. Free admission!🌕 Celebrate Mid-Autumn Fest
- ival in Golden Gate Park! Step into a vibrant Mid-Autumn celebration fille
- d with lanterns\, traditional Chinese culture\, multicultural performances
- \, games\, photo opportunities\, and family fun! Join Bodhi Meditation San
-  Francisco for our FREE Mid-Autumn Festival Community Fair at the San Fran
- cisco County Fair Building in Golden Gate Park. Whether you want to experi
- ence Chinese culture\, dress up in Hanfu\, enjoy live performances from di
- fferent cultures\, take home a free printed photo\, play games\, or simply
-  spend a
-LOCATION:. Complete challenges\, collect stamps\, and redeem special gifts
-  along the way! 💰
-URL:https://sf.funcheap.com/bodhi-midautumn-festival-lanterns-golden-gate-
- park/
+SUMMARY:SF’s “Upper Noe NeighborFest” Free Pizza\, Lemonade\, Popcor
+ n + Gelato (2026)
+DTSTART;TZID=America/Los_Angeles:20260926T190000
+DTEND;TZID=America/Los_Angeles:20260926T210000
+DTSTAMP:20260918T103104Z
+UID:funcheap-20260926-sfsuppernoeneighborfestf
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/sfs-upper-noe-neighborfest-free-pizza-
+ lemonade-popcorn-gelato-2026/\nVenue: Greenlight\, SF Public Space Collect
+ ive and Contina Impact. Upper Noe NeighborFes\nPrice: Free\nCategories: fr
+ ee\nSource: funcheap/san-francisco\n\nUpper Noe NeighborFest is a free Goo
+ d Neighbor Week community gathering at Upper Noe Rec Center featuring musi
+ c by the Adrian West Band\, a MoBu Dance Studio performance\, activity boo
+ ths\, archery\, volleyball\, games\, arts and crafts\, face painting\, and
+  KidsZone activities. Free refreshments include popcorn\, lemonade\, pizza
+ \, gelato\, cupcakes\, and more. Original Event Description: _EVERYBODY IS
+  WELCOME AT UPPER NOE NEIGHBORFEST featuring the ADRIAN WEST BAND So\, com
+ e celebrate Good Neighbor Week with us at Upper Noe Rec Center on Saturday
+ \, September 26 from 11 to 2. The Adrian West Band\, a big hit at UN Block
+  Party 2024\, return to provide upbeat tunes to delight everyone. MoBu Dan
+ ce Studio performs at 11:45. Esteemed civic leaders will be there too. Rec
+  & Park will have special activities like safe & fun archery\, volleyball 
+ and games for all ages\, while kids can also enjoy arts & crafts with Aven
+ turas\, face painting by Amanda\, and fun activities in the KidsZone. Free
+  refreshments include popcorn\, lemonade\, pizza\, La Copa Loca Gelato\, D
+ elights by Lisa cupcakes\, and more. Dozens of local merchants\, schools\,
+  organizations and institutions will have booths with info\, activities an
+ d treats.
+LOCATION:Greenlight\, SF Public Space Collective and Contina Impact. Upper
+  Noe NeighborFes
+URL:https://sf.funcheap.com/sfs-upper-noe-neighborfest-free-pizza-lemonade
+ -popcorn-gelato-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival 
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260918T030138Z
+DTSTAMP:20260918T103104Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -362,5 +328,22 @@ LOCATION:Randall Museum 199 Museum Way\, San Francisco\, CA 94114 Open in
  Maps Organizer Ra
 URL:https://sf.funcheap.com/randall-museum-75th-anniversary-free-sciencena
  tureart-festival-sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mari Froes
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+DTSTAMP:20260918T103104Z
+UID:rZ7HnEZ1AfPOvS
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
+ kets/14960073\nVenue: The Independent\nLocation: 628 Divisadero St\, San F
+ rancisco\, CA\nPrice: Free\nGenres: Music\, Folk\, Latin Folk\nCategories:
+  concert\, free\nSource: ticketmaster/music\n\nPlease note - there is a de
+ livery delay set for 2 weeks prior to show. Support acts subject to change
+  without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/mari-froes-the-independent-tickets/149
+ 60073
 END:VEVENT
 END:VCALENDAR
