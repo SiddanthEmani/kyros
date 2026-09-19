@@ -4,17 +4,4 @@ PRODID:-//kyros//bay-area-events//EN
 X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
-BEGIN:VEVENT
-SUMMARY:San Francisco | Claude Fable 5.1 Build Day
-DTSTART:20260919T170000Z
-DTEND:20260920T000000Z
-DTSTAMP:20260919T151707Z
-UID:evt-EZCwRbZdoggH6yR
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/claudesanfranciscobuildday\nLocation: San Franci
- sco\, CA\nHost: Claude Community Events\nCategories: ai\nSource: luma-html
- /san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/claudesanfranciscobuildday
-END:VEVENT
 END:VCALENDAR
