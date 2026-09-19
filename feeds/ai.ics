@@ -8,13 +8,13 @@ BEGIN:VEVENT
 SUMMARY:San Francisco | Claude Fable 5.1 Build Day
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260919T025755Z
+DTSTAMP:20260919T101536Z
 UID:evt-EZCwRbZdoggH6yR
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/claudesanfranciscobuildday\nLocation: 590 Howard
-  St\, San Francisco\, CA 94105\, USA\nHost: Claude Community Events\nCateg
- ories: ai\nSource: luma-html/san-francisco
-LOCATION:590 Howard St\, San Francisco\, CA 94105\, USA
+DESCRIPTION:https://lu.ma/claudesanfranciscobuildday\nLocation: San Franci
+ sco\, CA\nHost: Claude Community Events\nCategories: ai\nSource: luma-html
+ /san-francisco
+LOCATION:San Francisco\, CA
 URL:https://lu.ma/claudesanfranciscobuildday
 END:VEVENT
 END:VCALENDAR
