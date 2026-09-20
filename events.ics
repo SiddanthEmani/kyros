@@ -5,47 +5,11 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Live/Free] Cut Chemist
-DTSTART:20260920T040000Z
-DTEND:20260920T060000Z
-DTSTAMP:20260920T031310Z
-UID:rZ7HnEZ1Af17J7
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/cut-chemist-the-independent-ti
- ckets/14284984\nVenue: The Independent\nLocation: 628 Divisadero St\, San 
- Francisco\, CA\nPrice: Free\nGenres: Music\, Other\, Alternative\nCategori
- es: concert\, free\nSource: ticketmaster/music\n\nPlease note - there is a
-  delivery delay set for 2 weeks prior to show. This event is 21 and over. 
- Any ticket holder unable to present valid identification indicating that t
- hey are at least 21 years of age will not be admitted to this event\, and 
- will not be eligible for a refund. Support acts subject to change without 
- refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/cut-chemist-the-independent-tickets/14
- 284984
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[EDM] Anish Kumar (21+)
-DTSTART:20260920T043000Z
-DTEND:20260920T063000Z
-DTSTAMP:20260920T031310Z
-UID:G5vYZ_ud0A07i
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/anish-kumar-21-san-francisco-cali
- fornia-09-19-2026/event/1C0064D0E416412C\nVenue: Monarch\nLocation: 101 6t
- h St\, San Francisco\, CA\nGenres: Music\, Dance/Electronic\, Amapiano\nHo
- st: ANOTHER PLANET\nCategories: edm\nSource: ticketmaster/music\n\n21 & OV
- ER ONLY 21 & OVER ONLY
-LOCATION:101 6th St\, San Francisco\, CA
-URL:https://www.ticketmaster.com/anish-kumar-21-san-francisco-california-0
- 9-19-2026/event/1C0064D0E416412C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay] SF’s Alta Plaza Park Tennis Courts are Back: Reopening Cel
  ebration (SF)
 DTSTART;TZID=America/Los_Angeles:20260920T100000
 DTEND;TZID=America/Los_Angeles:20260920T120000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260920-sfsaltaplazaparktennisco
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/sfs-alta-plaza-park-tennis-courts-reop
@@ -75,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Vans / FTC40 Skate Contest at Haight St. Fair (SF)
 DTSTART;TZID=America/Los_Angeles:20260920T110000
 DTEND;TZID=America/Los_Angeles:20260920T170000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260920-vansftc40skatecontestath
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/vans-ftc40-skate-contest-haight-st-fai
@@ -103,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Maum Market SF
 DTSTART:20260920T180000Z
 DTEND:20260920T230000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:evt-DglQU0ckykBp1nQ
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/ou0z635y\nLocation: 1 Ferry Building\, San Franc
@@ -117,7 +81,7 @@ SUMMARY:[Live/Free] SF’s Free “Opera Day” Outdoor Concert w/ 13 Oper
  a Companies (Transamerica Redwood Park)
 DTSTART;TZID=America/Los_Angeles:20260920T170000
 DTEND;TZID=America/Los_Angeles:20260921T170000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260920-sfsfreeoperadayoutdoorco
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-opera-day-outdoor-concert-13-
@@ -148,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Stripe Developer Meetup San Francisco September 2026
 DTSTART:20260923T010000Z
 DTEND:20260923T030000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:evt-fe2QBzTFxeC9pxO
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/ntusn7f5\nLocation: Stripe\, 354 Oyster Point Bl
@@ -162,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Temples
 DTSTART:20260923T030000Z
 DTEND:20260923T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:Z7r9jZ1A7x3vp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp\nVenue: The C
@@ -175,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN SAN JOSE
 DTSTART:20260924T023000Z
 DTEND:20260924T043000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_1mWZNyw
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pure
@@ -211,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Temples
 DTSTART:20260924T030000Z
 DTEND:20260924T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:Z7r9jZ1A7x3v9
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9\nVenue: The C
@@ -224,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Return Of The Carnival Of Sins: Mötley Crüe
 DTSTART:20260925T013000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZbUD3X2kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-return-of-the-carnival-of-mou
@@ -240,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Revocation\, Defeated Sanity\, Fuming Mouth\, Weeping
 DTSTART:20260926T010000Z
 DTEND:20260926T030000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1Af0o4K
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/revocation-defeated-sanity-wee
@@ -257,7 +221,7 @@ SUMMARY:[Bay/Free] Free Ferry Rides: SF Bay Ferry “Transit Trivia” Nig
  ht Aboard Oakland Ferry
 DTSTART;TZID=America/Los_Angeles:20260925T181500
 DTEND;TZID=America/Los_Angeles:20260925T193000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260925-freeferryridessfbayferry
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-
@@ -284,10 +248,47 @@ URL:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-trivia-n
  ight-aboard-oakland-ferry/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Moe's Alley Presents: Tania Cassette w/ HOLY WATER + DJ Arch
+ ive 65
+DTSTART:20260926T040000Z
+DTEND:20260926T060000Z
+DTSTAMP:20260920T103435Z
+UID:rZ7HnEZ1AfJ8qK
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-tania-cass
+ ette-moes-alley-tickets/14990753\nVenue: Moe's Alley\nLocation: 1535 Comme
+ rcial Way\, Santa Cruz\, CA\nPrice: $25\nGenres: Music\, Alternative\, Got
+ h\, Post-Punk\nCategories: edm\nSource: ticketmaster/music\n\nMoe's Alley 
+ presents Tania Cassette\, the voice of Glass Spells supporting the release
+  of her forthcoming LP "The Death of Me"! Special guest HOLY WATER opens t
+ he show plus DJ Archive 65. Friday\, September 25\, 2026 Doors: 8pm / Show
+ : 9pm $20 in advance / $25 day of the show 21+ * No Refunds | All sales ar
+ e final * Avoid scammers! Only purchase tickets from moesalley.com or tick
+ etweb.com * Tickets requested by email will be delivered 3 days prior to t
+ he event * Will Call tickets will be available at the door on the day of t
+ he event ==== TANIA CASSETTE Tania Cassette is a synthpop and dark pop art
+ ist with an 80s glow and a modern dance heartbeat\, built on hooks that la
+ nd fast and linger long into the night. Known as the voice of Glass Spells
+ \, she emerged into her solo era with singles \, "rdquo" -> The Flame" and
+  \, "rdquo" -> Por Tu Amor" leading into her debut album The Death of Me\,
+  out September 4th. Shimmering\, dancefloor ready\, and heavy with yearnin
+ g\, the record moves through passion and rebirth in a world of nostalgic t
+ enderness and dark glamour. HOLY WATER Jacob came up in the Punk / Hardcor
+ e scene in Northern California. Jacob's band LONELY KINGS released 4 Full 
+ length Records for FEARLESS RECORDS. Lonely Kings Extensively toured USA /
+  EUROPE / UK with bands like AT THE DRIVE IN\, HOT WATER MUSIC\, THE MISFI
+ TS\, AFI etc. HOLY WATER was established in 2018 after 12 years doing DJ g
+ igs playing Indie Dance\, Tech House\, Industrial\, and Post Punk. HOLY WA
+ TER is a combination of J
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-tania-cassette-moe
+ s-alley-tickets/14990753
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -304,7 +305,7 @@ SUMMARY:[Bay/Free] Free Nob Hill Outdoor Movie Night “The Sound of Music
  ” + Free Popcorn (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260926-freenobhilloutdoormovien
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-sound-music-f
@@ -331,7 +332,7 @@ SUMMARY:[Free] SF’s “Upper Noe NeighborFest” Free Pizza\, Lemonade\,
   Popcorn + Gelato (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260926-sfsuppernoeneighborfestf
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/sfs-upper-noe-neighborfest-free-pizza-
@@ -365,7 +366,7 @@ SUMMARY:[EDM] Lionel Richie and Earth\, Wind & Fire - Sing a Song All Nigh
  t Long
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_d2ADlKy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire
@@ -382,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -406,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Cristian Castro: Nada Solo Exitos Tour 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_7iWzLEh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
@@ -423,7 +424,7 @@ SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -457,7 +458,7 @@ SUMMARY:[Free] Warfield Commons Grand Opening 2026: Free Arts Celebration
  (Downtown SF)
 DTSTART;TZID=America/Los_Angeles:20260927T190000
 DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20260927-warfieldcommonsgrandopen
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/warfield-commons-grand-opening-2026-fr
@@ -490,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -515,7 +516,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -542,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -559,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -595,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -620,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -648,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -672,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -691,7 +692,7 @@ SUMMARY:[Bay] SF’s “Drunk Theatre” Halloween Special: Nightmare on V
  alencia St. (Oct. 3)
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T210000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20261003-sfsdrunktheatrehalloween
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/sf-drunk-theatre-halloween-special-nig
@@ -722,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -738,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -762,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -783,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -796,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -811,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -833,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -852,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -888,7 +889,7 @@ SUMMARY:[Free] Lunada’s “New Moon Fest” 2026: 25th Anniversary Lit +
   Poetry Night (Mission)
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T190000
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:funcheap-20261010-lunadasnewmoonfest202625
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/lunadas-moon-fest-2026-25th-anniversar
@@ -919,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -937,7 +938,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] 2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -961,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -985,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -1005,10 +1006,32 @@ URL:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-san-fran
  cisco-california-10-15-2026/event/1C00646B0F53BAEF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] World Famous Pets
+DTSTART:20261016T030000Z
+DTEND:20261016T050000Z
+DTSTAMP:20260920T103435Z
+UID:rZ7HnEZ1AfF08f
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
+ lub-tickets/14224414\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Ave
+ nue\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Rock\nCategories: c
+ oncert\, free\nSource: ticketmaster/music\n\n21+ ONLY. Please note - there
+  is a delivery delay set for 2 weeks prior to show. This event is 21 and o
+ ver. Any ticket holder unable to present valid identification indicating t
+ hat they are at least 21 years of age will not be admitted to this event\,
+  and will not be eligible for a refund. Another Planet Entertainment is co
+ mmitted to producing safe events. Please review our most up-to-date COVID-
+ 19 policy requirements for entry at https://apeconcerts.com/health-safety 
+ * Policy is subject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tick
+ ets/14224414
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -1027,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -1051,7 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -1073,7 +1096,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260920T031310Z
+DTSTAMP:20260920T103435Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
