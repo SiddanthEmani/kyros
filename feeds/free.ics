@@ -9,7 +9,7 @@ SUMMARY:Free Ferry Rides: SF Bay Ferry “Transit Trivia” Night Aboard O
  akland Ferry
 DTSTART;TZID=America/Los_Angeles:20260925T181500
 DTEND;TZID=America/Los_Angeles:20260925T193000
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:funcheap-20260925-freeferryridessfbayferry
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-
@@ -40,7 +40,7 @@ SUMMARY:Free Nob Hill Outdoor Movie Night “The Sound of Music” + Free
  Popcorn (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:funcheap-20260926-freenobhilloutdoormovien
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-sound-music-f
@@ -67,7 +67,7 @@ SUMMARY:SF’s “Upper Noe NeighborFest” Free Pizza\, Lemonade\, Popcor
  n + Gelato (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:funcheap-20260926-sfsuppernoeneighborfestf
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/sfs-upper-noe-neighborfest-free-pizza-
@@ -101,7 +101,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -135,7 +135,7 @@ SUMMARY:Warfield Commons Grand Opening 2026: Free Arts Celebration (Downto
  wn SF)
 DTSTART;TZID=America/Los_Angeles:20260927T190000
 DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:funcheap-20260927-warfieldcommonsgrandopen
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/warfield-commons-grand-opening-2026-fr
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -276,7 +276,7 @@ SUMMARY:Lunada’s “New Moon Fest” 2026: 25th Anniversary Lit + Poetry
   Night (Mission)
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T190000
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:funcheap-20261010-lunadasnewmoonfest202625
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/lunadas-moon-fest-2026-25th-anniversar
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:World Famous Pets
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1AfF08f
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Lost Kings
 DTSTART:20261016T040000Z
 DTEND:20261016T060000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1AfayFf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/lost-kings-the-independent-tic
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260921T174926Z
+DTSTAMP:20260921T213952Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
