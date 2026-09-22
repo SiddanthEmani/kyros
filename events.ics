@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Stripe Developer Meetup San Francisco September 2026
 DTSTART:20260923T010000Z
 DTEND:20260923T030000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:evt-fe2QBzTFxeC9pxO
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/ntusn7f5\nLocation: Stripe\, 354 Oyster Point Bl
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Codex Community Meetup - San Francisco
 DTSTART:20260923T010000Z
 DTEND:20260923T030000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:evt-JyKG7U4110cFMjH
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/5cewfkx1\nLocation: San Francisco\, CA\nHost: Co
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Temples
 DTSTART:20260923T030000Z
 DTEND:20260923T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:Z7r9jZ1A7x3vp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp\nVenue: The C
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN SAN JOSE
 DTSTART:20260924T023000Z
 DTEND:20260924T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_1mWZNyw
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pure
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Temples
 DTSTART:20260924T030000Z
 DTEND:20260924T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:Z7r9jZ1A7x3v9
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9\nVenue: The C
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Return Of The Carnival Of Sins: Mötley Crüe
 DTSTART:20260925T013000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZbUD3X2kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-return-of-the-carnival-of-mou
@@ -109,42 +109,11 @@ URL:https://www.ticketmaster.com/the-return-of-the-carnival-of-mountain-vi
  ew-california-09-24-2026/event/1C00636ED2F8F19C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Free Ferry Rides: SF Bay Ferry “Transit Trivia” Nig
- ht Aboard Oakland Ferry
-DTSTART;TZID=America/Los_Angeles:20260925T181500
-DTEND;TZID=America/Los_Angeles:20260925T193000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20260925-freeferryridessfbayferry
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-
- trivia-night-aboard-oakland-ferry/\nLocation: san francisco\nPrice: Free\n
- Categories: community\, free\nSource: funcheap/san-francisco\n\nYoung Prof
- essionals in Transportation hosts a Transit Month trivia night and social 
- mixer aboard the San Francisco Bay Ferry. Meet at Gate G at the SF Ferry T
- erminal for the ride to Jack London Square in Oakland and return to San Fr
- ancisco. Attendees may join either leg of the trip\, and the first 25 RSVP
- s receive vouchers for the ride to Oakland. Original Event Description: Ha
- ppy Transit Month! ⛴️🚢🛶🚊🚉🚂 In collaboration with the Sa
- n Francisco Bay Ferry\, we are hosting a trivia night and social mixer on 
- board the Ferry from the San Francisco Ferry Terminal to Jack London Squar
- e in Oakland. We will plan to meet at 6:15 pm to catch the ferry to Oaklan
- d\, and will stay on the ferry to return to San Francisco by 7:30 pm. RSVP
-  at the link in bio! First 25 RSVPs get vouchers covering the ride to Oakl
- and. If you can’t stay with us the whole time\, you are welcome to join 
- during either leg of the trip. 🗓️ WHEN: Friday September 25\, 2026\, 
- 6:15 pm – 7:30 pm ⛴️ Meet at: SF Ferry Terminal Gate G Hope to see y
- ou all there! RSVP here or at the link in bio: https://yptransportation.ap
- p.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F58468
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-ferry-rides-sf-bay-ferry-transit-trivia-n
- ight-aboard-oakland-ferry/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Moe's Alley Presents: Tania Cassette w/ HOLY WATER + DJ Arch
  ive 65
 DTSTART:20260926T040000Z
 DTEND:20260926T060000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfJ8qK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-tania-cass
@@ -177,10 +146,150 @@ URL:https://www.ticketweb.com/event/moes-alley-presents-tania-cassette-moe
  s-alley-tickets/14990753
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM/Free] Free 2026 Underground House + Tech House Night (SoMa)
+DTSTART;TZID=America/Los_Angeles:20260925T210000
+DTEND;TZID=America/Los_Angeles:20260926T020000
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260925-free2026undergroundhouse
+CATEGORIES:edm,free
+DESCRIPTION:https://sf.funcheap.com/free-2026-underground-house-tech-house
+ -night-soma/\nLocation: san francisco\nPrice: Free\nCategories: edm\, free
+ \nSource: funcheap/san-francisco\n\nFREE: The Velvet Vault – Underground
+  House & Tech House Night (SF) Funcheap Description Get ready for a FREE u
+ nderground House & Tech House night in San Francisco. FUSE presents The Ve
+ lvet Vault at Question Mark Tavern — a late-night experience featuring c
+ urated sounds\, dark & sexy vibes\, premium drinks\, food\, and plenty of 
+ room to settle into the Friday night energy. The party starts at 9 PM and 
+ goes until late \, with the kitchen staying open until 2 AM . Best of all?
+  There’s no cover. The Velvet Vault Friday\, September 25\, 2026 ⏰ 9 P
+ M Until Late Question Mark Tavern 312 Harriet St.\, San Francisco House & 
+ Tech House FREE / No Cover 21+ Extras: Kitchen open until 2 AM Full bar & 
+ premium libations Free parking in the parking lot across the street Come f
+ or the underground sounds and stay for the late-night vibes.
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-2026-underground-house-tech-house-night-s
+ oma/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Free] Free “DollyCon” Dolly Tribute Night + Costume Contest (
+ Crockett)
+DTSTART;TZID=America/Los_Angeles:20260925T230000
+DTEND;TZID=America/Los_Angeles:20260926T010000
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260925-freedollycondollytribute
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/free-dollycon-dolly-tribute-night-cost
+ ume-contest-crockett/\nLocation: san francisco\nPrice: Free\nCategories: f
+ ree\nSource: funcheap/san-francisco\n\nSMALL TOWN BIG HAIR. From Nashville
+ \, New York to San Francisco\, communities across America are marking 9/25
+  – a fitting nod to the 1980’s movie “9 to 5\,” with commemoration
+ s of Dolly Parton’s life and legacy. Crockett is joining the celebration
+  and turning its monthl y Friday evening event\, Night Trip – into – D
+ OLLYCON – a free\, joyful tribute to Dolly Parton’s life\, music\, mov
+ ies\, style and spirit. Pomona Street businesses will stay open late with 
+ vendor pop-ups\, music\, and surprises. Guests are encouraged to come dres
+ sed as Dolly or someone from Dolly World . Best Dressed wins a pair of cus
+ tomized one/one coveralls provided by Monarch Store. For one September nig
+ ht\, this historic small town under the bridge becomes a love letter to Do
+ lly . DOLLYCON — Friday\, September 25 | 6–11 PM Pomona Street @ 1st &
+  2nd | Crockett\, CA 94525 | Free
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-dollycon-dolly-tribute-night-costume-cont
+ est-crockett/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay] Bay Area 48 Hour Film Project 2026 Premiere Screenings and A
+ wards
+DTSTART;TZID=America/Los_Angeles:20260926T120000
+DTEND;TZID=America/Los_Angeles:20260926T143000
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260926-bayarea48hourfilmproject
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/bay-area-48-hour-film-project-2026-pre
+ miere-screenings-awards/\nVenue: Sports Basement Presidio — Creamery Roo
+ m Physical Address: 610 Old Mason Street\nCategories: community\nSource: f
+ uncheap/san-francisco\n\nJoin the Bay Area filmmaking community for the 20
+ 26 Bay Area 48 Hour Film Project Premiere Screenings & Awards at Sports Ba
+ sement Presidio. See original short films created by Bay Area filmmaking t
+ eams in just 48 hours\, then stick around as we celebrate the filmmakers a
+ nd announce this year’s award winners. Saturday\, September 26\, 2026 12
+ :00 PM — Screening Group A 2:30 PM — Screening Group B 4:30 PM — Awa
+ rds Ceremony SCREENING TICKETS General Admission • One Screening — $18
+  • Both Screenings — $30 Students / Seniors / Veterans • One Screeni
+ ng — $14 • Both Screenings — $25 Groups of 10 or more • One Screen
+ ing — $14 per person • Both Screenings — $25 per person AWARDS CEREM
+ ONY The 4:30 PM Awards Ceremony is free and open to the public. Advance re
+ gistration is encouraged due to limited seating. LOCATION Sports Basement 
+ Presidio — Creamery Room Physical Address: 610 Old Mason Street San Fran
+ cisco\, CA 94129 Sports Basement Web Address: https://www.sportsbasement.c
+ om/blogs/stores/san-francisco-presidio Come see what Bay Area filmmakers c
+ an create when they have only 48 hours to write\, shoot\, edit\, and deliv
+ er a film.
+LOCATION:Sports Basement Presidio — Creamery Room Physical Address: 610 
+ Old Mason Street
+URL:https://sf.funcheap.com/bay-area-48-hour-film-project-2026-premiere-sc
+ reenings-awards/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay/Free] Free Community Forum on Crocker Amazon Park’s Future 
+ (Excelsior)
+DTSTART;TZID=America/Los_Angeles:20260926T160000
+DTEND;TZID=America/Los_Angeles:20260926T180000
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260926-freecommunityforumoncroc
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-community-forum-crocker-amazon-pa
+ rks-future-excelsior/\nLocation: san francisco\nPrice: Free\nCategories: c
+ ommunity\, free\nSource: funcheap/san-francisco\n\nKeeping Crocker Real! W
+ hat will you miss about Crocker Amazon Park? Poder Youth and Keep Crocker 
+ Real present a photo exhibit and discussion of the park and what the city 
+ has planned for it. An alternative plan will also be presented. Please joi
+ n us in imagining what the park could be. Sep 26\, 2026 2-4 pm Excelsior B
+ ranch Library 4400 Mission St. 415-355-2868 San Francisco Public Library K
+ eeping Crocker Real! What will you miss about Crocker Amazon Park? Poder Y
+ outh and Keep Crocker Real present a photo exhibit and discussion of the p
+ ark and what the city has planned for it. An alternative plan will also be
+  presented. Please join us in imagining what the park could be. October 4t
+ h\, 2026 2-4 pm Visitacion Valley Library 201 Leland Ave 415-355-2848 San 
+ Francisco Public Library
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-community-forum-crocker-amazon-parks-futu
+ re-excelsior/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay] We Will Not Be Silenced: San Francisco Shakespeare Festival
+DTSTART;TZID=America/Los_Angeles:20260926T160000
+DTEND;TZID=America/Los_Angeles:20260927T140000
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260926-wewillnotbesilencedsanfr
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/silenced-san-francisco-shakespeare-fes
+ tival/\nLocation: san francisco\nCategories: community\nSource: funcheap/s
+ an-francisco\n\nAs our season of Empire concludes\, lets join together in 
+ solidarity to dance\, sing\, and declare that the arts and creative freedo
+ m will not be silenced! Join San Francisco Shakespeare Festival on Saturda
+ y\, September 26 for an afternoon of Antony + Cleopatra\, followed by a Ne
+ w Orleans-style procession down the Embarcadero. Make a full day of it or 
+ join us for the procession at 4pm. Make a sign. See the play. Take it to t
+ he streets. ____ 12–2 PM | Sign Making Start at the Free Shakespeare in 
+ the Park stage in Sue Bierman Park and make your own sign. We’ll provide
+  the supplies! 2–3:45 PM | Antony & Cleopatra Stay for the Free Shakespe
+ are in the Park performance of “Antony + Cleopatra.” 4–5 PM | Proces
+ sion After the performance\, join a second line procession led by Jazz Maf
+ ia with Cleopatra in the lead. This will be a short\, accessible processio
+ n along the Embarcadero\, culminating at the Ferry Building. Come as you a
+ re! No special clothing or supplies are required. The procession is free a
+ nd open to anyone who wants to participate. Can’t make the performance? 
+ You can still join us for the procession. Just meet us at the Free Shakesp
+ eare in the Park stage in Sue Bierman Park around 4 PM
+LOCATION:san francisco
+URL:https://sf.funcheap.com/silenced-san-francisco-shakespeare-festival/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -193,72 +302,39 @@ URL:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mountain-vi
  ew-california-09-26-2026/event/1C0064BBE3BD5723
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Free Nob Hill Outdoor Movie Night “The Sound of Music
- ” + Free Popcorn (2026)
+SUMMARY:[Bay] Treasure Island Museum Annual Benefit Swing Dance
 DTSTART;TZID=America/Los_Angeles:20260926T190000
-DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20260926-freenobhilloutdoormovien
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-outdoor-movie-night-sound-music-f
- ree-popcorn-nob-hill/\nLocation: san francisco\nPrice: Free\nCategories: c
- ommunity\, free\nSource: funcheap/san-francisco\n\nHuntington Park hosts i
- ts annual outdoor movie night with a screening of the award-winning musica
- l The Sound of Music. The public event begins at 7 p.m.\; attendees can br
- ing blankets\, chairs\, and snacks\, and complimentary popcorn will be ava
- ilable. Original Event Description: _This month\, join friends and neighbo
- rs for our annual outdoor movie night at Huntington Park\, featuring award
- -winning musical The Sound of Music! Open to the public\, come on up with 
- your own picnic blankets and chairs and enjoy complimentary popcorn—feel
-  free to bring your own favorite snacks too. We recommend arriving early t
- o grab the best spots! Movie Night in the Park 🎥: The Sound of Music 
- 📅 Saturday\, September 26\, film starts at 7 p.m. 📍 Huntington Park\
- , between Taylor Street and California Street #NobHill #NobHillSF #NobHill
- SanFrancisco #SanFrancisco_
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-outdoor-movie-night-sound-music-free-popc
- orn-nob-hill/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Free] SF’s “Upper Noe NeighborFest” Free Pizza\, Lemonade\,
-  Popcorn + Gelato (2026)
-DTSTART;TZID=America/Los_Angeles:20260926T190000
-DTEND;TZID=America/Los_Angeles:20260926T210000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20260926-sfsuppernoeneighborfestf
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/sfs-upper-noe-neighborfest-free-pizza-
- lemonade-popcorn-gelato-2026/\nVenue: Greenlight\, SF Public Space Collect
- ive and Contina Impact. Upper Noe NeighborFes\nPrice: Free\nCategories: fr
- ee\nSource: funcheap/san-francisco\n\nUpper Noe NeighborFest is a free Goo
- d Neighbor Week community gathering at Upper Noe Rec Center featuring musi
- c by the Adrian West Band\, a MoBu Dance Studio performance\, activity boo
- ths\, archery\, volleyball\, games\, arts and crafts\, face painting\, and
-  KidsZone activities. Free refreshments include popcorn\, lemonade\, pizza
- \, gelato\, cupcakes\, and more. Original Event Description: _EVERYBODY IS
-  WELCOME AT UPPER NOE NEIGHBORFEST featuring the ADRIAN WEST BAND So\, com
- e celebrate Good Neighbor Week with us at Upper Noe Rec Center on Saturday
- \, September 26 from 11 to 2. The Adrian West Band\, a big hit at UN Block
-  Party 2024\, return to provide upbeat tunes to delight everyone. MoBu Dan
- ce Studio performs at 11:45. Esteemed civic leaders will be there too. Rec
-  & Park will have special activities like safe & fun archery\, volleyball 
- and games for all ages\, while kids can also enjoy arts & crafts with Aven
- turas\, face painting by Amanda\, and fun activities in the KidsZone. Free
-  refreshments include popcorn\, lemonade\, pizza\, La Copa Loca Gelato\, D
- elights by Lisa cupcakes\, and more. Dozens of local merchants\, schools\,
-  organizations and institutions will have booths with info\, activities an
- d treats.
-LOCATION:Greenlight\, SF Public Space Collective and Contina Impact. Upper
-  Noe NeighborFes
-URL:https://sf.funcheap.com/sfs-upper-noe-neighborfest-free-pizza-lemonade
- -popcorn-gelato-2026/
+DTEND;TZID=America/Los_Angeles:20260926T220000
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260926-treasureislandmuseumannu
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/treasure-island-museum-annual-benefit-
+ swing-dance/\nVenue: Sep 26\, 2026\, 7:00 PM – 10:00 PM Treasure Island 
+ Museum\, 39 Treasure Island Rd\,\nCategories: community\nSource: funcheap/
+ san-francisco\n\nTime & Location Sep 26\, 2026\, 7:00 PM – 10:00 PM Trea
+ sure Island Museum\, 39 Treasure Island Rd\, San Francisco\, CA 94130\, US
+ A Recalling the golden age of luxurious air travel\, this year’s benefit
+  will feature live music by the Nick Rossi Swing Six\, performances by The
+  Decobelles\, Gold Bar Distillery Cocktails\, as well as a one-night-only 
+ exhibition of rarely-seen artifacts from our Pan American World Airways co
+ llection. Vintage attire admired but not required\, with prizes for authen
+ ticity and creativity. Thanks to the generosity of Treasure Island Communi
+ ty Development\, you will be able to take the Treasure Island Ferry both t
+ o and from the island on the night of the dance. Ferry service will be ext
+ ended on Saturday\, September 26 to return guests to the mainland\, under 
+ the light of a full moon\, at the end of the evening. “Early Bird” tic
+ kets are available now at a significant discount.
+LOCATION:Sep 26\, 2026\, 7:00 PM – 10:00 PM Treasure Island Museum\, 39 
+ Treasure Island Rd\,
+URL:https://sf.funcheap.com/treasure-island-museum-annual-benefit-swing-da
+ nce/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[EDM] Lionel Richie and Earth\, Wind & Fire - Sing a Song All Nigh
  t Long
 DTSTART:20260927T023000Z
 DTEND:20260927T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_d2ADlKy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire
@@ -275,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -299,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Cristian Castro: Nada Solo Exitos Tour 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_7iWzLEh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
@@ -316,7 +392,7 @@ SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -346,44 +422,35 @@ URL:https://sf.funcheap.com/randall-museum-75th-anniversary-free-sciencena
  tureart-festival-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Free] Warfield Commons Grand Opening 2026: Free Arts Celebration 
- (Downtown SF)
+SUMMARY:[Bay] Musical Cafe’s Songs from New Musicals
 DTSTART;TZID=America/Los_Angeles:20260927T190000
 DTEND;TZID=America/Los_Angeles:20260927T210000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20260927-warfieldcommonsgrandopen
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/warfield-commons-grand-opening-2026-fr
- ee-arts-celebration-downtown-sf/\nVenue: it all started. Join DVAN on Sund
- ay\, September 27 for the Warfield Commons Grand\nPrice: Free\nCategories:
-  free\nSource: funcheap/san-francisco\n\nWarfield Commons celebrates its g
- rand opening in downtown San Francisco with a ribbon-cutting ceremony\, mu
- sic performances\, art activations\, local food vendors\, building tours\,
-  and activities. Third-floor programming includes storytime\, poetry readi
- ngs\, office hours with Diasporic Vietnamese Artists Network staff\, child
- ren’s puppet shows\, and Well-Crafted activities. Third Floor Schedule 1
- 2:30–4:30 PM – Well-Crafted Activities + Office Hours with DVAN Staff 
- 1:00 PM – Tito Ramon’s Pop-Up Puppet Show 1:15 PM – DVAN Storytime w
- ith Minnie Phan\, Thien Pham & Thi Bui 2:00 PM – Music performance by Th
- e OSADA 3 3:00 PM – Tito Ramon’s Pop-Up Puppet Show 3:15 PM – DVAN P
- oetry Reading with Carolyn Ho\, Jean-Baptiste Phou\, Trinh Le\, Danny Thie
- n Le & Forrest Nguyen 4:00 PM – Music performance by Tori Roze and the H
- ot Mess Original Event Description: _DVAN has found a new home at @warfiel
- dcommons in the heart of downtown San Francisco! 🏠✨ We are proud to b
- e part of this vibrant hub for arts and media — and put down roots in th
- e city where it all started. Join DVAN on Sunday\, September 27 for the Wa
- rfield Commons Grand Opening hosted by @castsf\, @kalwpublicmedia\, @tlcbd
- \, and @marketstreetarts. Thi
-LOCATION:it all started. Join DVAN on Sunday\, September 27 for the Warfie
- ld Commons Grand
-URL:https://sf.funcheap.com/warfield-commons-grand-opening-2026-free-arts-
- celebration-downtown-sf/
+DTSTAMP:20260922T161202Z
+UID:funcheap-20260927-musicalcafessongsfromnew
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/musical-cafes-songs-musicals/\nVenue: 
+ is intimate. Discount Code: MUSICAL Musical Cafe is a program of Play Cafe
+ \, a no\nCategories: community\nSource: funcheap/san-francisco\n\nFeinstei
+ n’s at the Nikko in San Francisco is proud to present Musical Cafe’s S
+ ongs from New Musicals\, created by Northern California writers and compos
+ ers. September 27 at 7PM. Featuring the following composers and lyricists:
+  The Kilbanes\, Don Seaver\, Ann Lucena\, Sean P. Breen\, Brian Belding\, 
+ Natalie Brice\, Susan Rabin\, And Patrick Morehead. For more information a
+ nd tickets: https://www.playcafe.org/performances Get your tickets soon as
+  the venue is intimate. Discount Code: MUSICAL Musical Cafe is a program o
+ f Play Cafe\, a nonprofit organization whose mission is to support the cre
+ ation and development of new works by San Francisco Bay Area playwrights a
+ nd composers. It is partially funded by grants from City of Berkeley Civic
+  Arts Grant and Alameda County Arts Commission ARTSFUND.
+LOCATION:is intimate. Discount Code: MUSICAL Musical Cafe is a program of 
+ Play Cafe\, a no
+URL:https://sf.funcheap.com/musical-cafes-songs-musicals/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -408,7 +475,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -435,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -452,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -488,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -513,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -541,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -565,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -583,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -599,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -623,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -644,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -657,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -672,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -694,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -713,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -745,74 +812,10 @@ URL:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-nord-tic
  kets/14969533
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Free] Lunada’s “New Moon Fest” 2026: 25th Anniversary Lit +
-  Poetry Night (Mission)
-DTSTART;TZID=America/Los_Angeles:20261010T170000
-DTEND;TZID=America/Los_Angeles:20261010T190000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20261010-lunadasnewmoonfest202625
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/lunadas-moon-fest-2026-25th-anniversar
- y-lit-poetry-night-mission/\nLocation: san francisco\nPrice: Free\nCategor
- ies: free\nSource: funcheap/san-francisco\n\nGalería de la Raza’s Lunad
- a New Moon Fest marks the 25th anniversary of Lunada Literary Lounge and s
- erves as the final stop of Litquake’s ¡Poetry on la Veinti Cuatro! craw
- l. The free event features poetry and spoken-word performances\, musica\, 
- an open mic\, a DJ and local vendors at Studio 24 in the Mission. Original
-  Event Description: _🌌 🌒 Celebrate 25 years of literary magic under 
- the moon at Lunada New Moon Fest! Mark your calendars for our final conjur
- ing of the year happening on Saturday\, October 10th. Lunada’s last cele
- bration of the year will also be the final stop of ¡Poetry on la Veinti C
- uatro! for this year’s Litquake. Curated by Josiah Luis Alderete ¡Poetr
- y on la Veinti Cuatro! is a 24th Street poetry crawl celebrating three Mis
- sion reading series that have been integral in shaping this neighborhood
- ’s deep literary history: Poets in the Window at Medicine for Nightmares
- \, Pan Dulce Poets at La Reyna Bakery\, and La Lunada at Galería de la Ra
- za. Join us to cap off the day with even more performances curated by Norm
- an Zelaya\, a DJ\, and vendors. We hope to see you there! ⏰ Saturday\, O
- ctober 10\, 5 PM 📍Galería de la Raza Studio 24 2779 Folsom St. Ste. A 
- San Francisco\, CA 94110 #g
-LOCATION:san francisco
-URL:https://sf.funcheap.com/lunadas-moon-fest-2026-25th-anniversary-lit-po
- etry-night-mission/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Bay] SF’s “Drunk Theatre” Halloween Special: Nightmare on V
- alencia St. (Oct. 10)
-DTSTART;TZID=America/Los_Angeles:20261010T190000
-DTEND;TZID=America/Los_Angeles:20261010T210000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20261010-sfsdrunktheatrehalloween
-CATEGORIES:community
-DESCRIPTION:https://sf.funcheap.com/sf-drunk-theatre-halloween-special-nig
- htmare-on-valencia-st-oct-10/\nLocation: san francisco\nCategories: commun
- ity\nSource: funcheap/san-francisco\n\nA comedian takes five shots of whis
- key in a row and tries to perform an improvised play with sober comedians.
-  What could go wrong?! Drunk Theatre is the entirely improvised\, unpredic
- table\, and crazy comedy show that’ll kick your weekend into overdrive. 
- See what the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\, Thrillis
- t\, and TimeOut have all been talking about. Nightmare on Valencia St. is 
- our Halloween show! Drunk Theatre is partnering with a special effects mak
- eup artist (Dani Spinks of Agoreable Designs) to bring real monsters to th
- e stage with our drunk comedians. We’re bringing in guest comedians\, de
- cking them out in monster makeup\, and revealing them live to the cast and
-  audience at the same time—it’ll also be the first time they see thems
- elves! Drunk Theatre SF | Nightmare on Valencia St. Saturday Nights in Oct
- ober Eclectic Box\, 446 Valencia Street\, SF Buy Tickets – Starts at $23
- .18 adv / $25 door Line begins at 9:30pm\, Door opens at 9:45pm\, show sta
- rts at 10:00pm Limited ticket availability at the door. *The event is open
-  to all ages\, but the comedy may not be suitable for children. Drunk Thea
- tre 24-hour notice is required for cancelations. Late cancelations may be 
- transf
-LOCATION:san francisco
-URL:https://sf.funcheap.com/sf-drunk-theatre-halloween-special-nightmare-o
- n-valencia-st-oct-10/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -830,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] 2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -854,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -878,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -901,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] World Famous Pets
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfF08f
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
@@ -923,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Lost Kings
 DTSTART:20261016T040000Z
 DTEND:20261016T060000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1AfayFf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/lost-kings-the-independent-tic
@@ -939,10 +942,47 @@ URL:https://www.ticketweb.com/event/lost-kings-the-independent-tickets/142
  79214
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary To
+ ur
+DTSTART:20261017T033000Z
+DTEND:20261017T053000Z
+DTSTAMP:20260922T161202Z
+UID:rZ7HnEZ1AfPs7K
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
+ sh-american-hall-tickets/14971113\nVenue: Swedish American Hall\nLocation:
+  2174 Market St\, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\nCa
+ tegories: concert\, free\nSource: ticketmaster/music\n\nWhoever Allan Raym
+ an is\, hes made a hell of a body of work so far.The Toronto based artist 
+ has delivered one head-scratching\, hypnotic and heavenly project after an
+ other\, including Hotel Allan\, Roadhouse 01\, and the unforgettable CHRIS
+ TIAN.Along the way\, he generated over 250 million streams\, sold out tour
+ s in Europe\, USA and Canada\, and shined at festivals\, including Reading
+  & Leeds\, Bonnaroo\, Rifflandia and Lollapalooza\, and has collaborated w
+ ith the likes of Jessie Reyez\, Alex da Kid and James Vincent McMorrow.His
+  most recent album #1 Girl is a group of demos fictionally written and rec
+ orded by #1 Girl\, whom we first meet during the intro of The All Allan Ho
+ ur.Set in the year of 1994\, Allan writes the album from her perspective a
+ nd sings in her tone of voice to the best of his ability\, delivering us a
+  sonic departure of the familiar Allan Rayman weve come to know.-Tier Prio
+ rity Seating: Includes Premiere Seating in the First 4 Rows and an Exclusi
+ ve Allan Rayman Merch Item.General Admission: Unreserved Seating. First Co
+ me\, First Serve.-Presale Start: Wednesday\, June 10th at 10:00 AM Public 
+ On Sale: Friday\, June 12th at 10:00 AM For any event that is listed as 18
+  or 21 and over\, ANY ticket holder unable to present valid identification
+  indicating that they are of age will not be admitted to this event\, and 
+ will not be eligible for a refund. Any event listed as All Ages\, means 6 
+ years of age or older. ALL tickets are standing room only unless otherwise
+  specified. If you need s
+LOCATION:2174 Market St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-ameri
+ can-hall-tickets/14971113
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -958,56 +998,10 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay] SF’s “Drunk Theatre” Halloween Special: Nightmare on V
- alencia St. (Oct. 17)
-DTSTART;TZID=America/Los_Angeles:20261017T190000
-DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20261017-sfsdrunktheatrehalloween
-CATEGORIES:community
-DESCRIPTION:https://sf.funcheap.com/sf-drunk-theatre-halloween-special-nig
- htmare-on-valencia-st-oct-17/\nLocation: san francisco\nCategories: commun
- ity\nSource: funcheap/san-francisco\n\nA comedian takes five shots of whis
- key in a row and tries to perform an improvised play with sober comedians.
-  What could go wrong?! Drunk Theatre is the entirely improvised\, unpredic
- table\, and crazy comedy show that’ll kick your weekend into overdrive. 
- See what the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\, Thrillis
- t\, and TimeOut have all been talking about. Nightmare on Valencia St. is 
- our Halloween show! Drunk Theatre is partnering with a special effects mak
- eup artist (Dani Spinks of Agoreable Designs) to bring real monsters to th
- e stage with our drunk comedians. We’re bringing in guest comedians\, de
- cking them out in monster makeup\, and revealing them live to the cast and
-  audience at the same time—it’ll also be the first time they see thems
- elves! Drunk Theatre SF | Nightmare on Valencia St. Saturday Nights in Oct
- ober Eclectic Box\, 446 Valencia Street\, SF Buy Tickets – Starts at $23
- .18 adv / $25 door Line begins at 9:30pm\, Door opens at 9:45pm\, show sta
- rts at 10:00pm Limited ticket availability at the door. *The event is open
-  to all ages\, but the comedy may not be suitable for children. Drunk Thea
- tre 24-hour notice is required for cancelations. Late cancelations may be 
- transf
-LOCATION:san francisco
-URL:https://sf.funcheap.com/sf-drunk-theatre-halloween-special-nightmare-o
- n-valencia-st-oct-17/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Bay] San Francisco Photobook Fair w/ 40+ Publishers (Oct. 17-18)
-DTSTART;TZID=America/Los_Angeles:20261017T190000
-DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20260922T105407Z
-UID:funcheap-20261017-sanfranciscophotobookfai
-CATEGORIES:community
-DESCRIPTION:https://sf.funcheap.com/san-francisco-photobook-fair-w-40-publ
- ishers-oct-17-18/\nLocation: san francisco\nCategories: community\nSource:
-  funcheap/san-francisco
-LOCATION:san francisco
-URL:https://sf.funcheap.com/san-francisco-photobook-fair-w-40-publishers-o
- ct-17-18/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -1031,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -1053,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -1068,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20260922T105407Z
+DTSTAMP:20260922T161202Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
