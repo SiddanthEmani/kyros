@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 Underground House + Tech House Night (SoMa)
 DTSTART;TZID=America/Los_Angeles:20260925T210000
 DTEND;TZID=America/Los_Angeles:20260926T020000
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:funcheap-20260925-free2026undergroundhouse
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-underground-house-tech-house
@@ -34,7 +34,7 @@ SUMMARY:Free “DollyCon” Dolly Tribute Night + Costume Contest (Crocket
  t)
 DTSTART;TZID=America/Los_Angeles:20260925T230000
 DTEND;TZID=America/Los_Angeles:20260926T010000
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:funcheap-20260925-freedollycondollytribute
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-dollycon-dolly-tribute-night-cost
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Free Community Forum on Crocker Amazon Park’s Future (Excelsior)
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T180000
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:funcheap-20260926-freecommunityforumoncroc
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-community-forum-crocker-amazon-pa
@@ -82,11 +82,42 @@ URL:https://sf.funcheap.com/free-community-forum-crocker-amazon-parks-futu
  re-excelsior/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hayward’s Free 6-Hour Mariachi Festival + Lucha Libre (2026)
+DTSTART;TZID=America/Los_Angeles:20260926T180000
+DTEND;TZID=America/Los_Angeles:20260927T120000
+DTSTAMP:20260922T205008Z
+UID:funcheap-20260926-haywardsfree6hourmariach
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-
+ libre-2026/\nLocation: south bay\nPrice: Free\nCategories: community\, fre
+ e\nSource: funcheap/south-bay+funcheap/san-francisco\n\nHayward’s free\,
+  family-friendly mariachi festival returns to Southland Mall with mariachi
+  bands\, folklórico dancing\, Lucha Libre\, a mercado featuring local art
+ isans\, authentic Mexican cuisine\, and interactive cultural demonstration
+ s. The Mexican culture celebration draws more than 6\,000 attendees from a
+ cross the Bay Area. Original Event Description: _This is it\, Hayward! Sat
+ urday\, September 26 is the day. Head to Southland Mall from 12:00 to 6:00
+  pm for live mariachi music\, folklórico dancing\, Lucha Libre\, and auth
+ entic food\, all in one afternoon. It’s free\, it’s family-friendly\, 
+ and it’s one of the best ways to spend a Saturday in Hayward. 💃🏻 L
+ earn more at hayward.org/mariachi. #HaywardChamber #HaywardCA #HaywardMari
+ achiFestival September 26\, 2026 12:00 pm – 6:00 pm Southland Mall One S
+ outhland Mall\, Hayward\, CA 94545 A vibrant celebration of Mexican cultur
+ e\, our mariachi festival draws over 6\,000 attendees from across the San 
+ Francisco Bay Area\, offering businesses and partners a unique opportunity
+  to engage with a diverse audience. Renowned mariachi bands showcase the g
+ enre’s rich heritage through stunning regalia\, intricate instrumentatio
+ n\, and soulful vocals. Beyond electrifyi
+LOCATION:south bay
+URL:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-libre-20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival 
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -119,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -136,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -172,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -191,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -226,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:World Famous Pets
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1AfF08f
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
@@ -248,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Lost Kings
 DTSTART:20261016T040000Z
 DTEND:20261016T060000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1AfayFf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/lost-kings-the-independent-tic
@@ -264,46 +295,42 @@ URL:https://www.ticketweb.com/event/lost-kings-the-independent-tickets/142
  79214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
-DTSTART:20261017T033000Z
-DTEND:20261017T053000Z
-DTSTAMP:20260922T161202Z
-UID:rZ7HnEZ1AfPs7K
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
- sh-american-hall-tickets/14971113\nVenue: Swedish American Hall\nLocation:
-  2174 Market St\, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\nCa
- tegories: concert\, free\nSource: ticketmaster/music\n\nWhoever Allan Raym
- an is\, hes made a hell of a body of work so far.The Toronto based artist 
- has delivered one head-scratching\, hypnotic and heavenly project after an
- other\, including Hotel Allan\, Roadhouse 01\, and the unforgettable CHRIS
- TIAN.Along the way\, he generated over 250 million streams\, sold out tour
- s in Europe\, USA and Canada\, and shined at festivals\, including Reading
-  & Leeds\, Bonnaroo\, Rifflandia and Lollapalooza\, and has collaborated w
- ith the likes of Jessie Reyez\, Alex da Kid and James Vincent McMorrow.His
-  most recent album #1 Girl is a group of demos fictionally written and rec
- orded by #1 Girl\, whom we first meet during the intro of The All Allan Ho
- ur.Set in the year of 1994\, Allan writes the album from her perspective a
- nd sings in her tone of voice to the best of his ability\, delivering us a
-  sonic departure of the familiar Allan Rayman weve come to know.-Tier Prio
- rity Seating: Includes Premiere Seating in the First 4 Rows and an Exclusi
- ve Allan Rayman Merch Item.General Admission: Unreserved Seating. First Co
- me\, First Serve.-Presale Start: Wednesday\, June 10th at 10:00 AM Public 
- On Sale: Friday\, June 12th at 10:00 AM For any event that is listed as 18
-  or 21 and over\, ANY ticket holder unable to present valid identification
-  indicating that they are of age will not be admitted to this event\, and 
- will not be eligible for a refund. Any event listed as All Ages\, means 6 
- years of age or older. ALL tickets are standing room only unless otherwise
-  specified. If you need s
-LOCATION:2174 Market St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-ameri
- can-hall-tickets/14971113
+SUMMARY:“Brava” 40th Anniversary Celebration Block Party 2026 (Mission
+ )
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20260922T205008Z
+UID:funcheap-20261017-brava40thanniversarycele
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/brava-40th-anniversary-celebration-blo
+ ck-party-2026mission/\nLocation: san francisco\nPrice: Free\nCategories: f
+ ree\nSource: funcheap/san-francisco\n\nBrava Theater Center hosts a free\,
+  family-friendly block party on 24th Street between Bryant and Hampshire c
+ elebrating 40 years of Brava!\, 30 years of community ownership\, and 100 
+ years of the historic theater. The event includes live performances\, film
+  screenings\, and art activations. Original Event Description: *We need yo
+ u! Calling volunteers 📣 Help us celebrate 40 years at Brava! by support
+ ing our free\, family-friendly community block party. We can’t do it wit
+ hout you! ♥️ All volunteers will receive a t-shirt! Click the link in 
+ our bio to sign up\, or visit brava.org/bravablockparty See you October 17
+ th! 🪩💃🏻🌟 #BravaTheater #BlockParty #Mission #SanFrancisco #Bra
+ va Brava! Block Party Saturday\, October 17\, 2026 11:00 AM 5:00 PM Brava 
+ Theater Center 2781 24th StreetSan Francisco\, CA\, 94110United States (ma
+ p) Google Calendar ICS Brava! Block Party Saturday\, October 17\, 2026 @11
+ AM-5PM 40 Years of Brava!\, 30 Years of Community Ownership and 100 Years 
+ of the Historic Theater 24th Street • Between Bryant and Hampshire A fre
+ e\, family-friendly celebration of art\, community\, and 40 years of Brava
+ ! Live performances • Film Screenings • Art Activations JOIN THE PARTY
+ ! BRAVA! BLOCK PARTY 40 Y
+LOCATION:san francisco
+URL:https://sf.funcheap.com/brava-40th-anniversary-celebration-block-party
+ -2026mission/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260922T161202Z
+DTSTAMP:20260922T205008Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
