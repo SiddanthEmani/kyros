@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:AI Applied in Cybersecurity Lightning Talks
 DTSTART:20260925T000000Z
 DTEND:20260925T030000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-qZobjBODNG7E1om
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/de7znk3m\nLocation: Nutanix\, 1740 Technology Dr
@@ -22,7 +22,7 @@ SUMMARY:SF Systems: Research to Practice\, from Inference Engines to Multi
  modal Coding
 DTSTART:20260925T003000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-alHu7PqqgGxOnCY
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/mzkxb97z\nLocation: 185 Berry St lobby 5 suite 1
@@ -37,7 +37,7 @@ SUMMARY:Agentic Finance\, Commerce & Payments @ Stanford GSB\, presented b
  y Verda Ventures
 DTSTART:20260925T010000Z
 DTEND:20260925T040000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-pETIiHDk4XVQvLJ
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/pjqtgcx3\nLocation: Stanford\, CA\nHost: Persona
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Women Who Love Tech/AI + Matcha!
 DTSTART:20260926T230000Z
 DTEND:20260927T010000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-9OmemFwPZ8yOk09
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/zewziyg2\nLocation: San Jose\, CA\nHost: Persona
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Free Open Workshop — Build Your Idea into an AI App
 DTSTART:20260927T013000Z
 DTEND:20260927T033000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-nKc17FpoZrl1MBC
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/41u2v3w8\nLocation: California Science And Techn
@@ -77,7 +77,7 @@ SUMMARY:AIC SF Chapter Team & Volunteer Get-Together (w/ The AI Collective
  )
 DTSTART:20261001T003000Z
 DTEND:20261001T023000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-huVuSpeCdR7qvmO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/aic-sf-team-gettogether\nLocation: San Francisco
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:OpenShell & NemoClaw: Meet the Builders
 DTSTART:20261009T003000Z
 DTEND:20261009T023000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-q1UgYvEyjPGScPP
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/q6v3ywku\nLocation: Courtyard by Marriott San Jo
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Open Lakehouse & AI Meetup
 DTSTART:20261009T010000Z
 DTEND:20261009T040000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-DygIOykEEheuPit
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/lenses-e3s2\nLocation: 355 Clementina St\, San F
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:AI Art Workshop: See the World Through Your Pet’s Eyes
 DTSTART:20261009T013000Z
 DTEND:20261009T033000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-BABr9GETqaSiinK
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/vqh1ro3g\nLocation: Gallery House\, 826 Santa Cr
@@ -133,7 +133,7 @@ SUMMARY:Alignment 2026 ｜Valley101 Annual Tech Summit - Live from the AI
  Frontier\, Uncut
 DTSTART:20261010T160000Z
 DTEND:20261012T010000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-EnbT7ip4RSA5gGY
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/alignment2026\nLocation: Plug and Play Tech Cent
@@ -147,12 +147,12 @@ BEGIN:VEVENT
 SUMMARY:Open Together: AI Builders Unite
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-Hi5xnKWbH9xR0q5
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/OpenTogether\nLocation: The Midway\, 900 Marin S
  t\, San Francisco\, CA 94124\, USA\nHost: Hugging Face\nCategories: ai\nSo
- urce: luma/san-francisco+luma/san-jose+luma/virtual
+ urce: luma/san-francisco+luma/san-jose
 LOCATION:The Midway\, 900 Marin St\, San Francisco\, CA 94124\, USA
 URL:https://lu.ma/OpenTogether
 END:VEVENT
@@ -160,12 +160,12 @@ BEGIN:VEVENT
 SUMMARY:Breaking Models AI Security
 DTSTART:20261018T213000Z
 DTEND:20261018T230000Z
-DTSTAMP:20260923T160120Z
+DTSTAMP:20260923T210134Z
 UID:evt-VqnOLsM1u5pFV7O
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/hy1mk3gu\nLocation: Hacker Dojo\, 855 Maude Ave\
  , Mountain View\, CA 94043\, USA\nHost: Personal\nCategories: ai\nSource: 
- luma/san-francisco+luma/san-jose+luma/virtual
+ luma/san-francisco+luma/san-jose
 LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
 URL:https://lu.ma/hy1mk3gu
 END:VEVENT
