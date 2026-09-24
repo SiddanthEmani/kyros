@@ -9,7 +9,7 @@ SUMMARY:SF Systems: Research to Practice\, from Inference Engines to Multi
  modal Coding
 DTSTART:20260925T003000Z
 DTEND:20260925T033000Z
-DTSTAMP:20260924T162704Z
+DTSTAMP:20260924T210553Z
 UID:evt-alHu7PqqgGxOnCY
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/mzkxb97z\nLocation: 185 Berry St lobby 5 suite 1
@@ -22,12 +22,26 @@ BEGIN:VEVENT
 SUMMARY:SF AI Takeover: Road to Basecamp
 DTSTART:20260925T013000Z
 DTEND:20260925T043000Z
-DTSTAMP:20260924T162704Z
+DTSTAMP:20260924T210553Z
 UID:evt-1rYiST8JvO4q6j6
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/sui-vf50\nLocation: San Francisco\, CA\nHost: Su
  i\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/sui-vf50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Agentic Law Firm: Fireside with Logan Brown
+DTSTART:20260926T020000Z
+DTEND:20260926T040000Z
+DTSTAMP:20260924T210553Z
+UID:evt-HPMBHIufnwRw8MB
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/8txehnls\nLocation: Entrepreneurs First\, 501 Fo
+ lsom St\, San Francisco\, CA 94105\, USA\nHost: Personal\nCategories: ai\n
+ Source: luma-html/san-francisco
+LOCATION:Entrepreneurs First\, 501 Folsom St\, San Francisco\, CA 94105\, 
+ USA
+URL:https://lu.ma/8txehnls
 END:VEVENT
 END:VCALENDAR
