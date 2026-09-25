@@ -5,36 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:SF Systems: Research to Practice\, from Inference Engines to Multi
- modal Coding
-DTSTART:20260925T003000Z
-DTEND:20260925T033000Z
-DTSTAMP:20260924T210553Z
-UID:evt-alHu7PqqgGxOnCY
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/mzkxb97z\nLocation: 185 Berry St lobby 5 suite 1
- 800\, San Francisco\, CA 94107\, USA\nHost: SF Systems Club\nCategories: a
- i\nSource: luma-html/san-francisco
-LOCATION:185 Berry St lobby 5 suite 1800\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/mzkxb97z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF AI Takeover: Road to Basecamp
-DTSTART:20260925T013000Z
-DTEND:20260925T043000Z
-DTSTAMP:20260924T210553Z
-UID:evt-1rYiST8JvO4q6j6
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/sui-vf50\nLocation: San Francisco\, CA\nHost: Su
- i\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/sui-vf50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Agentic Law Firm: Fireside with Logan Brown
 DTSTART:20260926T020000Z
 DTEND:20260926T040000Z
-DTSTAMP:20260924T210553Z
+DTSTAMP:20260925T031538Z
 UID:evt-HPMBHIufnwRw8MB
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/8txehnls\nLocation: Entrepreneurs First\, 501 Fo
@@ -43,5 +17,18 @@ DESCRIPTION:https://lu.ma/8txehnls\nLocation: Entrepreneurs First\, 501 Fo
 LOCATION:Entrepreneurs First\, 501 Folsom St\, San Francisco\, CA 94105\, 
  USA
 URL:https://lu.ma/8txehnls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside China's AI rush w/ Afra Wang
+DTSTART:20260926T230000Z
+DTEND:20260927T000000Z
+DTSTAMP:20260925T031538Z
+UID:evt-Ds4pLpnoDAvogOf
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/chinaAI\nLocation: tiat\, 151 Powell St\, San Fr
+ ancisco\, CA 94102\, USA\nHost: tiat (the intersection of art & technology
+ )\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:tiat\, 151 Powell St\, San Francisco\, CA 94102\, USA
+URL:https://lu.ma/chinaAI
 END:VEVENT
 END:VCALENDAR
