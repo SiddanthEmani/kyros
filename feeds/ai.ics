@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:The Agentic Law Firm: Fireside with Logan Brown
 DTSTART:20260926T020000Z
 DTEND:20260926T040000Z
-DTSTAMP:20260925T031538Z
+DTSTAMP:20260925T110332Z
 UID:evt-HPMBHIufnwRw8MB
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/8txehnls\nLocation: Entrepreneurs First\, 501 Fo
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Inside China's AI rush w/ Afra Wang
 DTSTART:20260926T230000Z
 DTEND:20260927T000000Z
-DTSTAMP:20260925T031538Z
+DTSTAMP:20260925T110332Z
 UID:evt-Ds4pLpnoDAvogOf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/chinaAI\nLocation: tiat\, 151 Powell St\, San Fr
@@ -30,5 +30,29 @@ DESCRIPTION:https://lu.ma/chinaAI\nLocation: tiat\, 151 Powell St\, San Fr
  )\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:tiat\, 151 Powell St\, San Francisco\, CA 94102\, USA
 URL:https://lu.ma/chinaAI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.
+DTSTART:20260927T170000Z
+DTEND:20260928T010000Z
+DTSTAMP:20260925T110332Z
+UID:evt-VfSExGP3FFCEYVh
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/vmqjw9hv\nLocation: Berkeley\, CA\nHost: GDG Sta
+ nford\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Berkeley\, CA
+URL:https://lu.ma/vmqjw9hv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grok Bot x Notion for Product Builders night (SF)
+DTSTART:20260930T000000Z
+DTEND:20260930T033000Z
+DTSTAMP:20260925T110332Z
+UID:evt-OiFkITxP5F6rX0n
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
+ nHost: SpaceXAI Community\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/grokbotproduct-sf
 END:VEVENT
 END:VCALENDAR
