@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Revocation\, Defeated Sanity\, Fuming Mouth\, Weeping
 DTSTART:20260926T010000Z
 DTEND:20260926T030000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1Af0o4K
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/revocation-defeated-sanity-wee
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] The Agentic Law Firm: Fireside with Logan Brown
 DTSTART:20260926T020000Z
 DTEND:20260926T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:evt-HPMBHIufnwRw8MB
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/8txehnls\nLocation: Entrepreneurs First\, 501 Fo
@@ -39,7 +39,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Tania Cassette w/ HOLY WATER + DJ Arch
  ive 65
 DTSTART:20260926T040000Z
 DTEND:20260926T060000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfJ8qK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-tania-cass
@@ -76,7 +76,7 @@ SUMMARY:[Bay/Free] Final Outdoor Free Yoga Class of 2026 in Golden Gate Pa
  rk
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T120000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-finaloutdoorfreeyogaclas
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/final-outdoor-free-yoga-class-2026-gol
@@ -107,7 +107,7 @@ SUMMARY:[Free] Free Round Trip Ferry Rides from SF to Treasure Island for
  “Off the Grid”
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-freeroundtripferryridesf
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-trip-ferry-rides-sf-ferry-bldg-tr
@@ -141,7 +141,7 @@ SUMMARY:[Free] Free 6\,000 Sqft “Shipwreck Cove” Playground Opening w/
   Pirates + Mermaids (SF’s Sunset Dunes)
 DTSTART;TZID=America/Los_Angeles:20260926T150000
 DTEND;TZID=America/Los_Angeles:20260926T151500
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-free6000sqftshipwreckcov
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-shipwreck-cove-playground-opening
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Read in the Park - South Bay 📚
 DTSTART:20260926T220000Z
 DTEND:20260927T003000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:evt-P1iyl6toxamKxpO
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/i5d2rze0\nLocation: Sunnyvale\, CA\nHost: Read i
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Inside China's AI rush w/ Afra Wang
 DTSTART:20260926T230000Z
 DTEND:20260927T000000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:evt-Ds4pLpnoDAvogOf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/chinaAI\nLocation: tiat\, 151 Powell St\, San Fr
@@ -199,29 +199,29 @@ SUMMARY:[Bay/Free] Hayward’s Free 6-Hour Mariachi Festival + Lucha Libre
   (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260927T120000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-haywardsfree6hourmariach
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-
  libre-2026/\nLocation: south bay\nPrice: Free\nCategories: community\, fre
- e\nSource: funcheap/south-bay+funcheap/san-francisco\n\nHayward’s free\,
-  family-friendly mariachi festival returns to Southland Mall with mariachi
-  bands\, folklórico dancing\, Lucha Libre\, a mercado featuring local art
- isans\, authentic Mexican cuisine\, and interactive cultural demonstration
- s. The Mexican culture celebration draws more than 6\,000 attendees from a
- cross the Bay Area. Original Event Description: _This is it\, Hayward! Sat
- urday\, September 26 is the day. Head to Southland Mall from 12:00 to 6:00
-  pm for live mariachi music\, folklórico dancing\, Lucha Libre\, and auth
- entic food\, all in one afternoon. It’s free\, it’s family-friendly\, 
- and it’s one of the best ways to spend a Saturday in Hayward. 💃🏻 L
- earn more at hayward.org/mariachi. #HaywardChamber #HaywardCA #HaywardMari
- achiFestival September 26\, 2026 12:00 pm – 6:00 pm Southland Mall One S
- outhland Mall\, Hayward\, CA 94545 A vibrant celebration of Mexican cultur
- e\, our mariachi festival draws over 6\,000 attendees from across the San 
- Francisco Bay Area\, offering businesses and partners a unique opportunity
-  to engage with a diverse audience. Renowned mariachi bands showcase the g
- enre’s rich heritage through stunning regalia\, intricate instrumentatio
- n\, and soulful vocals. Beyond electrifyi
+ e\nSource: funcheap/south-bay\n\nHayward’s free\, family-friendly mariac
+ hi festival returns to Southland Mall with mariachi bands\, folklórico da
+ ncing\, Lucha Libre\, a mercado featuring local artisans\, authentic Mexic
+ an cuisine\, and interactive cultural demonstrations. The Mexican culture 
+ celebration draws more than 6\,000 attendees from across the Bay Area. Ori
+ ginal Event Description: _This is it\, Hayward! Saturday\, September 26 is
+  the day. Head to Southland Mall from 12:00 to 6:00 pm for live mariachi m
+ usic\, folklórico dancing\, Lucha Libre\, and authentic food\, all in one
+  afternoon. It’s free\, it’s family-friendly\, and it’s one of the b
+ est ways to spend a Saturday in Hayward. 💃🏻 Learn more at hayward.or
+ g/mariachi. #HaywardChamber #HaywardCA #HaywardMariachiFestival September 
+ 26\, 2026 12:00 pm – 6:00 pm Southland Mall One Southland Mall\, Hayward
+ \, CA 94545 A vibrant celebration of Mexican culture\, our mariachi festiv
+ al draws over 6\,000 attendees from across the San Francisco Bay Area\, of
+ fering businesses and partners a unique opportunity to engage with a diver
+ se audience. Renowned mariachi bands showcase the genre’s rich heritage 
+ through stunning regalia\, intricate instrumentation\, and soulful vocals.
+  Beyond electrifyi
 LOCATION:south bay
 URL:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-libre-20
  26/
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Cristian Castro: Nada Solo Exitos Tour 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_7iWzLEh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] West 22nd
 DTSTART:20260927T040000Z
 DTEND:20260927T060000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1Af0bQK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/west-22nd-the-independent-tick
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.
 DTSTART:20260927T170000Z
 DTEND:20260928T010000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:evt-VfSExGP3FFCEYVh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/vmqjw9hv\nLocation: Berkeley\, CA\nHost: GDG Sta
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Game Market West: Fall 2026
 DTSTART:20260927T170000Z
 DTEND:20260927T220000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:evt-rei4Dr9qBvu1giN
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/6d5nmzxb\nLocation: Guildhouse\, 420 First St\, 
@@ -329,7 +329,7 @@ SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Grok Bot x Notion for Product Builders night (SF)
 DTSTART:20260930T000000Z
 DTEND:20260930T033000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:evt-OiFkITxP5F6rX0n
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
@@ -399,7 +399,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -615,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -640,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -664,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -713,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -736,7 +736,7 @@ SUMMARY:[Live/Free] Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sport
  s Basement (Bryant Street)
 DTSTART;TZID=America/Los_Angeles:20261010T103000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261010-fall2026artspanopenstudi
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-g
@@ -767,7 +767,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -783,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] 2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -825,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -849,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -872,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -888,42 +888,10 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Free] “Brava” 40th Anniversary Celebration Block Party 2026 (
- Mission)
-DTSTART;TZID=America/Los_Angeles:20261017T110000
-DTEND;TZID=America/Los_Angeles:20261017T170000
-DTSTAMP:20260925T110332Z
-UID:funcheap-20261017-brava40thanniversarycele
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/brava-40th-anniversary-celebration-blo
- ck-party-2026mission/\nLocation: san francisco\nPrice: Free\nCategories: f
- ree\nSource: funcheap/san-francisco\n\nBrava Theater Center hosts a free\,
-  family-friendly block party on 24th Street between Bryant and Hampshire c
- elebrating 40 years of Brava!\, 30 years of community ownership\, and 100 
- years of the historic theater. The event includes live performances\, film
-  screenings\, and art activations. Original Event Description: *We need yo
- u! Calling volunteers 📣 Help us celebrate 40 years at Brava! by support
- ing our free\, family-friendly community block party. We can’t do it wit
- hout you! ♥️ All volunteers will receive a t-shirt! Click the link in 
- our bio to sign up\, or visit brava.org/bravablockparty See you October 17
- th! 🪩💃🏻🌟 #BravaTheater #BlockParty #Mission #SanFrancisco #Bra
- va Brava! Block Party Saturday\, October 17\, 2026 11:00 AM 5:00 PM Brava 
- Theater Center 2781 24th StreetSan Francisco\, CA\, 94110United States (ma
- p) Google Calendar ICS Brava! Block Party Saturday\, October 17\, 2026 @11
- AM-5PM 40 Years of Brava!\, 30 Years of Community Ownership and 100 Years 
- of the Historic Theater 24th Street • Between Bryant and Hampshire A fre
- e\, family-friendly celebration of art\, community\, and 40 years of Brava
- ! Live performances • Film Screenings • Art Activations JOIN THE PARTY
- ! BRAVA! BLOCK PARTY 40 Y
-LOCATION:san francisco
-URL:https://sf.funcheap.com/brava-40th-anniversary-celebration-block-party
- -2026mission/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay/Free] Mission Bay Harvest Festival (Spark Social SF)
 DTSTART;TZID=America/Los_Angeles:20261017T160000
 DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261017-missionbayharvestfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/mission-bay-harvest-festival-spark-soc
@@ -953,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -977,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -999,7 +967,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -1015,7 +983,7 @@ SUMMARY:[Bay] “Back to the Future” Day Comedy Show w/ Claudia Wells (J
  ennifer Parker from the Film)
 DTSTART;TZID=America/Los_Angeles:20261021T190000
 DTEND;TZID=America/Los_Angeles:20261021T200000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261021-backtothefuturedaycomedy
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/future-day-comedy-show-claudia-wells-j
@@ -1046,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -1062,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -1078,7 +1046,7 @@ SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
  ival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -1112,7 +1080,7 @@ SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -1139,5 +1107,37 @@ LOCATION:. Through original and reproduction homes\, businesses\, and land
  marks\, History Pa
 URL:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayrides-tricko
  rtreating-history-park-san-jose/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay/Free] SF’s “Golden Hour” Filipino Night Market is Back 
+ for 2026 (SoMa)
+DTSTART;TZID=America/Los_Angeles:20261024T190000
+DTEND;TZID=America/Los_Angeles:20261024T210000
+DTSTAMP:20260925T162739Z
+UID:funcheap-20261024-sfsgoldenhourfilipinonig
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
+ 2026-soma/\nVenue: 330 Ritch St\nPrice: Free\nCategories: community\, free
+ \nSource: funcheap/san-francisco\n\n​ ✦ UNDISCOVERED SF San Francisco
+ ’s First Night Market Is Back ​Ten years ago\, Undiscovered started th
+ e trend of night markets. Now\, we return during golden hour. RSVP – FRE
+ E ​This year marks a special milestone — join us as we celebrate 10 se
+ asons of community\, creativity\, and cultural pride! For our second hub\,
+  we are so excited to bring back UNDISCOVERED SF Season 10: the Golden Hou
+ r Night Market in partnership with Victory Hall. ​Nestled in the fabled 
+ Ritch Street Alley\, Victory Hall has been a cornerstone of SoMa since 190
+ 8 — home to the legendary 330 Ritch Nightclub and a long legacy of music
+ \, community\, and culture in partnership with Deanna Sison\, a culinary t
+ railblazer\, a custodian of Filipino tradition \, and an influential force
+  in San Francisco’s hospitality scene. ​On October 24\, we’re honore
+ d to be part of that legacy — filling Ritch Street with Filipino America
+ n food\, art\, music\, and culture in the heart of the Filipino Cultural C
+ orridor. #UNDSCVRDseason10 #MadewithMahal ​ ✦ Come hungry. Come ready 
+ to move. Come discover. ​ ​Eat your way through the market\, shop reta
+ il vendors\, catch DJ sets\, and step inside Victory Hall for a special ex
+ hibition honoring the history o
+LOCATION:330 Ritch St
+URL:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-2026-som
+ a/
 END:VEVENT
 END:VCALENDAR

@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Final Outdoor Free Yoga Class of 2026 in Golden Gate Park
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T120000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-finaloutdoorfreeyogaclas
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/final-outdoor-free-yoga-class-2026-gol
@@ -39,7 +39,7 @@ SUMMARY:Free Round Trip Ferry Rides from SF to Treasure Island for “Off
  the Grid”
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-freeroundtripferryridesf
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-trip-ferry-rides-sf-ferry-bldg-tr
@@ -73,7 +73,7 @@ SUMMARY:Free 6\,000 Sqft “Shipwreck Cove” Playground Opening w/ Pirate
  s + Mermaids (SF’s Sunset Dunes)
 DTSTART;TZID=America/Los_Angeles:20260926T150000
 DTEND;TZID=America/Los_Angeles:20260926T151500
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-free6000sqftshipwreckcov
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-shipwreck-cove-playground-opening
@@ -104,29 +104,29 @@ BEGIN:VEVENT
 SUMMARY:Hayward’s Free 6-Hour Mariachi Festival + Lucha Libre (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260927T120000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260926-haywardsfree6hourmariach
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-
  libre-2026/\nLocation: south bay\nPrice: Free\nCategories: community\, fre
- e\nSource: funcheap/south-bay+funcheap/san-francisco\n\nHayward’s free\,
-  family-friendly mariachi festival returns to Southland Mall with mariachi
-  bands\, folklórico dancing\, Lucha Libre\, a mercado featuring local art
- isans\, authentic Mexican cuisine\, and interactive cultural demonstration
- s. The Mexican culture celebration draws more than 6\,000 attendees from a
- cross the Bay Area. Original Event Description: _This is it\, Hayward! Sat
- urday\, September 26 is the day. Head to Southland Mall from 12:00 to 6:00
-  pm for live mariachi music\, folklórico dancing\, Lucha Libre\, and auth
- entic food\, all in one afternoon. It’s free\, it’s family-friendly\, 
- and it’s one of the best ways to spend a Saturday in Hayward. 💃🏻 L
- earn more at hayward.org/mariachi. #HaywardChamber #HaywardCA #HaywardMari
- achiFestival September 26\, 2026 12:00 pm – 6:00 pm Southland Mall One S
- outhland Mall\, Hayward\, CA 94545 A vibrant celebration of Mexican cultur
- e\, our mariachi festival draws over 6\,000 attendees from across the San 
- Francisco Bay Area\, offering businesses and partners a unique opportunity
-  to engage with a diverse audience. Renowned mariachi bands showcase the g
- enre’s rich heritage through stunning regalia\, intricate instrumentatio
- n\, and soulful vocals. Beyond electrifyi
+ e\nSource: funcheap/south-bay\n\nHayward’s free\, family-friendly mariac
+ hi festival returns to Southland Mall with mariachi bands\, folklórico da
+ ncing\, Lucha Libre\, a mercado featuring local artisans\, authentic Mexic
+ an cuisine\, and interactive cultural demonstrations. The Mexican culture 
+ celebration draws more than 6\,000 attendees from across the Bay Area. Ori
+ ginal Event Description: _This is it\, Hayward! Saturday\, September 26 is
+  the day. Head to Southland Mall from 12:00 to 6:00 pm for live mariachi m
+ usic\, folklórico dancing\, Lucha Libre\, and authentic food\, all in one
+  afternoon. It’s free\, it’s family-friendly\, and it’s one of the b
+ est ways to spend a Saturday in Hayward. 💃🏻 Learn more at hayward.or
+ g/mariachi. #HaywardChamber #HaywardCA #HaywardMariachiFestival September 
+ 26\, 2026 12:00 pm – 6:00 pm Southland Mall One Southland Mall\, Hayward
+ \, CA 94545 A vibrant celebration of Mexican culture\, our mariachi festiv
+ al draws over 6\,000 attendees from across the San Francisco Bay Area\, of
+ fering businesses and partners a unique opportunity to engage with a diver
+ se audience. Renowned mariachi bands showcase the genre’s rich heritage 
+ through stunning regalia\, intricate instrumentation\, and soulful vocals.
+  Beyond electrifyi
 LOCATION:south bay
 URL:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-libre-20
  26/
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:West 22nd
 DTSTART:20260927T040000Z
 DTEND:20260927T060000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1Af0bQK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/west-22nd-the-independent-tick
@@ -153,7 +153,7 @@ SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -240,7 +240,7 @@ SUMMARY:Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sports Basement (
  Bryant Street)
 DTSTART;TZID=America/Los_Angeles:20261010T103000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261010-fall2026artspanopenstudi
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-g
@@ -268,42 +268,10 @@ URL:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-gallery-s
  ports-basement-bryant-street/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Brava” 40th Anniversary Celebration Block Party 2026 (Mission
- )
-DTSTART;TZID=America/Los_Angeles:20261017T110000
-DTEND;TZID=America/Los_Angeles:20261017T170000
-DTSTAMP:20260925T110332Z
-UID:funcheap-20261017-brava40thanniversarycele
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/brava-40th-anniversary-celebration-blo
- ck-party-2026mission/\nLocation: san francisco\nPrice: Free\nCategories: f
- ree\nSource: funcheap/san-francisco\n\nBrava Theater Center hosts a free\,
-  family-friendly block party on 24th Street between Bryant and Hampshire c
- elebrating 40 years of Brava!\, 30 years of community ownership\, and 100 
- years of the historic theater. The event includes live performances\, film
-  screenings\, and art activations. Original Event Description: *We need yo
- u! Calling volunteers 📣 Help us celebrate 40 years at Brava! by support
- ing our free\, family-friendly community block party. We can’t do it wit
- hout you! ♥️ All volunteers will receive a t-shirt! Click the link in 
- our bio to sign up\, or visit brava.org/bravablockparty See you October 17
- th! 🪩💃🏻🌟 #BravaTheater #BlockParty #Mission #SanFrancisco #Bra
- va Brava! Block Party Saturday\, October 17\, 2026 11:00 AM 5:00 PM Brava 
- Theater Center 2781 24th StreetSan Francisco\, CA\, 94110United States (ma
- p) Google Calendar ICS Brava! Block Party Saturday\, October 17\, 2026 @11
- AM-5PM 40 Years of Brava!\, 30 Years of Community Ownership and 100 Years 
- of the Historic Theater 24th Street • Between Bryant and Hampshire A fre
- e\, family-friendly celebration of art\, community\, and 40 years of Brava
- ! Live performances • Film Screenings • Art Activations JOIN THE PARTY
- ! BRAVA! BLOCK PARTY 40 Y
-LOCATION:san francisco
-URL:https://sf.funcheap.com/brava-40th-anniversary-celebration-block-party
- -2026mission/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mission Bay Harvest Festival (Spark Social SF)
 DTSTART;TZID=America/Los_Angeles:20261017T160000
 DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261017-missionbayharvestfestiva
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/mission-bay-harvest-festival-spark-soc
@@ -333,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -355,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260925T110332Z
+DTSTAMP:20260925T162739Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -383,5 +351,37 @@ LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San FranciscoCost: Fre
  eAll Ages Welcom
 URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
  sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s “Golden Hour” Filipino Night Market is Back for 2026 (S
+ oMa)
+DTSTART;TZID=America/Los_Angeles:20261024T190000
+DTEND;TZID=America/Los_Angeles:20261024T210000
+DTSTAMP:20260925T162739Z
+UID:funcheap-20261024-sfsgoldenhourfilipinonig
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
+ 2026-soma/\nVenue: 330 Ritch St\nPrice: Free\nCategories: community\, free
+ \nSource: funcheap/san-francisco\n\n​ ✦ UNDISCOVERED SF San Francisco
+ ’s First Night Market Is Back ​Ten years ago\, Undiscovered started th
+ e trend of night markets. Now\, we return during golden hour. RSVP – FRE
+ E ​This year marks a special milestone — join us as we celebrate 10 se
+ asons of community\, creativity\, and cultural pride! For our second hub\,
+  we are so excited to bring back UNDISCOVERED SF Season 10: the Golden Hou
+ r Night Market in partnership with Victory Hall. ​Nestled in the fabled 
+ Ritch Street Alley\, Victory Hall has been a cornerstone of SoMa since 190
+ 8 — home to the legendary 330 Ritch Nightclub and a long legacy of music
+ \, community\, and culture in partnership with Deanna Sison\, a culinary t
+ railblazer\, a custodian of Filipino tradition \, and an influential force
+  in San Francisco’s hospitality scene. ​On October 24\, we’re honore
+ d to be part of that legacy — filling Ritch Street with Filipino America
+ n food\, art\, music\, and culture in the heart of the Filipino Cultural C
+ orridor. #UNDSCVRDseason10 #MadewithMahal ​ ✦ Come hungry. Come ready 
+ to move. Come discover. ​ ​Eat your way through the market\, shop reta
+ il vendors\, catch DJ sets\, and step inside Victory Hall for a special ex
+ hibition honoring the history o
+LOCATION:330 Ritch St
+URL:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-2026-som
+ a/
 END:VEVENT
 END:VCALENDAR
