@@ -5,75 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Final Outdoor Free Yoga Class of 2026 in Golden Gate Park
-DTSTART;TZID=America/Los_Angeles:20260926T110000
-DTEND;TZID=America/Los_Angeles:20260926T120000
-DTSTAMP:20260926T154150Z
-UID:funcheap-20260926-finaloutdoorfreeyogaclas
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/final-outdoor-free-yoga-class-2026-gol
- den-gate-park/\nLocation: san francisco\nPrice: Free\nCategories: communit
- y\, free\nSource: funcheap/san-francisco\n\nRunning annually from June to 
- September\, the final free community yoga class from “Yoga with Elisha
- ” of the season takes place at The Whale’s Tail Meadow in Golden Gate 
- Park. The all-levels outdoor session is followed by live music from Illumi
- n8 Live and beverages from NPU Live. Attendees are asked to bring a yoga m
- at\, water bottle\, and layers for San Francisco weather\; sign up Origina
- l Event Description: _Don’t miss our FINAL class of the season! Get outs
- ide and join us for free yoga in Golden Gate Park! 📍The Whale’s Tail 
- Meadow\, Golden Gate Park (14th Ave & Fulton) @thewhalestail_sf 🗓 Satur
- day\, September 26 ⏰ 11:00 AM-12:00 PM 🎟 Free and open to all (sign u
- p with link in bio) 🧘 All levels welcome 💧 Bring a yoga mat and wate
- r bottle 🧥 Dress in layers for SF weather 🎶 Stay after for live musi
- c by our friends @illumin8live & bevies by @npu.live #GoldenGatePark #SanF
- rancisco #BayArea #SanFranciscoYoga #bayareayoga_ Text extracted from prov
- ided image: YOGA at The Whale’s Tail FREE COMMUNITY YOGA CLASS This Week
-  FINAL CLASS SATURDAY\, SEPT 26 11AM-12PM THE WHALE’S TAIL MEADOW 14TH A
- VE & FULTON GOLDEN GATE PARK
-LOCATION:san francisco
-URL:https://sf.funcheap.com/final-outdoor-free-yoga-class-2026-golden-gate
- -park/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Round Trip Ferry Rides from SF to Treasure Island for “Off 
- the Grid”
-DTSTART;TZID=America/Los_Angeles:20260926T110000
-DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260926T154150Z
-UID:funcheap-20260926-freeroundtripferryridesf
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/free-trip-ferry-rides-sf-ferry-bldg-tr
- easure-island-grid/\nVenue: of the Palms\, Saturdays Sept. 12 to Oct. 17\,
-  11:00am to 4:00pm *Ferry times can\nPrice: Free\nCategories: free\nSource
- : funcheap/san-francisco\n\nOff the Grid at Treasure Island hosts a waterf
- ront afternoon at Cityside Park with a DJ set by Cuffin SF\, a Bay FC pop-
- up with games and crafts\, free kite rentals\, and food available from Cur
- ry Up Now\, Bacon Bacon\, J&D’s BBQ\, Los Kuyas\, Tokachi Musubi\, and o
- ther vendors. Entry is free\, and attendees can RSVP for a limited free ro
- undtrip ferry pass (SF Ferry Building to Treasure Island) for up to two ad
- ults and two children. RSVP for Your Free Ferry Pass – https://offthegri
- d.com/treasureisland/ferry-pass/sept-26 – Valid from 10:30am–4:30pm (9
- /26/26 only) Original Event Description: Free ferry. Free fun. Cuffin SF o
- n the decks. 🚢🎶 This Saturday\, 9/26\, we’re playing on the bay at
-  Treasure Island: 🎧 @cuffinsf spinning R&B all day ⚽ @wearebayfc pop-
- up with games\, crafts and more 🪁 Free kite rentals 🍔 Curry Up Now\,
-  Bacon Bacon\, J&D’s BBQ\, Los Kuyas\, Tokachi Musubi and more 💳 Soci
- al Club perks at the event and around the island 📍 Cityside Park\, Trea
- sure Island · 11 AM to 4 PM · Free entry 🔗 offthegrid.com/treasureisl
- and (link in bio) Ferry pass covers one roundtrip for two adults and two c
- hildren. RSVP required #OfftheGrid #TreasureIsland #SFEvents #BayFC Your S
- aturday soundtrack is handl
-LOCATION:of the Palms\, Saturdays Sept. 12 to Oct. 17\, 11:00am to 4:00pm 
- *Ferry times can
-URL:https://sf.funcheap.com/free-trip-ferry-rides-sf-ferry-bldg-treasure-i
- sland-grid/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free 6\,000 Sqft “Shipwreck Cove” Playground Opening w/ Pirate
  s + Mermaids (SF’s Sunset Dunes)
 DTSTART;TZID=America/Los_Angeles:20260926T150000
 DTEND;TZID=America/Los_Angeles:20260926T151500
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20260926-free6000sqftshipwreckcov
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-shipwreck-cove-playground-opening
@@ -104,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Hayward’s Free 6-Hour Mariachi Festival + Lucha Libre (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260927T120000
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20260926-haywardsfree6hourmariach
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-
@@ -132,28 +68,11 @@ URL:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-libre-20
  26/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West 22nd
-DTSTART:20260927T040000Z
-DTEND:20260927T060000Z
-DTSTAMP:20260926T154150Z
-UID:rZ7HnEZ1Af0bQK
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/west-22nd-the-independent-tick
- ets/14918693\nVenue: The Independent\nLocation: 628 Divisadero St\, San Fr
- ancisco\, CA\nPrice: Free\nGenres: Music\, Alternative\nCategories: concer
- t\, free\nSource: ticketmaster/music\n\nPlease note - there is a delivery 
- delay set for 2 weeks prior to show. Support acts subject to change withou
- t refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/west-22nd-the-independent-tickets/1491
- 8693
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival 
  (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -186,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -203,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -236,11 +155,97 @@ URL:https://www.ticketweb.com/event/saint-harison-presents-the-ghosted-caf
  e-du-nord-tickets/14989063
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free 30-Minute Dance Shows on Freedom + Justice at SF Libraries (O
+ ct. 3-17)
+DTSTART;TZID=America/Los_Angeles:20261003T130000
+DTEND;TZID=America/Los_Angeles:20261003T151500
+DTSTAMP:20260926T203713Z
+UID:funcheap-20261003-free30minutedanceshowson
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-30minute-dance-shows-freedom-just
+ ice-sf-libraries-oct-317/\nLocation: san francisco\nPrice: Free\nCategorie
+ s: community\, free\nSource: funcheap/san-francisco\n\nOctober 3 – 17: S
+ hows at 1pm and 3:15pm each Saturday Flyaway Productions returns to the st
+ reets with a new dance-based public art project exploring the concept of f
+ reedom at the intersection of public libraries and prisons. Directed by Fl
+ yaway Artistic Director Jo Kreiter in coalition with the San Francisco Pub
+ lic Library\, ‘Freedom Comes’ features a cast of seven female dancers\
+ , original research and text by April Harris\, and commissioned music by K
+ alyn Harwood. A total of six 30-minute shows are scheduled at 1 p.m. and 3
+ :15 p.m. over three consecutive Saturdays\, October 3 – 17. ‘Freedom C
+ omes’ opens October 3 at Visitacion Valley Branch Library before moving 
+ to the San Francisco Main Library on October 10\, and finally to the Orteg
+ a Branch Library on October 17. All shows are free with no reservation req
+ uired. Flyaway’s primary collaborator is April Harris\, an incarcerated 
+ writer serving a life sentence at the California Institution for Women in 
+ Corona\, California. She is currently a research advocate to support the U
+ niversity of California Sentencing Project\, a collaboration between the U
+ niversity of California at San Diego and Los Angeles\, and members of the 
+ California Coalition
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-30minute-dance-shows-freedom-justice-sf-l
+ ibraries-oct-317/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
+DTSTART:20261010T030000Z
+DTEND:20261010T050000Z
+DTSTAMP:20260926T203713Z
+UID:rZ7HnEZ1Afa9G7
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
+ os-365-club-tickets/14257304\nVenue: Bimbo's 365 Club\nLocation: 1025 Colu
+ mbus Avenue\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Jazz\nCateg
+ ories: concert\, free\nSource: ticketmaster/music\n\nALL AGES. Please note
+  - there is a delivery delay set for 2 weeks prior to show. Another Planet
+  Entertainment is committed to producing safe events. Please review our mo
+ st up-to-date COVID-19 policy requirements for entry at https://apeconcert
+ s.com/health-safety * Policy is subject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimbos-365-c
+ lub-tickets/14257304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLÜ EYES: Two People at Once Tour
+DTSTART:20261010T040000Z
+DTEND:20261010T060000Z
+DTSTAMP:20260926T203713Z
+UID:rZ7HnEZ1AfPtfS
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
+ nord-tickets/14969533\nVenue: Cafe Du Nord\nLocation: 2174 Market St.\, Sa
+ n Francisco\, CA\nPrice: Free\nGenres: Music\, Pop\nCategories: concert\, 
+ free\nSource: ticketmaster/music\n\nA multifaceted creative at every level
+ \, BL EYES writes\, produces\, and shapes her own sonic world with strikin
+ g intention. Her ability to translate vulnerability into connection has ea
+ rned her a rapidly growing global audience and established her as one of t
+ he most compelling new voices shaping the next era of authentic pop music.
+ -Artist Presale: Thursday\, June 11th @ 10am Public On Sale: Friday\, June
+  12th @ 10am -Cafe Du Nords Preferred Viewing Available\, General Admissio
+ n Not IncludedFor any event that is listed as 18 or 21 and over\, ANY tick
+ et holder unable to present valid identification indicating that they are 
+ of age will not be admitted to this event\, and will not be eligible for a
+  refund. Any event listed as All Ages\, means 6 years of age or older. ALL
+  tickets are standing room only unless otherwise specified. If you need sp
+ ecial accommodations\, contact info@cafedunord.com. Support acts are subje
+ ct to change without refund.Professional Cameras are not allowed without p
+ rior approval. Professional Camera defined as detachable lens or of profes
+ sional grade as determined by the venue staff. When in doubt\, just email 
+ us ahead of the show! We might be able to get you a Photo Pass depending o
+ n Artists approval. This event is 21 and over. Any ticket holder unable to
+  present valid identification indicating that they are at least 21 years o
+ f age will not be admitted to this event\, and will not be eligible for a 
+ refund. For any event that is 18 or 21 and over. Any Ticket holder u
+LOCATION:2174 Market St.\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-nord-tic
+ kets/14969533
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sports Basement (
  Bryant Street)
 DTSTART;TZID=America/Los_Angeles:20261010T103000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20261010-fall2026artspanopenstudi
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-g
@@ -271,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -293,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -327,7 +332,7 @@ SUMMARY:SF’s “Golden Hour” Filipino Night Market is Back for 2026 (S
  oMa)
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20261024-sfsgoldenhourfilipinonig
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
@@ -359,7 +364,7 @@ SUMMARY:SF’s Free “World of Dumplings” Festival at the Ferry Buildin
  g
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20260926T154150Z
+DTSTAMP:20260926T203713Z
 UID:funcheap-20261025-sfsfreeworldofdumplingsf
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-world-dumplings-festival-ferr
