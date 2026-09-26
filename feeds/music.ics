@@ -5,63 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Moe's Alley Presents: Tania Cassette w/ HOLY WATER + DJ Archive 65
-DTSTART:20260926T040000Z
-DTEND:20260926T060000Z
-DTSTAMP:20260926T032051Z
-UID:rZ7HnEZ1AfJ8qK
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-tania-cass
- ette-moes-alley-tickets/14990753\nVenue: Moe's Alley\nLocation: 1535 Comme
- rcial Way\, Santa Cruz\, CA\nPrice: $25\nGenres: Music\, Alternative\, Got
- h\, Post-Punk\nCategories: edm\nSource: ticketmaster/music\n\nMoe's Alley 
- presents Tania Cassette\, the voice of Glass Spells supporting the release
-  of her forthcoming LP "The Death of Me"! Special guest HOLY WATER opens t
- he show plus DJ Archive 65. Friday\, September 25\, 2026 Doors: 8pm / Show
- : 9pm $20 in advance / $25 day of the show 21+ * No Refunds | All sales ar
- e final * Avoid scammers! Only purchase tickets from moesalley.com or tick
- etweb.com * Tickets requested by email will be delivered 3 days prior to t
- he event * Will Call tickets will be available at the door on the day of t
- he event ==== TANIA CASSETTE Tania Cassette is a synthpop and dark pop art
- ist with an 80s glow and a modern dance heartbeat\, built on hooks that la
- nd fast and linger long into the night. Known as the voice of Glass Spells
- \, she emerged into her solo era with singles \, "rdquo" -> The Flame" and
-  \, "rdquo" -> Por Tu Amor" leading into her debut album The Death of Me\,
-  out September 4th. Shimmering\, dancefloor ready\, and heavy with yearnin
- g\, the record moves through passion and rebirth in a world of nostalgic t
- enderness and dark glamour. HOLY WATER Jacob came up in the Punk / Hardcor
- e scene in Northern California. Jacob's band LONELY KINGS released 4 Full 
- length Records for FEARLESS RECORDS. Lonely Kings Extensively toured USA /
-  EUROPE / UK with bands like AT THE DRIVE IN\, HOT WATER MUSIC\, THE MISFI
- TS\, AFI etc. HOLY WATER was established in 2018 after 12 years doing DJ g
- igs playing Indie Dance\, Tech House\, Industrial\, and Post Punk. HOLY WA
- TER is a combination of J
-LOCATION:1535 Commercial Way\, Santa Cruz\, CA
-URL:https://www.ticketweb.com/event/moes-alley-presents-tania-cassette-moe
- s-alley-tickets/14990753
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Color
-DTSTART:20260926T040000Z
-DTEND:20260926T060000Z
-DTSTAMP:20260926T032051Z
-UID:rZ7HnEZ1AfPOAS
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/in-color-the-independent-ticke
- ts/14960173\nVenue: The Independent\nLocation: 628 Divisadero St\, San Fra
- ncisco\, CA\nPrice: Free\nGenres: Music\, Alternative\nCategories: concert
- \, free\nSource: ticketmaster/music\n\nPlease note - there is a delivery d
- elay set for 2 weeks prior to show. Support acts subject to change without
-  refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/in-color-the-independent-tickets/14960
- 173
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -77,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -101,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Cristian Castro: Nada Solo Exitos Tour 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_7iWzLEh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
@@ -117,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:West 22nd
 DTSTART:20260927T040000Z
 DTEND:20260927T060000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1Af0bQK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/west-22nd-the-independent-tick
@@ -134,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -158,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -185,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Weedeater\, Zeke\, Royal Thunder\, Yes Ma'am
 DTSTART:20261002T020000Z
 DTEND:20261002T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1AfaFjV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/weedeater-zeke-royal-thunder-y
@@ -198,10 +145,27 @@ URL:https://www.ticketweb.com/event/weedeater-zeke-royal-thunder-yes-the-r
  itz-tickets/14248734
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mari Froes
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+DTSTAMP:20260926T104454Z
+UID:rZ7HnEZ1AfPOvS
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
+ kets/14960073\nVenue: The Independent\nLocation: 628 Divisadero St\, San F
+ rancisco\, CA\nPrice: Free\nGenres: Music\, Folk\, Latin Folk\nCategories:
+  concert\, free\nSource: ticketmaster/music\n\nPlease note - there is a de
+ livery delay set for 2 weeks prior to show. Support acts subject to change
+  without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/mari-froes-the-independent-tickets/149
+ 60073
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -226,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -254,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -278,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -296,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -312,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -337,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -362,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -386,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -407,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -420,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -435,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -458,7 +422,7 @@ SUMMARY:Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sports Basement (
  Bryant Street)
 DTSTART;TZID=America/Los_Angeles:20261010T103000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:funcheap-20261010-fall2026artspanopenstudi
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-g
@@ -489,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -505,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -523,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -547,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -571,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -594,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -613,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -637,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -659,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -671,10 +635,28 @@ URL:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-san-jose-c
  alifornia-10-17-2026/event/1C0065040C18B5B8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Role Model Presents: Chuck On Tour
+DTSTART:20261019T023000Z
+DTEND:20261019T043000Z
+DTSTAMP:20260926T104454Z
+UID:G5vYZ_uk8kyiH
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
+ -berkeley-california-10-18-2026/event/1C0064D1901B9B3C\nVenue: Greek Theat
+ re-U.C. Berkeley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Musi
+ c\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSource: tick
+ etmaster/music\n\nAll events are rain or shine. This show is entirely gene
+ ral admission. A general admission ticket will allow you access to all are
+ as of the Greek Theatre on a first-come\, first-served basis.
+LOCATION:2001 Gayley Road\, Berkeley\, CA
+URL:https://www.ticketmaster.com/role-model-presents-chuck-on-tour-berkele
+ y-california-10-18-2026/event/1C0064D1901B9B3C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -690,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20260926T032051Z
+DTSTAMP:20260926T104454Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
