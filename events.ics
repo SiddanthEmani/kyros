@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] JEVATHON (w/ The AI Collective)
 DTSTART:20260926T170000Z
 DTEND:20260926T230000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-7AlM1xhfescIWGN
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/aic-jev\nLocation: San Francisco\, CA\nHost: The
@@ -21,7 +21,7 @@ SUMMARY:[Bay/Free] Final Outdoor Free Yoga Class of 2026 in Golden Gate Pa
  rk
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T120000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20260926-finaloutdoorfreeyogaclas
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/final-outdoor-free-yoga-class-2026-gol
@@ -52,7 +52,7 @@ SUMMARY:[Free] Free Round Trip Ferry Rides from SF to Treasure Island for
  “Off the Grid”
 DTSTART;TZID=America/Los_Angeles:20260926T110000
 DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20260926-freeroundtripferryridesf
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-trip-ferry-rides-sf-ferry-bldg-tr
@@ -86,7 +86,7 @@ SUMMARY:[Free] Free 6\,000 Sqft “Shipwreck Cove” Playground Opening w/
   Pirates + Mermaids (SF’s Sunset Dunes)
 DTSTART;TZID=America/Los_Angeles:20260926T150000
 DTEND;TZID=America/Los_Angeles:20260926T151500
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20260926-free6000sqftshipwreckcov
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-shipwreck-cove-playground-opening
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Read in the Park - South Bay 📚
 DTSTART:20260926T220000Z
 DTEND:20260927T003000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-P1iyl6toxamKxpO
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/i5d2rze0\nLocation: Sunnyvale\, CA\nHost: Read i
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Inside China's AI rush w/ Afra Wang
 DTSTART:20260926T230000Z
 DTEND:20260927T000000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-Ds4pLpnoDAvogOf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/chinaAI\nLocation: tiat\, 151 Powell St\, San Fr
@@ -144,7 +144,7 @@ SUMMARY:[Bay/Free] Hayward’s Free 6-Hour Mariachi Festival + Lucha Libre
   (2026)
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260927T120000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20260926-haywardsfree6hourmariach
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/haywards-free-mariachi-festival-lucha-
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Riley Green: Cowboy As It Gets Tour 2026
 DTSTART:20260927T020000Z
 DTEND:20260927T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_5RNR4jN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marco Antonio Solis - Tour Gratitud 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_1MnIoTf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Cristian Castro: Nada Solo Exitos Tour 2026
 DTSTART:20260927T030000Z
 DTEND:20260927T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_7iWzLEh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] West 22nd
 DTSTART:20260927T040000Z
 DTEND:20260927T060000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1Af0bQK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/west-22nd-the-independent-tick
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.
 DTSTART:20260927T170000Z
 DTEND:20260928T010000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-VfSExGP3FFCEYVh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/vmqjw9hv\nLocation: Berkeley\, CA\nHost: GDG Sta
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Game Market West: Fall 2026
 DTSTART:20260927T170000Z
 DTEND:20260927T220000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-rei4Dr9qBvu1giN
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/6d5nmzxb\nLocation: Guildhouse\, 420 First St\, 
@@ -274,7 +274,7 @@ SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Grok Bot x Notion for Product Builders night (SF)
 DTSTART:20260930T000000Z
 DTEND:20260930T033000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-OiFkITxP5F6rX0n
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Cache Me Outside: A Rooftop Party at the AI Conference
 DTSTART:20261001T000000Z
 DTEND:20261001T030000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-fbXDcwz01gSiIbn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/wesjv6eq\nLocation: KAIYŌ Rooftop\, 701 3rd St 
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] How AI Models Learn to Do Real Work
 DTSTART:20261001T003000Z
 DTEND:20261001T033000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:evt-YUXj40WxzAttDXn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/icar7u2x\nLocation: San Francisco\, CA\nHost: Op
@@ -370,7 +370,7 @@ SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Weedeater\, Zeke\, Royal Thunder\, Yes Ma'am
 DTSTART:20261002T020000Z
 DTEND:20261002T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1AfaFjV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/weedeater-zeke-royal-thunder-y
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -427,10 +427,46 @@ URL:https://www.ticketweb.com/event/mari-froes-the-independent-tickets/149
  60073
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] saint harison presents the ghosted tour (SOLD OUT)
+DTSTART:20261002T030000Z
+DTEND:20261002T050000Z
+DTSTAMP:20260926T154150Z
+UID:rZ7HnEZ1AfJavN
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
+ sted-cafe-du-nord-tickets/14989063\nVenue: Cafe Du Nord\nLocation: 2174 Ma
+ rket St.\, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\nCategorie
+ s: concert\, free\nSource: ticketmaster/music\n\nSaint Harison is an artis
+ t with an undeniable voiceCalled one of the great voices not just from the
+  UK\, but of all time by Elton John\, Saint has quickly become a fan favor
+ ite with nods from Justin Bieber\, Jazmine Sullivan\, SZA and more.He was 
+ recently named on Rolling Stones Future of Music list. Citing Amy Winehous
+ e and Frank Ocean as key musical influences\, Saint has been covered by Br
+ itish Vogue\, Rolling Stone\, NPR\, GQ\, CLASH\, Variety\, Pigeons s globa
+ l Up Next artist.Cafe Du Nords Preferred Viewing Available\, General Admis
+ sion Not IncludedFor any event that is listed as 18 or 21 and over\, ANY t
+ icket holder unable to present valid identification indicating that they a
+ re of age will not be admitted to this event\, and will not be eligible fo
+ r a refund. Any event listed as All Ages\, means 6 years of age or older. 
+ ALL tickets are standing room only unless otherwise specified. If you need
+  special accommodations\, contact info@cafedunord.com. Support acts are su
+ bject to change without refund.Professional Cameras are not allowed withou
+ t prior approval. Professional Camera defined as detachable lens or of pro
+ fessional grade as determined by the venue staff. When in doubt\, just ema
+ il us ahead of the show! We might be able to get you a Photo Pass dependin
+ g on Artists approval. For any event that is 18 or 21 and over. Any Ticket
+  holder unable to present valid identification indicating that they are of
+  age will not be admitted to this event\, and will not be eligible for a r
+ efund. Suppor
+LOCATION:2174 Market St.\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/saint-harison-presents-the-ghosted-caf
+ e-du-nord-tickets/14989063
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -455,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -483,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -507,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -525,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -541,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -566,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -591,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -615,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -636,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -649,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -664,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -687,7 +723,7 @@ SUMMARY:[Live/Free] Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sport
  s Basement (Bryant Street)
 DTSTART;TZID=America/Los_Angeles:20261010T103000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20261010-fall2026artspanopenstudi
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-g
@@ -718,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -734,7 +770,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -752,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] 2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -776,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -800,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -823,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -839,40 +875,10 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Mission Bay Harvest Festival (Spark Social SF)
-DTSTART;TZID=America/Los_Angeles:20261017T160000
-DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20260926T104454Z
-UID:funcheap-20261017-missionbayharvestfestiva
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/mission-bay-harvest-festival-spark-soc
- ial-sf/\nLocation: san francisco\nPrice: Free\nCategories: community\, fre
- e\nSource: funcheap/san-francisco\n\nMission Bay Harvest Festival Returns!
-  Saturday\, October 17\, 2026 | 4PM–7PM Outdoor Movie Begins at 7PM SPAR
- K Social SF | 601 Mission Bay Blvd North\, San Francisco\, CA Free Admissi
- on | Everyone Welcome Calling all Mission Bay residents! The Mission Bay H
- arvest Festival is back at SPARK Social for an afternoon of fall fun\, com
- munity\, and seasonal festivities. Bring the family\, meet your neighbors\
- , enjoy live music\, visit the petting zoo\, pick out a pumpkin\, and gath
- er around the fire pit for free s’mores. Festival Highlights: Pumpkin Pa
- tch Pick out a pumpkin and get into the fall spirit. Pumpkins available wh
- ile supplies last. Petting Zoo Meet adorable farm animals and enjoy a fun 
- afternoon for the whole family. Live Band Enjoy live music while you grab 
- food\, relax\, and celebrate the season with your neighbors. Meet Your Nei
- ghbors Connect with fellow Mission Bay residents and enjoy a community gat
- hering area. Free S’mores Gather around the fire pit\, roast marshmallow
- s\, and make your own s’mores. Available while supplies last. Food Truck
- s Grab dinner\, snacks\, and treats from SPARK Social’s food trucks. Out
- door Movie Night Stay after the festival for an outdoor screening of Hocus
-  Pocus
-LOCATION:san francisco
-URL:https://sf.funcheap.com/mission-bay-harvest-festival-spark-social-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -896,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -918,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -933,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -951,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -967,7 +973,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -983,7 +989,7 @@ SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
  ival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -1017,7 +1023,7 @@ SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -1050,7 +1056,7 @@ SUMMARY:[Bay/Free] SF’s “Golden Hour” Filipino Night Market is Back
  for 2026 (SoMa)
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20261024-sfsgoldenhourfilipinonig
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
@@ -1082,7 +1088,7 @@ SUMMARY:[Bay/Free] SF’s Free “World of Dumplings” Festival at the Fe
  rry Building
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20260926T104454Z
+DTSTAMP:20260926T154150Z
 UID:funcheap-20261025-sfsfreeworldofdumplingsf
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-world-dumplings-festival-ferr
