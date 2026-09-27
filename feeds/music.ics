@@ -5,66 +5,27 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Riley Green: Cowboy As It Gets Tour 2026
-DTSTART:20260927T020000Z
-DTEND:20260927T040000Z
-DTSTAMP:20260926T203713Z
-UID:G5vYZ_5RNR4jN
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mou
- ntain-view-california-09-26-2026/event/1C0064BBE3BD5723\nVenue: Shoreline 
- Amphitheatre\nLocation: One Amphitheatre Parkway\, Mountain View\, CA\nGen
- res: Music\, Country\nHost: LIVE NATION MUSIC\nCategories: concert\nSource
- : ticketmaster/music
-LOCATION:One Amphitheatre Parkway\, Mountain View\, CA
-URL:https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-mountain-vi
- ew-california-09-26-2026/event/1C0064BBE3BD5723
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marco Antonio Solis - Tour Gratitud 2026
-DTSTART:20260927T030000Z
-DTEND:20260927T050000Z
-DTSTAMP:20260926T203713Z
-UID:G5vYZ_1MnIoTf
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud
- -2026-san-jose-california-09-26-2026/event/1C0064ADEAA11FD4\nVenue: SAP Ce
- nter at San Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Mus
- ic\, Latin\nHost: LIVE NATION MUSIC\nCategories: concert\nSource: ticketma
- ster/music\n\nSAP Center recommends that fans bring bags that are 5" x 9"x
-  2" or smaller to expedite their entry. However\, we are happy to accommod
- ate larger bags up to 20" x 14" x 11" in size! When it comes to the larger
-  bags\, please note the following: All bags\, including medical and infant
-  bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection and will 
- result in longer wait times for entry Bags must be able to fit under your 
- seat once inside the event\; therefore\, bags larger than 20" x 14" x 11" 
- will not be permitted. SAP Center no longer offers a bag check option and/
- or onsite storage lockers.
-LOCATION:525 W Santa Clara\, San Jose\, CA
-URL:https://www.ticketmaster.com/marco-antonio-solis-tour-gratitud-2026-sa
- n-jose-california-09-26-2026/event/1C0064ADEAA11FD4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cristian Castro: Nada Solo Exitos Tour 2026
-DTSTART:20260927T030000Z
-DTEND:20260927T050000Z
-DTSTAMP:20260926T203713Z
-UID:G5vYZ_7iWzLEh
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-
- tour-san-jose-california-09-26-2026/event/1C00644B3DE1F9DB\nVenue: San Jos
- e Civic\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Lat
- in\nHost: AMPLIFY ENTERTAINMENT\nCategories: concert\nSource: ticketmaster
- /music
-LOCATION:135 San Carlos St.\, San Jose\, CA
-URL:https://www.ticketmaster.com/cristian-castro-nada-solo-exitos-tour-san
- -jose-california-09-26-2026/event/1C00644B3DE1F9DB
+SUMMARY:West 22nd
+DTSTART:20260927T040000Z
+DTEND:20260927T060000Z
+DTSTAMP:20260927T032919Z
+UID:rZ7HnEZ1Af0bQK
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/west-22nd-the-independent-tick
+ ets/14918693\nVenue: The Independent\nLocation: 628 Divisadero St\, San Fr
+ ancisco\, CA\nPrice: Free\nGenres: Music\, Alternative\nCategories: concer
+ t\, free\nSource: ticketmaster/music\n\nPlease note - there is a delivery 
+ delay set for 2 weeks prior to show. Support acts subject to change withou
+ t refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/west-22nd-the-independent-tickets/1491
+ 8693
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -88,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -115,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Weedeater\, Zeke\, Royal Thunder\, Yes Ma'am
 DTSTART:20261002T020000Z
 DTEND:20261002T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfaFjV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/weedeater-zeke-royal-thunder-y
@@ -131,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -148,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:saint harison presents the ghosted tour (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -184,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:"The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -209,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -237,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -258,10 +219,26 @@ URL:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets/1499523
  3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All Shall Perish\, Carnifex\, Extermination Dismemberment\, Mauled
+DTSTART:20261004T010000Z
+DTEND:20261004T030000Z
+DTSTAMP:20260927T032919Z
+UID:rZ7HnEZ1Afx6kK
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/all-shall-perish-carnifex-exte
+ rmination-the-ritz-tickets/14887193\nVenue: The Ritz\nLocation: 400 S 1st 
+ St\, San Jose\, CA\nPrice: $42-$521\nGenres: Music\, Metal\, Heavy Metal\,
+  Rock\, Death Metal/Black Metal\nCategories: concert\nSource: ticketmaster
+ /music
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/all-shall-perish-carnifex-exterminatio
+ n-the-ritz-tickets/14887193
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -279,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -292,10 +269,26 @@ URL:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berkeley-cal
  ifornia-10-03-2026/event/1C006485F154531D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:THE KEHLANI WORLD TOUR: North America
+DTSTART:20261005T013000Z
+DTEND:20261005T033000Z
+DTSTAMP:20260927T032919Z
+UID:G5vYZ_5K7qMj8
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
+ ica-mountain-view-california-10-04-2026/event/1C0064B4C4777710\nVenue: Sho
+ reline Amphitheatre\nLocation: One Amphitheatre Parkway\, Mountain View\, 
+ CA\nGenres: Music\, R&B\nHost: LIVE NATION MUSIC\nCategories: concert\nSou
+ rce: ticketmaster/music
+LOCATION:One Amphitheatre Parkway\, Mountain View\, CA
+URL:https://www.ticketmaster.com/the-kehlani-world-tour-north-america-moun
+ tain-view-california-10-04-2026/event/1C0064B4C4777710
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -320,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -345,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -369,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -390,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -403,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -418,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -440,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -459,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -491,42 +484,10 @@ URL:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-nord-tic
  kets/14969533
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall 2026 ArtSpan Open Studios Pop-Up Gallery At Sports Basement (
- Bryant Street)
-DTSTART;TZID=America/Los_Angeles:20261010T103000
-DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260926T203713Z
-UID:funcheap-20261010-fall2026artspanopenstudi
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-g
- allery-sports-basement-bryant-street/\nLocation: san francisco\nPrice: Fre
- e\nCategories: concert\, free\nSource: funcheap/san-francisco\n\nCheck out
-  local artists and their studios this Fall during ArtSpan Open Studios Wee
- kend 3 at Sports Basement Bryant Street in San Francisco. Browse\, connect
- \, and collect. We have 11 San Francisco Bay Area artists showcasing paint
- ings\, photography\, sculptures\, and more. Free parking. Free admission. 
- Join us in person for a special weekend of art\, creativity\, and communit
- y at Sports Basement Bryant Street in the 5th Floor West Community Room\, 
- San Francisco . Get ready for a fun and inspiring art experience. Dive int
- o the creative vibes\, meet local artists\, and explore unique artworks at
-  the Fall 2026 ArtSpan Open Studios . Whether you’re an art lover or jus
- t looking for a cool way to spend the day\, this event is perfect for you.
-  Don’t miss the artistic buzz this Fall. The Details: October 10-11\, 20
- 26 (Saturday & Sunday) 10:30 a.m. to 6:00 p.m. both days Sports Basement 
- – Bryant St – 5th floor (1590 Bryant St\, San Francisco\, CA) ️ FREE
-  ENTRY! FREE PARKING! What To Expect: + 11 local artists showcasing their 
- work in a variety of mediums – painting\, sculpture\, photography\, and 
- more + A wide range of original artworks and prints for sale + A chance to
-  meet the artists\, hear their stories
-LOCATION:san francisco
-URL:https://sf.funcheap.com/fall-2026-artspan-open-studios-popup-gallery-s
- ports-basement-bryant-street/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -542,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -560,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -581,10 +542,25 @@ URL:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-in-san-j
  ose-california-10-12-2026/event/1C0065149A5C1108
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juanes North America Tour 2026
+DTSTART:20261015T030000Z
+DTEND:20261015T050000Z
+DTSTAMP:20260927T032919Z
+UID:G5vYZ_7mbC_v-
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/juanes-north-america-tour-2026-sa
+ n-jose-california-10-14-2026/event/1C00644B98399061\nVenue: San Jose Civic
+ \nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Latin\nHos
+ t: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmaster/music
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/juanes-north-america-tour-2026-san-jose-c
+ alifornia-10-14-2026/event/1C00644B98399061
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -608,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -628,10 +604,68 @@ URL:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-san-fran
  cisco-california-10-15-2026/event/1C00646B0F53BAEF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World Famous Pets
+DTSTART:20261016T030000Z
+DTEND:20261016T050000Z
+DTSTAMP:20260927T032919Z
+UID:rZ7HnEZ1AfF08f
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
+ lub-tickets/14224414\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Ave
+ nue\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Rock\nCategories: c
+ oncert\, free\nSource: ticketmaster/music\n\n21+ ONLY. Please note - there
+  is a delivery delay set for 2 weeks prior to show. This event is 21 and o
+ ver. Any ticket holder unable to present valid identification indicating t
+ hat they are at least 21 years of age will not be admitted to this event\,
+  and will not be eligible for a refund. Another Planet Entertainment is co
+ mmitted to producing safe events. Please review our most up-to-date COVID-
+ 19 policy requirements for entry at https://apeconcerts.com/health-safety 
+ * Policy is subject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tick
+ ets/14224414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
+DTSTART:20261017T033000Z
+DTEND:20261017T053000Z
+DTSTAMP:20260927T032919Z
+UID:rZ7HnEZ1AfPs7K
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
+ sh-american-hall-tickets/14971113\nVenue: Swedish American Hall\nLocation:
+  2174 Market St\, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\nCa
+ tegories: concert\, free\nSource: ticketmaster/music\n\nWhoever Allan Raym
+ an is\, hes made a hell of a body of work so far.The Toronto based artist 
+ has delivered one head-scratching\, hypnotic and heavenly project after an
+ other\, including Hotel Allan\, Roadhouse 01\, and the unforgettable CHRIS
+ TIAN.Along the way\, he generated over 250 million streams\, sold out tour
+ s in Europe\, USA and Canada\, and shined at festivals\, including Reading
+  & Leeds\, Bonnaroo\, Rifflandia and Lollapalooza\, and has collaborated w
+ ith the likes of Jessie Reyez\, Alex da Kid and James Vincent McMorrow.His
+  most recent album #1 Girl is a group of demos fictionally written and rec
+ orded by #1 Girl\, whom we first meet during the intro of The All Allan Ho
+ ur.Set in the year of 1994\, Allan writes the album from her perspective a
+ nd sings in her tone of voice to the best of his ability\, delivering us a
+  sonic departure of the familiar Allan Rayman weve come to know.-Tier Prio
+ rity Seating: Includes Premiere Seating in the First 4 Rows and an Exclusi
+ ve Allan Rayman Merch Item.General Admission: Unreserved Seating. First Co
+ me\, First Serve.-Presale Start: Wednesday\, June 10th at 10:00 AM Public 
+ On Sale: Friday\, June 12th at 10:00 AM For any event that is listed as 18
+  or 21 and over\, ANY ticket holder unable to present valid identification
+  indicating that they are of age will not be admitted to this event\, and 
+ will not be eligible for a refund. Any event listed as All Ages\, means 6 
+ years of age or older. ALL tickets are standing room only unless otherwise
+  specified. If you need s
+LOCATION:2174 Market St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-ameri
+ can-hall-tickets/14971113
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -647,10 +681,27 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:This is Lorelei
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+DTSTAMP:20260927T032919Z
+UID:rZ7HnEZ1Af0FGd
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
+ t-tickets/14908303\nVenue: The Independent\nLocation: 628 Divisadero St\, 
+ San Francisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Indie Pop\, Alterna
+ tive\nCategories: concert\, free\nSource: ticketmaster/music\n\nPlease not
+ e - there is a delivery delay set for 2 weeks prior to show. Support acts 
+ subject to change without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
+ s/14908303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -674,7 +725,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -696,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -711,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -729,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -745,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20260926T203713Z
+DTSTAMP:20260927T032919Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
