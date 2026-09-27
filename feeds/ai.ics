@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.
 DTSTART:20260927T170000Z
 DTEND:20260928T010000Z
-DTSTAMP:20260927T032919Z
+DTSTAMP:20260927T111925Z
 UID:evt-VfSExGP3FFCEYVh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/vmqjw9hv\nLocation: Berkeley\, CA\nHost: GDG Sta
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Grok Bot x Notion for Product Builders night (SF)
 DTSTART:20260930T000000Z
 DTEND:20260930T033000Z
-DTSTAMP:20260927T032919Z
+DTSTAMP:20260927T111925Z
 UID:evt-OiFkITxP5F6rX0n
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Cache Me Outside: A Rooftop Party at the AI Conference
 DTSTART:20261001T000000Z
 DTEND:20261001T030000Z
-DTSTAMP:20260927T032919Z
+DTSTAMP:20260927T111925Z
 UID:evt-fbXDcwz01gSiIbn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/wesjv6eq\nLocation: KAIYŌ Rooftop\, 701 3rd St 
@@ -46,12 +46,24 @@ BEGIN:VEVENT
 SUMMARY:How AI Models Learn to Do Real Work
 DTSTART:20261001T003000Z
 DTEND:20261001T033000Z
-DTSTAMP:20260927T032919Z
+DTSTAMP:20260927T111925Z
 UID:evt-YUXj40WxzAttDXn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/icar7u2x\nLocation: San Francisco\, CA\nHost: Op
  enRouter Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/icar7u2x
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STACKED: Sandboxes\, Inference\, & Observability
+DTSTART:20261001T010000Z
+DTEND:20261001T033000Z
+DTSTAMP:20260927T111925Z
+UID:evt-QzLbxtUc4CDGNbx
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/e2b-0e34\nLocation: San Francisco\, CA\nHost: E2
+ B\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/e2b-0e34
 END:VEVENT
 END:VCALENDAR
