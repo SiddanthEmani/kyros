@@ -5,52 +5,51 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Bay] JOURNEY OF THE MIND: Exhibition Walkthrough
-DTSTART:20260927T170000Z
-DTEND:20260927T180000Z
-DTSTAMP:20260927T161945Z
-UID:evt-cTX4NIeGFf4RoWw
-CATEGORIES:community
-DESCRIPTION:https://lu.ma/0p4tiznl\nLocation: Campbell House Museum\, 160 
- Queen St W\, Toronto\, ON M5H 3H3\, Canada\nHost: without SHAPE without FO
- RM\nCategories: community\nSource: luma/san-francisco+luma/san-jose+luma/v
- irtual
-LOCATION:Campbell House Museum\, 160 Queen St W\, Toronto\, ON M5H 3H3\, C
- anada
-URL:https://lu.ma/0p4tiznl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Bay] Game Market West: Fall 2026
-DTSTART:20260927T170000Z
-DTEND:20260927T220000Z
-DTSTAMP:20260927T161945Z
-UID:evt-rei4Dr9qBvu1giN
-CATEGORIES:community
-DESCRIPTION:https://lu.ma/6d5nmzxb\nLocation: Guildhouse\, 420 First St\, 
- San Jose\, CA 95113\, USA\nHost: Personal\nCategories: community\nSource: 
- luma-html/san-francisco
-LOCATION:Guildhouse\, 420 First St\, San Jose\, CA 95113\, USA
-URL:https://lu.ma/6d5nmzxb
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay] Journal in the Park - South Bay ✍️
 DTSTART:20260927T210000Z
 DTEND:20260927T230000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:evt-Gzqq8htsMdOfsLa
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/journalsouthbay\nLocation: Sunnyvale\, CA\nHost:
   Read in the Park - Bay Area 📚\nCategories: community\nSource: luma-htm
- l/san-francisco
+ l/san-francisco+luma/san-francisco+luma/san-jose+luma/virtual
 LOCATION:Sunnyvale\, CA
 URL:https://lu.ma/journalsouthbay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay] September 27th 2026 House Of The Spirits
+DTSTART:20260927T210000Z
+DTEND:20260927T223000Z
+DTSTAMP:20260927T204820Z
+UID:evt-bw56yAxxrxe5pXF
+CATEGORIES:community
+DESCRIPTION:https://lu.ma/hcgzvto1\nLocation: Books Inc.\, 1875 S Bascom A
+ ve #600\, Campbell\, CA 95008\, USA\nHost: Unbanned Book Club Santa Clara\
+ nCategories: community\nSource: luma/san-francisco+luma/san-jose+luma/virt
+ ual
+LOCATION:Books Inc.\, 1875 S Bascom Ave #600\, Campbell\, CA 95008\, USA
+URL:https://lu.ma/hcgzvto1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Top AI Researchers Roundtable & BBQ Party in Los Altos Hills
+DTSTART:20260927T220000Z
+DTEND:20260928T000000Z
+DTSTAMP:20260927T204820Z
+UID:evt-Hryc6TDrSxGJV7n
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/x5scayif\nLocation: Los Altos Hills\, CA\nHost: 
+ Bay Area Founders Club\nCategories: ai\nSource: luma/san-francisco+luma/sa
+ n-jose+luma/virtual
+LOCATION:Los Altos Hills\, CA
+URL:https://lu.ma/x5scayif
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Bay/Free] Randall Museum 75th Anniversary: Free Science/Nature/Ar
  t Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20260927T170000
 DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:funcheap-20260927-randallmuseum75thanniver
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
@@ -83,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Yandel - SINFÓNICO
 DTSTART:20260928T030000Z
 DTEND:20260928T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_aDynCGo
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/yandel-sinfonico-san-jose-califor
@@ -104,61 +103,52 @@ URL:https://www.ticketmaster.com/yandel-sinfonico-san-jose-california-09-2
  7-2026/event/1C00649EF9A8E311
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AI] Grok Bot x Notion for Product Builders night (SF)
-DTSTART:20260930T000000Z
-DTEND:20260930T033000Z
-DTSTAMP:20260927T161945Z
-UID:evt-OiFkITxP5F6rX0n
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
- nHost: SpaceXAI Community\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/grokbotproduct-sf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Cache Me Outside: A Rooftop Party at the AI Conference
+SUMMARY:[AI] Decompress & Connect: AI Inference & Open-Weight Models with 
+ FriendliAI
 DTSTART:20261001T000000Z
 DTEND:20261001T030000Z
-DTSTAMP:20260927T161945Z
-UID:evt-fbXDcwz01gSiIbn
+DTSTAMP:20260927T204820Z
+UID:evt-sEXoSg3YzbBtQiF
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/wesjv6eq\nLocation: KAIYŌ Rooftop\, 701 3rd St 
- 12th Floor\, San Francisco\, CA 94107\, USA\nHost: Baseten Events\nCategor
- ies: ai\nSource: luma-html/san-francisco
-LOCATION:KAIYŌ Rooftop\, 701 3rd St 12th Floor\, San Francisco\, CA 94107
- \, USA
-URL:https://lu.ma/wesjv6eq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] How AI Models Learn to Do Real Work
-DTSTART:20261001T003000Z
-DTEND:20261001T033000Z
-DTSTAMP:20260927T161945Z
-UID:evt-YUXj40WxzAttDXn
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/icar7u2x\nLocation: San Francisco\, CA\nHost: Op
- enRouter Events\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/tmdfg30t\nLocation: San Francisco\, CA\nHost: Fr
+ iendliAI\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vi
+ rtual
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/icar7u2x
+URL:https://lu.ma/tmdfg30t
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AI] STACKED: Sandboxes\, Inference\, & Observability
+SUMMARY:[AI] AIC SF Chapter Team & Volunteer Get-Together (w/ The AI Colle
+ ctive)
+DTSTART:20261001T003000Z
+DTEND:20261001T023000Z
+DTSTAMP:20260927T204820Z
+UID:evt-huVuSpeCdR7qvmO
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/aic-sf-team-gettogether\nLocation: San Francisco
+ \, CA\nHost: The AI Collective\nCategories: ai\nSource: luma/san-francisco
+ +luma/san-jose+luma/virtual
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/aic-sf-team-gettogether
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Wiki3: Own Your Own AI Workshop
 DTSTART:20261001T010000Z
 DTEND:20261001T033000Z
-DTSTAMP:20260927T161945Z
-UID:evt-QzLbxtUc4CDGNbx
+DTSTAMP:20260927T204820Z
+UID:evt-IMPA5nXOARdPwX7
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/e2b-0e34\nLocation: San Francisco\, CA\nHost: E2
- B\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/e2b-0e34
+DESCRIPTION:https://lu.ma/Wiki3\nLocation: Hacker Dojo\, 855 Maude Ave\, M
+ ountain View\, CA 94043\, USA\nHost: Personal\nCategories: ai\nSource: lum
+ a/san-francisco+luma/san-jose+luma/virtual
+LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
+URL:https://lu.ma/Wiki3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Live] $uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia &
   more
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_6RUiHsh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2
@@ -185,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Weedeater\, Zeke\, Royal Thunder\, Yes Ma'am
 DTSTART:20261002T020000Z
 DTEND:20261002T040000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfaFjV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/weedeater-zeke-royal-thunder-y
@@ -201,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -219,7 +209,7 @@ SUMMARY:[Live/Free] saint harison presents the ghosted tour (An Evening Wi
  th) (SOLD OUT)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -255,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] "The Hayley Williams Show"
 DTSTART:20261003T020000Z
 DTEND:20261003T040000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_1KoLUrp
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
@@ -280,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Madeon presents Victory Live (18+)
 DTSTART:20261003T030000Z
 DTEND:20261003T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_1K6Y0Pb
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
@@ -308,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -333,7 +323,7 @@ SUMMARY:[Bay/Free] Free 30-Minute Dance Shows on Freedom + Justice at SF L
  ibraries (Oct. 3-17)
 DTSTART;TZID=America/Los_Angeles:20261003T130000
 DTEND;TZID=America/Los_Angeles:20261003T151500
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:funcheap-20261003-free30minutedanceshowson
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-30minute-dance-shows-freedom-just
@@ -361,11 +351,27 @@ URL:https://sf.funcheap.com/free-30minute-dance-shows-freedom-justice-sf-l
  ibraries-oct-317/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay] Music Beyond Boundaries - Marimba Festival & Women's Journey
+ s in Leadership Forum
+DTSTART:20261003T220000Z
+DTEND:20261004T020000Z
+DTSTAMP:20260927T204820Z
+UID:evt-G26fpvNIgeecbdi
+CATEGORIES:community
+DESCRIPTION:https://lu.ma/skskjm66\nLocation: Conservatory of the Arts\, V
+ alley Christian High School Walk Way\, San Jose\, CA 95111\, USA\nHost: NA
+ TEA Silicon Valley\nCategories: community\nSource: luma/san-francisco+luma
+ /san-jose+luma/virtual
+LOCATION:Conservatory of the Arts\, Valley Christian High School Walk Way\
+ , San Jose\, CA 95111\, USA
+URL:https://lu.ma/skskjm66
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] All Shall Perish\, Carnifex\, Extermination Dismemberment\,
   Mauled
 DTSTART:20261004T010000Z
 DTEND:20261004T030000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1Afx6kK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/all-shall-perish-carnifex-exte
@@ -381,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -399,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -415,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261005T013000Z
 DTEND:20261005T033000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_5K7qMj8
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -431,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -453,10 +459,34 @@ URL:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-californi
  a-10-06-2026/event/1C006474CCD8F68D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] SOMBR - You Are The Reason Tour
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+DTSTAMP:20260927T204820Z
+UID:G5vYZ_FLJZy-y
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
+ -jose-california-10-07-2026/event/1C006487E6039879\nVenue: SAP Center at S
+ an Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, Rock
+ \, Alternative Rock\nHost: AEG LIVE\nCategories: concert\nSource: ticketma
+ ster/music\n\nSAP Center recommends that fans bring bags that are 5" x 9"x
+  2" or smaller to expedite their entry. However\, we are happy to accommod
+ ate larger bags up to 20" x 14" x 11" in size! When it comes to the larger
+  bags\, please note the following: All bags\, including medical and infant
+  bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection and will 
+ result in longer wait times for entry Bags must be able to fit under your 
+ seat once inside the event\; therefore\, bags larger than 20" x 14" x 11" 
+ will not be permitted. SAP Center no longer offers a bag check option and/
+ or onsite storage lockers.
+LOCATION:525 W Santa Clara\, San Jose\, CA
+URL:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san-jose-ca
+ lifornia-10-07-2026/event/1C006487E6039879
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -478,34 +508,52 @@ URL:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-californi
  a-10-07-2026/event/1C006474CCDCF693
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live] SOMBR - You Are The Reason Tour
-DTSTART:20261008T020000Z
-DTEND:20261008T040000Z
-DTSTAMP:20260927T161945Z
-UID:G5vYZ_FLJZy-y
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
- -jose-california-10-07-2026/event/1C006487E6039879\nVenue: SAP Center at S
- an Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, Rock
- \, Alternative Rock\nHost: AEG LIVE\nCategories: concert\nSource: ticketma
- ster/music\n\nSAP Center recommends that fans bring bags that are 5" x 9"x
-  2" or smaller to expedite their entry. However\, we are happy to accommod
- ate larger bags up to 20" x 14" x 11" in size! When it comes to the larger
-  bags\, please note the following: All bags\, including medical and infant
-  bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection and will 
- result in longer wait times for entry Bags must be able to fit under your 
- seat once inside the event\; therefore\, bags larger than 20" x 14" x 11" 
- will not be permitted. SAP Center no longer offers a bag check option and/
- or onsite storage lockers.
-LOCATION:525 W Santa Clara\, San Jose\, CA
-URL:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san-jose-ca
- lifornia-10-07-2026/event/1C006487E6039879
+SUMMARY:[AI] OpenShell & NemoClaw: Meet the Builders
+DTSTART:20261009T003000Z
+DTEND:20261009T023000Z
+DTSTAMP:20260927T204820Z
+UID:evt-q1UgYvEyjPGScPP
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/q6v3ywku\nLocation: Courtyard by Marriott San Jo
+ se Campbell\, 655 Creekside Way\, Campbell\, CA 95008\, USA\nHost: OpenShe
+ ll Agent Runtime Meetup\nCategories: ai\nSource: luma/san-francisco+luma/s
+ an-jose+luma/virtual
+LOCATION:Courtyard by Marriott San Jose Campbell\, 655 Creekside Way\, Cam
+ pbell\, CA 95008\, USA
+URL:https://lu.ma/q6v3ywku
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Open Lakehouse & AI Meetup
+DTSTART:20261009T010000Z
+DTEND:20261009T040000Z
+DTSTAMP:20260927T204820Z
+UID:evt-DygIOykEEheuPit
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/lenses-e3s2\nLocation: 355 Clementina St\, San F
+ rancisco\, CA 94103\, USA\nHost: Lenses for AI Engineering with Kafka\nCat
+ egories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:355 Clementina St\, San Francisco\, CA 94103\, USA
+URL:https://lu.ma/lenses-e3s2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] AI Art Workshop: See the World Through Your Pet’s Eyes
+DTSTART:20261009T013000Z
+DTEND:20261009T033000Z
+DTSTAMP:20260927T204820Z
+UID:evt-BABr9GETqaSiinK
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/vqh1ro3g\nLocation: Gallery House\, 826 Santa Cr
+ uz Ave\, Menlo Park\, CA 94025\, USA\nHost: Aesthetic Intelligence Circle 
+ (AIC)\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtu
+ al
+LOCATION:Gallery House\, 826 Santa Cruz Ave\, Menlo Park\, CA 94025\, USA
+URL:https://lu.ma/vqh1ro3g
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Bay] Other Minds Festival 30
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T210000
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:funcheap-20261008-othermindsfestival30
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/minds-festival-30/\nLocation: san jose
@@ -534,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -555,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -568,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -583,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -605,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -624,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -656,10 +704,25 @@ URL:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-nord-tic
  kets/14969533
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Alignment 2026 ｜Valley101 Annual Tech Summit - Live from th
+ e AI Frontier\, Uncut
+DTSTART:20261010T160000Z
+DTEND:20261012T010000Z
+DTSTAMP:20260927T204820Z
+UID:evt-EnbT7ip4RSA5gGY
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/alignment2026\nLocation: Plug and Play Tech Cent
+ er\, 440 N Wolfe Rd\, Sunnyvale\, CA 94085\, USA\nHost: Valley 101\nCatego
+ ries: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:Plug and Play Tech Center\, 440 N Wolfe Rd\, Sunnyvale\, CA 94085
+ \, USA
+URL:https://lu.ma/alignment2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -675,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -690,10 +753,37 @@ URL:https://www.ticketweb.com/event/electric-feels-indie-rock-the-ritz-tic
  kets/14239214
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay] Succulent Workshop
+DTSTART:20261011T170000Z
+DTEND:20261011T183000Z
+DTSTAMP:20260927T204820Z
+UID:evt-bEeMX3mJNJYDcX1
+CATEGORIES:community
+DESCRIPTION:https://lu.ma/5cvkfjv8\nLocation: 545 Meridian Ave ste c\, San
+  Jose\, CA 95126\, USA\nHost: Personal\nCategories: community\nSource: lum
+ a/san-francisco+luma/san-jose+luma/virtual
+LOCATION:545 Meridian Ave ste c\, San Jose\, CA 95126\, USA
+URL:https://lu.ma/5cvkfjv8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay] COMING OUT FESTIVAL
+DTSTART:20261011T190000Z
+DTEND:20261012T010000Z
+DTSTAMP:20260927T204820Z
+UID:evt-93CtiWNqanGaUaI
+CATEGORIES:community
+DESCRIPTION:https://lu.ma/b7rl4ynw\nLocation: Arena Green West\, N Autumn 
+ St\, San Jose\, CA 95113\, USA\nHost: 愉园社 Society of Heart's Delight
+ \nCategories: community\nSource: luma/san-francisco+luma/san-jose+luma/vir
+ tual
+LOCATION:Arena Green West\, N Autumn St\, San Jose\, CA 95113\, USA
+URL:https://lu.ma/b7rl4ynw
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] 2026-27 TAEMIN WORLD TOUR <LiMiNaL> IN SAN JOSE
 DTSTART:20261013T030000Z
 DTEND:20261013T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_o3Q9v7F
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-
@@ -714,10 +804,23 @@ URL:https://www.ticketmaster.com/202627-taemin-world-tour-liminal-in-san-j
  ose-california-10-12-2026/event/1C0065149A5C1108
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Wiki3: Own Your Own AI Workshop
+DTSTART:20261015T010000Z
+DTEND:20261015T033000Z
+DTSTAMP:20260927T204820Z
+UID:evt-LiPuiFioJs0ErG6
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/fqvz8u93\nLocation: Hacker Dojo\, 855 Maude Ave\
+ , Mountain View\, CA 94043\, USA\nHost: Personal\nCategories: ai\nSource: 
+ luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
+URL:https://lu.ma/fqvz8u93
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Juanes North America Tour 2026
 DTSTART:20261015T030000Z
 DTEND:20261015T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_7mbC_v-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/juanes-north-america-tour-2026-sa
@@ -732,7 +835,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -756,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -779,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] World Famous Pets
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfF08f
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
@@ -798,11 +901,24 @@ URL:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tick
  ets/14224414
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Open Together: AI Builders Unite
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+DTSTAMP:20260927T204820Z
+UID:evt-Hi5xnKWbH9xR0q5
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/OpenTogether\nLocation: The Midway\, 900 Marin S
+ t\, San Francisco\, CA 94124\, USA\nHost: Hugging Face\nCategories: ai\nSo
+ urce: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:The Midway\, 900 Marin St\, San Francisco\, CA 94124\, USA
+URL:https://lu.ma/OpenTogether
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live/Free] Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary To
  ur
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -838,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -857,7 +973,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -871,31 +987,10 @@ URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
  s/14908303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] San Francisco Photobook Fair
-DTSTART;TZID=America/Los_Angeles:20261017T110000
-DTEND;TZID=America/Los_Angeles:20261017T170000
-DTSTAMP:20260927T161945Z
-UID:funcheap-20261017-sanfranciscophotobookfai
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/san-francisco-photobook-fair/\nLocatio
- n: san francisco\nPrice: Free\nCategories: community\, free\nSource: funch
- eap/san-francisco\n\nSan Francisco Photobook Fair Saturday\, October 17 & 
- Sunday\, October 18\, 2026 · 11am–5pm both days Harvey Milk Photo Cente
- r · 50 Scott St\, San Francisco · Free The San Francisco Photobook Fair 
- returns for its second year with 40+ publishers\, artists\, and independen
- t presses from across the US and internationally — from handmade zines a
- nd limited editions to major monographs. Highlights include Nazraeli Press
- \, TBW Books\, KGP Monolith\, Setanta Books (UK)\, Artichoke Press\, and p
- hotographer Arthur Tress. Coffee and pastries by Loquat all weekend. harve
- ymilkphotocenter.org
-LOCATION:san francisco
-URL:https://sf.funcheap.com/san-francisco-photobook-fair/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -916,10 +1011,25 @@ URL:https://www.ticketmaster.com/rush-fifty-something-san-jose-california-
  10-17-2026/event/1C006355EC78A84D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
+DTSTART:20261018T030000Z
+DTEND:20261018T050000Z
+DTSTAMP:20260927T204820Z
+UID:G5vYZ_88Gk5pz
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
+ n-jose-california-10-17-2026/event/1C0065040C18B5B8\nVenue: San Jose Civic
+ \nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Latin\nHos
+ t: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmaster/music
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-san-jose-c
+ alifornia-10-17-2026/event/1C0065040C18B5B8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM/Free] Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -938,25 +1048,10 @@ URL:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14
  933603
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
-DTSTART:20261018T030000Z
-DTEND:20261018T050000Z
-DTSTAMP:20260927T161945Z
-UID:G5vYZ_88Gk5pz
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
- n-jose-california-10-17-2026/event/1C0065040C18B5B8\nVenue: San Jose Civic
- \nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Latin\nHos
- t: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmaster/music
-LOCATION:135 San Carlos St.\, San Jose\, CA
-URL:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-san-jose-c
- alifornia-10-17-2026/event/1C0065040C18B5B8
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -974,7 +1069,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -987,10 +1082,24 @@ URL:https://www.ticketmaster.com/engelbert-humperdinck-the-celebration-tou
  r-2026-san-jose-california-10-21-2026/event/1C0064D1E5127059
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Agentic Growth: What CMOs Still Own as AI Takes on More of th
+ e Growth Engine
+DTSTART:20261023T003000Z
+DTEND:20261023T020000Z
+DTSTAMP:20260927T204820Z
+UID:evt-oxHprLhYPH3C7HS
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/wq5002df\nLocation: Palo Alto\, CA\nHost: The CM
+ O Community\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma
+ /virtual
+LOCATION:Palo Alto\, CA
+URL:https://lu.ma/wq5002df
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -1006,7 +1115,7 @@ SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
  ival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -1036,11 +1145,24 @@ URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
  sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Local Align #3 — AI × GTM Growth Hackathon & Social
+DTSTART:20261024T180000Z
+DTEND:20261025T000000Z
+DTSTAMP:20260927T204820Z
+UID:evt-KdgiJ5gO82TXRB9
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/bo69pa9j\nLocation: Santa Clara\, CA\nHost: Loca
+ l Align\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vir
+ tual
+LOCATION:Santa Clara\, CA
+URL:https://lu.ma/bo69pa9j
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -1073,7 +1195,7 @@ SUMMARY:[Bay/Free] SF’s “Golden Hour” Filipino Night Market is Back
  for 2026 (SoMa)
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260927T161945Z
+DTSTAMP:20260927T204820Z
 UID:funcheap-20261024-sfsgoldenhourfilipinonig
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
