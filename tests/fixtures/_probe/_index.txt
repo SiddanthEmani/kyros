@@ -1,12 +1,4 @@
-vsj_global.js 200 1025623 application/javascript https://www.sanjose.org/themes/custom/sanjose/js/global-ui.js
-vsj_jsonapi_event.json 
-vsj_jsonapi_events.json 
-sjd_allorigins.ics 522 16 text/plain; charset=UTF-8 https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
-sjd_codetabs.ics 522 16 text/plain; charset=UTF-8 https://api.codetabs.com/v1/proxy/?quest=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
-sjd_tribe_allorigins.json 522 16 text/plain; charset=UTF-8 https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fwp-json%2Ftribe%2Fevents%2Fv1%2Fevents%3Fper_page%3D50
-dtb_day.json 200 183175 application/json; charset=utf-8 https://dothebay.com/events/2026/10/3.json
-dtb_day_p2.json 200 142842 application/json; charset=utf-8 https://dothebay.com/events/2026/10/3.json?page=2
-dtb_music.json 200 134252 application/json; charset=utf-8 https://dothebay.com/events/music.json
-dtb_music_day.json 200 151303 application/json; charset=utf-8 https://dothebay.com/events/music/2026/10/3.json
-cv_pull_approved.json 200 32041 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true
-cv_pull_offset.json 200 58584 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&offset=20&startDateTime=2026-09-28T07:00:00.000Z
+vsj_listings.json 200 364834 application/json https://www.sanjose.org/event-listings
+sjd_feed.xml 403 5690 text/html; charset=UTF-8 https://sjdowntown.com/dtsj-events/feed/
+cv_pull_100.json 200 251482 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&limit=100&offset=0&startDateTime=2026-09-28T07:00:00.000Z
+cv_pull_sf.json 200 225877 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&limit=100&offset=0&startDateTime=2026-09-28T07:00:00.000Z&location=San%20Francisco%2C%20CA
