@@ -27,28 +27,24 @@ jobs:
               -o "probe/$name" -w "%{http_code} %{size_download} %{content_type} %{url_effective}" "$url")
             echo "$name $code" | tee -a probe/_index.txt
           done <<'URLS'
-          sjd_ical.ics https://sjdowntown.com/dtsj-events/?ical=1
-          sjd_list.ics https://sjdowntown.com/dtsj-events/list/?ical=1
-          sjd_tribe.json https://sjdowntown.com/wp-json/tribe/events/v1/events?per_page=50
-          stanford.json https://events.stanford.edu/api/2/events?days=30&pp=100
-          stanford_types.json https://events.stanford.edu/api/2/events/filters
-          dtb_events.html https://dothebay.com/events
-          dtb_day.html https://dothebay.com/events/2026/10/3
-          dtb_json.json https://dothebay.com/events.json
-          dtb_today_json.json https://dothebay.com/events/today.json
-          dtb_music.html https://dothebay.com/events/music
-          cv_events.html https://cerebralvalley.ai/events
-          cv_api.json https://api.cerebralvalley.ai/v1/public/event/pull
-          vsj_events.html https://www.sanjose.org/events
-          vsj_token.txt https://www.sanjose.org/plugins/core/get_simple_token/
+          vsj_global.js https://www.sanjose.org/themes/custom/sanjose/js/global-ui.js
+          vsj_jsonapi_event.json https://www.sanjose.org/jsonapi/node/event?page[limit]=3
+          vsj_jsonapi_events.json https://www.sanjose.org/jsonapi/node/events?page[limit]=3
+          sjd_allorigins.ics https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
+          sjd_codetabs.ics https://api.codetabs.com/v1/proxy/?quest=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
+          sjd_tribe_allorigins.json https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fwp-json%2Ftribe%2Fevents%2Fv1%2Fevents%3Fper_page%3D50
+          dtb_day.json https://dothebay.com/events/2026/10/3.json
+          dtb_day_p2.json https://dothebay.com/events/2026/10/3.json?page=2
+          dtb_music.json https://dothebay.com/events/music.json
+          dtb_music_day.json https://dothebay.com/events/music/2026/10/3.json
+          cv_pull_approved.json https://api.cerebralvalley.ai/v1/public/event/pull?approved=true
+          cv_pull_offset.json https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&offset=20&startDateTime=2026-09-28T07:00:00.000Z
           URLS
-          # Visit San Jose is Simpleview: the listing is fetched client-side
-          # with a short-lived token.
-          tok=$(cat probe/vsj_token.txt | tr -d '"\n ')
-          q='{"filter":{"active":true,"$and":[{"categories.catId":{"$exists":true}}],"date_range":{"start":{"$date":"2026-09-28T07:00:00.000Z"},"end":{"$date":"2026-10-28T07:00:00.000Z"}}},"options":{"limit":50,"skip":0,"count":true,"castDocs":false,"fields":{"categories":1,"endDate":1,"featured":1,"host_id":1,"latitude":1,"longitude":1,"location":1,"media_raw":1,"nextDate":1,"rank":1,"recid":1,"recurType":1,"recurrence":1,"startDate":1,"startTime":1,"endTime":1,"title":1,"typeName":1,"url":1,"address1":1,"city":1,"admission":1,"listing.title":1,"listing.url":1},"sort":{"featured":-1,"nextDate":1,"rank":1,"title_sort":1}}}'
-          curl -sS -m 30 -A "$UA" -G "https://www.sanjose.org/includes/rest_v2/plugins_events_events_by_date/find/" \
-            --data-urlencode "json=$q" --data-urlencode "token=$tok" -o probe/vsj_find.json \
-            -w "vsj_find.json %{http_code} %{size_download}\n" | tee -a probe/_index.txt
+          # Where do Cerebral Valley's bundles call the events API?
+          for u in $(grep -oE '/_next/static/chunks/[^"?]+\.js' tests/fixtures/_probe/cv_events.html | sort -u); do
+            curl -s -m 20 -A "$UA" "https://cerebralvalley.ai$u" | grep -oE '.{0,300}(event/pull|fetchEventsList|/v1/public/event).{0,400}' >> probe/cv_js_snippets.txt
+          done
+          grep -oE '.{0,200}(\$http|\.get\(|url:|json).{0,300}' probe/vsj_global.js > probe/vsj_js_snippets.txt
           ls -la probe
       - name: Commit
         run: |
@@ -56,4 +52,4 @@ jobs:
           git config user.email "kyros-bot@users.noreply.github.com"
           mkdir -p tests/fixtures/_probe && cp probe/* tests/fixtures/_probe/
           git add tests/fixtures/_probe
-          git commit -m "probe: raw source captures" && git push
+          git commit -m "probe: raw source captures (2)" && git push
