@@ -1,15 +1,12 @@
-sjd_ical.ics 403 5711 text/html; charset=UTF-8 https://sjdowntown.com/dtsj-events/?ical=1
-sjd_list.ics 403 5726 text/html; charset=UTF-8 https://sjdowntown.com/dtsj-events/list/?ical=1
-sjd_tribe.json 403 5802 text/html; charset=UTF-8 https://sjdowntown.com/wp-json/tribe/events/v1/events?per_page=50
-stanford.json 200 566001 application/json; charset=utf-8 https://events.stanford.edu/api/2/events?days=30&pp=100
-stanford_types.json 200 3156 application/json; charset=utf-8 https://events.stanford.edu/api/2/events/filters
-dtb_events.html 200 225694 text/html; charset=utf-8 https://dothebay.com/events
-dtb_day.html 200 238740 text/html; charset=utf-8 https://dothebay.com/events/2026/10/3
-dtb_json.json 200 140220 application/json; charset=utf-8 https://dothebay.com/events.json
-dtb_today_json.json 200 140220 application/json; charset=utf-8 https://dothebay.com/events/today.json
-dtb_music.html 200 226984 text/html; charset=utf-8 https://dothebay.com/events/music
-cv_events.html 200 368786 text/html; charset=utf-8 https://cerebralvalley.ai/events
-cv_api.json 400 149 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull
-vsj_events.html 200 50787 text/html; charset=UTF-8 https://www.sanjose.org/events
-vsj_token.txt 404 40299 text/html; charset=UTF-8 https://www.sanjose.org/plugins/core/get_simple_token/
-vsj_find.json 503 170
+vsj_global.js 200 1025623 application/javascript https://www.sanjose.org/themes/custom/sanjose/js/global-ui.js
+vsj_jsonapi_event.json 
+vsj_jsonapi_events.json 
+sjd_allorigins.ics 522 16 text/plain; charset=UTF-8 https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
+sjd_codetabs.ics 522 16 text/plain; charset=UTF-8 https://api.codetabs.com/v1/proxy/?quest=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
+sjd_tribe_allorigins.json 522 16 text/plain; charset=UTF-8 https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fwp-json%2Ftribe%2Fevents%2Fv1%2Fevents%3Fper_page%3D50
+dtb_day.json 200 183175 application/json; charset=utf-8 https://dothebay.com/events/2026/10/3.json
+dtb_day_p2.json 200 142842 application/json; charset=utf-8 https://dothebay.com/events/2026/10/3.json?page=2
+dtb_music.json 200 134252 application/json; charset=utf-8 https://dothebay.com/events/music.json
+dtb_music_day.json 200 151303 application/json; charset=utf-8 https://dothebay.com/events/music/2026/10/3.json
+cv_pull_approved.json 200 32041 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true
+cv_pull_offset.json 200 58584 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&offset=20&startDateTime=2026-09-28T07:00:00.000Z
