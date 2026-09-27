@@ -1,0 +1,15 @@
+sjd_ical.ics 403 5711 text/html; charset=UTF-8 https://sjdowntown.com/dtsj-events/?ical=1
+sjd_list.ics 403 5726 text/html; charset=UTF-8 https://sjdowntown.com/dtsj-events/list/?ical=1
+sjd_tribe.json 403 5802 text/html; charset=UTF-8 https://sjdowntown.com/wp-json/tribe/events/v1/events?per_page=50
+stanford.json 200 566001 application/json; charset=utf-8 https://events.stanford.edu/api/2/events?days=30&pp=100
+stanford_types.json 200 3156 application/json; charset=utf-8 https://events.stanford.edu/api/2/events/filters
+dtb_events.html 200 225694 text/html; charset=utf-8 https://dothebay.com/events
+dtb_day.html 200 238740 text/html; charset=utf-8 https://dothebay.com/events/2026/10/3
+dtb_json.json 200 140220 application/json; charset=utf-8 https://dothebay.com/events.json
+dtb_today_json.json 200 140220 application/json; charset=utf-8 https://dothebay.com/events/today.json
+dtb_music.html 200 226984 text/html; charset=utf-8 https://dothebay.com/events/music
+cv_events.html 200 368786 text/html; charset=utf-8 https://cerebralvalley.ai/events
+cv_api.json 400 149 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull
+vsj_events.html 200 50787 text/html; charset=UTF-8 https://www.sanjose.org/events
+vsj_token.txt 404 40299 text/html; charset=UTF-8 https://www.sanjose.org/plugins/core/get_simple_token/
+vsj_find.json 503 170
