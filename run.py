@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """kyros — Bay Area event feed refresh job.
 
-Fetches events from Luma (AI), Ticketmaster (concerts and club shows)
-and Funcheap (free/cheap), classifies and ranks them with San Jose
-weighted first, and writes a combined iCalendar feed plus per-category
+Fetches events from Luma (AI) and Funcheap (free/cheap), classifies
+and ranks them with San Jose weighted first, and writes a combined iCalendar feed plus per-category
 feeds.
 
 Run: `python run.py [--ics-path events.ics] [--dry-run] [--explain]`.

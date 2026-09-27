@@ -7,12 +7,11 @@ reviewed in a sandbox or in CI before a live refresh.
 
 from __future__ import annotations
 
-import json
 import logging
 from datetime import datetime, timedelta, timezone
 
 from ..config import PROJECT_DIR
-from . import funcheap, ticketmaster
+from . import funcheap
 
 FIXTURES = PROJECT_DIR / "tests" / "fixtures"
 
@@ -45,11 +44,6 @@ def _shift_to_future(events: list, tz) -> list:
 def fetch(config: dict, log: logging.Logger) -> list:
     tz = _tz(config)
     events: list = []
-
-    tm = FIXTURES / "ticketmaster_events.json"
-    if tm.exists():
-        events += ticketmaster.parse_payload(
-            json.loads(tm.read_text()), "ticketmaster/music", log)
 
     fc = FIXTURES / "funcheap_sanjose.xml"
     if fc.exists():

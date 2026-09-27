@@ -40,18 +40,15 @@ Or add a raw feed URL manually. Everything lives under
 
 ```
 Luma ┐
- TM  ├─►  classify  ─►  geo filter  ─►  dedup  ─►  rank  ─►  cap  ─►  5 feeds
+     ├─►  classify  ─►  geo filter  ─►  dedup  ─►  rank  ─►  cap  ─►  5 feeds
 Fun. ┘     5 buckets     50mi of SJ    merge      SJ first   per cat    every 6h
 ```
 
-1. **Fetch** — three sources, each isolated so a dead site can't take down a
+1. **Fetch** — two sources, each isolated so a dead site can't take down a
    refresh:
    - **Luma** — AI talks, demos and hackathons. Scrapes the server-rendered
      discover HTML and paginates the JSON discover API, falling back through
      CORS relays when the runner IP is blocked.
-   - **Ticketmaster** — concerts and ticketed shows within 50 miles of
-     downtown San Jose (SAP Center, Shoreline, The Ritz, Fox Oakland, Chase
-     Center). Needs a free API key; skips itself without one.
    - **Funcheap** — free and cheap events, region by region, South Bay first.
 2. **Classify** — each event lands in one or more of `ai`, `edm`, `concert`,
    `free`, `community`. Anything that matches nothing is dropped, which is
@@ -60,7 +57,7 @@ Fun. ┘     5 buckets     50mi of SJ    merge      SJ first   per cat    every 
    gives them, else by city and venue names. Outside 50 miles of San Jose
    is dropped.
 4. **Dedup** — the same show arrives from more than one source. Matches
-   merge, so one event keeps Ticketmaster's price and another source's
+   merge, so one event keeps one source's price and another source's
    genre tags.
 5. **Rank & cap** — per-category scoring plus a **San Jose / South Bay
    boost**, so SJ wins the caps while a strong SF show still makes it. Caps
@@ -69,14 +66,6 @@ Fun. ┘     5 buckets     50mi of SJ    merge      SJ first   per cat    every 
 
 If a refresh collapses (blocked IP, changed markup), the run **fails loudly
 and keeps the existing feeds** rather than publishing an empty calendar.
-
-## The Ticketmaster key (optional)
-
-Concert coverage is much better with one. Grab a free key at
-[developer.ticketmaster.com](https://developer.ticketmaster.com/) (5,000
-calls/day; a refresh uses ~10) and add it as a repository secret named
-`TICKETMASTER_API_KEY`. Without it, that source logs `no key, skipping` and
-everything else still builds.
 
 ## Running it locally
 
@@ -113,7 +102,6 @@ python run.py --offline --ics-path /tmp/kyros/events.ics
 | `free_bonus` | `1.0` | score bonus for free events |
 | `sources` | all `true` | turn an individual source off |
 | `cities` / `luma_categories` | SJ, SF, Oakland, Palo Alto / `["ai"]` | Luma discover scope |
-| `ticketmaster_classifications` | `["music"]` | Discovery classifications to query |
 | `categories.<name>.cap` | 8–15 | top-N per category |
 | `categories.<name>.min_weekday_hour_local` | `16`–`17` | weekday events must start at/after this hour; weekends always pass |
 | `combined_cap` | `60` | cap on the combined feed |
@@ -133,9 +121,10 @@ kyros/
   classify.py  rank.py         # categories and per-category scoring
   dedup.py  ics.py             # cross-source merge, feed writing
   pipeline.py  report.py       # fetch -> filter -> rank -> write, run report
-  sources/                     # luma, ticketmaster, funcheap
+  sources/                     # luma, funcheap
 tests/                         # offline, fixture-driven
 scripts/fetch_fixtures.py      # refresh fixtures when a site changes
+docs/source-candidates.md      # researched sources not yet built
 config.json                    # user-editable
 .github/workflows/
   refresh.yml                  # 6-hourly schedule, commits the feeds

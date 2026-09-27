@@ -7,12 +7,11 @@ down a refresh.
 
 from __future__ import annotations
 
-from . import funcheap, luma, ticketmaster
+from . import funcheap, luma
 
 SOURCES = {
     luma.NAME: luma.fetch,
-    ticketmaster.NAME: ticketmaster.fetch,
     funcheap.NAME: funcheap.fetch,
 }
 
-__all__ = ["SOURCES", "luma", "ticketmaster", "funcheap"]
+__all__ = ["SOURCES", "luma", "funcheap"]

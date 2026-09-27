@@ -15,13 +15,11 @@
 
   "sources": {
     "luma": true,
-    "ticketmaster": true,
     "funcheap": true
   },
   "cities": ["san-francisco", "san-jose"],
   "luma_categories": ["ai"],
   "include_virtual_global": true,
-  "ticketmaster_classifications": ["music"],
 
   "categories": {
     "ai":        { "enabled": true, "cap": 12, "min_weekday_hour_local": 17 },

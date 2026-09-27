@@ -1,6 +1,6 @@
 """Cross-source duplicate merging.
 
-The same show reaches us from Ticketmaster and Funcheap with different
+The same show reaches us from more than one source with different
 ids and slightly different titles. Merging (rather than letting one source
 arbitrarily win) is what keeps the price from one and the genre tags from
 the other on the same event.

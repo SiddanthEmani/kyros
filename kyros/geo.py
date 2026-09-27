@@ -202,40 +202,6 @@ def haversine_miles(lat1: float, lon1: float,
     return 2 * r * math.asin(math.sqrt(a))
 
 
-def geohash(lat: float, lon: float, precision: int = 6) -> str:
-    """Encode a coordinate as a geohash. Ticketmaster's `geoPoint` takes
-    one; there's no stdlib encoder, so this is the standard bit-interleave."""
-    base32 = "0123456789bcdefghjkmnpqrstuvwxyz"
-    lat_range, lon_range = [-90.0, 90.0], [-180.0, 180.0]
-    out: list[str] = []
-    bits = 0
-    bit = 0
-    even = True
-    while len(out) < precision:
-        if even:
-            mid = sum(lon_range) / 2
-            if lon > mid:
-                bits = (bits << 1) | 1
-                lon_range[0] = mid
-            else:
-                bits <<= 1
-                lon_range[1] = mid
-        else:
-            mid = sum(lat_range) / 2
-            if lat > mid:
-                bits = (bits << 1) | 1
-                lat_range[0] = mid
-            else:
-                bits <<= 1
-                lat_range[1] = mid
-        even = not even
-        bit += 1
-        if bit == 5:
-            out.append(base32[bits])
-            bits = 0
-            bit = 0
-    return "".join(out)
-
 
 _ADDRESS_RE = re.compile(
     r"^\d|\b(?:st|street|ave|avenue|blvd|boulevard|rd|road|dr|drive|way|"

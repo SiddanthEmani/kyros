@@ -31,14 +31,12 @@ DEFAULT_CONFIG: dict = {
     "free_bonus": 1.0,
 
     "sources": {
-        "luma": True, "ticketmaster": True, "funcheap": True,
+        "luma": True, "funcheap": True,
     },
     # Luma discover slugs / categories (AI events).
     "cities": ["san-francisco", "san-jose"],
     "luma_categories": ["ai"],
     "include_virtual_global": True,
-    # Ticketmaster Discovery classifications to query.
-    "ticketmaster_classifications": ["music"],
 
     "categories": {
         "ai":        {"enabled": True, "cap": 12, "min_weekday_hour_local": 17},

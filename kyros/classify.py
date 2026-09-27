@@ -62,7 +62,7 @@ EDM_STRONG = re.compile(
     r"|\bsound ?system\b|\bselectors?\b|\bopen decks\b|\bclub night\b",
     re.IGNORECASE,
 )
-# Ticketmaster files Disco, Funk and Soul *underneath* the
+# Ticketing sites file Disco, Funk and Soul *underneath* the
 # "Dance/Electronic" genre, so that label alone is not evidence of a club
 # night — it is how "Lionel Richie and Earth, Wind & Fire" reached the EDM
 # feed. When one of these appears alongside it, the act is the subgenre,
@@ -177,7 +177,7 @@ def classify(event) -> set[str]:
     if _is_electronic(event, hay):
         cats.add(EDM)
 
-    # Ticketmaster stamps its segment/genre names onto event.genres, so a
+    # Ticketing sources stamp segment/genre names onto event.genres, so a
     # "Music" segment is authoritative for live shows. Electronic shows
     # already landed in EDM above and keep that (better) label.
     tm_music = "music" in genre_text

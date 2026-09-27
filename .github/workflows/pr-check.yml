@@ -40,12 +40,7 @@ jobs:
       # The live run. --dry-run writes no feeds and commits nothing, so this
       # is safe on any PR. The report lands in the job summary so a failure
       # can be diagnosed without opening the raw log.
-      #
-      # On a PR from a fork the secret is absent by design; the Ticketmaster
-      # source then skips itself and the rest still has to pass.
       - name: Pipeline against live sources
-        env:
-          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: |
           python run.py --dry-run --explain \
             --report "$GITHUB_STEP_SUMMARY" \

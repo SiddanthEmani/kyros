@@ -41,10 +41,6 @@ jobs:
           git pull --rebase --quiet origin "$GITHUB_REF_NAME"
 
       - name: Build feeds
-        env:
-          # Optional: without it the Ticketmaster source skips itself and
-          # the rest of the feed still builds.
-          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: python run.py --ics-path events.ics --explain
 
       - name: Commit if changed
