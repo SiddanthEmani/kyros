@@ -1,4 +1,4 @@
-vsj_listings.json 200 364834 application/json https://www.sanjose.org/event-listings
-sjd_feed.xml 403 5690 text/html; charset=UTF-8 https://sjdowntown.com/dtsj-events/feed/
-cv_pull_100.json 200 251482 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&limit=100&offset=0&startDateTime=2026-09-28T07:00:00.000Z
-cv_pull_sf.json 200 225877 application/json; charset=utf-8 https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&limit=100&offset=0&startDateTime=2026-09-28T07:00:00.000Z&location=San%20Francisco%2C%20CA
+vsj_detail_0.html 200 145627 text/html; charset=UTF-8 https://www.sanjose.org/theaters/events/las-alucines
+vsj_detail_1.html 200 148318 text/html; charset=UTF-8 https://www.sanjose.org/theaters/events/come-together-tribute-beatles
+vsj_detail_2.html 200 145825 text/html; charset=UTF-8 https://www.sanjose.org/theaters/events/ryan-castro-sende-last-dance-tour
+vsj_detail_3.html 200 45274 text/html; charset=UTF-8 https://www.sanjose.org/events/oktoberfest-san-pedro-square-market
