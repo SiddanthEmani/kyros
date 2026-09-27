@@ -7,11 +7,16 @@ down a refresh.
 
 from __future__ import annotations
 
-from . import funcheap, luma
+from . import cerebralvalley, dothebay, funcheap, luma, stanford, visitsanjose
 
 SOURCES = {
     luma.NAME: luma.fetch,
+    cerebralvalley.NAME: cerebralvalley.fetch,
+    visitsanjose.NAME: visitsanjose.fetch,
+    dothebay.NAME: dothebay.fetch,
+    stanford.NAME: stanford.fetch,
     funcheap.NAME: funcheap.fetch,
 }
 
-__all__ = ["SOURCES", "luma", "funcheap"]
+__all__ = ["SOURCES", "luma", "cerebralvalley", "visitsanjose", "dothebay",
+           "stanford", "funcheap"]

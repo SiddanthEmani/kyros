@@ -31,12 +31,15 @@ DEFAULT_CONFIG: dict = {
     "free_bonus": 1.0,
 
     "sources": {
-        "luma": True, "funcheap": True,
+        "luma": True, "cerebralvalley": True, "visitsanjose": True,
+        "dothebay": True, "stanford": True, "funcheap": True,
     },
     # Luma discover slugs / categories (AI events).
     "cities": ["san-francisco", "san-jose"],
     "luma_categories": ["ai"],
     "include_virtual_global": True,
+    # DoTheBay day pages are popularity-sorted, 25 a page.
+    "dothebay_pages_per_day": 2,
 
     "categories": {
         "ai":        {"enabled": True, "cap": 12, "min_weekday_hour_local": 17},

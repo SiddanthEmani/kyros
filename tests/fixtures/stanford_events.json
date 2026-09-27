@@ -1,0 +1,929 @@
+{
+ "events": [
+  {
+   "event": {
+    "id": 53737430719656,
+    "title": "Public Tour | A Closer Look",
+    "url": "https://museum.stanford.edu/",
+    "updated_at": "2026-09-27T04:27:15-07:00",
+    "created_at": "2026-08-18T13:06:36-07:00",
+    "facebook_id": null,
+    "first_date": "2026-08-29",
+    "last_date": "2027-08-29",
+    "hashtag": null,
+    "urlname": "public-tour-a-closer-look",
+    "user_id": 52022746087043,
+    "directions": null,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "Cantor Arts Center",
+    "status": "live",
+    "experience": "inperson",
+    "stream_url": null,
+    "stream_info": null,
+    "stream_embed_code": null,
+    "created_by": 52022746087043,
+    "updated_by": 52022746087043,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "328 Lomita Drive, Stanford, CA 94305",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": true,
+    "free": true,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 37946731848987,
+    "ticket_url": "",
+    "ticket_cost": "Free",
+    "has_register": false,
+    "keywords": [],
+    "tags": [
+     "Arts & Culture",
+     "Cantor Arts Center",
+     "cantor arts center tour",
+     "cantor tour"
+    ],
+    "description": "<p><span style=\"font-size:11pt\"><span><span><span><span style=\"font-style:normal\"><span style=\"text-decoration:none\">Discover new details, perspectives, and connections with Cantor&rsquo;s &ldquo;A Closer Look&rdquo; tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each t",
+    "description_text": "Discover new details, perspectives, and connections with Cantor\u2019s \u201cA Closer Look\u201d tours. Led by a Stanford Student Guide or volunteer Museum Engagement Guide, each tour focuses on three to four artworks organized around a theme, providing participants with opportunities for contemplation and convers",
+    "photo_id": 53737448144687,
+    "speaker_ids": [],
+    "detail_views": 860,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "37.432981",
+     "longitude": "-122.170494",
+     "street": "328 Lomita Drive",
+     "city": "Stanford",
+     "state": "CA",
+     "country": "US",
+     "zip": "94305"
+    },
+    "departments": [
+     {
+      "id": 37955139932814,
+      "name": "Cantor Arts Center"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "Everyone",
+       "id": 37146718530202
+      }
+     ],
+     "event_subject": [
+      {
+       "name": "Arts/Media",
+       "id": 37093209005248
+      },
+      {
+       "name": "Education",
+       "id": 37952873727502
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Tour",
+       "id": 37952570044769
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53737430732980,
+       "event_id": 53737430719656,
+       "start": "2026-09-27T13:00:00-07:00",
+       "end": "2026-09-27T14:00:00-07:00",
+       "ranking": 0.06,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/public-tour-a-closer-look",
+    "localist_ics_url": "https://events.stanford.edu/event/public-tour-a-closer-look.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
+    "venue_url": "https://events.stanford.edu/cantor_arts_center"
+   }
+  },
+  {
+   "event": {
+    "id": 53552124726869,
+    "title": "Stanford Energy Seminar | AI for Climate Solutions: GRAIL | Shanthakumar Bannirchelvam, SUN New Energy Capital",
+    "url": "https://energy.stanford.edu/events/energy-seminar/about-energy-seminar",
+    "updated_at": "2026-09-27T04:20:58-07:00",
+    "created_at": "2026-07-28T14:26:08-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-28",
+    "last_date": "2026-09-28",
+    "hashtag": "",
+    "urlname": "stanford-energy-seminar-09282026",
+    "user_id": 38838506446854,
+    "directions": null,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": "104",
+    "location_name": "Shriram Center",
+    "status": "live",
+    "experience": "hybrid",
+    "stream_url": "https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49dc00ef-6ff8-4be9-b730-b4c201778b5b",
+    "stream_info": "",
+    "stream_embed_code": "",
+    "created_by": 38838506446854,
+    "updated_by": 54081005636239,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "443 Via Ortega, Stanford, CA 94305",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": true,
+    "venue_id": 37946739009321,
+    "ticket_url": "",
+    "ticket_cost": "",
+    "has_register": false,
+    "keywords": [
+     "Climate",
+     "precourt",
+     "energy seminar",
+     "Stanford University",
+     "SDSS",
+     "clean energy transition",
+     "decarbonization",
+     "artificial intelligence"
+    ],
+    "tags": [
+     "explore energy",
+     "accelerator",
+     "sdss",
+     "Precourt Institute",
+     "Doerr School of Sustainability",
+     "precourt institute for energy",
+     "energy seminar"
+    ],
+    "description": "<p><span style=\"font-size:12pt\"><span><span>The Stanford Energy Seminar has been a mainstay of energy engagement at Stanford for nearly 20 years and is one of the flagship programs of the Precourt Institute for Energy.&nbsp;We aim to bring a wide variety of perspectives to the Stanford community &nd",
+    "description_text": "The Stanford Energy Seminar has been a mainstay of energy engagement at Stanford for nearly 20 years and is one of the flagship programs of the Precourt Institute for Energy. We aim to bring a wide variety of perspectives to the Stanford community \u2013 academics, entrepreneurs, utilities, non-profits, ",
+    "photo_id": 53604126698952,
+    "speaker_ids": [],
+    "detail_views": 8766,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "37.429138",
+     "longitude": "-122.17552",
+     "street": "443 Via Ortega",
+     "city": "Stanford",
+     "state": "CA",
+     "country": "US",
+     "zip": "94305"
+    },
+    "departments": [
+     {
+      "id": 37955143163132,
+      "name": "Precourt Institute for Energy"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "Everyone",
+       "id": 37146718530202
+      },
+      {
+       "name": "Students",
+       "id": 37006980803119
+      }
+     ],
+     "event_subject": [
+      {
+       "name": "Environment/Sustainability",
+       "id": 37952873731600
+      },
+      {
+       "name": "Engineering/Technology",
+       "id": 37952873729551
+      },
+      {
+       "name": "Business",
+       "id": 37952873721356
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Lecture/Presentation/Talk",
+       "id": 37952570034524
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53552138881730,
+       "event_id": 53552124726869,
+       "start": "2026-09-28T16:30:00-07:00",
+       "end": "2026-09-28T17:20:00-07:00",
+       "ranking": 81.35,
+       "all_day": false,
+       "num_attending": 7
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/stanford-energy-seminar-09282026",
+    "localist_ics_url": "https://events.stanford.edu/event/stanford-energy-seminar-09282026.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53604126698952/huge/3b36c863306841871b8537101588961373cb13b1.jpg",
+    "venue_url": "https://events.stanford.edu/shriram_center"
+   }
+  },
+  {
+   "event": {
+    "id": 53790488506507,
+    "title": "Challenge Success Annual Conference",
+    "url": "https://www.challengesuccess.org/2026-annual-conference/",
+    "updated_at": "2026-09-27T04:31:20-07:00",
+    "created_at": "2026-08-24T13:02:19-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-26",
+    "last_date": "2026-09-27",
+    "hashtag": null,
+    "urlname": "challenge-success-annual-conference",
+    "user_id": 47262303737539,
+    "directions": null,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": null,
+    "location_name": "Angela Nomellini & Ken Olivier building (ANKO)",
+    "status": "live",
+    "experience": "inperson",
+    "stream_url": null,
+    "stream_info": null,
+    "stream_embed_code": null,
+    "created_by": 47262303737539,
+    "updated_by": 47262303737539,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "485 Lasuen Mall, Stanford, CA 94305",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": true,
+    "venue_id": 52693596964495,
+    "ticket_url": "https://www.challengesuccess.org/2026-annual-conference/",
+    "ticket_cost": "$1095 per person, group discount available",
+    "has_register": false,
+    "keywords": [],
+    "tags": [
+     "education",
+     "well-being",
+     "Engagement",
+     "teaching and learning",
+     "belonging"
+    ],
+    "description": "<p>We&rsquo;re gathering educators, school and district leaders, counselors, families, and students at&nbsp;Stanford University on September 26-27, 2026, to reimagine what student success can look like. Over two powerful days, you&rsquo;ll learn from leading researchers and practitioners, hear direc",
+    "description_text": "We\u2019re gathering educators, school and district leaders, counselors, families, and students at Stanford University on September 26-27, 2026, to reimagine what student success can look like. Over two powerful days, you\u2019ll learn from leading researchers and practitioners, hear directly from student voi",
+    "photo_id": 53790574958116,
+    "speaker_ids": [],
+    "detail_views": 400,
+    "featured": true,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "37.426354",
+     "longitude": "-122.168353",
+     "street": "485 Lasuen Mall",
+     "city": "Stanford",
+     "state": "CA",
+     "country": "US",
+     "zip": "94305"
+    },
+    "departments": [
+     {
+      "id": 37955140534014,
+      "name": "Challenge Success"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "General Public",
+       "id": 37006980816438
+      }
+     ],
+     "event_subject": [
+      {
+       "name": "Education",
+       "id": 37952873727502
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Conference/Symposium",
+       "id": 37952570027353
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53790488510605,
+       "event_id": 53790488506507,
+       "start": "2026-09-27T08:30:00-07:00",
+       "end": "2026-09-27T15:15:00-07:00",
+       "ranking": 80.24,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/challenge-success-annual-conference",
+    "localist_ics_url": "https://events.stanford.edu/event/challenge-success-annual-conference.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53790574958116/huge/bcbbbd126f3568fbdad142676fc7f862c653d24c.jpg",
+    "venue_url": "https://events.stanford.edu/angela-nomellini-ken-olivier-building-anko-627"
+   }
+  },
+  {
+   "event": {
+    "id": 54067690568753,
+    "title": "Explore Energy Seminar | Stanford's Top-Flight Energy Complex",
+    "url": null,
+    "updated_at": "2026-09-27T04:46:08-07:00",
+    "created_at": "2026-09-24T20:59:50-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-29",
+    "last_date": "2026-09-29",
+    "hashtag": null,
+    "urlname": "explore-energy-seminar-stanfords-top-flight-energy-complex",
+    "user_id": 52428794454285,
+    "directions": null,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "Central Energy Facility",
+    "room_number": null,
+    "location_name": "Central Energy Facility",
+    "status": "live",
+    "experience": "inperson",
+    "stream_url": null,
+    "stream_info": null,
+    "stream_embed_code": null,
+    "created_by": 52428794454285,
+    "updated_by": 54074451753989,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "506 Oak Road",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "<p>Visit the heart of Stanford&#39;s energy infrastructure!</p>\n\n<p>Join us for a perimeter tour of Stanford&#39;s Central Energy Facility, a monumental achievement in energy efficiency that has welcomed more than 20,000 visitors. We&#39;ll explore how Stanford purchases, distributes, and manages en",
+    "description_text": "Visit the heart of Stanford's energy infrastructure!\n\nJoin us for a perimeter tour of Stanford's Central Energy Facility, a monumental achievement in energy efficiency that has welcomed more than 20,000 visitors. We'll explore how Stanford purchases, distributes, and manages energy.\n\nBonus: We will ",
+    "photo_id": 54073848689647,
+    "speaker_ids": [],
+    "detail_views": 80,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "-33.396657",
+     "longitude": "151.443901",
+     "street": "506 Oak Road",
+     "city": "Matcham",
+     "state": "NSW",
+     "country": "AU",
+     "zip": "2250"
+    },
+    "departments": [
+     {
+      "id": 42535865268822,
+      "name": "Explore Energy House"
+     },
+     {
+      "id": 37955143163132,
+      "name": "Precourt Institute for Energy"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "Everyone",
+       "id": 37146718530202
+      }
+     ],
+     "event_subject": [
+      {
+       "name": "Environment/Sustainability",
+       "id": 37952873731600
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Class/Seminar",
+       "id": 37952570025304
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54067690569778,
+       "event_id": 54067690568753,
+       "start": "2026-09-29T18:00:00-07:00",
+       "end": "2026-09-29T19:20:00-07:00",
+       "ranking": 0.37,
+       "all_day": false,
+       "num_attending": 1
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/explore-energy-seminar-stanfords-top-flight-energy-complex",
+    "localist_ics_url": "https://events.stanford.edu/event/explore-energy-seminar-stanfords-top-flight-energy-complex.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54073848689647/huge/9e26b5f23e3a85060829bf53d6af30df0ad8a669.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53870154433922,
+    "title": "Autumn Quarter: Basic Cardiac Life Support for Healthcare Professionals.",
+    "url": null,
+    "updated_at": "2026-09-27T04:36:41-07:00",
+    "created_at": "2026-09-02T13:08:46-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-26",
+    "last_date": "2026-09-27",
+    "hashtag": null,
+    "urlname": "basic-cardiac-life-support-for-healthcare-professionals",
+    "user_id": 41166401831402,
+    "directions": null,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "inperson",
+    "stream_url": null,
+    "stream_info": null,
+    "stream_embed_code": null,
+    "created_by": 41166401831402,
+    "updated_by": 41166401831402,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [],
+    "tags": [
+     "autumn",
+     "SOM academic calendar",
+     "26-27"
+    ],
+    "description": "",
+    "description_text": "",
+    "photo_id": null,
+    "speaker_ids": [],
+    "detail_views": 118,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "departments": [
+     {
+      "id": 37955142858948,
+      "name": "Office of Medical Student Affairs"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "Everyone",
+       "id": 37146718530202
+      }
+     ],
+     "event_subject": [
+      {
+       "name": "Medicine",
+       "id": 37952873742869
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Academic Dates",
+       "id": 39324630417361
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53870154435972,
+       "event_id": 53870154433922,
+       "start": "2026-09-27T00:00:00-07:00",
+       "end": null,
+       "ranking": 0.22,
+       "all_day": true,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/basic-cardiac-life-support-for-healthcare-professionals",
+    "localist_ics_url": "https://events.stanford.edu/event/basic-cardiac-life-support-for-healthcare-professionals.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 54055336637074,
+    "title": "CEE PhD Defense: Eleanor Ho, \"A Multi-Scale Investigation of Building Energy Use: From Attribution to Prediction, for Design and Operational Decision-Making\"",
+    "url": null,
+    "updated_at": "2026-09-27T04:45:32-07:00",
+    "created_at": "2026-09-23T11:29:06-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-28",
+    "last_date": "2026-09-28",
+    "hashtag": null,
+    "urlname": "cee-phd-defense-eleanor-ho",
+    "user_id": 41121615576104,
+    "directions": null,
+    "allows_reviews": false,
+    "allows_attendance": false,
+    "location": "",
+    "room_number": "300",
+    "location_name": "Y2E2 Building",
+    "status": "live",
+    "experience": "hybrid",
+    "stream_url": "https://stanford.zoom.us/j/93464584592?pwd=ab4Ua1ScOIuaftbPqtAVtuth7iRDSG.1",
+    "stream_info": "",
+    "stream_embed_code": "",
+    "created_by": 41121615576104,
+    "updated_by": 41121615576104,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "473 Via Ortega, Stanford, CA 94305",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": 37946742104078,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [],
+    "tags": [],
+    "description": "<p><span style=\"font-size:12pt\"><span><span>Abstract:</span></span></span></p>\n\n<p><span style=\"font-size:12.0pt\"><span><span>Buildings account for roughly one third of global energy use, and both their design and operation shape how much they consume. This dissertation investigates building energy ",
+    "description_text": "Abstract:\n\nBuildings account for roughly one third of global energy use, and both their design and operation shape how much they consume. This dissertation investigates building energy use across spatial scales, asking how building and urban form attributes affect energy use, and at what level of mo",
+    "photo_id": 54055341418447,
+    "speaker_ids": [],
+    "detail_views": 78,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": "37.42816",
+     "longitude": "-122.175935",
+     "street": "473 Via Ortega",
+     "city": "Stanford",
+     "state": "CA",
+     "country": "US",
+     "zip": "94305"
+    },
+    "departments": [
+     {
+      "id": 37955140606732,
+      "name": "Civil and Environmental Engineering"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "Students",
+       "id": 37006980803119
+      },
+      {
+       "name": "Postdocs",
+       "id": 37006980808242
+      },
+      {
+       "name": "Faculty",
+       "id": 37006980810291
+      }
+     ],
+     "event_types": [
+      {
+       "name": "PhD Defense",
+       "id": 40490468118962
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54055336638099,
+       "event_id": 54055336637074,
+       "start": "2026-09-28T13:00:00-07:00",
+       "end": "2026-09-28T14:00:00-07:00",
+       "ranking": 0.22,
+       "all_day": false,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/cee-phd-defense-eleanor-ho",
+    "localist_ics_url": "https://events.stanford.edu/event/cee-phd-defense-eleanor-ho.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/54055341418447/huge/771659392638fc6b7a70fc323a439651386e19af.jpg",
+    "venue_url": "https://events.stanford.edu/y2e2_building"
+   }
+  },
+  {
+   "event": {
+    "id": 53887333129629,
+    "title": "Autumn Quarter: GSB MBA/MSx Add/Drop Deadline",
+    "url": null,
+    "updated_at": "2026-09-27T04:44:44-07:00",
+    "created_at": "2026-09-04T11:44:47-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-28",
+    "last_date": "2026-09-28",
+    "hashtag": null,
+    "urlname": "autumn-quarter-gsb-mbamsx-adddrop-deadline-4420",
+    "user_id": 39147088816504,
+    "directions": null,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "virtual",
+    "stream_url": null,
+    "stream_info": null,
+    "stream_embed_code": null,
+    "created_by": 39571374660851,
+    "updated_by": 46127971698572,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": false,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [
+     "drop",
+     "add",
+     "deadline",
+     "GSB add/drop",
+     "add/drop deadline"
+    ],
+    "tags": [],
+    "description": "<p>This is the last day for students to add or drop GSB courses. See the full Graduate School of Business academic calendar for more information.</p>",
+    "description_text": "This is the last day for students to add or drop GSB courses. See the full Graduate School of Business academic calendar for more information.",
+    "photo_id": null,
+    "speaker_ids": [],
+    "detail_views": 163,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "departments": [
+     {
+      "id": 39174008345140,
+      "name": "Student & Academic Services"
+     },
+     {
+      "id": 39174015382473,
+      "name": "Registrar's Office"
+     }
+    ],
+    "filters": {
+     "event_types": [
+      {
+       "name": "Academic Dates",
+       "id": 39324630417361
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 54045648823111,
+       "event_id": 53887333129629,
+       "start": "2026-09-28T00:00:00-07:00",
+       "end": "2026-09-28T23:59:00-07:00",
+       "ranking": 0.22,
+       "all_day": true,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/autumn-quarter-gsb-mbamsx-adddrop-deadline-4420",
+    "localist_ics_url": "https://events.stanford.edu/event/autumn-quarter-gsb-mbamsx-adddrop-deadline-4420.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/39174008324658/huge/d8c422716af3a987adea4f6733a3aedc13cf4ee9.jpg"
+   }
+  },
+  {
+   "event": {
+    "id": 53701598581762,
+    "title": "Library Treasure Hunt 2026",
+    "url": "https://guides.library.stanford.edu/LibTreasureHunt26",
+    "updated_at": "2026-09-27T04:26:02-07:00",
+    "created_at": "2026-08-14T11:54:33-07:00",
+    "facebook_id": null,
+    "first_date": "2026-09-14",
+    "last_date": "2026-10-02",
+    "hashtag": null,
+    "urlname": "LibTreasureHunt26",
+    "user_id": 43943038886404,
+    "directions": null,
+    "allows_reviews": true,
+    "allows_attendance": true,
+    "location": "",
+    "room_number": null,
+    "location_name": "",
+    "status": "live",
+    "experience": "inperson",
+    "stream_url": null,
+    "stream_info": null,
+    "stream_embed_code": null,
+    "created_by": 43943038886404,
+    "updated_by": 43943038886404,
+    "conference_event_id": null,
+    "kind": "standalone",
+    "address": "",
+    "school_id": 36712717626872,
+    "campus_id": null,
+    "recurring": true,
+    "free": false,
+    "private": false,
+    "verified": true,
+    "rejected": false,
+    "sponsored": false,
+    "venue_id": null,
+    "ticket_url": null,
+    "ticket_cost": null,
+    "has_register": false,
+    "keywords": [
+     "Orientation",
+     "Campus",
+     "fall",
+     "explore",
+     "back to school",
+     "New Student Orientation",
+     "MAP",
+     "NSO",
+     "NGSO",
+     "autumn quarter"
+    ],
+    "tags": [],
+    "description": "<p class=\"desc_normal\">\ud83e\ude8e<b>&nbsp;Embark on a quest across campus and discover the amazing resources our&nbsp;libraries and research centers&nbsp;have to offer!</b></p>\n\n<p class=\"desc_normal\">\u231b The treasure hunt opens on&nbsp;<b>Monday September 14th and ends on Friday October 2nd at 5pm.</b></p>\n\n<",
+    "description_text": "\ud83e\ude8e Embark on a quest across campus and discover the amazing resources our libraries and research centers have to offer!\n\n\u231b The treasure hunt opens on Monday September 14th and ends on Friday October 2nd at 5pm.\n\n\ud83c\udfc6 The more you explore, the more chances you have to win prizes!\n\n\ud83d\udc8e Top prize: Explore bu",
+    "photo_id": 53701666032784,
+    "speaker_ids": [],
+    "detail_views": 3458,
+    "featured": false,
+    "publish_status": "published",
+    "geo": {
+     "latitude": null,
+     "longitude": null,
+     "street": null,
+     "city": null,
+     "state": null,
+     "country": null,
+     "zip": null
+    },
+    "departments": [
+     {
+      "id": 37955145235058,
+      "name": "Stanford University Libraries"
+     }
+    ],
+    "filters": {
+     "event_audience": [
+      {
+       "name": "Students",
+       "id": 37006980803119
+      },
+      {
+       "name": "Postdocs",
+       "id": 37006980808242
+      },
+      {
+       "name": "Faculty",
+       "id": 37006980810291
+      },
+      {
+       "name": "Staff",
+       "id": 37006980812340
+      },
+      {
+       "name": "Affiliates",
+       "id": 37006980814389
+      }
+     ],
+     "event_types": [
+      {
+       "name": "Social Event/Reception",
+       "id": 37952570042720
+      },
+      {
+       "name": "Tour",
+       "id": 37952570044769
+      }
+     ]
+    },
+    "custom_fields": {},
+    "event_instances": [
+     {
+      "event_instance": {
+       "id": 53701618554518,
+       "event_id": 53701598581762,
+       "start": "2026-09-27T00:00:00-07:00",
+       "end": null,
+       "ranking": 0.06,
+       "all_day": true,
+       "num_attending": 0
+      }
+     }
+    ],
+    "localist_url": "https://events.stanford.edu/event/LibTreasureHunt26",
+    "localist_ics_url": "https://events.stanford.edu/event/LibTreasureHunt26.ics",
+    "photo_url": "https://localist-images.azureedge.net/photos/53701666032784/huge/aa7e07cd431aafa3342d5c85e9aef45379e4af27.jpg"
+   }
+  }
+ ],
+ "page": {
+  "current": 1,
+  "size": 100,
+  "total": 1,
+  "total_items": 8,
+  "next_page": null,
+  "previous_page": null
+ },
+ "date": {
+  "first": "2026-09-27",
+  "last": "2026-10-27"
+ }
+}

@@ -92,6 +92,13 @@ CONCERT_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
+# "Tour" means a concert tour, except when someone is walking you around a
+# museum or a campus.
+NOT_A_TOUR_RE = re.compile(
+    r"\b(?:public|guided|walking|docent|campus|gallery|museum|garden"
+    r"|architecture|history|sculpture|art|farm|bike|food|self[- ]guided)"
+    r"\s+tours?\b|\btours?\s*\|", re.IGNORECASE)
+
 # The "interesting events" bucket: things worth an evening that aren't
 # music or AI.
 COMMUNITY_PATTERN = re.compile(
@@ -181,7 +188,8 @@ def classify(event) -> set[str]:
     # "Music" segment is authoritative for live shows. Electronic shows
     # already landed in EDM above and keep that (better) label.
     tm_music = "music" in genre_text
-    if EDM not in cats and (tm_music or CONCERT_PATTERN.search(hay)):
+    concert_hay = NOT_A_TOUR_RE.sub(" ", hay)
+    if EDM not in cats and (tm_music or CONCERT_PATTERN.search(concert_hay)):
         cats.add(CONCERT)
 
     if is_free(event):

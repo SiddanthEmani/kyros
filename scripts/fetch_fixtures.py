@@ -6,7 +6,7 @@ offline. When a site changes its markup, run this from a machine with
 network access, eyeball the diff, and commit the new fixtures together
 with any parser change they force.
 
-Usage: python scripts/fetch_fixtures.py [funcheap|all]
+Usage: python scripts/fetch_fixtures.py [funcheap|stanford|dothebay|cerebralvalley|visitsanjose|all]
 """
 
 from __future__ import annotations
@@ -19,7 +19,8 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 from kyros.http import http_get  # noqa: E402
-from kyros.sources import funcheap  # noqa: E402
+from kyros.sources import (cerebralvalley, dothebay, funcheap,  # noqa: E402
+                           stanford, visitsanjose)
 
 FIXTURES = ROOT / "tests" / "fixtures"
 
@@ -37,6 +38,33 @@ def fetch_funcheap(log) -> None:
     _write("funcheap_sanjose.live.xml", raw.decode("utf-8", "replace"), log)
 
 
+def _fetch_to(url: str, name: str, log) -> None:
+    raw = http_get(url, log)
+    if not raw:
+        log.error("%s: fetch failed", name)
+        return
+    _write(name, raw.decode("utf-8", "replace"), log)
+
+
+def fetch_stanford(log) -> None:
+    _fetch_to(f"{stanford.API_URL}?days=30&pp=100",
+              "stanford_events.live.json", log)
+
+
+def fetch_dothebay(log) -> None:
+    _fetch_to(f"{dothebay.BASE}/events.json", "dothebay_day.live.json", log)
+
+
+def fetch_cerebralvalley(log) -> None:
+    _fetch_to(f"{cerebralvalley.API_URL}?approved=true&limit=100",
+              "cerebralvalley_events.live.json", log)
+
+
+def fetch_visitsanjose(log) -> None:
+    _fetch_to(visitsanjose.LISTINGS_URL, "visitsanjose_listings.live.json",
+              log)
+
+
 def _write(name: str, text: str, log) -> None:
     path = FIXTURES / name
     path.write_text(text)
@@ -44,7 +72,11 @@ def _write(name: str, text: str, log) -> None:
              "it replaces", path, len(text))
 
 
-TARGETS = {"funcheap": fetch_funcheap}
+TARGETS = {"funcheap": fetch_funcheap,
+           "stanford": fetch_stanford,
+           "dothebay": fetch_dothebay,
+           "cerebralvalley": fetch_cerebralvalley,
+           "visitsanjose": fetch_visitsanjose}
 
 
 def main() -> int:

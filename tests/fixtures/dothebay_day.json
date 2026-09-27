@@ -1,0 +1,615 @@
+{
+ "events": [
+  {
+   "id": 17196927,
+   "permalink": "/events/2026/10/3/jon-batiste-tickets",
+   "presented_by": "Another Planet Entertainment Presents: A Fantastical Musical Journey",
+   "title": "Jon Batiste",
+   "description": "<h4 style=\"text-align: center;\"><span style=\"font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;\">Another Planet Entertainment Presents<br></span><span style=\"font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;\">A Fantastical Musical Journey</span></h4><h3 style=\"text",
+   "excerpt": "Another Planet Entertainment PresentsA Fantastical Musical Journey\n\nJon Batiste\nSaturday, October 3 | Greek Theatre\n\n\n\n\n\nJon Batiste is a eight-time Grammy, Academy, and Emmy Award\u2013winning singer, songwriter, composer, and pianist, renowned for his genre-defying approach to music and his commitment ",
+   "category": "Music",
+   "category_param": "music",
+   "conference_category_param": "",
+   "begin_time": "2026-10-03T18:30:00-05:00",
+   "tz_adjusted_begin_date": "2026-10-03T18:30:00-07:00",
+   "tz_adjusted_end_date": "2026-10-04T02:00:00-07:00",
+   "begin_date": "2026-10-03",
+   "past": false,
+   "end_date": null,
+   "end_time": null,
+   "votes": 1213,
+   "ticket_info": "All ages",
+   "allstar_votes": 3,
+   "is_lens": false,
+   "is_eventbrite": false,
+   "clipboard_options": [],
+   "current_user_id": null,
+   "amazon_affiliate": false,
+   "eventbrite_id": null,
+   "ticket_onsale_time": null,
+   "tickets_onsale_today": false,
+   "is_free": false,
+   "is_ongoing": false,
+   "imagery": {
+    "photo": "v1775674871/event-17196927.jpg",
+    "poster": "",
+    "aws": {
+     "cover_image_w_1200_h_450": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31373304/3cd7e2e9-ad17-4450-9079-48086d9cff1c.jpg",
+     "cover_image_h_300_w_864": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31373305/d50d0660-dd7b-43e7-89e0-ec57edabed48.jpg",
+     "cover_image_h_250_w_680": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31373307/c749161b-6907-480b-a196-5af1bb450ef8.jpg",
+     "cover_image_h_630_w_1200": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31373308/a762ec13-d58f-433e-9341-7d54892890f2.jpg",
+     "cover_image_h_50_w_50": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31373309/b98ce184-d3f2-406b-b3ae-496f9e2299c3.jpg",
+     "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32950742/263f009c-c627-42f6-a72c-cb63977068b6.jpg"
+    }
+   },
+   "rating": null,
+   "doors": true,
+   "tracking": {
+    "impression": "/t/l/e/17196927",
+    "hover": "/t/h/e/17196927",
+    "click": "/t/c/e/17196927/http%3A%2F%2Fdostuffmedia.com%3A80%2Fevents%2F17196927"
+   },
+   "tracking_urls": {
+    "impression": "https://t.dostuffmedia.com/t/l/e/17196927",
+    "hover": "https://t.dostuffmedia.com/t/h/e/17196927",
+    "click": "https://t.dostuffmedia.com/t/c/e/17196927/http%3A%2F%2Fdothebay.com%3A80%2Fevents%2F17196927"
+   },
+   "popularity": 1288.0,
+   "sold_out": true,
+   "favorite": false,
+   "actions": {
+    "add": true,
+    "rsvp": false,
+    "buy": true,
+    "buy_vip": false,
+    "win": true
+   },
+   "venue": {
+    "id": 23880,
+    "title": "Greek Theatre",
+    "permalink": "/venues/greek-theatre",
+    "latitude": 37.8755274,
+    "longitude": -122.2568119,
+    "popularity": 35.0,
+    "address": "Hearst Avenue & Gayley Road",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94705",
+    "full_address": "Hearst Avenue & Gayley Road, Berkeley, CA, 94705",
+    "is_english": true,
+    "capacity": false
+   },
+   "artists": [
+    {
+     "id": 119980,
+     "title": "Jon Batiste",
+     "permalink": "/artists/jon-batiste",
+     "data_path": "/artists/119980/quickie",
+     "description": " Peerless artistry combined with the uplifting pleasure of entertainment exists squarely at the heart of Jon Batiste\u2019s musical vision which he calls Social Music and is the title of the full length de",
+     "hometown": "Kenner, LA",
+     "popularity": 876.0,
+     "youtube_id": "_Imhau2AmVo",
+     "spotify_id": "0eRbECAGCLLiTyVXPBRexU"
+    }
+   ],
+   "rsvp": false,
+   "giveaway": {
+    "app_only": false,
+    "giveaway_ask_birth": false,
+    "giveaway_ask_gender": false,
+    "giveaway_ask_name": true,
+    "giveaway_ask_spam": true,
+    "giveaway_ask_zip": false,
+    "giveaway_opt_in": false,
+    "giveaway_opt_in_text": "",
+    "is_standalone": false,
+    "like_button_text": null,
+    "offer": "ENTER TO WIN A PAIR OF TICKETS!",
+    "question_text": "",
+    "action": "/events/17196927/giveaway",
+    "ask21": false,
+    "force21": false,
+    "minimum_age": 21,
+    "alt_terms_url": ""
+   },
+   "buy_url": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Fjon-batiste-jon-batiste-live-berkeley-california-10-03-2026%2Fevent%2F1C006485F154531D%3Fcamefrom%3DCFC_ANOTHERPLANET_web%26brand%3Danotherplanet",
+   "eager": true
+  },
+  {
+   "id": 17790798,
+   "permalink": "/events/2026/9/12/little-shop-of-horrors-tickets",
+   "presented_by": "",
+   "title": "Little Shop of Horrors",
+   "description": "<h3 style=\"text-align: center;\">Little Shop of Horrors</h3><h4 style=\"text-align: center;\">September 12 - October 18 | New Conservatory Theatre Center</h4><p><br></p><p></p><div style=\"text-align:center;\"><img src=\"https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34425882/d693fcd3-4d57-4",
+   "excerpt": "Little Shop of Horrors\nSeptember 12 - October 18 | New Conservatory Theatre Center\n\n\n\n\n\nBook & Lyrics by Howard Ashman\nMusic by Alan Menken\nBased on the film by Roger Corman, Screenplay by Charles Griffith\nDirected by Ben Villegas Randle\nMusical Direction by Jad Bernardo\nChoreography by Leslie Waggo",
+   "category": "Theatre & Performing Arts",
+   "category_param": "theatre-performing-arts",
+   "conference_category_param": "",
+   "begin_time": "2026-09-12T20:00:00-05:00",
+   "tz_adjusted_begin_date": "2026-09-12T20:00:00-07:00",
+   "tz_adjusted_end_date": "2026-10-19T02:00:00-07:00",
+   "begin_date": "2026-09-12",
+   "past": false,
+   "end_date": "2026-10-18",
+   "end_time": null,
+   "votes": 279,
+   "ticket_info": "",
+   "allstar_votes": 1,
+   "is_lens": false,
+   "is_eventbrite": false,
+   "clipboard_options": [],
+   "current_user_id": null,
+   "amazon_affiliate": false,
+   "eventbrite_id": null,
+   "ticket_onsale_time": null,
+   "tickets_onsale_today": false,
+   "is_free": false,
+   "is_ongoing": true,
+   "imagery": {
+    "photo": "v1789409123/event-17790798.jpg",
+    "poster": "",
+    "aws": {
+     "cover_image_w_1200_h_450": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34179809/d870c807-7df4-4ec7-8175-6247d4f9e1b1.jpg",
+     "cover_image_h_300_w_864": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34179810/67224d06-5d89-48f2-8bd5-8760a82315c2.jpg",
+     "cover_image_h_250_w_680": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34179811/5dde42c6-b511-4d60-b530-1fbb28a708ba.jpg",
+     "cover_image_h_630_w_1200": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34179812/66a33d9b-fca1-4a65-8287-4786990d896c.jpg",
+     "cover_image_h_50_w_50": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34179813/e0814408-ca47-4a48-9172-d200ac732a55.jpg",
+     "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34425992/540b7e5f-e4c6-4847-8cb8-3306f468b04d.jpg"
+    }
+   },
+   "rating": null,
+   "doors": false,
+   "tracking": {
+    "impression": "/t/l/e/17790798",
+    "hover": "/t/h/e/17790798",
+    "click": "/t/c/e/17790798/http%3A%2F%2Fdostuffmedia.com%3A80%2Fevents%2F17790798"
+   },
+   "tracking_urls": {
+    "impression": "https://t.dostuffmedia.com/t/l/e/17790798",
+    "hover": "https://t.dostuffmedia.com/t/h/e/17790798",
+    "click": "https://t.dostuffmedia.com/t/c/e/17790798/http%3A%2F%2Fdothebay.com%3A80%2Fevents%2F17790798"
+   },
+   "popularity": 341.0,
+   "sold_out": false,
+   "favorite": false,
+   "actions": {
+    "add": true,
+    "rsvp": false,
+    "buy": true,
+    "buy_vip": false,
+    "win": false
+   },
+   "venue": {
+    "id": 35109,
+    "title": "New Conservatory Theatre Center",
+    "permalink": "/venues/new-conservatory-theatre-center",
+    "latitude": 37.7756318,
+    "longitude": -122.4198806,
+    "popularity": 5.0,
+    "address": "25 Van Ness Avenue",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102",
+    "full_address": "25 Van Ness Avenue, San Francisco, CA, 94102",
+    "is_english": true,
+    "capacity": false
+   },
+   "artists": [],
+   "rsvp": false,
+   "buy_url": "https://nctcsf.org/event/little-shop/",
+   "eager": true
+  },
+  {
+   "id": 16986461,
+   "permalink": "/events/2026/10/3/pop-ups-on-the-plaza-celebrating-latine-makers-tickets",
+   "presented_by": "Foodwise presents",
+   "title": "Pop-Ups on the Plaza: Celebrating Latine Makers",
+   "description": "<h4 style=\"text-align: center;\"><span style=\"font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;\">Foodwise Presents</span></h4><h3 style=\"text-align: center;\"><span style=\"font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;\">Pop-Ups on the Plaza: Celebrating Latine Ma",
+   "excerpt": "Foodwise Presents\nPop-Ups on the Plaza: Celebrating Latine Makers\nSaturday, October 3 | Ferry Plaza\n\n\n\n\n\n\n\n\nThis Hispanic History Month, celebrate Bay Area Latine makers with a day of delicious food, crafts, and community at the Embarcadero Ferry Terminal Plaza (south of the Ferry Building) and Ferr",
+   "category": "Food & Drink",
+   "category_param": "food-drink",
+   "conference_category_param": "",
+   "begin_time": "2026-10-03T09:00:00-05:00",
+   "tz_adjusted_begin_date": "2026-10-03T09:00:00-07:00",
+   "tz_adjusted_end_date": "2026-10-03T14:00:00-07:00",
+   "begin_date": "2026-10-03",
+   "past": false,
+   "end_date": null,
+   "end_time": "2026-10-03T14:00:00-05:00",
+   "votes": 135,
+   "ticket_info": "Free, All ages",
+   "allstar_votes": 1,
+   "is_lens": false,
+   "is_eventbrite": false,
+   "clipboard_options": [],
+   "current_user_id": null,
+   "amazon_affiliate": false,
+   "eventbrite_id": null,
+   "ticket_onsale_time": null,
+   "tickets_onsale_today": false,
+   "is_free": true,
+   "is_ongoing": false,
+   "imagery": {
+    "photo": "v1787776818/event-16986461.jpg",
+    "poster": "v1787776732/event-poster-16986461.jpg",
+    "aws": {
+     "poster_w_800": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086147/f655bc22-f0b1-4432-a1b0-6f5eb3940eaa.jpg",
+     "poster_w_400": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086148/414b479a-bb1b-4258-9026-b243cf0d1e1c.jpg",
+     "cover_image_w_1200_h_450": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086204/e9c0bacb-86bd-4da0-bc15-2198a523aef0.jpg",
+     "cover_image_h_300_w_864": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086205/d90175e5-cb3a-4778-baa6-3449be670247.jpg",
+     "cover_image_h_250_w_680": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086206/b2f07459-8d78-4996-88b7-77920bb46538.jpg",
+     "cover_image_h_630_w_1200": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086207/b56fdcff-00b9-480c-8f4a-5bf6491af46e.jpg",
+     "cover_image_h_50_w_50": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34086208/5d8b241c-80a1-4f50-a4e0-9c4f2700dbfe.jpg",
+     "image": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34430507/2a6d63c6-0fea-4326-94e0-468051d874d2.jpg"
+    }
+   },
+   "rating": null,
+   "doors": false,
+   "tracking": {
+    "impression": "/t/l/e/16986461",
+    "hover": "/t/h/e/16986461",
+    "click": "/t/c/e/16986461/http%3A%2F%2Fdostuffmedia.com%3A80%2Fevents%2F16986461"
+   },
+   "tracking_urls": {
+    "impression": "https://t.dostuffmedia.com/t/l/e/16986461",
+    "hover": "https://t.dostuffmedia.com/t/h/e/16986461",
+    "click": "https://t.dostuffmedia.com/t/c/e/16986461/http%3A%2F%2Fdothebay.com%3A80%2Fevents%2F16986461"
+   },
+   "popularity": 195.0,
+   "sold_out": false,
+   "favorite": false,
+   "actions": {
+    "add": true,
+    "rsvp": false,
+    "buy": true,
+    "buy_vip": false,
+    "win": true
+   },
+   "venue": {
+    "id": 498683,
+    "title": "Ferry Plaza",
+    "permalink": "/venues/ferry-plaza",
+    "latitude": null,
+    "longitude": null,
+    "popularity": 1.0,
+    "address": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "full_address": "",
+    "is_english": true,
+    "capacity": false
+   },
+   "artists": [],
+   "rsvp": false,
+   "giveaway": {
+    "app_only": false,
+    "giveaway_ask_birth": false,
+    "giveaway_ask_gender": false,
+    "giveaway_ask_name": true,
+    "giveaway_ask_spam": true,
+    "giveaway_ask_zip": false,
+    "giveaway_opt_in": false,
+    "giveaway_opt_in_text": "",
+    "is_standalone": false,
+    "like_button_text": null,
+    "offer": "ENTER TO WIN $50 IN MARKET COINS + A FERRY PLAZA FARMERS MARKET TOTE BAG!",
+    "question_text": "",
+    "action": "/events/16986461/giveaway",
+    "ask21": false,
+    "force21": false,
+    "minimum_age": 21,
+    "alt_terms_url": ""
+   },
+   "buy_url": "https://foodwise.org/events/pop-ups-on-the-plaza-celebrating-latine-makers/",
+   "eager": true
+  },
+  {
+   "id": 17381607,
+   "permalink": "/events/2026/10/3/death-from-above-1979-private-lives-tour-tickets",
+   "presented_by": "Private Lives Tour",
+   "title": "Death From Above 1979",
+   "description": "",
+   "excerpt": "",
+   "category": "Variety",
+   "category_param": "variety",
+   "conference_category_param": "",
+   "begin_time": "2026-10-03T20:00:00-05:00",
+   "tz_adjusted_begin_date": "2026-10-03T20:00:00-07:00",
+   "tz_adjusted_end_date": "2026-10-04T02:00:00-07:00",
+   "begin_date": "2026-10-03",
+   "past": false,
+   "end_date": null,
+   "end_time": null,
+   "votes": 44,
+   "ticket_info": "$49.09-$77.16",
+   "allstar_votes": 4,
+   "is_lens": false,
+   "is_eventbrite": false,
+   "clipboard_options": [],
+   "current_user_id": null,
+   "amazon_affiliate": false,
+   "eventbrite_id": null,
+   "ticket_onsale_time": null,
+   "tickets_onsale_today": false,
+   "is_free": false,
+   "is_ongoing": false,
+   "imagery": {
+    "photo": "v1779399792/event-17381607.jpg",
+    "poster": "v1779399793/event-poster-17381607.jpg",
+    "aws": {
+     "cover_image_w_1200_h_450": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235024/682b1bde-3154-49ef-8949-76dfb7c022a2.jpg",
+     "cover_image_h_300_w_864": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235025/b73d74d3-bdbd-4100-9d24-6bd92b946e07.jpg",
+     "cover_image_h_250_w_680": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235027/bc35d2dc-bd9c-4bc8-bc8e-3b8c1e2dc628.jpg",
+     "poster_w_800": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235028/32c80e26-5716-4d49-a90a-457ada9803bb.jpg",
+     "cover_image_h_630_w_1200": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235030/e5eb8cf0-777a-40cb-932c-aef3e067c1b0.jpg",
+     "poster_w_400": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235032/e0ddf2d7-58df-496f-8a75-041d88b24e82.jpg",
+     "cover_image_h_50_w_50": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32235033/7b232756-eda6-4b8a-aa78-58a35cf5ff3b.jpg"
+    }
+   },
+   "rating": null,
+   "doors": false,
+   "tracking": {
+    "impression": "/t/l/e/17381607",
+    "hover": "/t/h/e/17381607",
+    "click": "/t/c/e/17381607/http%3A%2F%2Fdostuffmedia.com%3A80%2Fevents%2F17381607"
+   },
+   "tracking_urls": {
+    "impression": "https://t.dostuffmedia.com/t/l/e/17381607",
+    "hover": "https://t.dostuffmedia.com/t/h/e/17381607",
+    "click": "https://t.dostuffmedia.com/t/c/e/17381607/http%3A%2F%2Fdothebay.com%3A80%2Fevents%2F17381607"
+   },
+   "popularity": 90.0,
+   "sold_out": false,
+   "favorite": false,
+   "actions": {
+    "add": true,
+    "rsvp": false,
+    "buy": true,
+    "buy_vip": false,
+    "win": false
+   },
+   "venue": {
+    "id": 387781,
+    "title": "Golden State Theatre",
+    "permalink": "/venues/golden-state-theatre",
+    "latitude": 36.599444,
+    "longitude": -121.894023,
+    "popularity": 1.0,
+    "address": "417 Alvarado Street, Monterey, CA",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93940",
+    "full_address": "417 Alvarado Street, Monterey, CA, Monterey, CA, 93940",
+    "is_english": true,
+    "capacity": false
+   },
+   "artists": [
+    {
+     "id": 131558,
+     "title": "Death From Above 1979",
+     "permalink": "/artists/death-from-above-1979",
+     "data_path": "/artists/131558/quickie",
+     "description": "Death from Above 1979 are a Canadian rock duo from Toronto, Ontario. Their first full-length album, You're a Woman, I'm a Machine, was released in late 2004 on Last Gang Records. The band broke up in ",
+     "hometown": "Toronto, ON, Canada",
+     "popularity": 22128.0,
+     "youtube_id": "n0JEG_wf0pQ",
+     "spotify_id": "18H0sAptzdwid08XGg1Lcj"
+    }
+   ],
+   "rsvp": false,
+   "buy_url": "https://etix.prf.hn/click/camref:1011l3GdWo/pubref:dostuff/destination:https%3A%2F%2Fwww.etix.com%2Fticket%2Fp%2F96365974%2Fdeath-from-above-1979private-lives-tour-monterey-golden-state-theatre",
+   "eager": true
+  },
+  {
+   "id": 17644402,
+   "permalink": "/events/2026/10/3/jantsen-presented-by-vexra-public-works-tickets",
+   "presented_by": "Vexra & Public Works Present",
+   "title": "Jantsen",
+   "description": "<h4 style=\"text-align: center;\"><span style=\"font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;\">Vexra &amp; Public Works Present</span></h4><h3 style=\"text-align: center;\">Jantsen</h3><h4 style=\"text-align: center;\">with Twopercent, Similar Outskirts</h4><div><br></div><h4 style=\"t",
+   "excerpt": "Vexra & Public Works Present\nJantsen\nwith Twopercent, Similar Outskirts\n\nSaturday, October 3 | Public Works\u00a0",
+   "category": "Music",
+   "category_param": "music",
+   "conference_category_param": "",
+   "begin_time": "2026-10-03T21:00:00-05:00",
+   "tz_adjusted_begin_date": "2026-10-03T21:00:00-07:00",
+   "tz_adjusted_end_date": "2026-10-04T02:00:00-07:00",
+   "begin_date": "2026-10-03",
+   "past": false,
+   "end_date": null,
+   "end_time": "2026-10-04T02:00:00-05:00",
+   "votes": 35,
+   "ticket_info": "$25-$30, 21+",
+   "allstar_votes": 1,
+   "is_lens": false,
+   "is_eventbrite": false,
+   "clipboard_options": [],
+   "current_user_id": null,
+   "amazon_affiliate": false,
+   "eventbrite_id": null,
+   "ticket_onsale_time": null,
+   "tickets_onsale_today": false,
+   "is_free": false,
+   "is_ongoing": false,
+   "imagery": {
+    "photo": "v1784923031/event-17644402.jpg",
+    "poster": "v1784867529/event-poster-17644402.png",
+    "aws": {
+     "poster_w_800": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33489668/5a744f50-f46f-4d60-83d5-6c0184786e92.png",
+     "poster_w_400": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33489669/02a16f10-4184-4821-9331-fb7772f77554.png",
+     "cover_image_w_1200_h_450": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33505054/90e85e9c-7534-496a-91d3-5ac1882b6f9e.jpg",
+     "cover_image_h_300_w_864": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33505057/73e3f31e-8d89-46e7-ba65-0d719f12f483.jpg",
+     "cover_image_h_250_w_680": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33505059/58d1e1dd-2b76-462b-9519-c170603c70e4.jpg",
+     "cover_image_h_630_w_1200": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33505061/aacdd98a-8e81-48e3-a234-069843b3b9aa.jpg",
+     "cover_image_h_50_w_50": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33505062/cf46d030-2fda-482c-9f10-5fa50a736bee.jpg"
+    }
+   },
+   "rating": null,
+   "doors": false,
+   "tracking": {
+    "impression": "/t/l/e/17644402",
+    "hover": "/t/h/e/17644402",
+    "click": "/t/c/e/17644402/http%3A%2F%2Fdostuffmedia.com%3A80%2Fevents%2F17644402"
+   },
+   "tracking_urls": {
+    "impression": "https://t.dostuffmedia.com/t/l/e/17644402",
+    "hover": "https://t.dostuffmedia.com/t/h/e/17644402",
+    "click": "https://t.dostuffmedia.com/t/c/e/17644402/http%3A%2F%2Fdothebay.com%3A80%2Fevents%2F17644402"
+   },
+   "popularity": 85.0,
+   "sold_out": false,
+   "favorite": false,
+   "actions": {
+    "add": true,
+    "rsvp": false,
+    "buy": true,
+    "buy_vip": false,
+    "win": true
+   },
+   "venue": {
+    "id": 16837,
+    "title": "Public Works",
+    "permalink": "/venues/public-works",
+    "latitude": 37.7688759,
+    "longitude": -122.4194268,
+    "popularity": 45.0,
+    "address": "161 Erie Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "full_address": "161 Erie Street, San Francisco, CA, 94103",
+    "is_english": true,
+    "capacity": false
+   },
+   "artists": [
+    {
+     "id": 53492,
+     "title": "Jantsen",
+     "permalink": "/artists/jantsen",
+     "data_path": "/artists/53492/quickie",
+     "description": "Jantsen is no stranger when it comes to electronic music. This Boulder, Colorado native has been fully immersed into the dance music scene for over 15 years with his passion later blossoming into DJin",
+     "hometown": "Boulder, CO",
+     "popularity": 14.0,
+     "youtube_id": "",
+     "spotify_id": "6rhTnHtyVcRrtuzS1wnLZg"
+    }
+   ],
+   "rsvp": false,
+   "giveaway": {
+    "app_only": false,
+    "giveaway_ask_birth": false,
+    "giveaway_ask_gender": false,
+    "giveaway_ask_name": true,
+    "giveaway_ask_spam": true,
+    "giveaway_ask_zip": false,
+    "giveaway_opt_in": false,
+    "giveaway_opt_in_text": "",
+    "is_standalone": false,
+    "like_button_text": null,
+    "offer": "ENTER TO WIN A PAIR OF TICKETS!",
+    "question_text": "",
+    "action": "/events/17644402/giveaway",
+    "ask21": true,
+    "force21": false,
+    "minimum_age": 21,
+    "alt_terms_url": ""
+   },
+   "buy_url": "https://www.tixr.com/groups/publicsf/events/jantsen-presented-by-vexra-public-works-199867",
+   "eager": true
+  }
+ ],
+ "paging": {
+  "entry_name": "events",
+  "first": 1,
+  "last": 25,
+  "count": 134,
+  "path": "/events/2026/10/3",
+  "formatted_count": "134",
+  "page_size": 25,
+  "total_pages": 1,
+  "current_page": 1,
+  "offset_value": 0,
+  "listing_ad_position": 12,
+  "listing_ad_top_position": 3,
+  "label": "Events",
+  "next_page_path": "/events/2026/10/3?page=2"
+ },
+ "date": "2026-10-03",
+ "timebands": [
+  {
+   "text": "10/03/26",
+   "path": "/events/2026/10/03",
+   "segment": null,
+   "active": true
+  },
+  {
+   "text": "Today",
+   "path": "/events/today",
+   "segment": "today",
+   "active": false
+  },
+  {
+   "text": "Tomorrow",
+   "path": "/events/tomorrow",
+   "segment": "tomorrow",
+   "active": false
+  }
+ ],
+ "shortcuts": [
+  {
+   "text": "Arts",
+   "path": "/events/arts",
+   "segment": "arts",
+   "active": null
+  },
+  {
+   "text": "Comedy",
+   "path": "/events/comedy",
+   "segment": "comedy",
+   "active": null
+  },
+  {
+   "text": "Music",
+   "path": "/events/music",
+   "segment": "music",
+   "active": null
+  },
+  {
+   "text": "Film",
+   "path": "/events/film",
+   "segment": "film",
+   "active": null
+  },
+  {
+   "text": "Food & Drink",
+   "path": "/events/fooddrink",
+   "segment": "fooddrink",
+   "active": null
+  },
+  {
+   "text": "LGBTQ",
+   "path": "/events/lgbtq",
+   "segment": "lgbtq",
+   "active": null
+  },
+  {
+   "text": "Recreation",
+   "path": "/events/recreation",
+   "segment": "recreation",
+   "active": null
+  },
+  {
+   "text": "Sports",
+   "path": "/events/sports",
+   "segment": "sports",
+   "active": null
+  }
+ ],
+ "views": {
+  "sort": "popularity",
+  "mode": "list"
+ },
+ "heading_text": "What to do in The Bay Area on 10/03/26 ",
+ "photos_base": "https://res.cloudinary.com/dostuff-media/image/upload/",
+ "api_version": 0.005
+}

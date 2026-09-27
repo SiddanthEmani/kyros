@@ -39,16 +39,30 @@ Or add a raw feed URL manually. Everything lives under
 ## How it works
 
 ```
-Luma ┐
-     ├─►  classify  ─►  geo filter  ─►  dedup  ─►  rank  ─►  cap  ─►  5 feeds
-Fun. ┘     5 buckets     50mi of SJ    merge      SJ first   per cat    every 6h
+Luma      ┐
+Cer.Val.  │
+VisitSJ   ├─►  classify  ─►  geo filter  ─►  dedup  ─►  rank  ─►  cap  ─►  5 feeds
+DoTheBay  │     5 buckets     50mi of SJ    merge      SJ first   per cat    every 6h
+Stanford  │
+Funcheap  ┘
 ```
 
-1. **Fetch** — two sources, each isolated so a dead site can't take down a
+1. **Fetch** — six sources, each isolated so a dead site can't take down a
    refresh:
    - **Luma** — AI talks, demos and hackathons. Scrapes the server-rendered
      discover HTML and paginates the JSON discover API, falling back through
      CORS relays when the runner IP is blocked.
+   - **Cerebral Valley** — curated AI events and hackathons, from its public
+     JSON API. California listings only; the list is global.
+   - **Visit San Jose** — the tourism board's calendar: San Jose Civic, the
+     California Theatre, Santana Row, neighborhood festivals. The listing
+     has no times, so each event's detail page is fetched for its start
+     time; events without one are dropped.
+   - **DoTheBay** — curated concerts, club nights and things to do,
+     Bay-wide, from each day page's `.json` twin (top 50 per day by
+     popularity). Known SF club rooms are tagged electronic.
+   - **Stanford Events** — the Localist API, limited to events tagged for
+     the public: HAI and CS talks, performances, museum tours.
    - **Funcheap** — free and cheap events, region by region, South Bay first.
 2. **Classify** — each event lands in one or more of `ai`, `edm`, `concert`,
    `free`, `community`. Anything that matches nothing is dropped, which is
@@ -101,6 +115,7 @@ python run.py --offline --ics-path /tmp/kyros/events.ics
 | `region_boost` | south-bay `3.0`, peninsula `1.5`, sf/east-bay `0.5` | the San Jose priority dial; San Jose proper gets `+1.0` on top |
 | `free_bonus` | `1.0` | score bonus for free events |
 | `sources` | all `true` | turn an individual source off |
+| `dothebay_pages_per_day` | `2` | DoTheBay day pages to read (25 events each) |
 | `cities` / `luma_categories` | SJ, SF, Oakland, Palo Alto / `["ai"]` | Luma discover scope |
 | `categories.<name>.cap` | 8–15 | top-N per category |
 | `categories.<name>.min_weekday_hour_local` | `16`–`17` | weekday events must start at/after this hour; weekends always pass |
@@ -121,7 +136,8 @@ kyros/
   classify.py  rank.py         # categories and per-category scoring
   dedup.py  ics.py             # cross-source merge, feed writing
   pipeline.py  report.py       # fetch -> filter -> rank -> write, run report
-  sources/                     # luma, funcheap
+  sources/                     # luma, cerebralvalley, visitsanjose,
+                               # dothebay, stanford, funcheap
 tests/                         # offline, fixture-driven
 scripts/fetch_fixtures.py      # refresh fixtures when a site changes
 docs/source-candidates.md      # researched sources not yet built

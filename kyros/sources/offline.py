@@ -8,10 +8,11 @@ reviewed in a sandbox or in CI before a live refresh.
 from __future__ import annotations
 
 import logging
-from datetime import datetime, timedelta, timezone
+import json
+from datetime import date, datetime, timedelta, timezone
 
 from ..config import PROJECT_DIR
-from . import funcheap
+from . import cerebralvalley, dothebay, funcheap, stanford, visitsanjose
 
 FIXTURES = PROJECT_DIR / "tests" / "fixtures"
 
@@ -44,6 +45,23 @@ def _shift_to_future(events: list, tz) -> list:
 def fetch(config: dict, log: logging.Logger) -> list:
     tz = _tz(config)
     events: list = []
+
+    for name, parse in (("cerebralvalley_events.json", cerebralvalley.parse_payload),
+                        ("dothebay_day.json", dothebay.parse_payload),
+                        ("stanford_events.json", stanford.parse_payload)):
+        path = FIXTURES / name
+        if path.exists():
+            events += parse(json.loads(path.read_text()), log)
+
+    vsj = FIXTURES / "visitsanjose_listings.json"
+    if vsj.exists() and tz is not None:
+        # Every listing gets the committed detail page's time; the point
+        # here is the pipeline, not the time extraction.
+        detail = (FIXTURES / "visitsanjose_detail.html").read_text()
+        when = visitsanjose.detail_time(detail) or (19, 0)
+        for item in visitsanjose.select_listings(
+                json.loads(vsj.read_text()), date(2026, 9, 1), 60):
+            events.append(visitsanjose.make_event(item, when, tz))
 
     fc = FIXTURES / "funcheap_sanjose.xml"
     if fc.exists():

@@ -1,4 +1,0 @@
-vsj_detail_0.html 200 145627 text/html; charset=UTF-8 https://www.sanjose.org/theaters/events/las-alucines
-vsj_detail_1.html 200 148318 text/html; charset=UTF-8 https://www.sanjose.org/theaters/events/come-together-tribute-beatles
-vsj_detail_2.html 200 145825 text/html; charset=UTF-8 https://www.sanjose.org/theaters/events/ryan-castro-sende-last-dance-tour
-vsj_detail_3.html 200 45274 text/html; charset=UTF-8 https://www.sanjose.org/events/oktoberfest-san-pedro-square-market

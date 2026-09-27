@@ -4,7 +4,13 @@ Research notes for replacing Ticketmaster and widening coverage (Sept 2026).
 Each entry says what it covers, how it would be fetched, and what it costs
 to maintain. "Effort" is relative to the existing Luma and Funcheap parsers.
 
-Current sources: **Luma** (AI), **Funcheap** (free/cheap).
+Current sources: **Luma** (AI), **Cerebral Valley** (AI), **Visit San Jose**,
+**DoTheBay**, **Stanford Events**, **Funcheap** (free/cheap).
+
+**San Jose Downtown (sjdowntown.com) was tried and doesn't work:** every
+endpoint (iCal export, WP REST, RSS) returns a Cloudflare JS challenge to
+GitHub Actions runners, and the CORS relays time out (522) on it. Most of
+its big events also appear on Visit San Jose, which does work.
 
 ## Tier 1: build next
 

@@ -15,11 +15,16 @@
 
   "sources": {
     "luma": true,
+    "cerebralvalley": true,
+    "visitsanjose": true,
+    "dothebay": true,
+    "stanford": true,
     "funcheap": true
   },
   "cities": ["san-francisco", "san-jose"],
   "luma_categories": ["ai"],
   "include_virtual_global": true,
+  "dothebay_pages_per_day": 2,
 
   "categories": {
     "ai":        { "enabled": true, "cap": 12, "min_weekday_hour_local": 17 },
