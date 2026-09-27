@@ -27,24 +27,15 @@ jobs:
               -o "probe/$name" -w "%{http_code} %{size_download} %{content_type} %{url_effective}" "$url")
             echo "$name $code" | tee -a probe/_index.txt
           done <<'URLS'
-          vsj_global.js https://www.sanjose.org/themes/custom/sanjose/js/global-ui.js
-          vsj_jsonapi_event.json https://www.sanjose.org/jsonapi/node/event?page[limit]=3
-          vsj_jsonapi_events.json https://www.sanjose.org/jsonapi/node/events?page[limit]=3
-          sjd_allorigins.ics https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
-          sjd_codetabs.ics https://api.codetabs.com/v1/proxy/?quest=https%3A%2F%2Fsjdowntown.com%2Fdtsj-events%2F%3Fical%3D1
-          sjd_tribe_allorigins.json https://api.allorigins.win/raw?url=https%3A%2F%2Fsjdowntown.com%2Fwp-json%2Ftribe%2Fevents%2Fv1%2Fevents%3Fper_page%3D50
-          dtb_day.json https://dothebay.com/events/2026/10/3.json
-          dtb_day_p2.json https://dothebay.com/events/2026/10/3.json?page=2
-          dtb_music.json https://dothebay.com/events/music.json
-          dtb_music_day.json https://dothebay.com/events/music/2026/10/3.json
-          cv_pull_approved.json https://api.cerebralvalley.ai/v1/public/event/pull?approved=true
-          cv_pull_offset.json https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&offset=20&startDateTime=2026-09-28T07:00:00.000Z
+          vsj_listings.json https://www.sanjose.org/event-listings
+          sjd_feed.xml https://sjdowntown.com/dtsj-events/feed/
+          cv_pull_100.json https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&limit=100&offset=0&startDateTime=2026-09-28T07:00:00.000Z
+          cv_pull_sf.json https://api.cerebralvalley.ai/v1/public/event/pull?approved=true&limit=100&offset=0&startDateTime=2026-09-28T07:00:00.000Z&location=San%20Francisco%2C%20CA
           URLS
           # Where do Cerebral Valley's bundles call the events API?
           for u in $(grep -oE '/_next/static/chunks/[^"?]+\.js' tests/fixtures/_probe/cv_events.html | sort -u); do
-            curl -s -m 20 -A "$UA" "https://cerebralvalley.ai$u" | grep -oE '.{0,300}(event/pull|fetchEventsList|/v1/public/event).{0,400}' >> probe/cv_js_snippets.txt
+            curl -s -m 20 -A "$UA" "https://cerebralvalley.ai$u" | grep -oE '.{0,300}(fetchEventLocationFilter|event/locations|location_filter|locationFilter).{0,400}' >> probe/cv_js_snippets2.txt
           done
-          grep -oE '.{0,200}(\$http|\.get\(|url:|json).{0,300}' probe/vsj_global.js > probe/vsj_js_snippets.txt
           ls -la probe
       - name: Commit
         run: |
@@ -52,4 +43,4 @@ jobs:
           git config user.email "kyros-bot@users.noreply.github.com"
           mkdir -p tests/fixtures/_probe && cp probe/* tests/fixtures/_probe/
           git add tests/fixtures/_probe
-          git commit -m "probe: raw source captures (2)" && git push
+          git commit -m "probe: raw source captures (3)" && git push
