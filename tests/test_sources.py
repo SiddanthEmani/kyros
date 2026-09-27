@@ -253,6 +253,18 @@ def test_visitsanjose_make_event(fixture_text):
     assert C.CONCERT in C.classify(ev)
 
 
+def test_visitsanjose_ballet_is_not_edm():
+    """Categories "Dance, Music" once read as "dance music"."""
+    from kyros import classify as C
+    item = {"title": "Georgian National Ballet", "link": "/events/gnb",
+            "categories": "Dance, Music, Stage &amp; Theater",
+            "venue": "California Theatre", "city": "San Jose",
+            "_date": date(2026, 10, 13)}
+    ev = visitsanjose.make_event(item, (20, 0), TZ)
+    assert C.EDM not in C.classify(ev)
+    assert C.CONCERT in C.classify(ev)
+
+
 def test_visitsanjose_fetch_drops_untimed(fixture_text, log, monkeypatch):
     detail = fixture_text("visitsanjose_detail.html")
 

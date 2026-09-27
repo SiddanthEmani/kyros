@@ -151,7 +151,9 @@ def _is_electronic(event, hay: str) -> bool:
 def _haystack(event) -> str:
     return " | ".join(filter(None, (
         event.title, event.calendar_name, event.venue,
-        " ".join(event.genres),
+        # Commas, not spaces: genres "Dance" and "Music" side by side
+        # are not "dance music".
+        ", ".join(event.genres),
     )))
 
 
