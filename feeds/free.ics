@@ -5,44 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Randall Museum 75th Anniversary: Free Science/Nature/Art Festival 
- (SF)
-DTSTART;TZID=America/Los_Angeles:20260927T170000
-DTEND;TZID=America/Los_Angeles:20260927T190000
-DTSTAMP:20260927T204820Z
-UID:funcheap-20260927-randallmuseum75thanniver
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/randall-museum-75th-anniversary-free-s
- ciencenatureart-festival-sf/\nVenue: Randall Museum 199 Museum Way\, San F
- rancisco\, CA 94114 Open in Maps Organizer Ra\nPrice: Free\nCategories: co
- mmunity\, free\nSource: funcheap/san-jose\n\nThe Randall Museum celebrates
-  its 75th anniversary with a free\, family-friendly festival featuring the
-  opening of a new history exhibit\, live music\, crafts\, climbing wall\, 
- skateboarding\, archery\, and more. The event includes activities and ente
- rtainment for all ages\, instructor showcases\, and guest speakers\, highl
- ighting the museum’s legacy of hands-on art\, science\, and nature progr
- amming. Original Event Description: _The Randall Museum (199 Museum Way) w
- ill celebrate its 75th anniversary on the slopes of Corona Heights Park on
-  Sunday\, September 27\, from 1 to 5 p.m. This free\, family-friendly cele
- bration will feature the opening of a new history exhibit\, live music\, c
- rafts\, climbing\, skateboarding\, archery and more. For decades\, the mus
- eum has offered hands-on art\, science and nature programming rooted in th
- e area’s distinctive hillside ecology. Ahead of the milestone\, San Fran
- ciscans are invited to share their stories and memories of how the Randall
-  has brought joy\, inspiration\, learning and community to their lives. su
- n 27 sep Randall Museum 75th Anniversary Celebration 1:00 pm – 5:00 pm E
- vent Details September marks the 75th Anniversary of our opening on the sl
- opes of Corona Hei
-LOCATION:Randall Museum 199 Museum Way\, San Francisco\, CA 94114 Open in 
- Maps Organizer Ra
-URL:https://sf.funcheap.com/randall-museum-75th-anniversary-free-sciencena
- tureart-festival-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -60,7 +26,7 @@ SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
  T)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -97,7 +63,7 @@ SUMMARY:Free 30-Minute Dance Shows on Freedom + Justice at SF Libraries (O
  ct. 3-17)
 DTSTART;TZID=America/Los_Angeles:20261003T130000
 DTEND;TZID=America/Los_Angeles:20261003T151500
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:funcheap-20261003-free30minutedanceshowson
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-30minute-dance-shows-freedom-just
@@ -128,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -147,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -182,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:World Famous Pets
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1AfF08f
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
@@ -204,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -240,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -254,10 +220,31 @@ URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
  s/14908303
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:San Francisco Photobook Fair
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+DTSTAMP:20260928T032646Z
+UID:funcheap-20261017-sanfranciscophotobookfai
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/san-francisco-photobook-fair/\nLocatio
+ n: san francisco\nPrice: Free\nCategories: community\, free\nSource: funch
+ eap/san-francisco\n\nSan Francisco Photobook Fair Saturday\, October 17 & 
+ Sunday\, October 18\, 2026 · 11am–5pm both days Harvey Milk Photo Cente
+ r · 50 Scott St\, San Francisco · Free The San Francisco Photobook Fair 
+ returns for its second year with 40+ publishers\, artists\, and independen
+ t presses from across the US and internationally — from handmade zines a
+ nd limited editions to major monographs. Highlights include Nazraeli Press
+ \, TBW Books\, KGP Monolith\, Setanta Books (UK)\, Artichoke Press\, and p
+ hotographer Arthur Tress. Coffee and pastries by Loquat all weekend. harve
+ ymilkphotocenter.org
+LOCATION:san francisco
+URL:https://sf.funcheap.com/san-francisco-photobook-fair/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -279,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -313,7 +300,7 @@ SUMMARY:SF’s “Golden Hour” Filipino Night Market is Back for 2026 (S
  oMa)
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260927T204820Z
+DTSTAMP:20260928T032646Z
 UID:funcheap-20261024-sfsgoldenhourfilipinonig
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-

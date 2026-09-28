@@ -5,167 +5,65 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Top AI Researchers Roundtable & BBQ Party in Los Altos Hills
-DTSTART:20260927T220000Z
-DTEND:20260928T000000Z
-DTSTAMP:20260927T204820Z
-UID:evt-Hryc6TDrSxGJV7n
+SUMMARY:Grok Bot x Notion for Product Builders night (SF)
+DTSTART:20260930T000000Z
+DTEND:20260930T033000Z
+DTSTAMP:20260928T032646Z
+UID:evt-OiFkITxP5F6rX0n
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/x5scayif\nLocation: Los Altos Hills\, CA\nHost: 
- Bay Area Founders Club\nCategories: ai\nSource: luma/san-francisco+luma/sa
- n-jose+luma/virtual
-LOCATION:Los Altos Hills\, CA
-URL:https://lu.ma/x5scayif
+DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
+ nHost: SpaceXAI Community\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/grokbotproduct-sf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decompress & Connect: AI Inference & Open-Weight Models with Frien
- dliAI
+SUMMARY:Cache Me Outside: A Rooftop Party at the AI Conference
 DTSTART:20261001T000000Z
 DTEND:20261001T030000Z
-DTSTAMP:20260927T204820Z
-UID:evt-sEXoSg3YzbBtQiF
+DTSTAMP:20260928T032646Z
+UID:evt-fbXDcwz01gSiIbn
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/tmdfg30t\nLocation: San Francisco\, CA\nHost: Fr
- iendliAI\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vi
- rtual
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/tmdfg30t
+DESCRIPTION:https://lu.ma/wesjv6eq\nLocation: KAIYŌ Rooftop\, 701 3rd St 
+ 12th Floor\, San Francisco\, CA 94107\, USA\nHost: Baseten Events\nCategor
+ ies: ai\nSource: luma-html/san-francisco
+LOCATION:KAIYŌ Rooftop\, 701 3rd St 12th Floor\, San Francisco\, CA 94107
+ \, USA
+URL:https://lu.ma/wesjv6eq
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AIC SF Chapter Team & Volunteer Get-Together (w/ The AI Collective
- )
+SUMMARY:How AI Models Learn to Do Real Work
 DTSTART:20261001T003000Z
-DTEND:20261001T023000Z
-DTSTAMP:20260927T204820Z
-UID:evt-huVuSpeCdR7qvmO
+DTEND:20261001T033000Z
+DTSTAMP:20260928T032646Z
+UID:evt-YUXj40WxzAttDXn
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/aic-sf-team-gettogether\nLocation: San Francisco
- \, CA\nHost: The AI Collective\nCategories: ai\nSource: luma/san-francisco
- +luma/san-jose+luma/virtual
+DESCRIPTION:https://lu.ma/icar7u2x\nLocation: San Francisco\, CA\nHost: Op
+ enRouter Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/aic-sf-team-gettogether
+URL:https://lu.ma/icar7u2x
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wiki3: Own Your Own AI Workshop
+SUMMARY:STACKED: Sandboxes\, Inference\, & Observability
 DTSTART:20261001T010000Z
 DTEND:20261001T033000Z
-DTSTAMP:20260927T204820Z
-UID:evt-IMPA5nXOARdPwX7
+DTSTAMP:20260928T032646Z
+UID:evt-QzLbxtUc4CDGNbx
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/Wiki3\nLocation: Hacker Dojo\, 855 Maude Ave\, M
- ountain View\, CA 94043\, USA\nHost: Personal\nCategories: ai\nSource: lum
- a/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
-URL:https://lu.ma/Wiki3
+DESCRIPTION:https://lu.ma/e2b-0e34\nLocation: San Francisco\, CA\nHost: E2
+ B\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/e2b-0e34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenShell & NemoClaw: Meet the Builders
-DTSTART:20261009T003000Z
-DTEND:20261009T023000Z
-DTSTAMP:20260927T204820Z
-UID:evt-q1UgYvEyjPGScPP
+SUMMARY:Anthropic x Cerebras: Cafe Compute
+DTSTART:20261002T010000Z
+DTEND:20261002T040000Z
+DTSTAMP:20260928T032646Z
+UID:evt-WoYnSCqTjbPglF5
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/q6v3ywku\nLocation: Courtyard by Marriott San Jo
- se Campbell\, 655 Creekside Way\, Campbell\, CA 95008\, USA\nHost: OpenShe
- ll Agent Runtime Meetup\nCategories: ai\nSource: luma/san-francisco+luma/s
- an-jose+luma/virtual
-LOCATION:Courtyard by Marriott San Jose Campbell\, 655 Creekside Way\, Cam
- pbell\, CA 95008\, USA
-URL:https://lu.ma/q6v3ywku
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Lakehouse & AI Meetup
-DTSTART:20261009T010000Z
-DTEND:20261009T040000Z
-DTSTAMP:20260927T204820Z
-UID:evt-DygIOykEEheuPit
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/lenses-e3s2\nLocation: 355 Clementina St\, San F
- rancisco\, CA 94103\, USA\nHost: Lenses for AI Engineering with Kafka\nCat
- egories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:355 Clementina St\, San Francisco\, CA 94103\, USA
-URL:https://lu.ma/lenses-e3s2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Art Workshop: See the World Through Your Pet’s Eyes
-DTSTART:20261009T013000Z
-DTEND:20261009T033000Z
-DTSTAMP:20260927T204820Z
-UID:evt-BABr9GETqaSiinK
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/vqh1ro3g\nLocation: Gallery House\, 826 Santa Cr
- uz Ave\, Menlo Park\, CA 94025\, USA\nHost: Aesthetic Intelligence Circle 
- (AIC)\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtu
- al
-LOCATION:Gallery House\, 826 Santa Cruz Ave\, Menlo Park\, CA 94025\, USA
-URL:https://lu.ma/vqh1ro3g
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alignment 2026 ｜Valley101 Annual Tech Summit - Live from the AI 
- Frontier\, Uncut
-DTSTART:20261010T160000Z
-DTEND:20261012T010000Z
-DTSTAMP:20260927T204820Z
-UID:evt-EnbT7ip4RSA5gGY
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/alignment2026\nLocation: Plug and Play Tech Cent
- er\, 440 N Wolfe Rd\, Sunnyvale\, CA 94085\, USA\nHost: Valley 101\nCatego
- ries: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Plug and Play Tech Center\, 440 N Wolfe Rd\, Sunnyvale\, CA 94085
- \, USA
-URL:https://lu.ma/alignment2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wiki3: Own Your Own AI Workshop
-DTSTART:20261015T010000Z
-DTEND:20261015T033000Z
-DTSTAMP:20260927T204820Z
-UID:evt-LiPuiFioJs0ErG6
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/fqvz8u93\nLocation: Hacker Dojo\, 855 Maude Ave\
- , Mountain View\, CA 94043\, USA\nHost: Personal\nCategories: ai\nSource: 
- luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
-URL:https://lu.ma/fqvz8u93
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Together: AI Builders Unite
-DTSTART:20261017T010000Z
-DTEND:20261017T070000Z
-DTSTAMP:20260927T204820Z
-UID:evt-Hi5xnKWbH9xR0q5
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/OpenTogether\nLocation: The Midway\, 900 Marin S
- t\, San Francisco\, CA 94124\, USA\nHost: Hugging Face\nCategories: ai\nSo
- urce: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:The Midway\, 900 Marin St\, San Francisco\, CA 94124\, USA
-URL:https://lu.ma/OpenTogether
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agentic Growth: What CMOs Still Own as AI Takes on More of the Gro
- wth Engine
-DTSTART:20261023T003000Z
-DTEND:20261023T020000Z
-DTSTAMP:20260927T204820Z
-UID:evt-oxHprLhYPH3C7HS
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/wq5002df\nLocation: Palo Alto\, CA\nHost: The CM
- O Community\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma
- /virtual
-LOCATION:Palo Alto\, CA
-URL:https://lu.ma/wq5002df
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Local Align #3 — AI × GTM Growth Hackathon & Social
-DTSTART:20261024T180000Z
-DTEND:20261025T000000Z
-DTSTAMP:20260927T204820Z
-UID:evt-KdgiJ5gO82TXRB9
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/bo69pa9j\nLocation: Santa Clara\, CA\nHost: Loca
- l Align\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vir
- tual
-LOCATION:Santa Clara\, CA
-URL:https://lu.ma/bo69pa9j
+DESCRIPTION:https://lu.ma/claudecbrs\nLocation: San Francisco\, CA\nHost: 
+ Cerebras\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/claudecbrs
 END:VEVENT
 END:VCALENDAR
