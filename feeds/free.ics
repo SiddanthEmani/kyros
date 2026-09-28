@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -26,7 +26,7 @@ SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
  T)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -63,7 +63,7 @@ SUMMARY:Free 30-Minute Dance Shows on Freedom + Justice at SF Libraries (O
  ct. 3-17)
 DTSTART;TZID=America/Los_Angeles:20261003T130000
 DTEND;TZID=America/Los_Angeles:20261003T151500
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:funcheap-20261003-free30minutedanceshowson
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-30minute-dance-shows-freedom-just
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -145,10 +145,44 @@ URL:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-nord-tic
  kets/14969533
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
+ y)
+DTSTART;TZID=America/Los_Angeles:20261010T100000
+DTEND;TZID=America/Los_Angeles:20261010T180000
+DTSTAMP:20260928T225545Z
+UID:funcheap-20261010-34thannualindigenouspeop
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
+ wow-indian-market-berkeley/\nVenue: M.L.K. Civic Center Park Allston Way a
+ t M.L. King\, Jr. Way Berkeley\, California\nPrice: Free\nCategories: comm
+ unity\, free\nSource: funcheap/south-bay\n\n34th Annual Berkeley Indigenou
+ s Peoples Day Powwow & Indian Market 534 Years of Resistance & Renewal Ber
+ keley’s Indigenous Peoples Day Committee invites the public to celebrate
+  the 34th Annual Indigenous Peoples Day Powwow & Indian Market on Saturday
+ \, October 10\, 2026\, at M.L.K. Civic Center Park from 10:00 am to 6:00 p
+ m. This free\, family-friendly celebration will bring together Native Amer
+ ican dancers\, drummers\, artists\, craftspeople\, food vendors\, and comm
+ unity members for a day of culture\, ceremony\, celebration\, and communit
+ y. The Powwow will feature powwow dancing and drumming\, along with compet
+ ition dancing. There will also be Gourd dancing and songs\, dance specials
+ \, Intertribals and Round Dances that everyone is invited to join. Childre
+ n are welcome. What: Berkeley’s 34th Annual Indigenous Peoples Day Powwo
+ w & Indian Market When: Saturday\, October 10\, 2026 10 a.m.– 6 p.m. Gra
+ nd Entry: 1 p.m. Where: M.L.K. Civic Center Park Allston Way at M.L. King\
+ , Jr. Way Berkeley\, California Head Staff Co-MCs: Randy Pico (Luiseño) &
+  Aurora Mamea (Blackfeet) Head Man: Daniel Leroy (Omaha/Ponca/Pomo) Head L
+ ady: Alexa Gorospe (Laguna Pueblo/Ohkay’Owingeh) Arena Director: JoeFox 
+ Hopper (Pomo/L
+LOCATION:M.L.K. Civic Center Park Allston Way at M.L. King\, Jr. Way Berke
+ ley\, California
+URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
+ an-market-berkeley/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World Famous Pets
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1AfF08f
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
@@ -170,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -206,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -220,31 +254,10 @@ URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
  s/14908303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Francisco Photobook Fair
-DTSTART;TZID=America/Los_Angeles:20261017T110000
-DTEND;TZID=America/Los_Angeles:20261017T170000
-DTSTAMP:20260928T124930Z
-UID:funcheap-20261017-sanfranciscophotobookfai
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/san-francisco-photobook-fair/\nLocatio
- n: san francisco\nPrice: Free\nCategories: community\, free\nSource: funch
- eap/san-francisco\n\nSan Francisco Photobook Fair Saturday\, October 17 & 
- Sunday\, October 18\, 2026 · 11am–5pm both days Harvey Milk Photo Cente
- r · 50 Scott St\, San Francisco · Free The San Francisco Photobook Fair 
- returns for its second year with 40+ publishers\, artists\, and independen
- t presses from across the US and internationally — from handmade zines a
- nd limited editions to major monographs. Highlights include Nazraeli Press
- \, TBW Books\, KGP Monolith\, Setanta Books (UK)\, Artichoke Press\, and p
- hotographer Arthur Tress. Coffee and pastries by Loquat all weekend. harve
- ymilkphotocenter.org
-LOCATION:san francisco
-URL:https://sf.funcheap.com/san-francisco-photobook-fair/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -266,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -300,7 +313,7 @@ SUMMARY:SF’s “Golden Hour” Filipino Night Market is Back for 2026 (S
  oMa)
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260928T124930Z
+DTSTAMP:20260928T225545Z
 UID:funcheap-20261024-sfsgoldenhourfilipinonig
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
