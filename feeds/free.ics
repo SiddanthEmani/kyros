@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -26,7 +26,7 @@ SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
  T)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -59,42 +59,10 @@ URL:https://www.ticketweb.com/event/saint-harison-presents-the-ghosted-caf
  e-du-nord-tickets/14989063
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free 30-Minute Dance Shows on Freedom + Justice at SF Libraries (O
- ct. 3-17)
-DTSTART;TZID=America/Los_Angeles:20261003T130000
-DTEND;TZID=America/Los_Angeles:20261003T151500
-DTSTAMP:20260929T120333Z
-UID:funcheap-20261003-free30minutedanceshowson
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-30minute-dance-shows-freedom-just
- ice-sf-libraries-oct-317/\nLocation: san francisco\nPrice: Free\nCategorie
- s: community\, free\nSource: funcheap/san-francisco\n\nOctober 3 – 17: S
- hows at 1pm and 3:15pm each Saturday Flyaway Productions returns to the st
- reets with a new dance-based public art project exploring the concept of f
- reedom at the intersection of public libraries and prisons. Directed by Fl
- yaway Artistic Director Jo Kreiter in coalition with the San Francisco Pub
- lic Library\, ‘Freedom Comes’ features a cast of seven female dancers\
- , original research and text by April Harris\, and commissioned music by K
- alyn Harwood. A total of six 30-minute shows are scheduled at 1 p.m. and 3
- :15 p.m. over three consecutive Saturdays\, October 3 – 17. ‘Freedom C
- omes’ opens October 3 at Visitacion Valley Branch Library before moving 
- to the San Francisco Main Library on October 10\, and finally to the Orteg
- a Branch Library on October 17. All shows are free with no reservation req
- uired. Flyaway’s primary collaborator is April Harris\, an incarcerated 
- writer serving a life sentence at the California Institution for Women in 
- Corona\, California. She is currently a research advocate to support the U
- niversity of California Sentencing Project\, a collaboration between the U
- niversity of California at San Diego and Los Angeles\, and members of the 
- California Coalition
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-30minute-dance-shows-freedom-justice-sf-l
- ibraries-oct-317/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -113,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -149,7 +117,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -179,32 +147,10 @@ URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
  an-market-berkeley/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Famous Pets
-DTSTART:20261016T030000Z
-DTEND:20261016T050000Z
-DTSTAMP:20260929T120333Z
-UID:rZ7HnEZ1AfF08f
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-c
- lub-tickets/14224414\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Ave
- nue\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Rock\nCategories: c
- oncert\, free\nSource: ticketmaster/music\n\n21+ ONLY. Please note - there
-  is a delivery delay set for 2 weeks prior to show. This event is 21 and o
- ver. Any ticket holder unable to present valid identification indicating t
- hat they are at least 21 years of age will not be admitted to this event\,
-  and will not be eligible for a refund. Another Planet Entertainment is co
- mmitted to producing safe events. Please review our most up-to-date COVID-
- 19 policy requirements for entry at https://apeconcerts.com/health-safety 
- * Policy is subject to change
-LOCATION:1025 Columbus Avenue\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tick
- ets/14224414
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -240,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -257,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -276,10 +222,50 @@ URL:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14
  933603
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Asha Banks
+DTSTART:20261018T040000Z
+DTEND:20261018T060000Z
+DTSTAMP:20260929T214813Z
+UID:rZ7HnEZ1AfFe80
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/asha-banks-the-independent-tic
+ kets/14202424\nVenue: The Independent\nLocation: 628 Divisadero St\, San F
+ rancisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Singer-Songwriter\nCateg
+ ories: concert\, free\nSource: ticketmaster/music\n\nPlease note - there i
+ s a delivery delay set for 2 weeks prior to show. Support acts subject to 
+ change without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/asha-banks-the-independent-tickets/142
+ 02424
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MXTX Wei Ying Birthday Cupsleeve Event (SF)
+DTSTART;TZID=America/Los_Angeles:20261018T180000
+DTEND;TZID=America/Los_Angeles:20261018T200000
+DTSTAMP:20260929T214813Z
+UID:funcheap-20261018-mxtxweiyingbirthdaycupsl
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/mxtx-wei-ying-birthday-cupsleeve-event
+ -sf/\nVenue: My Cup of Tea Address: 2666 Ocean Ave\, San Francisco\, CA 94
+ 132 ⏰ Time: 12-6 PM E\nPrice: Free\nCategories: free\nSource: funcheap/s
+ an-francisco\n\nFan hosted MXTX cupskeeve We are happy to announce our upc
+ oming MXTX Cupsleeve Come celebrate Wei Ying’s birthday day with us 🥰
+  Cosplay is optional but feel free to come in any danmei cosplay if you wo
+ uld like We plan to have a cake celebration again this year! Join us for a
+ ctivities\, raffle\, cosplay\, photo booth\, and hang with other fans🥰 
+ Event details: Date: Sunday October 18\, 2026 Location: My Cup of Tea Addr
+ ess: 2666 Ocean Ave\, San Francisco\, CA 94132 ⏰ Time: 12-6 PM Event is 
+ free admission for all! More details on @ moonlightguildhouse Host: @aitsu
+ kiart
+LOCATION:My Cup of Tea Address: 2666 Ocean Ave\, San Francisco\, CA 94132 
+ ⏰ Time: 12-6 PM E
+URL:https://sf.funcheap.com/mxtx-wei-ying-birthday-cupsleeve-event-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -313,7 +299,7 @@ SUMMARY:SF’s “Golden Hour” Filipino Night Market is Back for 2026 (S
  oMa)
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:funcheap-20261024-sfsgoldenhourfilipinonig
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-

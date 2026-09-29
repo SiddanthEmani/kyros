@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Grok Bot x Notion for Product Builders night (SF)
 DTSTART:20260930T000000Z
 DTEND:20260930T033000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:evt-OiFkITxP5F6rX0n
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/grokbotproduct-sf\nLocation: San Francisco\, CA\
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Cache Me Outside: A Rooftop Party at the AI Conference
 DTSTART:20261001T000000Z
 DTEND:20261001T030000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:evt-fbXDcwz01gSiIbn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/wesjv6eq\nLocation: KAIYŌ Rooftop\, 701 3rd St 
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:How AI Models Learn to Do Real Work
 DTSTART:20261001T003000Z
 DTEND:20261001T033000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:evt-YUXj40WxzAttDXn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/icar7u2x\nLocation: San Francisco\, CA\nHost: Op
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:STACKED: Sandboxes\, Inference\, & Observability
 DTSTART:20261001T010000Z
 DTEND:20261001T033000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:evt-QzLbxtUc4CDGNbx
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/e2b-0e34\nLocation: San Francisco\, CA\nHost: E2
@@ -55,10 +55,22 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/e2b-0e34
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Multiplayer AI & How We Get There
+DTSTART:20261002T000000Z
+DTEND:20261002T023000Z
+DTSTAMP:20260929T214813Z
+UID:evt-advRo98TNIaE4TP
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/fj1r2uu7\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/fj1r2uu7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Claude Community x Cerebras: Cafe Compute
 DTSTART:20261002T010000Z
 DTEND:20261002T040000Z
-DTSTAMP:20260929T120333Z
+DTSTAMP:20260929T214813Z
 UID:evt-WoYnSCqTjbPglF5
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claudecbrs\nLocation: San Francisco\, CA\nHost: 
@@ -67,16 +79,15 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/claudecbrs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Berkeley BCS 2026 AI + Recruiting Summit
-DTSTART:20261003T160000Z
-DTEND:20261004T010000Z
-DTSTAMP:20260929T120333Z
-UID:evt-uQXbRyHwHnb2rgt
+SUMMARY:Taste: A Physical AI Data Happy Hour
+DTSTART:20261002T010000Z
+DTEND:20261002T040000Z
+DTSTAMP:20260929T214813Z
+UID:evt-xKpqudLI8Ad0yPq
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/24irrudp\nLocation: Pauley Ballroom\, 2495 Bancr
- oft Way\, Berkeley\, CA 94720\, USA\nHost: Personal\nCategories: ai\nSourc
- e: luma-html/san-francisco
-LOCATION:Pauley Ballroom\, 2495 Bancroft Way\, Berkeley\, CA 94720\, USA
-URL:https://lu.ma/24irrudp
+DESCRIPTION:https://lu.ma/cnsyiwmm\nLocation: San Francisco\, CA\nHost: Pe
+ rsonal\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/cnsyiwmm
 END:VEVENT
 END:VCALENDAR
