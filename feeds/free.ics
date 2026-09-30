@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -26,7 +26,7 @@ SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
  T)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -63,7 +63,7 @@ SUMMARY:SF’s Free “Pop-Ups on the Plaza”: Celebrating Latine Makers
  (Ferry Plaza)
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T210000
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:funcheap-20261003-sfsfreepopupsontheplazac
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers
@@ -80,12 +80,12 @@ DESCRIPTION:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers
   is a Port sponsored event brought to you by Foodwise. This program is pro
  udly funded in partnership with the San Francisco Human Rights Commission.
   Additional support is provided by the Ferry Building. View this post on I
- nstagram A post shared by Foodwise (@foodwise) Participating Vendors Chi C
- hi’s Kiosko : Empanadas\, Puerto Rican sandwich combos\, and passion fru
- it juice Clandestina Cocina : Cuban rice bowls (lechon\, roasted chicken\,
-  or ropa vieja)\, Cuban sandwiches\, guava and cheese turnovers\, and guav
- a limeade Dulce Maná : Colombian pastries\, flan\, choco flan\, tres lech
- es\,
+ nstagram A post shared by Foodwise (@foodwise) Participating Vendors Agua 
+ Frisco : Locally made artisan agua frescas Chi Chi’s Kiosko : Empanadas\
+ , Puerto Rican sandwich combos\, and passion fruit juice Clandestina Cocin
+ a : Cuban rice bowls (lechon\, roasted chicken\, or ropa vieja)\, Cuban sa
+ ndwiches\, guava and cheese turnovers\, and guava limeade Dulce Maná : Co
+ l
 LOCATION:south bay
 URL:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers-sfs-fer
  ry-building/
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -145,11 +145,44 @@ URL:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-nord-tic
  kets/14969533
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’s Wharf)
+DTSTART;TZID=America/Los_Angeles:20261010T090000
+DTEND;TZID=America/Los_Angeles:20261010T170000
+DTSTAMP:20260930T214945Z
+UID:funcheap-20261010-fleetfest2026navybandsfo
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks
+ -fishermans-wharf/\nVenue: Fisherman’s Wharf – SkyStar Wheel and Pier 
+ 27 2860 Taylor St\, San Francisco\, CA\nPrice: Free\nCategories: community
+ \, free\nSource: funcheap/san-francisco\n\nFleet Fest is a free community 
+ festival at Fisherman’s Wharf in San Francisco\, celebrating the Nation
+ ’s sea services as part of Fleet Week. The event features live performan
+ ces by local musicians and military bands\, exhibitor booths from city org
+ anizations and local businesses\, activities for families and children\, f
+ ood trucks\, pop-up vendors\, and a beverage bar. The festival takes place
+  at the SkyStar Wheel and Pier 27. Original Event Description: _Fleet Fest
+  Date & Time Saturday\, October 10 9:00 AM – 5:00 PM Sunday\, October 11
+  9:00 AM – 5:00 PM Location Fisherman’s Wharf – SkyStar Wheel and Pi
+ er 27 2860 Taylor St\, San Francisco\, CA 94111 Info This event is free. D
+ onate to Fleet Fest This celebration of our Nation’s sea services is a d
+ ynamic festival right on the pier hosting the Navy’s Fleet Week flagship
+ . Experience performances by local musicians and featured military bands. 
+ Exhibitors include city organizations\, local businesses\, veteran and act
+ ive duty support organizations\, educational experiences and fun activitie
+ s for kids and parents alike. Grab a bite from our food truck lane and pop
+ -up vendors. Visit our bar for a variety of beverages while our stage rock
+ s all day long.
+LOCATION:Fisherman’s Wharf – SkyStar Wheel and Pier 27 2860 Taylor St\
+ , San Francisco\, CA
+URL:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks-fisherm
+ ans-wharf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -182,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -218,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -232,10 +265,42 @@ URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
  s/14908303
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
+DTSTART;TZID=America/Los_Angeles:20261017T110000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+DTSTAMP:20260930T214945Z
+UID:funcheap-20261017-14thannualbayviewinmotio
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
+ -sf/\nVenue: Sound Meets Movement” Tai Chi Music Pilates Capoera Massage
+ s Haircuts Games and\nPrice: Free\nCategories: free\nSource: funcheap/sout
+ h-bay+funcheap/san-francisco+funcheap/east-bay\n\nThe Southeast Community 
+ Center Presents: The 14th Annual District 10 Health Fest: Bayview in Motio
+ n! Saturday\, October 17\, 11AM – 4PM. This dynamic\, community-centered
+  wellness celebration merges movement\, prevention\, sustainability and ne
+ ighborhood pride into one exciting festival at the SECC featuring health s
+ creenings and education\, entertainment and food trucks. This year’s the
+ me\, Bayview in Motion\, celebrates movement\, wellness\, and community fo
+ r a day of health\, healing\, and collective joy in San Francisco’s Dist
+ rict 10. This annual event will highlight the importance of holistic well-
+ being through fun activities\, community resources\, and opportunities for
+  residents of all ages to engage in healthy living. FREE Health Screenings
+  & Services Blood Pressure Testing Dental Check Ups Flu Shots Eye Exams & 
+ FREE Eyeglasses Diabetes Education & Testing Kidney Health Screenings COPD
+ /Asthma Screenings Stroke Prevention Education & Testing Sexual Health Scr
+ eenings Acupuncture Breast Cancer Screenings (No Cost for Eligible Partici
+ pants) FREE Activities & Entertainment We Run Bayiew 5K Finish Line Specia
+ l Performance by Zaccho Dance Theatre of “Where Sound Meets Movement” 
+ Tai Chi Music Pi
+LOCATION:Sound Meets Movement” Tai Chi Music Pilates Capoera Massages Ha
+ ircuts Games and
+URL:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -254,50 +319,10 @@ URL:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14
  933603
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asha Banks
-DTSTART:20261018T040000Z
-DTEND:20261018T060000Z
-DTSTAMP:20260930T173345Z
-UID:rZ7HnEZ1AfFe80
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/asha-banks-the-independent-tic
- kets/14202424\nVenue: The Independent\nLocation: 628 Divisadero St\, San F
- rancisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Singer-Songwriter\nCateg
- ories: concert\, free\nSource: ticketmaster/music\n\nPlease note - there i
- s a delivery delay set for 2 weeks prior to show. Support acts subject to 
- change without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/asha-banks-the-independent-tickets/142
- 02424
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MXTX Wei Ying Birthday Cupsleeve Event (SF)
-DTSTART;TZID=America/Los_Angeles:20261018T180000
-DTEND;TZID=America/Los_Angeles:20261018T200000
-DTSTAMP:20260930T173345Z
-UID:funcheap-20261018-mxtxweiyingbirthdaycupsl
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/mxtx-wei-ying-birthday-cupsleeve-event
- -sf/\nVenue: My Cup of Tea Address: 2666 Ocean Ave\, San Francisco\, CA 94
- 132 ⏰ Time: 12-6 PM E\nPrice: Free\nCategories: free\nSource: funcheap/s
- an-francisco\n\nFan hosted MXTX cupskeeve We are happy to announce our upc
- oming MXTX Cupsleeve Come celebrate Wei Ying’s birthday day with us 🥰
-  Cosplay is optional but feel free to come in any danmei cosplay if you wo
- uld like We plan to have a cake celebration again this year! Join us for a
- ctivities\, raffle\, cosplay\, photo booth\, and hang with other fans🥰 
- Event details: Date: Sunday October 18\, 2026 Location: My Cup of Tea Addr
- ess: 2666 Ocean Ave\, San Francisco\, CA 94132 ⏰ Time: 12-6 PM Event is 
- free admission for all! More details on @ moonlightguildhouse Host: @aitsu
- kiart
-LOCATION:My Cup of Tea Address: 2666 Ocean Ave\, San Francisco\, CA 94132 
- ⏰ Time: 12-6 PM E
-URL:https://sf.funcheap.com/mxtx-wei-ying-birthday-cupsleeve-event-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260930T173345Z
+DTSTAMP:20260930T214945Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -325,5 +350,34 @@ LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San FranciscoCost: Fre
  eAll Ages Welcom
 URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
  sf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFMOMA’s “Free Family Day” Free Museum Day (2026)
+DTSTART;TZID=America/Los_Angeles:20261025T190000
+DTEND;TZID=America/Los_Angeles:20261025T210000
+DTSTAMP:20260930T214945Z
+UID:funcheap-20261025-sfmomasfreefamilydayfree
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
+ ion: san francisco\nPrice: Free\nCategories: community\, free\nSource: fun
+ cheap/san-francisco\n\nThe San Francisco Museum of Modern Art (SFMOMA) wel
+ comes families and inter-generational audiences to the museum for its Free
+  Family Day on October 25\, 2026. Enjoy a day of art and family fun at SFM
+ OMA! These special days include art-making activities for the whole family
+  in our Koret Education Center\, located on Floor 2\, plus additional perf
+ ormances\, activations\, and more. While the museum is always free for vis
+ itors 18 and younger\, on Free Family Day\, General admission to the museu
+ m is free for up to two adults accompanying one child or teen (18 and youn
+ ger) \, and tickets are available two weeks in advance. Surcharged exhibit
+ ions are not included and require separate paid tickets. SFMOMA’s Free F
+ amily Day Sunday\, October 25\, 2026 | 10 am to 5 pm SFMOMA\, 151 Third St
+ .\, SF FREE for up to two adults accompanying each visitor under 18. Up to
+  two adults may each claim a free ticket when accompanied by a visitor 18 
+ and younger on Free Family Day. Reserve your free tickets when they become
+  available. Admission to special exhibitions that require a surcharge is n
+ ot included (but may be purchased for an additional fee) If you arrive una
+ ccompanied by someone 18 or under\, you’ll need to pur
+LOCATION:san francisco
+URL:https://sf.funcheap.com/sfmomas-free-family-museum-day/
 END:VEVENT
 END:VCALENDAR
