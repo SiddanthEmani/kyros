@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -26,7 +26,7 @@ SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
  T)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -59,10 +59,42 @@ URL:https://www.ticketweb.com/event/saint-harison-presents-the-ghosted-caf
  e-du-nord-tickets/14989063
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s Free “Pop-Ups on the Plaza”: Celebrating Latine Makers 
+ (Ferry Plaza)
+DTSTART;TZID=America/Los_Angeles:20261003T190000
+DTEND;TZID=America/Los_Angeles:20261003T210000
+DTSTAMP:20260930T173345Z
+UID:funcheap-20261003-sfsfreepopupsontheplazac
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers
+ -sfs-ferry-building/\nLocation: south bay\nPrice: Free\nCategories: concer
+ t\, free\nSource: funcheap/south-bay\n\nThis Hispanic History Month\, cele
+ brate Bay Area Latine makers with a day of delicious food\, crafts\, and c
+ ommunity at the Embarcadero Ferry Terminal Plaza (south of the Ferry Build
+ ing) and Ferry Plaza Farmers Market. Entry is free and open to the public\
+ , and food and drinks will be available for purchase. Pop-Ups on the Plaza
+ : Celebrating Latine Makers Saturday\, October 3\, 2026 | 9a-2p Embarcader
+ o Ferry Terminal Plaza (south of Ferry Building) FREE Pop-Ups on the Plaza
+  is a series of events celebrating Bay Area BIPOC entrepreneurs\, includin
+ g businesses in Foodwise’s Building Equity program. Pop-Ups on the Plaza
+  is a Port sponsored event brought to you by Foodwise. This program is pro
+ udly funded in partnership with the San Francisco Human Rights Commission.
+  Additional support is provided by the Ferry Building. View this post on I
+ nstagram A post shared by Foodwise (@foodwise) Participating Vendors Chi C
+ hi’s Kiosko : Empanadas\, Puerto Rican sandwich combos\, and passion fru
+ it juice Clandestina Cocina : Cuban rice bowls (lechon\, roasted chicken\,
+  or ropa vieja)\, Cuban sandwiches\, guava and cheese turnovers\, and guav
+ a limeade Dulce Maná : Colombian pastries\, flan\, choco flan\, tres lech
+ es\,
+LOCATION:south bay
+URL:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers-sfs-fer
+ ry-building/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -81,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -117,7 +149,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -150,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -186,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -203,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -225,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Asha Banks
 DTSTART:20261018T040000Z
 DTEND:20261018T060000Z
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:rZ7HnEZ1AfFe80
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/asha-banks-the-independent-tic
@@ -242,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:MXTX Wei Ying Birthday Cupsleeve Event (SF)
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T200000
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:funcheap-20261018-mxtxweiyingbirthdaycupsl
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/mxtx-wei-ying-birthday-cupsleeve-event
@@ -265,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260930T115247Z
+DTSTAMP:20260930T173345Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -293,37 +325,5 @@ LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San FranciscoCost: Fre
  eAll Ages Welcom
 URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
  sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SF’s “Golden Hour” Filipino Night Market is Back for 2026 (S
- oMa)
-DTSTART;TZID=America/Los_Angeles:20261024T190000
-DTEND;TZID=America/Los_Angeles:20261024T210000
-DTSTAMP:20260930T115247Z
-UID:funcheap-20261024-sfsgoldenhourfilipinonig
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-
- 2026-soma/\nVenue: 330 Ritch St\nPrice: Free\nCategories: community\, free
- \nSource: funcheap/san-francisco\n\n​ ✦ UNDISCOVERED SF San Francisco
- ’s First Night Market Is Back ​Ten years ago\, Undiscovered started th
- e trend of night markets. Now\, we return during golden hour. RSVP – FRE
- E ​This year marks a special milestone — join us as we celebrate 10 se
- asons of community\, creativity\, and cultural pride! For our second hub\,
-  we are so excited to bring back UNDISCOVERED SF Season 10: the Golden Hou
- r Night Market in partnership with Victory Hall. ​Nestled in the fabled 
- Ritch Street Alley\, Victory Hall has been a cornerstone of SoMa since 190
- 8 — home to the legendary 330 Ritch Nightclub and a long legacy of music
- \, community\, and culture in partnership with Deanna Sison\, a culinary t
- railblazer\, a custodian of Filipino tradition \, and an influential force
-  in San Francisco’s hospitality scene. ​On October 24\, we’re honore
- d to be part of that legacy — filling Ritch Street with Filipino America
- n food\, art\, music\, and culture in the heart of the Filipino Cultural C
- orridor. #UNDSCVRDseason10 #MadewithMahal ​ ✦ Come hungry. Come ready 
- to move. Come discover. ​ ​Eat your way through the market\, shop reta
- il vendors\, catch DJ sets\, and step inside Victory Hall for a special ex
- hibition honoring the history o
-LOCATION:330 Ritch St
-URL:https://sf.funcheap.com/sfs-golden-hour-filipino-night-market-2026-som
- a/
 END:VEVENT
 END:VCALENDAR
