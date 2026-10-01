@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mari Froes
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:rZ7HnEZ1AfPOvS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
@@ -26,7 +26,7 @@ SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
  T)
 DTSTART:20261002T030000Z
 DTEND:20261002T050000Z
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:rZ7HnEZ1AfJavN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
@@ -63,7 +63,7 @@ SUMMARY:SF’s Free “Pop-Ups on the Plaza”: Celebrating Latine Makers
  (Ferry Plaza)
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T210000
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:funcheap-20261003-sfsfreepopupsontheplazac
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:BLÜ EYES: Two People at Once Tour
 DTSTART:20261010T040000Z
 DTEND:20261010T060000Z
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:rZ7HnEZ1AfPtfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/bl-eyes-two-people-at-cafe-du-
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’s Wharf)
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:funcheap-20261010-fleetfest2026navybandsfo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks
@@ -182,7 +182,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -212,63 +212,10 @@ URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
  an-market-berkeley/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
-DTSTART:20261017T033000Z
-DTEND:20261017T053000Z
-DTSTAMP:20260930T214945Z
-UID:rZ7HnEZ1AfPs7K
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
- sh-american-hall-tickets/14971113\nVenue: Swedish American Hall\nLocation:
-  2174 Market St\, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\nCa
- tegories: concert\, free\nSource: ticketmaster/music\n\nWhoever Allan Raym
- an is\, hes made a hell of a body of work so far.The Toronto based artist 
- has delivered one head-scratching\, hypnotic and heavenly project after an
- other\, including Hotel Allan\, Roadhouse 01\, and the unforgettable CHRIS
- TIAN.Along the way\, he generated over 250 million streams\, sold out tour
- s in Europe\, USA and Canada\, and shined at festivals\, including Reading
-  & Leeds\, Bonnaroo\, Rifflandia and Lollapalooza\, and has collaborated w
- ith the likes of Jessie Reyez\, Alex da Kid and James Vincent McMorrow.His
-  most recent album #1 Girl is a group of demos fictionally written and rec
- orded by #1 Girl\, whom we first meet during the intro of The All Allan Ho
- ur.Set in the year of 1994\, Allan writes the album from her perspective a
- nd sings in her tone of voice to the best of his ability\, delivering us a
-  sonic departure of the familiar Allan Rayman weve come to know.-Tier Prio
- rity Seating: Includes Premiere Seating in the First 4 Rows and an Exclusi
- ve Allan Rayman Merch Item.General Admission: Unreserved Seating. First Co
- me\, First Serve.-Presale Start: Wednesday\, June 10th at 10:00 AM Public 
- On Sale: Friday\, June 12th at 10:00 AM For any event that is listed as 18
-  or 21 and over\, ANY ticket holder unable to present valid identification
-  indicating that they are of age will not be admitted to this event\, and 
- will not be eligible for a refund. Any event listed as All Ages\, means 6 
- years of age or older. ALL tickets are standing room only unless otherwise
-  specified. If you need s
-LOCATION:2174 Market St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-ameri
- can-hall-tickets/14971113
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:This is Lorelei
-DTSTART:20261017T040000Z
-DTEND:20261017T060000Z
-DTSTAMP:20260930T214945Z
-UID:rZ7HnEZ1Af0FGd
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
- t-tickets/14908303\nVenue: The Independent\nLocation: 628 Divisadero St\, 
- San Francisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Indie Pop\, Alterna
- tive\nCategories: concert\, free\nSource: ticketmaster/music\n\nPlease not
- e - there is a delivery delay set for 2 weeks prior to show. Support acts 
- subject to change without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
- s/14908303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -297,10 +244,44 @@ LOCATION:Sound Meets Movement” Tai Chi Music Pilates Capoera Massages Ha
 URL:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First 
+ 30 People (San Jose)
+DTSTART;TZID=America/Los_Angeles:20261017T180000
+DTEND;TZID=America/Los_Angeles:20261018T140000
+DTSTAMP:20261001T035729Z
+UID:funcheap-20261017-2026peculiaritiesmarketo
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
+ e-treats-30-people-san-jose/\nVenue: community comes together to support o
+ ne another. linktr.ee/Sjmarket\nPrice: Free\nCategories: community\, free\
+ nSource: funcheap/san-jose\n\nSJ.Makers and Rumble City Boxing host a free
+ \, family-friendly Halloween market featuring peculiarities\, local art\, 
+ tooth gems\, vendors\, treats\, trinkets\, and oddities. The event include
+ s a Trunk or Treat Decorating Contest with cash prizes\, candy and freebie
+ s\, and costumes are encouraged. The first 30 customers will receive a tre
+ at. Original Event Description: _THE PECULIARITIES MARKET IS BACK! SJ.MAKE
+ RS × Rumble City Boxing Join us for a spooky\, family friendly Halloween 
+ market featuring peculiarities\, local art\, tooth gems\, vendors\, and a 
+ Trunk or Treat Decorating Contest with lots of candy and freebies! TRUNK D
+ ECORATING CONTEST 1st Place — $250 Cash 2nd Place — $100 Cash 3rd Plac
+ e — Spooky Basket Saturday\, October 17\, 2026 2:00–6:00 PM 866 Park A
+ ve. San Jose\, CA 95126 Come dressed up\, bring your candy buckets\, suppo
+ rt local businesses\, and enjoy a fun Halloween celebration with the commu
+ nity! Flyer by : @phantomcollector FREE ADMISSION_ Text extracted from pro
+ vided image: SJ.MAKERS Peculiarities MARKET 10.17.26 TREATS · TRINKETS AR
+ T · ODDITIES 866 PARK AVE. SJ\,CA *FREE* 2PM-6PM FIRST 30 CUSTOMERS WILL 
+ RECEIVE A TREAT! COSTUMES ENCOURAGED! HAUNTS 2026. @sj.makers #SanJoseMake
+ rs ✨
+LOCATION:community comes together to support one another. linktr.ee/Sjmark
+ et
+URL:https://sf.funcheap.com/2026-peculiarities-market-oddities-free-treats
+ -30-people-san-jose/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -322,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -352,10 +333,30 @@ URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
  sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
+DTSTART;TZID=America/Los_Angeles:20261024T160000
+DTEND;TZID=America/Los_Angeles:20261024T180000
+DTSTAMP:20261001T035729Z
+UID:funcheap-20261024-goodsamaritanhospitalsan
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
+ treat-event-san-jose/\nLocation: san jose\nPrice: Free\nCategories: free\n
+ Source: funcheap/san-jose\n\nJoin Good Samaritan Hospital for a free\, fam
+ ily-friendly Trunk or Treat event ! Enjoy trick-or-treating\, a jumpy hous
+ e\, face painting\, bubbles\, robots\, spooky snacks\, and more\, plus spe
+ cial appearances from a fire truck\, ambulance and helicopter. Come in cos
+ tume and trunk or treat to music by DJ Bob! Saturday\, October 24\, 2026 |
+  2–4 p.m. Good Samaritan Hospital Main Parking Lot 2425 Samaritan Drive\
+ , San Jose\, CA 95124 Weather permitting and while supplies last.
+LOCATION:san jose
+URL:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-treat-ev
+ ent-san-jose/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SFMOMA’s “Free Family Day” Free Museum Day (2026)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20260930T214945Z
+DTSTAMP:20261001T035729Z
 UID:funcheap-20261025-sfmomasfreefamilydayfree
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
