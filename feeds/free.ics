@@ -5,65 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Mari Froes
-DTSTART:20261002T030000Z
-DTEND:20261002T050000Z
-DTSTAMP:20261001T221847Z
-UID:rZ7HnEZ1AfPOvS
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/mari-froes-the-independent-tic
- kets/14960073\nVenue: The Independent\nLocation: 628 Divisadero St\, San F
- rancisco\, CA\nPrice: Free\nGenres: Music\, Folk\, Latin Folk\nCategories:
-  concert\, free\nSource: ticketmaster/music\n\nPlease note - there is a de
- livery delay set for 2 weeks prior to show. Support acts subject to change
-  without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/mari-froes-the-independent-tickets/149
- 60073
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:saint harison presents the ghosted tour (An Evening With) (SOLD OU
- T)
-DTSTART:20261002T030000Z
-DTEND:20261002T050000Z
-DTSTAMP:20261001T221847Z
-UID:rZ7HnEZ1AfJavN
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/saint-harison-presents-the-gho
- sted-cafe-du-nord-tickets/14989063\nVenue: Cafe Du Nord\nLocation: 2174 Ma
- rket St.\, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\nCategorie
- s: concert\, free\nSource: ticketmaster/music\n\nSaint Harison is an artis
- t with an undeniable voice Called one of the \, "rdquo" -> great voices no
- t just from the UK\, but of all time" by Elton John\, Saint has quickly be
- come a fan favorite with nods from Justin Bieber\, Jazmine Sullivan\, SZA 
- and more. He was recently named on Rolling Stone's Future of Music list. C
- iting Amy Winehouse and Frank Ocean as key musical influences\, Saint has 
- been covered by British Vogue\, Rolling Stone\, NPR\, GQ\, CLASH\, Variety
- \, Pigeons & Planes etc. and was named Apple Music's global Up Next artist
- . Cafe Du Nord's Preferred Viewing Available\, General Admission Not Inclu
- ded For any event that is listed as 18 or 21 and over\, ANY ticket holder 
- unable to present valid identification indicating that they are of age wil
- l not be admitted to this event\, and will not be eligible for a refund. A
- ny event listed as All Ages\, means 6 years of age or older. ALL tickets a
- re standing room only unless otherwise specified. If you need special acco
- mmodations\, contact info@cafedunord.com. Support acts are subject to chan
- ge without refund. Professional Cameras are not allowed without prior appr
- oval. Professional Camera defined as detachable lens or of professional gr
- ade as determined by the venue staff. When in doubt\, just email us ahead 
- of the show! We might be able to get you a Photo Pass depending on Artist'
- s approval. For any event that is 18 or 21 and over. Any Ticket holder una
- ble to present valid identification indicating that they are of age will n
- ot be admitte
-LOCATION:2174 Market St.\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/saint-harison-presents-the-ghosted-caf
- e-du-nord-tickets/14989063
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF’s Free “Pop-Ups on the Plaza”: Celebrating Latine Makers 
  (Ferry Plaza)
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T210000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261003-sfsfreepopupsontheplazac
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers
@@ -94,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -113,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’s Wharf)
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261010-fleetfest2026navybandsfo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks
@@ -147,7 +93,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -180,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -213,10 +159,27 @@ URL:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-ameri
  can-hall-tickets/14971113
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:This is Lorelei
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+DTSTAMP:20261002T035309Z
+UID:rZ7HnEZ1Af0FGd
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
+ t-tickets/14908303\nVenue: The Independent\nLocation: 628 Divisadero St\, 
+ San Francisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Indie Pop\, Alterna
+ tive\nCategories: concert\, free\nSource: ticketmaster/music\n\nPlease not
+ e - there is a delivery delay set for 2 weeks prior to show. Support acts 
+ subject to change without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
+ s/14908303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -249,7 +212,7 @@ SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First
  30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -282,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -304,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -337,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -357,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:SFMOMA’s “Free Family Day” Free Museum Day (2026)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261001T221847Z
+DTSTAMP:20261002T035309Z
 UID:funcheap-20261025-sfmomasfreefamilydayfree
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
