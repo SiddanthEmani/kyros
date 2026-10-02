@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Berkeley BCS 2026 AI + Recruiting Summit
 DTSTART:20261003T160000Z
 DTEND:20261004T010000Z
-DTSTAMP:20261002T035309Z
+DTSTAMP:20261002T114856Z
 UID:evt-uQXbRyHwHnb2rgt
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/24irrudp\nLocation: Pauley Ballroom\, 2495 Bancr
@@ -16,5 +16,33 @@ DESCRIPTION:https://lu.ma/24irrudp\nLocation: Pauley Ballroom\, 2495 Bancr
  e: luma-html/san-francisco
 LOCATION:Pauley Ballroom\, 2495 Bancroft Way\, Berkeley\, CA 94720\, USA
 URL:https://lu.ma/24irrudp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF Tech Week AI Demo Night
+DTSTART:20261007T000000Z
+DTEND:20261007T033000Z
+DTSTAMP:20261002T114856Z
+UID:evt-jUiPZAm27IqTm6i
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/clickh-zngw\nLocation: CANOPY Jackson Square\, 5
+ 95 Pacific Ave 4th floor\, San Francisco\, CA 94133\, USA\nHost: ClickHous
+ e Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:CANOPY Jackson Square\, 595 Pacific Ave 4th floor\, San Francisco
+ \, CA 94133\, USA
+URL:https://lu.ma/clickh-zngw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted Agent + Infra Horror Night @SF Tech Week
+DTSTART:20261007T013000Z
+DTEND:20261007T033000Z
+DTSTAMP:20261002T114856Z
+UID:evt-AadffG2nRE4uJRN
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/infra-horror-night\nLocation: SVB Experience Cen
+ ter\, 532 Market St\, San Francisco\, CA 94104\, USA\nHost: Heavybit Event
+ s\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:SVB Experience Center\, 532 Market St\, San Francisco\, CA 94104\
+ , USA
+URL:https://lu.ma/infra-horror-night
 END:VEVENT
 END:VCALENDAR
