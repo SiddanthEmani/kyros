@@ -5,94 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[EDM] "The Hayley Williams Show"
-DTSTART:20261003T020000Z
-DTEND:20261003T040000Z
-DTSTAMP:20261002T214750Z
-UID:G5vYZ_1KoLUrp
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/the-hayley-williams-show-mountain
- -view-california-10-02-2026/event/1C0064A4D17F6796\nVenue: Shoreline Amphi
- theatre\nLocation: One Amphitheatre Parkway\, Mountain View\, CA\nGenres: 
- Music\, Pop\, Electro Pop\nHost: LIVE NATION MUSIC\nCategories: edm\nSourc
- e: ticketmaster/music\n\nNo Resale Over Face Value Hayley Williams is usin
- g Ticketmaster's Face Value Exchange to help fans get tickets at the origi
- nal price. Tickets will be non-transferable and can only be resold on Tick
- etmaster at face value. States Blocking Artist Resale Terms New York\, Ill
- inois\, Colorado\, Virginia\, Utah and Connecticut have state laws that pr
- event resale restrictions. In those states\, tickets can be transferred bu
- t Ticketmaster will still honor Hayley Williams' terms by keeping resale p
- rices at face value on its site. Hayley is continuing her partnership with
-  nonprofits Support+Feed and REVERB to make her tour more sustainable and 
- impactful for people and the planet.
-LOCATION:One Amphitheatre Parkway\, Mountain View\, CA
-URL:https://www.ticketmaster.com/the-hayley-williams-show-mountain-view-ca
- lifornia-10-02-2026/event/1C0064A4D17F6796
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[EDM] Madeon presents Victory Live (18+)
-DTSTART:20261003T030000Z
-DTEND:20261003T050000Z
-DTSTAMP:20261002T214750Z
-UID:G5vYZ_1K6Y0Pb
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/madeon-presents-victory-live-18-s
- an-francisco-california-10-02-2026/event/1C0064A4C7C24958\nVenue: Bill Gra
- ham Civic Auditorium\nLocation: 99 Grove Street\, San Francisco\, CA\nGenr
- es: Music\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSour
- ce: ticketmaster/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers licens
- e or passport will be required for entry. Do not bring a photo or digital 
- copy. Please be sure to select the lowest available price level first. The
- re are a limited number of tickets available at each price level. All pric
- e levels provide the same concert experience. All tickets for this show ar
- e general admission\, standing on floor level or seated upstairs on a firs
- t come\, first serve basis. THIS SHOW IS 18+ ONLY. A physical drivers lice
- nse or passport will be required for entry. Do not bring a photo or digita
- l copy. Please be sure to select the lowest available price level first. T
- here are a limited number of tickets available at each price level. All pr
- ice levels provide the same concert experience. All tickets for this show 
- are general admission\, standing on floor level or seated upstairs on a fi
- rst come\, first serve basis.
-LOCATION:99 Grove Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/madeon-presents-victory-live-18-san-franc
- isco-california-10-02-2026/event/1C0064A4C7C24958
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live/Free] Bella Kay
-DTSTART:20261003T030000Z
-DTEND:20261003T050000Z
-DTSTAMP:20261002T214750Z
-UID:rZ7HnEZ1A4ZS1d
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/bella-kay-the-independent-tick
- ets/15033283\nVenue: The Independent\nLocation: 628 Divisadero St\, San Fr
- ancisco\, CA\nPrice: Free\nGenres: Music\, Alternative\nCategories: concer
- t\, free\nSource: ticketmaster/music\n\nPlease note - there is a delivery 
- delay set for 2 days prior to show. VIP Meet & Greet UPGRADE 1) DOES NOT I
- NCLUDE TICKET 2) Access to a Meet & Greet with Bella Kay 3) Photo Opportun
- ity with Bella Kay 4) One Exclusive Signed VIP Merch Item 5) One Commemora
- tive VIP Laminate 6) 20% off at Bella Kay's Official Store 7) Early Entry 
- 8) First Access Merchandise Shopping VIP Early Entry UPGRADE 1) DOES NOT I
- NCLUDE TICKET 2) One Exclusive VIP Merch Item 3) One Commemorative VIP Lam
- inate 4) 20% off at Bella Kay's Official Store 5) Early Entry 6) First Acc
- ess Merchandise Shopping VIP Meet & Greet Experience (TICKET INCLUDED) 1) 
- One (1) GA Ticket 2) Access to a Meet & Greet with Bella Kay 3) Photo Oppo
- rtunity with Bella Kay 4) One Exclusive Signed VIP Merch Item 5) One Comme
- morative VIP Laminate 6) 20% off at Bella Kay's Official Store 7) Early En
- try 8) First Access Merchandise Shopping VIP Early Entry (TICKET INCLUDED)
-  1) One (1) GA Ticket 2) One Exclusive VIP Merch Item 3) One Commemorative
-  VIP Laminate 4) 20% off at Bella Kay's Official Store 5) Early Entry 6) F
- irst Access Merchandise Shopping Support acts subject to change without re
- fund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/bella-kay-the-independent-tickets/1503
- 3283
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Sploinky Rave
 DTSTART:20261003T040000Z
 DTEND:20261003T060000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1AfJ4FS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/sploinky-rave-the-ritz-tickets
@@ -116,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Berkeley BCS 2026 AI + Recruiting Summit
 DTSTART:20261003T160000Z
 DTEND:20261004T010000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:evt-uQXbRyHwHnb2rgt
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/24irrudp\nLocation: Pauley Ballroom\, 2495 Bancr
@@ -130,7 +46,7 @@ SUMMARY:[Live] All Shall Perish\, Carnifex\, Extermination Dismemberment\,
   Mauled
 DTSTART:20261004T010000Z
 DTEND:20261004T030000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1Afx6kK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/all-shall-perish-carnifex-exte
@@ -146,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261004T013000Z
 DTEND:20261004T033000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_53TLUOG
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -165,7 +81,7 @@ SUMMARY:[Live/Free] SF’s Free “Pop-Ups on the Plaza”: Celebrating La
  tine Makers (Ferry Plaza)
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T210000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261003-sfsfreepopupsontheplazac
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/popups-plaza-celebrating-latine-makers
@@ -196,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jon Batiste - Jon Batiste Live
 DTSTART:20261004T030000Z
 DTEND:20261004T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_F9s4AGq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
@@ -212,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] THE KEHLANI WORLD TOUR: North America
 DTSTART:20261005T013000Z
 DTEND:20261005T033000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_5K7qMj8
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/the-kehlani-world-tour-north-amer
@@ -228,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] SF Tech Week AI Demo Night
 DTSTART:20261007T000000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:evt-jUiPZAm27IqTm6i
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/clickh-zngw\nLocation: CANOPY Jackson Square\, 5
@@ -242,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Haunted Agent + Infra Horror Night @SF Tech Week
 DTSTART:20261007T013000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:evt-AadffG2nRE4uJRN
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/infra-horror-night\nLocation: SVB Experience Cen
@@ -256,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -278,10 +194,35 @@ URL:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-californi
  a-10-06-2026/event/1C006474CCD8F68D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] JUNGLE - World Tour 2026
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+DTSTAMP:20261003T033806Z
+UID:G5vYZ_6KGM2QK
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
+ alifornia-10-07-2026/event/1C006474CCDCF693\nVenue: Greek Theatre-U.C. Ber
+ keley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Music\, R&B\, S
+ oul\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmaster/music\n\n
+ All events are rain or shine. This show is entirely general admission. A g
+ eneral admission ticket will allow you access to all areas of the Greek Th
+ eatre on a first-come\, first-served basis. No Resale Over Face Value: Jun
+ gle is using Ticketmaster's Face Value Exchange to help fans get tickets a
+ t the original price. Tickets will be non-transferable and can only be res
+ old on Ticketmaster at face value. States Blocking Artist Resale Terms: Ne
+ w York\, Illinois\, Colorado\, Virginia\, Utah and Connecticut have state 
+ laws that prevent resale restrictions. In those states\, Ticketmaster will
+  still honor Jungle's terms by keeping resale prices at face value on its 
+ site.
+LOCATION:2001 Gayley Road\, Berkeley\, CA
+URL:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-californi
+ a-10-07-2026/event/1C006474CCDCF693
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -305,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Other Minds Festival 30
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T210000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261008-othermindsfestival30
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/minds-festival-30/\nLocation: san jose
@@ -334,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -355,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -368,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Geektoberfest: Beer Tastings + Science After Dark (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261008T230000
 DTEND;TZID=America/Los_Angeles:20261009T010000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261008-geektoberfestbeertasting
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/geektoberfest-beer-tastings-science-da
@@ -399,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -414,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -436,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -456,7 +397,7 @@ SUMMARY:[Bay/Free] Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’
  s Wharf)
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261010-fleetfest2026navybandsfo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks
@@ -490,7 +431,7 @@ SUMMARY:[Bay/Free] 34th Annual Indigenous Peoples Day Powwow & Indian Mark
  et (Berkeley)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -520,10 +461,26 @@ URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
  an-market-berkeley/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Bruno Mars - The Romantic Tour
+DTSTART:20261011T020000Z
+DTEND:20261011T040000Z
+DTSTAMP:20261003T033806Z
+UID:G5vYZ_epX9yGn
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
+ a-clara-california-10-10-2026/event/1C006425BE5F932A\nVenue: Levi's® Stad
+ ium\nLocation: 4900 Marie P. DeBartolo Way\, Santa Clara\, CA\nGenres: Mus
+ ic\, Pop\, Electro Pop\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: 
+ ticketmaster/music
+LOCATION:4900 Marie P. DeBartolo Way\, Santa Clara\, CA
+URL:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-santa-clara-
+ california-10-10-2026/event/1C006425BE5F932A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -541,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -565,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -589,7 +546,7 @@ SUMMARY:[Live/Free] Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary To
  ur
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -625,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -641,10 +598,27 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] This is Lorelei
+DTSTART:20261017T040000Z
+DTEND:20261017T060000Z
+DTSTAMP:20261003T033806Z
+UID:rZ7HnEZ1Af0FGd
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
+ t-tickets/14908303\nVenue: The Independent\nLocation: 628 Divisadero St\, 
+ San Francisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Indie Pop\, Alterna
+ tive\nCategories: concert\, free\nSource: ticketmaster/music\n\nPlease not
+ e - there is a delivery delay set for 2 weeks prior to show. Support acts 
+ subject to change without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
+ s/14908303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Free] 14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -677,7 +651,7 @@ SUMMARY:[Bay/Free] 2026 “Peculiarities” Market: Oddities + Free Treats
   for First 30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -710,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Top of the Hill Festival 2026 (Daly City)
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261017-topofthehillfestival2026
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/top-hill-festival-2026-daly-city/\nLoc
@@ -739,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -763,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -785,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -800,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -817,7 +791,7 @@ SUMMARY:[Bay] “Stranger Things” Laser Show: 80s Hits in the Dome (San
  Jose)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261023-strangerthingslasershow8
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/stranger-laser-show-80s-hits-dome-san-
@@ -848,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -864,7 +838,7 @@ SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
  ival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -898,7 +872,7 @@ SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -931,7 +905,7 @@ SUMMARY:[Free] Good Samaritan Hospital’s Annual Trunk or Treat Event (Sa
  n Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -952,7 +926,7 @@ SUMMARY:[Free] Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San
   José City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -985,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] SFMOMA’s “Free Family Day” Free Museum Day (2026)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:funcheap-20261025-sfmomasfreefamilydayfree
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
@@ -1014,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -1029,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -1045,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -1060,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -1073,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -1088,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -1101,7 +1075,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -1116,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261002T214750Z
+DTSTAMP:20261003T033806Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
