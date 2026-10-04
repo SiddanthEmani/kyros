@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’s Wharf)
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261010-fleetfest2026navybandsfo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks
@@ -61,7 +61,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:This is Lorelei
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:rZ7HnEZ1Af0FGd
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -180,7 +180,7 @@ SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First
  30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -289,7 +289,7 @@ SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:SFMOMA’s “Free Family Day” Free Museum Day (2026)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261004T040841Z
+DTSTAMP:20261004T114357Z
 UID:funcheap-20261025-sfmomasfreefamilydayfree
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
