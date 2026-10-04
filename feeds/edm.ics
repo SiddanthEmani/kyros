@@ -5,26 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Jon Batiste - Jon Batiste Live
-DTSTART:20261004T030000Z
-DTEND:20261004T050000Z
-DTSTAMP:20261003T203408Z
-UID:G5vYZ_F9s4AGq
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berk
- eley-california-10-03-2026/event/1C006485F154531D\nVenue: Greek Theatre-U.
- C. Berkeley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Music\, P
- op\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmas
- ter/music
-LOCATION:2001 Gayley Road\, Berkeley\, CA
-URL:https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berkeley-cal
- ifornia-10-03-2026/event/1C006485F154531D
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -49,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -74,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -87,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -102,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -124,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -140,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -158,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -181,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -200,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
@@ -222,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -237,10 +221,37 @@ URL:https://www.ticketmaster.com/role-model-presents-chuck-on-tour-berkele
  y-california-10-18-2026/event/1C0064D1901B9B3C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM 
+ DJ
+DTSTART:20261026T020000Z
+DTEND:20261026T040000Z
+DTSTAMP:20261004T040841Z
+UID:G5vYZ_fGZpeRN
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
+ vegacaimanes-san-jose-california-10-25-2026/event/1C00654300582BE3\nVenue:
+  San Jose Civic\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Mus
+ ic\, Latin\nHost: PROMOTED BY VENUE\nCategories: edm\nSource: ticketmaster
+ /music\n\nReventon de Acordeones! Corridos! Nortenas y EDM con CORNELI0 VE
+ GA y Su Dinastia\, Los CAIMANES de SINALOA y "ELLA"\, una DJ que fusiona r
+ itmos latinos tradicionales con musica eletronica! Esta noche sera diferen
+ te! Domingo\, 25 de Oct en SAN JOSE CIVIC! An Explosive Night of Acordions
+ \, Corridos\, Nortenas and EDM featuring CORNELIO VEGA y Su Dinastia\, Cai
+ manes de Sinaloa and "ELLA"\, a DJ who fuses traditional Latin rhythms wit
+ h electronic music! Its going to be a night like no other! Sun. October 25
+ th at SAN JOSE CIVIC! LETS PARTY Anyone 2 years and older must purchase a 
+ ticket. All babies must be seated on your lap\, no exceptions this venue i
+ s reserved seating only. This Venue has a CLEAR BAG POLICY. Alcohol sales 
+ only for 21+ yrs MUST present a legal ID.
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-vegacaim
+ anes-san-jose-california-10-25-2026/event/1C00654300582BE3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -253,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -266,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261003T203408Z
+DTSTAMP:20261004T040841Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
