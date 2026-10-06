@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -181,32 +181,10 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lewis OfMan
-DTSTART:20261018T030000Z
-DTEND:20261018T050000Z
-DTSTAMP:20261006T124116Z
-UID:rZ7HnEZ1Af0Sbd
-CATEGORIES:edm,free
-DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
- ckets/14933603\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Avenue\, 
- San Francisco\, CA\nPrice: Free\nGenres: Music\, Alternative\, Electronic 
- Pop\nCategories: edm\, free\nSource: ticketmaster/music\n\n50KWTTS North A
- merican Tour21+ ONLY. Please note - there is a delivery delay set for 2 we
- eks prior to show. This event is 21 and over. Any ticket holder unable to 
- present valid identification indicating that they are at least 21 years of
-  age will not be admitted to this event\, and will not be eligible for a r
- efund. Another Planet Entertainment is committed to producing safe events.
-  Please review our most up-to-date COVID-19 policy requirements for entry 
- at https://apeconcerts.com/health-safety * Policy is subject to change
-LOCATION:1025 Columbus Avenue\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14
- 933603
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -221,11 +199,48 @@ URL:https://www.ticketmaster.com/role-model-presents-chuck-on-tour-berkele
  y-california-10-18-2026/event/1C0064D1901B9B3C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
+ n + DJ Kikkoman
+DTSTART:20261024T040000Z
+DTEND:20261024T060000Z
+DTSTAMP:20261006T221706Z
+UID:rZ7HnEZ1Afaa4f
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
+ n-moes-alley-tickets/14249554\nVenue: Moe's Alley\nLocation: 1535 Commerci
+ al Way\, Santa Cruz\, CA\nPrice: $30\nGenres: Music\, Hip-Hop/Rap\, West C
+ oast Rap\nCategories: edm\nSource: ticketmaster/music\n\nMoe's Alley prese
+ nts the return of hip-hop legend Lyrics Born with special guest Alwa Gordo
+ n! Friday\, October 23\, 2026 Doors: 8pm / Show: 9pm $25 in advance / $30 
+ day of show 21+ * No Refunds | All sales are final * Avoid scammers! Only 
+ purchase tickets from moesalley.com or ticketweb.com * Tickets requested b
+ y email will be delivered 3 days prior to the event * Will Call tickets wi
+ ll be available at the door on the day of the event ==== LYRICS BORN Lyric
+ s Born relocated to the United States from his birthplace of Toyko\, Japan
+  right around the time Hip Hop was exploding on the East Coast. From the m
+ oment he heard Sugar Hill Gang's 1980 classic \, "rdquo" -> Rapper's Delig
+ ht\," the Bay Area Hip Hop luminary knew he'd found his calling. Twenty-fi
+ ve years later\, LB has obliterated the stereotypes of what an MC is \, "r
+ dquo" -> supposed to" look like and captured the hearts of countless fans 
+ who gravitate to his distinctive voice. He's now the only Asian-American M
+ C to release 10 studios albums and the first to play major music festivals
+  like Coachella and Lollapalooza. From his Quannum Recordings debut with L
+ atyrx\,1997's The Album\, to 2003's seminal solo album Later That Day\, he
+ 's consistently pushed the boundaries of his craft. His newest project\, Q
+ uite A Life\, is like the exclamation point on his milestone year. \, "rdq
+ uo" -> Ten albums is a lot for any artist\, let alone an indie artist who 
+ colored outside the lines\, so to speak\," LB says. \, "rdquo" -> I'm just
+  appreciative there 
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-lyrics-born-moes-a
+ lley-tickets/14249554
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM 
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -251,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -264,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -277,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri

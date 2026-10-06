@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] SF Tech Week AI Demo Night
 DTSTART:20261007T000000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:evt-jUiPZAm27IqTm6i
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/clickh-zngw\nLocation: CANOPY Jackson Square\, 5
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Your Brain on AI: Innovating for the future of Neurotech
 DTSTART:20261007T003000Z
 DTEND:20261007T030000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:evt-wWyC4gD3HcuVNy9
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/kgk9sn8q\nLocation: Berkeley\, CA\nHost: Berkele
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Haunted Agent + Infra Horror Night @SF Tech Week
 DTSTART:20261007T013000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:evt-AadffG2nRE4uJRN
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/infra-horror-night\nLocation: SVB Experience Cen
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] The Future of Personal AI: On-Device Intelligence
 DTSTART:20261007T013000Z
 DTEND:20261007T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:evt-gk8IOmuVhJE0ytL
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/kp6dn1ka\nLocation: San Francisco\, CA\nHost: Cl
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261007T020000Z
 DTEND:20261007T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_6KGU2Qu
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Hardware hackathon: turn a vintage toy into a voice agent
 DTSTART:20261008T000000Z
 DTEND:20261008T030000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:evt-ho5b7bDG4xpgCKF
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/w9e4qgol\nLocation: San Francisco\, CA\nHost: As
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Open Source AI Stack: Models\, Inference\, and Agent Harness
 DTSTART:20261008T003000Z
 DTEND:20261008T033000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:evt-X8MY1exgStgYSIC
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/novita-oas6\nLocation: San Francisco\, CA\nHost:
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JUNGLE - World Tour 2026
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_6KGM2QK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] SOMBR - You Are The Reason Tour
 DTSTART:20261008T020000Z
 DTEND:20261008T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_FLJZy-y
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Other Minds Festival 30
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T210000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261008-othermindsfestival30
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/minds-festival-30/\nLocation: san jose
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Geektoberfest: Beer Tastings + Science After Dark (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261008T230000
 DTEND;TZID=America/Los_Angeles:20261009T010000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261008-geektoberfestbeertasting
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/geektoberfest-beer-tastings-science-da
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -305,45 +305,11 @@ URL:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimbos-365-c
  lub-tickets/14257304
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Fleet Fest 2026: Navy Bands & Food Trucks (Fisherman’
- s Wharf)
-DTSTART;TZID=America/Los_Angeles:20261010T090000
-DTEND;TZID=America/Los_Angeles:20261010T170000
-DTSTAMP:20261006T124116Z
-UID:funcheap-20261010-fleetfest2026navybandsfo
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks
- -fishermans-wharf/\nVenue: Fisherman’s Wharf – SkyStar Wheel and Pier 
- 27 2860 Taylor St\, San Francisco\, CA\nPrice: Free\nCategories: community
- \, free\nSource: funcheap/san-francisco\n\nFleet Fest is a free community 
- festival at Fisherman’s Wharf in San Francisco\, celebrating the Nation
- ’s sea services as part of Fleet Week. The event features live performan
- ces by local musicians and military bands\, exhibitor booths from city org
- anizations and local businesses\, activities for families and children\, f
- ood trucks\, pop-up vendors\, and a beverage bar. The festival takes place
-  at the SkyStar Wheel and Pier 27. Original Event Description: _Fleet Fest
-  Date & Time Saturday\, October 10 9:00 AM – 5:00 PM Sunday\, October 11
-  9:00 AM – 5:00 PM Location Fisherman’s Wharf – SkyStar Wheel and Pi
- er 27 2860 Taylor St\, San Francisco\, CA 94111 Info This event is free. D
- onate to Fleet Fest This celebration of our Nation’s sea services is a d
- ynamic festival right on the pier hosting the Navy’s Fleet Week flagship
- . Experience performances by local musicians and featured military bands. 
- Exhibitors include city organizations\, local businesses\, veteran and act
- ive duty support organizations\, educational experiences and fun activitie
- s for kids and parents alike. Grab a bite from our food truck lane and pop
- -up vendors. Visit our bar for a variety of beverages while our stage rock
- s all day long.
-LOCATION:Fisherman’s Wharf – SkyStar Wheel and Pier 27 2860 Taylor St\
- , San Francisco\, CA
-URL:https://sf.funcheap.com/fleet-fest-2026-navy-bands-food-trucks-fisherm
- ans-wharf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay/Free] 34th Annual Indigenous Peoples Day Powwow & Indian Mark
  et (Berkeley)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -373,10 +339,44 @@ URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
  an-market-berkeley/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] 2026 Fleet Week Family Day: Waterfront Concert + Free 
+ Boat Rides (India Basin)
+DTSTART;TZID=America/Los_Angeles:20261010T110000
+DTEND;TZID=America/Los_Angeles:20261010T150000
+DTSTAMP:20261006T221706Z
+UID:funcheap-20261010-2026fleetweekfamilydaywa
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-
+ concert-free-boat-rides-india-basin/\nVenue: s Family Day & Concert India 
+ Basin Waterfront Park 900 Innes Ave San Francisco\,\nPrice: Free\nCategori
+ es: concert\, free\nSource: funcheap/san-francisco\n\nFleet Week is coming
+  to the Bayview! 🇺🇸 Celebrate Fleet Week and the Bayview-Hunters Poi
+ nt community with a free concert featuring Golden West Brass \, part of th
+ e U.S. Air Force Band of the Golden West. Kids and families can also enjoy
+  military challenges\, outdoor games and contests\, Fleet Week swag\, free
+  boat rides\, community rowing\, and more. Musical Feature Golden West Bra
+ ss U.S. Air Force Band of the Golden West What to Expect Free live concert
+  Outdoor games and contests with military service members Military challen
+ ges and activities Fleet Week swag for kids Free boat rides and community 
+ rowing with Rocking the Boat Community resources Family-friendly activitie
+ s Safer Streets demonstration and neighborhood block party Event Locations
+  Family Day & Concert India Basin Waterfront Park 900 Innes Ave San Franci
+ sco\, CA Safer Streets Demonstration Between Hunters Point Blvd. and Innes
+  Ave. Saturday\, October 10\, 2026 11:00 AM–3:00 PM The celebration is p
+ art of a weekend-long Safer Streets demonstration on Innes Avenue and Hunt
+ ers Point Boulevard\, with temporary street changes taking place Friday\, 
+ October 9 through Sunday\, October 11 . Come out with your family\, enjoy 
+ the music and act
+LOCATION:s Family Day & Concert India Basin Waterfront Park 900 Innes Ave 
+ San Francisco\,
+URL:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-
+ free-boat-rides-india-basin/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Juanes North America Tour 2026
 DTSTART:20261015T030000Z
 DTEND:20261015T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_7mbC_v-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/juanes-north-america-tour-2026-sa
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -469,11 +469,39 @@ URL:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-san-fran
  cisco-california-10-15-2026/event/1C00646B0F53BAEF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Free 2026 South Bay Transit Summit + Networking (Mounta
+ in View)
+DTSTART;TZID=America/Los_Angeles:20261016T190000
+DTEND;TZID=America/Los_Angeles:20261016T210000
+DTSTAMP:20261006T221706Z
+UID:funcheap-20261016-free2026southbaytransits
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-2026-south-bay-transit-summit-net
+ working-mountain-view/\nVenue: you will: * Learn from speakers’ successe
+ s and challenges * Take part in lively\nPrice: Free\nCategories: community
+ \, free\nSource: funcheap/south-bay\n\nMove Bay Area is looking ahead to d
+ efine the innovative funding strategies and bold transit improvements need
+ ed to truly connect the Bay Join community leaders\, transportation advoca
+ tes\, business leaders\, and local partners on Friday October 16\, 2026 at
+  the Move Bay Area SOUTH Bay Summit\, where you will: * Learn from speaker
+ s’ successes and challenges * Take part in lively discussion activities 
+ * Network with others passionate about transportation * Help shape the fut
+ ure of transportation in the Bay Area Who Should Attend: The people who kn
+ ow the system best — transit riders\, transportation professionals\, pla
+ nners\, advocates\, local officials\, community organizations\, students\,
+  and anyone invested in improving transportation in the West Bay. Tickets 
+ are free! Breakfast and Lunch included.
+LOCATION:you will: * Learn from speakers’ successes and challenges * Tak
+ e part in lively
+URL:https://sf.funcheap.com/free-2026-south-bay-transit-summit-networking-
+ mountain-view/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live/Free] Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary To
  ur
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -509,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -525,50 +553,32 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live/Free] This is Lorelei
-DTSTART:20261017T040000Z
-DTEND:20261017T060000Z
-DTSTAMP:20261006T124116Z
-UID:rZ7HnEZ1Af0FGd
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/this-is-lorelei-the-independen
- t-tickets/14908303\nVenue: The Independent\nLocation: 628 Divisadero St\, 
- San Francisco\, CA\nPrice: Free\nGenres: Music\, Pop\, Indie Pop\, Alterna
- tive\nCategories: concert\, free\nSource: ticketmaster/music\n\nPlease not
- e - there is a delivery delay set for 2 weeks prior to show. Support acts 
- subject to change without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/this-is-lorelei-the-independent-ticket
- s/14908303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Free] 14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
  -sf/\nVenue: Sound Meets Movement” Tai Chi Music Pilates Capoera Massage
  s Haircuts Games and\nPrice: Free\nCategories: free\nSource: funcheap/sout
- h-bay+funcheap/san-francisco+funcheap/east-bay\n\nThe Southeast Community 
- Center Presents: The 14th Annual District 10 Health Fest: Bayview in Motio
- n! Saturday\, October 17\, 11AM – 4PM. This dynamic\, community-centered
-  wellness celebration merges movement\, prevention\, sustainability and ne
- ighborhood pride into one exciting festival at the SECC featuring health s
- creenings and education\, entertainment and food trucks. This year’s the
- me\, Bayview in Motion\, celebrates movement\, wellness\, and community fo
- r a day of health\, healing\, and collective joy in San Francisco’s Dist
- rict 10. This annual event will highlight the importance of holistic well-
- being through fun activities\, community resources\, and opportunities for
-  residents of all ages to engage in healthy living. FREE Health Screenings
-  & Services Blood Pressure Testing Dental Check Ups Flu Shots Eye Exams & 
- FREE Eyeglasses Diabetes Education & Testing Kidney Health Screenings COPD
- /Asthma Screenings Stroke Prevention Education & Testing Sexual Health Scr
- eenings Acupuncture Breast Cancer Screenings (No Cost for Eligible Partici
- pants) FREE Activities & Entertainment We Run Bayiew 5K Finish Line Specia
- l Performance by Zaccho Dance Theatre of “Where Sound Meets Movement” 
- Tai Chi Music Pi
+ h-bay+funcheap/east-bay\n\nThe Southeast Community Center Presents: The 14
+ th Annual District 10 Health Fest: Bayview in Motion! Saturday\, October 1
+ 7\, 11AM – 4PM. This dynamic\, community-centered wellness celebration m
+ erges movement\, prevention\, sustainability and neighborhood pride into o
+ ne exciting festival at the SECC featuring health screenings and education
+ \, entertainment and food trucks. This year’s theme\, Bayview in Motion\
+ , celebrates movement\, wellness\, and community for a day of health\, hea
+ ling\, and collective joy in San Francisco’s District 10. This annual ev
+ ent will highlight the importance of holistic well-being through fun activ
+ ities\, community resources\, and opportunities for residents of all ages 
+ to engage in healthy living. FREE Health Screenings & Services Blood Press
+ ure Testing Dental Check Ups Flu Shots Eye Exams & FREE Eyeglasses Diabete
+ s Education & Testing Kidney Health Screenings COPD/Asthma Screenings Stro
+ ke Prevention Education & Testing Sexual Health Screenings Acupuncture Bre
+ ast Cancer Screenings (No Cost for Eligible Participants) FREE Activities 
+ & Entertainment We Run Bayiew 5K Finish Line Special Performance by Zaccho
+  Dance Theatre of “Where Sound Meets Movement” Tai Chi Music Pi
 LOCATION:Sound Meets Movement” Tai Chi Music Pilates Capoera Massages Ha
  ircuts Games and
 URL:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest-sf/
@@ -578,7 +588,7 @@ SUMMARY:[Free] Sip + Stitch: Free “Embroider a Luggage Tag” Crafty Eve
  nt (Saluhall)
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261017-sipstitchfreeembroideral
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/sip-stitch-free-embroider-luggage-tag-
@@ -611,7 +621,7 @@ SUMMARY:[Bay/Free] 2026 “Peculiarities” Market: Oddities + Free Treats
   for First 30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -644,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Ghoul\, Dry Socket
 DTSTART:20261018T020000Z
 DTEND:20261018T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1A4v7Gd
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/ghoul-dry-socket-the-ritz-tick
@@ -659,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Top of the Hill Festival 2026 (Daly City)
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261017-topofthehillfestival2026
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/top-hill-festival-2026-daly-city/\nLoc
@@ -688,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -709,32 +719,10 @@ URL:https://www.ticketmaster.com/rush-fifty-something-san-jose-california-
  10-17-2026/event/1C006355EC78A84D
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EDM/Free] Lewis OfMan
-DTSTART:20261018T030000Z
-DTEND:20261018T050000Z
-DTSTAMP:20261006T124116Z
-UID:rZ7HnEZ1Af0Sbd
-CATEGORIES:edm,free
-DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-ti
- ckets/14933603\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Avenue\, 
- San Francisco\, CA\nPrice: Free\nGenres: Music\, Alternative\, Electronic 
- Pop\nCategories: edm\, free\nSource: ticketmaster/music\n\n50KWTTS North A
- merican Tour21+ ONLY. Please note - there is a delivery delay set for 2 we
- eks prior to show. This event is 21 and over. Any ticket holder unable to 
- present valid identification indicating that they are at least 21 years of
-  age will not be admitted to this event\, and will not be eligible for a r
- efund. Another Planet Entertainment is committed to producing safe events.
-  Please review our most up-to-date COVID-19 policy requirements for entry 
- at https://apeconcerts.com/health-safety * Policy is subject to change
-LOCATION:1025 Columbus Avenue\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14
- 933603
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -749,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -767,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -784,7 +772,7 @@ SUMMARY:[Bay] “Stranger Things” Laser Show: 80s Hits in the Dome (San
  Jose)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261023-strangerthingslasershow8
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/stranger-laser-show-80s-hits-dome-san-
@@ -815,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -830,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Protomartyr\, Accessory
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1Afa7oV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz
@@ -842,11 +830,48 @@ URL:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz-tickets
  /14244474
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa
+  Gordon + DJ Kikkoman
+DTSTART:20261024T040000Z
+DTEND:20261024T060000Z
+DTSTAMP:20261006T221706Z
+UID:rZ7HnEZ1Afaa4f
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
+ n-moes-alley-tickets/14249554\nVenue: Moe's Alley\nLocation: 1535 Commerci
+ al Way\, Santa Cruz\, CA\nPrice: $30\nGenres: Music\, Hip-Hop/Rap\, West C
+ oast Rap\nCategories: edm\nSource: ticketmaster/music\n\nMoe's Alley prese
+ nts the return of hip-hop legend Lyrics Born with special guest Alwa Gordo
+ n! Friday\, October 23\, 2026 Doors: 8pm / Show: 9pm $25 in advance / $30 
+ day of show 21+ * No Refunds | All sales are final * Avoid scammers! Only 
+ purchase tickets from moesalley.com or ticketweb.com * Tickets requested b
+ y email will be delivered 3 days prior to the event * Will Call tickets wi
+ ll be available at the door on the day of the event ==== LYRICS BORN Lyric
+ s Born relocated to the United States from his birthplace of Toyko\, Japan
+  right around the time Hip Hop was exploding on the East Coast. From the m
+ oment he heard Sugar Hill Gang's 1980 classic \, "rdquo" -> Rapper's Delig
+ ht\," the Bay Area Hip Hop luminary knew he'd found his calling. Twenty-fi
+ ve years later\, LB has obliterated the stereotypes of what an MC is \, "r
+ dquo" -> supposed to" look like and captured the hearts of countless fans 
+ who gravitate to his distinctive voice. He's now the only Asian-American M
+ C to release 10 studios albums and the first to play major music festivals
+  like Coachella and Lollapalooza. From his Quannum Recordings debut with L
+ atyrx\,1997's The Album\, to 2003's seminal solo album Later That Day\, he
+ 's consistently pushed the boundaries of his craft. His newest project\, Q
+ uite A Life\, is like the exclamation point on his milestone year. \, "rdq
+ uo" -> Ten albums is a lot for any artist\, let alone an indie artist who 
+ colored outside the lines\, so to speak\," LB says. \, "rdquo" -> I'm just
+  appreciative there 
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-lyrics-born-moes-a
+ lley-tickets/14249554
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
  ival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -880,7 +905,7 @@ SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -913,7 +938,7 @@ SUMMARY:[Free] Good Samaritan Hospital’s Annual Trunk or Treat Event (Sa
  n Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -934,7 +959,7 @@ SUMMARY:[Free] Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San
   José City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -968,7 +993,7 @@ SUMMARY:[EDM] Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELL
  A EDM DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -994,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] SFMOMA’s “Free Family Day” Free Museum Day (2026)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:funcheap-20261025-sfmomasfreefamilydayfree
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
@@ -1023,7 +1048,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -1038,7 +1063,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -1054,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -1069,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -1082,7 +1107,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -1097,7 +1122,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -1110,7 +1135,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -1125,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261006T124116Z
+DTSTAMP:20261006T221706Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
