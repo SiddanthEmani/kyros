@@ -5,23 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Selling to Agents: Cloudflare x Stripe x Runtype - #SFTechWeek
-DTSTART:20261006T003000Z
-DTEND:20261006T020000Z
-DTSTAMP:20261005T234044Z
-UID:evt-NRE6LjWXE64TWnA
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/myvzbim0\nLocation: 101 Townsend St\, San Franci
- sco\, CA 94107\, USA\nHost: Personal\nCategories: ai\nSource: luma-html/sa
- n-francisco
-LOCATION:101 Townsend St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/myvzbim0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SF Tech Week AI Demo Night
 DTSTART:20261007T000000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261005T234044Z
+DTSTAMP:20261006T044022Z
 UID:evt-jUiPZAm27IqTm6i
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/clickh-zngw\nLocation: CANOPY Jackson Square\, 5
@@ -35,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Your Brain on AI: Innovating for the future of Neurotech
 DTSTART:20261007T003000Z
 DTEND:20261007T030000Z
-DTSTAMP:20261005T234044Z
+DTSTAMP:20261006T044022Z
 UID:evt-wWyC4gD3HcuVNy9
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/kgk9sn8q\nLocation: Berkeley\, CA\nHost: Berkele
@@ -47,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Agent + Infra Horror Night @SF Tech Week
 DTSTART:20261007T013000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261005T234044Z
+DTSTAMP:20261006T044022Z
 UID:evt-AadffG2nRE4uJRN
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/infra-horror-night\nLocation: SVB Experience Cen
@@ -61,12 +48,24 @@ BEGIN:VEVENT
 SUMMARY:The Future of Personal AI: On-Device Intelligence
 DTSTART:20261007T013000Z
 DTEND:20261007T043000Z
-DTSTAMP:20261005T234044Z
+DTSTAMP:20261006T044022Z
 UID:evt-gk8IOmuVhJE0ytL
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/kp6dn1ka\nLocation: San Francisco\, CA\nHost: Cl
  ipto Calendar\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/kp6dn1ka
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hardware hackathon: turn a vintage toy into a voice agent
+DTSTART:20261008T000000Z
+DTEND:20261008T030000Z
+DTSTAMP:20261006T044022Z
+UID:evt-ho5b7bDG4xpgCKF
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/w9e4qgol\nLocation: San Francisco\, CA\nHost: As
+ semblyAI\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/w9e4qgol
 END:VEVENT
 END:VCALENDAR
