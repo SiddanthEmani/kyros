@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -28,7 +28,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -62,7 +62,7 @@ SUMMARY:2026 Fleet Week Family Day: Waterfront Concert + Free Boat Rides (
  India Basin)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261010-2026fleetweekfamilydaywa
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-
@@ -92,10 +92,41 @@ URL:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-
  free-boat-rides-india-basin/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:United Nations Association Film Festival in Palo Alto (Oct. 15-25)
+DTSTART;TZID=America/Los_Angeles:20261015T190000
+DTEND;TZID=America/Los_Angeles:20261015T210000
+DTSTAMP:20261007T040735Z
+UID:funcheap-20261015-unitednationsassociation
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/united-nations-association-film-festiv
+ al-palo-alto-oct-1525/\nLocation: san francisco\nPrice: Free\nCategories: 
+ community\, free\nSource: funcheap/san-francisco\n\nThe United Nations Ass
+ ociation Film Festival (UNAFF) is pleased to announce the program for its 
+ 29th edition\, PASSION FOR CHANGE. From Oct. 15–25\, 2026 \, in Palo Alt
+ o\, East Palo Alto\, San Francisco and at Stanford University\, UNAFF will
+  present 60 global documentary films. Students are encouraged to attend th
+ e festival and may receive free tickets to films with a valid student ID. 
+ For more information\, contact us at info@unaff.org SESSIONS As documentar
+ ies come in different lengths\, it is impractical to sell tickets for indi
+ vidual films. Instead\, we group multiple films into SESSIONS \, trying to
+  combine them loosely by topic so that together they make for a generous v
+ iewing experience. So\, if you are interested in a particular film\, find 
+ its session number and purchase the ticket for that session. FESTIVAL PASS
+ ES The best deal is to purchase a FESTIVAL PASS \, which allows access to 
+ all the festival screenings and events during the 11 days of the festival 
+ \, and if you are a senior\, you can save even more by taking advantage of
+  our deeply discounted SENIOR FESTIVAL PASS . ADMISSION GENERAL ADMISSION 
+ – $1 9 PER FILM SESSION (1.5 – 3 hours per session) FESTIVAL PASS – 
+ $2 9 0 SENIOR FES
+LOCATION:san francisco
+URL:https://sf.funcheap.com/united-nations-association-film-festival-palo-
+ alto-oct-1525/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free 2026 South Bay Transit Summit + Networking (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261016-free2026southbaytransits
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-south-bay-transit-summit-net
@@ -122,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -158,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -190,7 +221,7 @@ SUMMARY:Sip + Stitch: Free “Embroider a Luggage Tag” Crafty Event (Sal
  uhall)
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261017-sipstitchfreeembroideral
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/sip-stitch-free-embroider-luggage-tag-
@@ -223,7 +254,7 @@ SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First
  30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -256,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -289,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -310,7 +341,7 @@ SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261006T221706Z
+DTSTAMP:20261007T040735Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -338,34 +369,5 @@ LOCATION:community comes together to support one another. linktr.ee/Sjmark
  et
 URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
  rs-san-jos-city-hall/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFMOMA’s “Free Family Day” Free Museum Day (2026)
-DTSTART;TZID=America/Los_Angeles:20261025T190000
-DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261006T221706Z
-UID:funcheap-20261025-sfmomasfreefamilydayfree
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sfmomas-free-family-museum-day/\nLocat
- ion: san francisco\nPrice: Free\nCategories: community\, free\nSource: fun
- cheap/san-francisco\n\nThe San Francisco Museum of Modern Art (SFMOMA) wel
- comes families and inter-generational audiences to the museum for its Free
-  Family Day on October 25\, 2026. Enjoy a day of art and family fun at SFM
- OMA! These special days include art-making activities for the whole family
-  in our Koret Education Center\, located on Floor 2\, plus additional perf
- ormances\, activations\, and more. While the museum is always free for vis
- itors 18 and younger\, on Free Family Day\, General admission to the museu
- m is free for up to two adults accompanying one child or teen (18 and youn
- ger) \, and tickets are available two weeks in advance. Surcharged exhibit
- ions are not included and require separate paid tickets. SFMOMA’s Free F
- amily Day Sunday\, October 25\, 2026 | 10 am to 5 pm SFMOMA\, 151 Third St
- .\, SF FREE for up to two adults accompanying each visitor under 18. Up to
-  two adults may each claim a free ticket when accompanied by a visitor 18 
- and younger on Free Family Day. Reserve your free tickets when they become
-  available. Admission to special exhibitions that require a surcharge is n
- ot included (but may be purchased for an additional fee) If you arrive una
- ccompanied by someone 18 or under\, you’ll need to pur
-LOCATION:san francisco
-URL:https://sf.funcheap.com/sfmomas-free-family-museum-day/
 END:VEVENT
 END:VCALENDAR
