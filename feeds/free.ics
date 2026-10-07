@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -28,7 +28,7 @@ SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -62,7 +62,7 @@ SUMMARY:2026 Fleet Week Family Day: Waterfront Concert + Free Boat Rides (
  India Basin)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261010-2026fleetweekfamilydaywa
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:United Nations Association Film Festival in Palo Alto (Oct. 15-25)
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T210000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261015-unitednationsassociation
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/united-nations-association-film-festiv
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 South Bay Transit Summit + Networking (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261016-free2026southbaytransits
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-south-bay-transit-summit-net
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -217,44 +217,11 @@ LOCATION:Sound Meets Movement” Tai Chi Music Pilates Capoera Massages Ha
 URL:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sip + Stitch: Free “Embroider a Luggage Tag” Crafty Event (Sal
- uhall)
-DTSTART;TZID=America/Los_Angeles:20261017T170000
-DTEND;TZID=America/Los_Angeles:20261017T190000
-DTSTAMP:20261007T123448Z
-UID:funcheap-20261017-sipstitchfreeembroideral
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/sip-stitch-free-embroider-luggage-tag-
- crafty-event-saluhall/\nVenue: participants can learn basic techniques and
-  monogram a luggage tag to take home.\nPrice: Free\nCategories: free\nSour
- ce: funcheap/san-francisco\n\nFree beginner embroidery workshop at Saluhal
- l where participants can learn basic techniques and monogram a luggage tag
-  to take home. Artist Neha of NehaXStitch provides materials\, inspiration
- \, and instruction\; no experience is needed. The workshop is part of the 
- Market Street Arts & Theater Festival\, which includes more than 50 experi
- ences along Market Street between Fifth Street and Van Ness Avenue. Origin
- al Event Description: _FREE EMBROIDERY EVENT IN SF! 🧵 Join @nehaxstitch
-  at @saluhallsf to learn basic embroidery techniques\, purchase a drink\, 
- and monogram your own LUGGAGE TAG! 👝 This workshop is a part of the @ma
- rketstreetarts & Theater Festival! Stick around to enjoy 50+ experiences a
- cross 35+ locations on 1 night only! Events run from 4 PM – 10 PM on Mar
- ket St between 5th & Van Ness! RSVP for FREE at the link in bio! 🎟️ h
- ttps://www.nehaxstitch.com/classes/oct-2026-market-st-arts Grab a drink an
- d a bite and embroider away and artist Neha (NehaXStitch) will provide eve
- rything you need: materials\, inspo\, and instruction. You’ll get an int
- ro to basic embroidery techniques\, personalize your creation\, and take h
- ome your unique\, usable art. No experience needed! This workshop is a p
-LOCATION:participants can learn basic techniques and monogram a luggage ta
- g to take home.
-URL:https://sf.funcheap.com/sip-stitch-free-embroider-luggage-tag-crafty-e
- vent-saluhall/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First 
  30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -287,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -317,10 +284,41 @@ URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
  sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alemany Farm Harvest Festival 2026: Free BBQ + Farm Tours (SF)
+DTSTART;TZID=America/Los_Angeles:20261024T150000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+DTSTAMP:20261007T223811Z
+UID:funcheap-20261024-alemanyfarmharvestfestiv
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-fre
+ e-bbq-farm-tours-sf/\nLocation: san francisco\nPrice: Free\nCategories: co
+ mmunity\, free\nSource: funcheap/san-francisco\n\nAlemany Farm’s annual 
+ Harvest Festival includes a free community BBQ\, eco activities\, live mus
+ ic\, games\, face painting\, and farm tours. The free family-oriented even
+ t takes place at Alemany Farm in San Francisco. Original Event Description
+ : _sweet friends\, we are having our annual harvest festival celebration o
+ n october 24\, from 11 – 3 pm. this is a free event for all. bring your 
+ family and neighbors and friends and lovers! please come give thanks to th
+ e Earth with us 🌱 we would really love to see u there. more details for
+ thcoming <3 save the date !_ Text extracted from provided image: The Frien
+ ds of Alemany Farm invite you to 2026 Alemany Farm Harvest Festival free c
+ ommunity bbq | eco activities | live music | games face painting | farm to
+ urs | and more! Saturday\, October 24 11 AM – 3 PM 700 Alemany Blvd For 
+ more info\, visit alemanyfarm.org Friends of Alemany Farm BERNAL HEIGHTS N
+ eighborhood Center San Francisco Landscapes Alemany Resident Management Co
+ rporation WORLD CENTRIC FOR A BETTER WORLD SAN FRANCISCO RECREATION & PARK
+ S @alemany_farm Friends of Alemany Farm We grow free produce & sow seeds o
+ f food sovereignty & justice in SE San Francisco\, unceded Ohlone land. Fi
+ scal sponso
+LOCATION:san francisco
+URL:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-free-bbq-fa
+ rm-tours-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -341,7 +339,7 @@ SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261007T123448Z
+DTSTAMP:20261007T223811Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
