@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -24,11 +24,43 @@ URL:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimbos-365-c
  lub-tickets/14257304
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Golden Gate Park Walking Tour: East End History Walk (SF)
+DTSTART;TZID=America/Los_Angeles:20261010T100000
+DTEND;TZID=America/Los_Angeles:20261010T120000
+DTSTAMP:20261008T224919Z
+UID:funcheap-20261010-freegoldengateparkwalkin
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/free-golden-gate-park-walking-tour-eas
+ t-history-walk-sf/\nVenue: the tour concludes. Admission to the Gardens of
+  Golden Gate Park is free for San\nPrice: Free\nCategories: concert\, free
+ \nSource: funcheap/san-francisco\n\nJoin San Francisco Recreation and Park
+ s Historian-in-Residence Christopher Pollock for an easy-to-moderate walki
+ ng tour of Golden Gate Park’s east end. Beginning at the Conservatory of
+  Flowers\, the free RSVP-required walk covers the park’s history and lan
+ dmarks including the National AIDS Memorial Grove\, Shakespeare Garden and
+  Music Concourse\, where the tour concludes. Admission to the Gardens of G
+ olden Gate Park is free for San Francisco residents\, veterans\, Museums f
+ or All/EBT participants\, and Gardens members. Non-SF residents require pa
+ id admission to visit the Conservatory of Flowers. Original Event Descript
+ ion: _Walking Tour of Golden Gate Park’s East End on October 10 Join Rec
+  and Park Historian-in-Residence Christopher Pollock for a walking tour be
+ ginning at the Conservatory of Flowers (100 John F. Kennedy Drive) on Satu
+ rday\, October 10 from 10 a.m. to noon. The tour will explore the park’s
+  history and landmarks\, including the National AIDS Memorial Grove\, Shak
+ espeare Garden\, Music Concourse and more Walking Tour of Golden Gate Park
+  October 10 @ 10:00 am – 12:00 pm Free RSVP This is a free community pro
+ gram. Please consider supporting the Gardens of Golden Gate Park with a
+LOCATION:the tour concludes. Admission to the Gardens of Golden Gate Park 
+ is free for San
+URL:https://sf.funcheap.com/free-golden-gate-park-walking-tour-east-histor
+ y-walk-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
  y)
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261010-34thannualindigenouspeop
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
@@ -58,44 +90,10 @@ URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
  an-market-berkeley/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2026 Fleet Week Family Day: Waterfront Concert + Free Boat Rides (
- India Basin)
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261008T124558Z
-UID:funcheap-20261010-2026fleetweekfamilydaywa
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-
- concert-free-boat-rides-india-basin/\nVenue: s Family Day & Concert India 
- Basin Waterfront Park 900 Innes Ave San Francisco\,\nPrice: Free\nCategori
- es: concert\, free\nSource: funcheap/san-francisco\n\nFleet Week is coming
-  to the Bayview! 🇺🇸 Celebrate Fleet Week and the Bayview-Hunters Poi
- nt community with a free concert featuring Golden West Brass \, part of th
- e U.S. Air Force Band of the Golden West. Kids and families can also enjoy
-  military challenges\, outdoor games and contests\, Fleet Week swag\, free
-  boat rides\, community rowing\, and more. Musical Feature Golden West Bra
- ss U.S. Air Force Band of the Golden West What to Expect Free live concert
-  Outdoor games and contests with military service members Military challen
- ges and activities Fleet Week swag for kids Free boat rides and community 
- rowing with Rocking the Boat Community resources Family-friendly activitie
- s Safer Streets demonstration and neighborhood block party Event Locations
-  Family Day & Concert India Basin Waterfront Park 900 Innes Ave San Franci
- sco\, CA Safer Streets Demonstration Between Hunters Point Blvd. and Innes
-  Ave. Saturday\, October 10\, 2026 11:00 AM–3:00 PM The celebration is p
- art of a weekend-long Safer Streets demonstration on Innes Avenue and Hunt
- ers Point Boulevard\, with temporary street changes taking place Friday\, 
- October 9 through Sunday\, October 11 . Come out with your family\, enjoy 
- the music and act
-LOCATION:s Family Day & Concert India Basin Waterfront Park 900 Innes Ave 
- San Francisco\,
-URL:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-concert-
- free-boat-rides-india-basin/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United Nations Association Film Festival in Palo Alto (Oct. 15-25)
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T210000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261015-unitednationsassociation
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/united-nations-association-film-festiv
@@ -126,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 South Bay Transit Summit + Networking (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261016-free2026southbaytransits
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-south-bay-transit-summit-net
@@ -153,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -185,7 +183,7 @@ SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First
  30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -219,7 +217,7 @@ SUMMARY:One-Night Market Street Arts & Theater Festival: 50+ Experiences (
  SF)
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261017-onenightmarketstreetarts
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/onenight-market-street-arts-theater-fe
@@ -252,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -285,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Alemany Farm Harvest Festival 2026: Free BBQ + Farm Tours (SF)
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261024T170000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261024-alemanyfarmharvestfestiv
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-fre
@@ -316,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -337,7 +335,7 @@ SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261008T124558Z
+DTSTAMP:20261008T224919Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
