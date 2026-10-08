@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:COLM Closing Happy Hour | Hosted by Snorkel AI
 DTSTART:20261009T000000Z
 DTEND:20261009T020000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:evt-EF3eUAtN40bmugO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ozv5033v\nLocation: San Francisco\, CA\nHost: Sn
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:State of AI Report 2026 - SF launch event
 DTSTART:20261009T003000Z
 DTEND:20261009T043000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:evt-piHZA0p4K6QE9sA
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/soai\nLocation: San Francisco\, CA\nHost: Air St
@@ -32,12 +32,24 @@ BEGIN:VEVENT
 SUMMARY:Agents You Can Trust : A COLM Happy Hour
 DTSTART:20261009T010000Z
 DTEND:20261009T040000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:evt-nxyKvlc4QghQdd4
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/hv3vd3aa\nLocation: San Francisco\, CA\nHost: Ce
  ntific\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/hv3vd3aa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build Your AI Chief of Staff with Claude at #sf-tech-week
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+DTSTAMP:20261008T124558Z
+UID:evt-4pVGYnoP18cyMHR
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/claude-jawm\nLocation: San Francisco\, CA\nHost:
+  Claude Community Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/claude-jawm
 END:VEVENT
 END:VCALENDAR

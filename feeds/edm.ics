@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -153,7 +153,7 @@ SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -190,7 +190,7 @@ SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -204,10 +204,15 @@ DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
  \, Corridos\, Nortenas and EDM featuring CORNELIO VEGA y Su Dinastia\, Cai
  manes de Sinaloa and "ELLA"\, a DJ who fuses traditional Latin rhythms wit
  h electronic music! Its going to be a night like no other! Sun. October 25
- th at SAN JOSE CIVIC! LETS PARTY Anyone 2 years and older must purchase a 
- ticket. All babies must be seated on your lap\, no exceptions this venue i
- s reserved seating only. This Venue has a CLEAR BAG POLICY. Alcohol sales 
- only for 21+ yrs MUST present a legal ID.
+ th at SAN JOSE CIVIC! LETS PARTY Puertas se Abren 6pm / Doors Open 6pm Nin
+ os 2 anos y mas deben comprar un boleto. / Anyone 2 years and older must p
+ urchase a ticket. Los bebes deben sentarse con una persona en un asiento\,
+  no habran excepciones siendo que es un teatro con asientos reservados. Gr
+ acias por su cooperacion All babies must be seated on your lap\, no except
+ ions this venue is reserved seating only. Hay una poliza de bolsas claras 
+ solamente. / This Venue has a CLEAR BAG POLICY. Deben presentar un ID lega
+ l para comprar bebidas alcoholicas. Alcohol sales only for 21+ yrs with le
+ gal ID.
 LOCATION:135 San Carlos St.\, San Jose\, CA
 URL:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-vegacaim
  anes-san-jose-california-10-25-2026/event/1C00654300582BE3
@@ -216,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -229,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -242,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -260,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -279,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261008T041929Z
+DTSTAMP:20261008T124558Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
