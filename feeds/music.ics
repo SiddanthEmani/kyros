@@ -5,59 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:JUNGLE - World Tour 2026
-DTSTART:20261008T020000Z
-DTEND:20261008T040000Z
-DTSTAMP:20261007T223811Z
-UID:G5vYZ_6KGM2QK
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-c
- alifornia-10-07-2026/event/1C006474CCDCF693\nVenue: Greek Theatre-U.C. Ber
- keley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Music\, R&B\, S
- oul\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmaster/music\n\n
- All events are rain or shine. This show is entirely general admission. A g
- eneral admission ticket will allow you access to all areas of the Greek Th
- eatre on a first-come\, first-served basis. No Resale Over Face Value: Jun
- gle is using Ticketmaster's Face Value Exchange to help fans get tickets a
- t the original price. Tickets will be non-transferable and can only be res
- old on Ticketmaster at face value. States Blocking Artist Resale Terms: Ne
- w York\, Illinois\, Colorado\, Virginia\, Utah and Connecticut have state 
- laws that prevent resale restrictions. In those states\, Ticketmaster will
-  still honor Jungle's terms by keeping resale prices at face value on its 
- site.
-LOCATION:2001 Gayley Road\, Berkeley\, CA
-URL:https://www.ticketmaster.com/jungle-world-tour-2026-berkeley-californi
- a-10-07-2026/event/1C006474CCDCF693
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOMBR - You Are The Reason Tour
-DTSTART:20261008T020000Z
-DTEND:20261008T040000Z
-DTSTAMP:20261007T223811Z
-UID:G5vYZ_FLJZy-y
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san
- -jose-california-10-07-2026/event/1C006487E6039879\nVenue: SAP Center at S
- an Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, Rock
- \, Alternative Rock\nHost: AEG LIVE\nCategories: concert\nSource: ticketma
- ster/music\n\nSAP Center recommends that fans bring bags that are 5" x 9"x
-  2" or smaller to expedite their entry. However\, we are happy to accommod
- ate larger bags up to 20" x 14" x 11" in size! When it comes to the larger
-  bags\, please note the following: All bags\, including medical and infant
-  bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection and will 
- result in longer wait times for entry Bags must be able to fit under your 
- seat once inside the event\; therefore\, bags larger than 20" x 14" x 11" 
- will not be permitted. SAP Center no longer offers a bag check option and/
- or onsite storage lockers.
-LOCATION:525 W Santa Clara\, San Jose\, CA
-URL:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san-jose-ca
- lifornia-10-07-2026/event/1C006487E6039879
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mumford & Sons - Prizefighter Tour
 DTSTART:20261009T023000Z
 DTEND:20261009T043000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_AxtLqKN
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
@@ -78,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:The Living Tombstone
 DTSTART:20261009T030000Z
 DTEND:20261009T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:Z7r9jZ1A7-OGU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
@@ -91,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -106,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -128,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -148,7 +99,7 @@ SUMMARY:2026 Fleet Week Family Day: Waterfront Concert + Free Boat Rides (
  India Basin)
 DTSTART;TZID=America/Los_Angeles:20261010T110000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:funcheap-20261010-2026fleetweekfamilydaywa
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/2026-fleet-week-family-day-waterfront-
@@ -181,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -197,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -215,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Juanes North America Tour 2026
 DTSTART:20261015T030000Z
 DTEND:20261015T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_7mbC_v-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/juanes-north-america-tour-2026-sa
@@ -230,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -254,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -277,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Allan Rayman: HOTEL ALLAN - The 10 Year Anniversary Tour
 DTSTART:20261017T033000Z
 DTEND:20261017T053000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1AfPs7K
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedi
@@ -313,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -332,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Ghoul\, Dry Socket
 DTSTART:20261018T020000Z
 DTEND:20261018T040000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1A4v7Gd
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/ghoul-dry-socket-the-ritz-tick
@@ -347,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -371,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -386,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -404,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -420,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -432,11 +383,26 @@ URL:https://www.ticketmaster.com/bronco-san-jose-california-10-23-2026/eve
  nt/1C00649EF9B8E336
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Protomartyr\, Accessory
+DTSTART:20261024T030000Z
+DTEND:20261024T050000Z
+DTSTAMP:20261008T041929Z
+UID:rZ7HnEZ1Afa7oV
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz
+ -tickets/14244474\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA
+ \nPrice: $35-$524\nGenres: Music\, Alternative\, Post-Punk\, Rock\, Indie 
+ Rock\nCategories: concert\nSource: ticketmaster/music
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz-tickets
+ /14244474
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -473,7 +439,7 @@ SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -499,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -514,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -530,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -545,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -558,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -573,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -586,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -601,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -619,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -638,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -657,5 +623,29 @@ DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
 LOCATION:525 W Santa Clara\, San Jose\, CA
 URL:https://www.ticketmaster.com/don-omar-the-last-king-world-san-jose-cal
  ifornia-11-05-2026/event/1C0064ADDD0AE627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mon Laferte - Femme Fatale Tour
+DTSTART:20261107T040000Z
+DTEND:20261107T060000Z
+DTSTAMP:20261008T041929Z
+UID:G5vYZ_kmf8y1D
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
+ -jose-california-11-06-2026/event/1C00646B944392BB\nVenue: SAP Center at S
+ an Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, Pop\
+ , Electro Pop\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmas
+ ter/music\n\nSAP Center recommends that fans bring bags that are 5" x 9"x 
+ 2" or smaller to expedite their entry. However\, we are happy to accommoda
+ te larger bags up to 20" x 14" x 11" in size! When it comes to the larger 
+ bags\, please note the following: All bags\, including medical and infant 
+ bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection and will r
+ esult in longer wait times for entry Bags must be able to fit under your s
+ eat once inside the event\; therefore\, bags larger than 20" x 14" x 11" w
+ ill not be permitted. SAP Center no longer offers a bag check option and/o
+ r onsite storage lockers.
+LOCATION:525 W Santa Clara\, San Jose\, CA
+URL:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san-jose-ca
+ lifornia-11-06-2026/event/1C00646B944392BB
 END:VEVENT
 END:VCALENDAR

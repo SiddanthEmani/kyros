@@ -5,52 +5,39 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Hardware hackathon: turn a vintage toy into a voice agent
-DTSTART:20261008T000000Z
-DTEND:20261008T030000Z
-DTSTAMP:20261007T223811Z
-UID:evt-ho5b7bDG4xpgCKF
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/w9e4qgol\nLocation: San Francisco\, CA\nHost: As
- semblyAI\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/w9e4qgol
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Source AI Stack: Models\, Inference\, and Agent Harness
-DTSTART:20261008T003000Z
-DTEND:20261008T033000Z
-DTSTAMP:20261007T223811Z
-UID:evt-X8MY1exgStgYSIC
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/novita-oas6\nLocation: San Francisco\, CA\nHost:
-  Novita AI\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/novita-oas6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open-weight models and sovereign AI\, a Compute Connect Fireside C
- hat
-DTSTART:20261008T010000Z
-DTEND:20261008T040000Z
-DTSTAMP:20261007T223811Z
-UID:evt-xskiSCn29zk2MP0
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/jvzztdz5\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/jvzztdz5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:COLM Closing Happy Hour | Hosted by Snorkel AI
 DTSTART:20261009T000000Z
 DTEND:20261009T020000Z
-DTSTAMP:20261007T223811Z
+DTSTAMP:20261008T041929Z
 UID:evt-EF3eUAtN40bmugO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ozv5033v\nLocation: San Francisco\, CA\nHost: Sn
  orkel AI Community Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/ozv5033v
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of AI Report 2026 - SF launch event
+DTSTART:20261009T003000Z
+DTEND:20261009T043000Z
+DTSTAMP:20261008T041929Z
+UID:evt-piHZA0p4K6QE9sA
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/soai\nLocation: San Francisco\, CA\nHost: Air St
+ reet events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/soai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agents You Can Trust : A COLM Happy Hour
+DTSTART:20261009T010000Z
+DTEND:20261009T040000Z
+DTSTAMP:20261008T041929Z
+UID:evt-nxyKvlc4QghQdd4
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/hv3vd3aa\nLocation: San Francisco\, CA\nHost: Ce
+ ntific\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/hv3vd3aa
 END:VEVENT
 END:VCALENDAR
