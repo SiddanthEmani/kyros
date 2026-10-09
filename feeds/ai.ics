@@ -5,51 +5,39 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:COLM Closing Happy Hour | Hosted by Snorkel AI
-DTSTART:20261009T000000Z
-DTEND:20261009T020000Z
-DTSTAMP:20261008T224919Z
-UID:evt-EF3eUAtN40bmugO
+SUMMARY:Build Your AI Chief of Staff with Claude at #sf-tech-week
+DTSTART:20261010T180000Z
+DTEND:20261010T200000Z
+DTSTAMP:20261009T042350Z
+UID:evt-4pVGYnoP18cyMHR
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/ozv5033v\nLocation: San Francisco\, CA\nHost: Sn
- orkel AI Community Events\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/claude-jawm\nLocation: San Francisco\, CA\nHost:
+  Claude Community Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/ozv5033v
+URL:https://lu.ma/claude-jawm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:State of AI Report 2026 - SF launch event
-DTSTART:20261009T003000Z
-DTEND:20261009T043000Z
-DTSTAMP:20261008T224919Z
-UID:evt-piHZA0p4K6QE9sA
+SUMMARY:Claude Community Impact Lab at Sf Tech Week!
+DTSTART:20261010T210000Z
+DTEND:20261011T010000Z
+DTSTAMP:20261009T042350Z
+UID:evt-AABAAy40Stpkj9i
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/soai\nLocation: San Francisco\, CA\nHost: Air St
- reet events\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/claude-zyvv\nLocation: San Francisco\, CA\nHost:
+  Claude Community Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/soai
+URL:https://lu.ma/claude-zyvv
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CoLM AI Research Happy Hour
-DTSTART:20261009T010000Z
-DTEND:20261009T040000Z
-DTSTAMP:20261008T224919Z
-UID:evt-eIXzaJGiA2kGbER
+SUMMARY:The AI-Native Talent Hunt with Codex - #SFTechWeek
+DTSTART:20261011T170000Z
+DTEND:20261012T010000Z
+DTSTAMP:20261009T042350Z
+UID:evt-IKx3ZVB1Ke3raqp
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/6bikjpbc\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/yjt7f4ty\nLocation: San Francisco\, CA\nHost: Em
+ ergences Labs\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/6bikjpbc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agents You Can Trust : A COLM Happy Hour
-DTSTART:20261009T010000Z
-DTEND:20261009T040000Z
-DTSTAMP:20261008T224919Z
-UID:evt-nxyKvlc4QghQdd4
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/hv3vd3aa\nLocation: San Francisco\, CA\nHost: Ce
- ntific\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/hv3vd3aa
+URL:https://lu.ma/yjt7f4ty
 END:VEVENT
 END:VCALENDAR

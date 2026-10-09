@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -24,76 +24,10 @@ URL:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimbos-365-c
  lub-tickets/14257304
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Golden Gate Park Walking Tour: East End History Walk (SF)
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261008T224919Z
-UID:funcheap-20261010-freegoldengateparkwalkin
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/free-golden-gate-park-walking-tour-eas
- t-history-walk-sf/\nVenue: the tour concludes. Admission to the Gardens of
-  Golden Gate Park is free for San\nPrice: Free\nCategories: concert\, free
- \nSource: funcheap/san-francisco\n\nJoin San Francisco Recreation and Park
- s Historian-in-Residence Christopher Pollock for an easy-to-moderate walki
- ng tour of Golden Gate Park’s east end. Beginning at the Conservatory of
-  Flowers\, the free RSVP-required walk covers the park’s history and lan
- dmarks including the National AIDS Memorial Grove\, Shakespeare Garden and
-  Music Concourse\, where the tour concludes. Admission to the Gardens of G
- olden Gate Park is free for San Francisco residents\, veterans\, Museums f
- or All/EBT participants\, and Gardens members. Non-SF residents require pa
- id admission to visit the Conservatory of Flowers. Original Event Descript
- ion: _Walking Tour of Golden Gate Park’s East End on October 10 Join Rec
-  and Park Historian-in-Residence Christopher Pollock for a walking tour be
- ginning at the Conservatory of Flowers (100 John F. Kennedy Drive) on Satu
- rday\, October 10 from 10 a.m. to noon. The tour will explore the park’s
-  history and landmarks\, including the National AIDS Memorial Grove\, Shak
- espeare Garden\, Music Concourse and more Walking Tour of Golden Gate Park
-  October 10 @ 10:00 am – 12:00 pm Free RSVP This is a free community pro
- gram. Please consider supporting the Gardens of Golden Gate Park with a
-LOCATION:the tour concludes. Admission to the Gardens of Golden Gate Park 
- is free for San
-URL:https://sf.funcheap.com/free-golden-gate-park-walking-tour-east-histor
- y-walk-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:34th Annual Indigenous Peoples Day Powwow & Indian Market (Berkele
- y)
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T180000
-DTSTAMP:20261008T224919Z
-UID:funcheap-20261010-34thannualindigenouspeop
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-pow
- wow-indian-market-berkeley/\nVenue: M.L.K. Civic Center Park Allston Way a
- t M.L. King\, Jr. Way Berkeley\, California\nPrice: Free\nCategories: comm
- unity\, free\nSource: funcheap/south-bay\n\n34th Annual Berkeley Indigenou
- s Peoples Day Powwow & Indian Market 534 Years of Resistance & Renewal Ber
- keley’s Indigenous Peoples Day Committee invites the public to celebrate
-  the 34th Annual Indigenous Peoples Day Powwow & Indian Market on Saturday
- \, October 10\, 2026\, at M.L.K. Civic Center Park from 10:00 am to 6:00 p
- m. This free\, family-friendly celebration will bring together Native Amer
- ican dancers\, drummers\, artists\, craftspeople\, food vendors\, and comm
- unity members for a day of culture\, ceremony\, celebration\, and communit
- y. The Powwow will feature powwow dancing and drumming\, along with compet
- ition dancing. There will also be Gourd dancing and songs\, dance specials
- \, Intertribals and Round Dances that everyone is invited to join. Childre
- n are welcome. What: Berkeley’s 34th Annual Indigenous Peoples Day Powwo
- w & Indian Market When: Saturday\, October 10\, 2026 10 a.m.– 6 p.m. Gra
- nd Entry: 1 p.m. Where: M.L.K. Civic Center Park Allston Way at M.L. King\
- , Jr. Way Berkeley\, California Head Staff Co-MCs: Randy Pico (Luiseño) &
-  Aurora Mamea (Blackfeet) Head Man: Daniel Leroy (Omaha/Ponca/Pomo) Head L
- ady: Alexa Gorospe (Laguna Pueblo/Ohkay’Owingeh) Arena Director: JoeFox 
- Hopper (Pomo/L
-LOCATION:M.L.K. Civic Center Park Allston Way at M.L. King\, Jr. Way Berke
- ley\, California
-URL:https://sf.funcheap.com/34th-annual-indigenous-peoples-day-powwow-indi
- an-market-berkeley/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United Nations Association Film Festival in Palo Alto (Oct. 15-25)
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T210000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261015-unitednationsassociation
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/united-nations-association-film-festiv
@@ -124,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 South Bay Transit Summit + Networking (Mountain View)
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261016-free2026southbaytransits
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-south-bay-transit-summit-net
@@ -151,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:14th Annual “Bayview In Motion” Health Fest (SF)
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T160000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261017-14thannualbayviewinmotio
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/14th-annual-bayview-motion-health-fest
@@ -183,7 +117,7 @@ SUMMARY:2026 “Peculiarities” Market: Oddities + Free Treats for First
  30 People (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261017-2026peculiaritiesmarketo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
@@ -217,7 +151,7 @@ SUMMARY:One-Night Market Street Arts & Theater Festival: 50+ Experiences (
  SF)
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261017-onenightmarketstreetarts
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/onenight-market-street-arts-theater-fe
@@ -250,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -283,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Alemany Farm Harvest Festival 2026: Free BBQ + Farm Tours (SF)
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261024T170000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261024-alemanyfarmharvestfestiv
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-fre
@@ -314,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -335,7 +269,7 @@ SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -363,5 +297,65 @@ LOCATION:community comes together to support one another. linktr.ee/Sjmark
  et
 URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
  rs-san-jos-city-hall/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earlybirds Club
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+DTSTAMP:20261009T042350Z
+UID:rZ7HnEZ1A4v7oS
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
+ ts/15044473\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPric
+ e: Free\nGenres: Music\, Other\nCategories: concert\, free\nSource: ticket
+ master/music\n\nLadies\, leave your man at home! Earlybirds Club is a danc
+ e party designed for women and gender-expansive folks that starts at 6pm a
+ nd ends at 10pm --- because we have shit to do in the morning! 🎶 DJ Lad
+ y Ryan spinning 80s\, 90s\, and 2000s pop\, hip-hop\, new wave\, and R&B 
+ 🪩 A judgment-free dance floor built on joy\, kindness\, and connection 
+ ⏰ Doors at 6pm\, done by 10pm 👯 Come solo\, come with friends\, come 
+ ready to sweat 💖10% of ticket proceeds benefit the Susie Lee Legacy Fun
+ d\, supporting nonprofits that uplift women\, gender-expansive people\, an
+ d communities that need it most. Note: While we don't police identity at t
+ he door\, we ask that everyone who purchases a ticket respects this as a s
+ afe space for women and gender-expansive folks. By purchasing tickets\, yo
+ u consent to event photography and video for promotional use. This event i
+ s 21 and over. Any ticket holder unable to present valid identification in
+ dicating that they are at least 21 years of age will not be admitted to th
+ is event\, and will not be eligible for a refund.
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/earlybirds-club-the-ritz-tickets/15044
+ 473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo 
+ County History Museum)
+DTSTART;TZID=America/Los_Angeles:20261107T190000
+DTEND;TZID=America/Los_Angeles:20261107T210000
+DTSTAMP:20261009T042350Z
+UID:funcheap-20261107-historyinmotionfreegrand
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
+ bration-san-mateo-county-history-museum/\nLocation: peninsula\nPrice: Free
+ \nCategories: community\, free\nSource: funcheap/peninsula\n\nHISTORY IN M
+ OTION: A Day of Discovery for the Whole Family Bring the whole family to t
+ he San Mateo County History Museum on Saturday\, November 7\, for HISTORY 
+ IN MOTION\, a FREE Grand Opening Celebration filled with history\, music\,
+  discovery and fun! Be among the first to explore three exciting new exper
+ iences: discover historic carriages and automobiles in the Taube Family Ca
+ rriage House and Automobile Gallery\, travel millions of years into the Pe
+ ninsula’s past in the H.E.R.O. Natural History Gallery\, and step inside
+  the beautifully restored Lora Mundi House\, formerly the Lathrop-Connor-M
+ ansfield House. Kids and families can enjoy hands-on activities throughout
+  the Museum Campus\, meet Museum experts\, discover fascinating stories fr
+ om the Peninsula’s past and experience history brought to life. Explore 
+ the new galleries\, enjoy live music and family-friendly programs\, and jo
+ in us for the 11 a.m. ceremonial ribbon cutting as the Museum celebrates i
+ ts $25.5 million transformation. Saturday\, November 7 | 10 a.m.-2 p.m. Sa
+ n Mateo County History Museum | 2200 Broadway\, Redwood City FREE admissio
+ n Come curious. Bring the family. Discover history in motion!
+LOCATION:peninsula
+URL:https://sf.funcheap.com/history-motion-free-grand-opening-celebration-
+ san-mateo-county-history-museum/
 END:VEVENT
 END:VCALENDAR

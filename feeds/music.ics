@@ -5,44 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Mumford & Sons - Prizefighter Tour
-DTSTART:20261009T023000Z
-DTEND:20261009T043000Z
-DTSTAMP:20261008T224919Z
-UID:G5vYZ_AxtLqKN
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mo
- untain-view-california-10-08-2026/event/1C006458A97DD4E3\nVenue: Shoreline
-  Amphitheatre\nLocation: One Amphitheatre Parkway\, Mountain View\, CA\nGe
- nres: Music\, Rock\, Alternative Rock\nHost: LIVE NATION MUSIC\nCategories
- : concert\nSource: ticketmaster/music\n\nMumford & Sons has partnered with
-  PLUS1 to support Children in Conflict\, part of the War Child Alliance. $
- 1 from every ticket sold will help Children in Conflict to protect\, educa
- te\, and stand up for the rights of children affected by war. No portion o
- f the purchase price is tax deductible. https://www.childreninconflict.org
- /
-LOCATION:One Amphitheatre Parkway\, Mountain View\, CA
-URL:https://www.ticketmaster.com/mumford-sons-prizefighter-tour-mountain-v
- iew-california-10-08-2026/event/1C006458A97DD4E3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Living Tombstone
-DTSTART:20261009T030000Z
-DTEND:20261009T050000Z
-DTSTAMP:20261008T224919Z
-UID:Z7r9jZ1A7-OGU
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU\nVenue: San J
- ose Civic\nLocation: 135 West San Carlos Street\, San Jose\, CA\nGenres: M
- usic\, Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:135 West San Carlos Street\, San Jose\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7-OGU
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TRAITRS\, DJ Basura
 DTSTART:20261010T020000Z
 DTEND:20261010T040000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1AfaJG0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
@@ -57,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Holy Priest (18+)
 DTSTART:20261010T023000Z
 DTEND:20261010T043000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_CQwHuk4
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
@@ -79,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:DOMi & JD BECK - WHO ASKED? Tour
 DTSTART:20261010T030000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1Afa9G7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimb
@@ -95,42 +61,10 @@ URL:https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimbos-365-c
  lub-tickets/14257304
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Golden Gate Park Walking Tour: East End History Walk (SF)
-DTSTART;TZID=America/Los_Angeles:20261010T100000
-DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20261008T224919Z
-UID:funcheap-20261010-freegoldengateparkwalkin
-CATEGORIES:concert,free
-DESCRIPTION:https://sf.funcheap.com/free-golden-gate-park-walking-tour-eas
- t-history-walk-sf/\nVenue: the tour concludes. Admission to the Gardens of
-  Golden Gate Park is free for San\nPrice: Free\nCategories: concert\, free
- \nSource: funcheap/san-francisco\n\nJoin San Francisco Recreation and Park
- s Historian-in-Residence Christopher Pollock for an easy-to-moderate walki
- ng tour of Golden Gate Park’s east end. Beginning at the Conservatory of
-  Flowers\, the free RSVP-required walk covers the park’s history and lan
- dmarks including the National AIDS Memorial Grove\, Shakespeare Garden and
-  Music Concourse\, where the tour concludes. Admission to the Gardens of G
- olden Gate Park is free for San Francisco residents\, veterans\, Museums f
- or All/EBT participants\, and Gardens members. Non-SF residents require pa
- id admission to visit the Conservatory of Flowers. Original Event Descript
- ion: _Walking Tour of Golden Gate Park’s East End on October 10 Join Rec
-  and Park Historian-in-Residence Christopher Pollock for a walking tour be
- ginning at the Conservatory of Flowers (100 John F. Kennedy Drive) on Satu
- rday\, October 10 from 10 a.m. to noon. The tour will explore the park’s
-  history and landmarks\, including the National AIDS Memorial Grove\, Shak
- espeare Garden\, Music Concourse and more Walking Tour of Golden Gate Park
-  October 10 @ 10:00 am – 12:00 pm Free RSVP This is a free community pro
- gram. Please consider supporting the Gardens of Golden Gate Park with a
-LOCATION:the tour concludes. Admission to the Gardens of Golden Gate Park 
- is free for San
-URL:https://sf.funcheap.com/free-golden-gate-park-walking-tour-east-histor
- y-walk-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -146,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -164,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Juanes North America Tour 2026
 DTSTART:20261015T030000Z
 DTEND:20261015T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_7mbC_v-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/juanes-north-america-tour-2026-sa
@@ -179,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -203,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -226,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -242,25 +176,10 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghoul\, Dry Socket
-DTSTART:20261018T020000Z
-DTEND:20261018T040000Z
-DTSTAMP:20261008T224919Z
-UID:rZ7HnEZ1A4v7Gd
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketweb.com/event/ghoul-dry-socket-the-ritz-tick
- ets/15044303\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPri
- ce: $31-$521\nGenres: Music\, Metal\, Heavy Metal\, Alternative\, Alternat
- ive Rock\nCategories: concert\nSource: ticketmaster/music
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/ghoul-dry-socket-the-ritz-tickets/1504
- 4303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -284,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -299,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -317,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -333,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -345,26 +264,11 @@ URL:https://www.ticketmaster.com/bronco-san-jose-california-10-23-2026/eve
  nt/1C00649EF9B8E336
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Protomartyr\, Accessory
-DTSTART:20261024T030000Z
-DTEND:20261024T050000Z
-DTSTAMP:20261008T224919Z
-UID:rZ7HnEZ1Afa7oV
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz
- -tickets/14244474\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA
- \nPrice: $35-$524\nGenres: Music\, Alternative\, Post-Punk\, Rock\, Indie 
- Rock\nCategories: concert\nSource: ticketmaster/music
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz-tickets
- /14244474
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -401,7 +305,7 @@ SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -432,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -447,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -463,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -478,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -491,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -506,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -519,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -534,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -552,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -571,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -595,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261008T224919Z
+DTSTAMP:20261009T042350Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -614,5 +518,85 @@ DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
 LOCATION:525 W Santa Clara\, San Jose\, CA
 URL:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san-jose-ca
  lifornia-11-06-2026/event/1C00646B944392BB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hugel presents: Make The Girls Dance
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+DTSTAMP:20261009T042350Z
+UID:G5vYZ_5VOavXh
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
+ ce-berkeley-california-11-07-2026/event/1C0064BD20241F9B\nVenue: Greek The
+ atre-U.C. Berkeley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Mu
+ sic\, Dance/Electronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\n
+ Source: ticketmaster/music\n\n18 & Over Only All events are rain or shine.
+  This show is entirely general admission. A general admission ticket will 
+ allow you access to all areas of the Greek Theatre on a first-come\, first
+ -served basis. 18 & Over Only
+LOCATION:2001 Gayley Road\, Berkeley\, CA
+URL:https://www.ticketmaster.com/hugel-presents-make-the-girls-dance-berke
+ ley-california-11-07-2026/event/1C0064BD20241F9B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earlybirds Club
+DTSTART:20261108T020000Z
+DTEND:20261108T040000Z
+DTSTAMP:20261009T042350Z
+UID:rZ7HnEZ1A4v7oS
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
+ ts/15044473\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPric
+ e: Free\nGenres: Music\, Other\nCategories: concert\, free\nSource: ticket
+ master/music\n\nLadies\, leave your man at home! Earlybirds Club is a danc
+ e party designed for women and gender-expansive folks that starts at 6pm a
+ nd ends at 10pm --- because we have shit to do in the morning! 🎶 DJ Lad
+ y Ryan spinning 80s\, 90s\, and 2000s pop\, hip-hop\, new wave\, and R&B 
+ 🪩 A judgment-free dance floor built on joy\, kindness\, and connection 
+ ⏰ Doors at 6pm\, done by 10pm 👯 Come solo\, come with friends\, come 
+ ready to sweat 💖10% of ticket proceeds benefit the Susie Lee Legacy Fun
+ d\, supporting nonprofits that uplift women\, gender-expansive people\, an
+ d communities that need it most. Note: While we don't police identity at t
+ he door\, we ask that everyone who purchases a ticket respects this as a s
+ afe space for women and gender-expansive folks. By purchasing tickets\, yo
+ u consent to event photography and video for promotional use. This event i
+ s 21 and over. Any ticket holder unable to present valid identification in
+ dicating that they are at least 21 years of age will not be admitted to th
+ is event\, and will not be eligible for a refund.
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/earlybirds-club-the-ritz-tickets/15044
+ 473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dan + Shay: The Young Tour
+DTSTART:20261108T030000Z
+DTEND:20261108T050000Z
+DTSTAMP:20261009T042350Z
+UID:G5vYZ_1Wl9AH6
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
+ view-california-11-07-2026/event/1C0064AF6B5C5F07\nVenue: Shoreline Amphit
+ heatre\nLocation: One Amphitheatre Parkway\, Mountain View\, CA\nGenres: M
+ usic\, Country\nHost: LIVE NATION MUSIC\nCategories: concert\nSource: tick
+ etmaster/music
+LOCATION:One Amphitheatre Parkway\, Mountain View\, CA
+URL:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-view-cal
+ ifornia-11-07-2026/event/1C0064AF6B5C5F07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALVARO DIAZ - OMAKASE TOUR
+DTSTART:20261108T040000Z
+DTEND:20261108T060000Z
+DTSTAMP:20261009T042350Z
+UID:G5vYZ_GC885OL
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
+ -california-11-07-2026/event/1C0064C39040B81F\nVenue: San Jose Civic\nLoca
+ tion: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Hip-Hop/Rap\, Tr
+ ap\nHost: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmaster/mus
+ ic
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose-califor
+ nia-11-07-2026/event/1C0064C39040B81F
 END:VEVENT
 END:VCALENDAR
