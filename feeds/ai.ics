@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Build Your AI Chief of Staff with Claude at #sf-tech-week
 DTSTART:20261010T180000Z
 DTEND:20261010T200000Z
-DTSTAMP:20261009T042350Z
+DTSTAMP:20261009T123049Z
 UID:evt-4pVGYnoP18cyMHR
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claude-jawm\nLocation: San Francisco\, CA\nHost:
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Claude Community Impact Lab at Sf Tech Week!
 DTSTART:20261010T210000Z
 DTEND:20261011T010000Z
-DTSTAMP:20261009T042350Z
+DTSTAMP:20261009T123049Z
 UID:evt-AABAAy40Stpkj9i
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claude-zyvv\nLocation: San Francisco\, CA\nHost:
@@ -32,12 +32,25 @@ BEGIN:VEVENT
 SUMMARY:The AI-Native Talent Hunt with Codex - #SFTechWeek
 DTSTART:20261011T170000Z
 DTEND:20261012T010000Z
-DTSTAMP:20261009T042350Z
+DTSTAMP:20261009T123049Z
 UID:evt-IKx3ZVB1Ke3raqp
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/yjt7f4ty\nLocation: San Francisco\, CA\nHost: Em
  ergences Labs\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/yjt7f4ty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco | Claude for Games
+DTSTART:20261013T000000Z
+DTEND:20261013T040000Z
+DTSTAMP:20261009T123049Z
+UID:evt-gtuzoWlzRP7Jgxk
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/claudeforgames\nLocation: San Francisco\, CA\nHo
+ st: Claude Community Events\nCategories: ai\nSource: luma-html/san-francis
+ co
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/claudeforgames
 END:VEVENT
 END:VCALENDAR
