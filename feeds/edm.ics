@@ -5,47 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:TRAITRS\, DJ Basura
-DTSTART:20261010T020000Z
-DTEND:20261010T040000Z
-DTSTAMP:20261009T221233Z
-UID:rZ7HnEZ1AfaJG0
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tic
- kets/14266324\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPr
- ice: $26-$521\nGenres: Music\, Rock\, Other\nCategories: edm\nSource: tick
- etmaster/music
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/traitrs-dj-basura-the-ritz-tickets/142
- 66324
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holy Priest (18+)
-DTSTART:20261010T023000Z
-DTEND:20261010T043000Z
-DTSTAMP:20261009T221233Z
-UID:G5vYZ_CQwHuk4
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/holy-priest-18-san-francisco-cali
- fornia-10-09-2026/event/1C0064E6B2F0D195\nVenue: Bill Graham Civic Auditor
- ium\nLocation: 99 Grove Street\, San Francisco\, CA\nGenres: Music\, Dance
- /Electronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: tic
- ketmaster/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or pa
- ssport will be required for entry. Do not bring a photo or digital copy. P
- lease be sure to select the lowest available price level first. There are 
- a limited number of tickets available at each price level. All price level
- s provide the same concert experience. All tickets for this show are gener
- al admission\, standing on floor level or seated upstairs on a first come\
- , first serve basis.
-LOCATION:99 Grove Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/holy-priest-18-san-francisco-california-1
- 0-09-2026/event/1C0064E6B2F0D195
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261011T020000Z
 DTEND:20261011T040000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_epX9yGn
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -61,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
 DTSTART:20261011T040000Z
 DTEND:20261011T060000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:rZ7HnEZ1AfFyFf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
@@ -76,10 +39,26 @@ URL:https://www.ticketweb.com/event/electric-feels-indie-rock-the-ritz-tic
  kets/14239214
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bruno Mars - The Romantic Tour
+DTSTART:20261012T020000Z
+DTEND:20261012T040000Z
+DTSTAMP:20261010T040910Z
+UID:G5vYZ_eEJSDnx
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
+ a-clara-california-10-11-2026/event/1C006429E6CFBAA2\nVenue: Levi's® Stad
+ ium\nLocation: 4900 Marie P. DeBartolo Way\, Santa Clara\, CA\nGenres: Mus
+ ic\, Pop\, Electro Pop\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: 
+ ticketmaster/music
+LOCATION:4900 Marie P. DeBartolo Way\, Santa Clara\, CA
+URL:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-santa-clara-
+ california-10-11-2026/event/1C006429E6CFBAA2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -102,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -118,10 +97,33 @@ LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15042563
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lewis OfMan\, Lealani
+DTSTART:20261018T030000Z
+DTEND:20261018T050000Z
+DTSTAMP:20261010T040910Z
+UID:rZ7HnEZ1Af0Sbd
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365
+ -club-tickets/14933603\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus A
+ venue\, San Francisco\, CA\nPrice: $41\nGenres: Music\, Alternative\, Elec
+ tronic Pop\, Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
+ \n\n50KWTTS North American Tour21+ ONLY. Please note - there is a delivery
+  delay set for 2 weeks prior to show. This event is 21 and over. Any ticke
+ t holder unable to present valid identification indicating that they are a
+ t least 21 years of age will not be admitted to this event\, and will not 
+ be eligible for a refund. Another Planet Entertainment is committed to pro
+ ducing safe events. Please review our most up-to-date COVID-19 policy requ
+ irements for entry at https://apeconcerts.com/health-safety * Policy is su
+ bject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365-club-ti
+ ckets/14933603
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -140,7 +142,7 @@ SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -177,7 +179,7 @@ SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -208,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -221,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -234,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -252,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -271,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -295,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan

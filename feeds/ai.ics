@@ -5,35 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Pixels After Dark: Art\, Music & Computer Use Agents
-DTSTART:20261010T000000Z
-DTEND:20261010T030000Z
-DTSTAMP:20261009T221233Z
-UID:evt-E9MuPqfIpT3z3NF
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/simular-d1to\nLocation: San Francisco\, CA\nHost
- : Simular\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/simular-d1to
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Francisco | Claude Culture
-DTSTART:20261010T003000Z
-DTEND:20261010T033000Z
-DTSTAMP:20261009T221233Z
-UID:evt-tDfaTcqImbQrQwQ
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/claude-sf-techweek\nLocation: San Francisco\, CA
- \nHost: Claude Community Events\nCategories: ai\nSource: luma-html/san-fra
- ncisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/claude-sf-techweek
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Build Your AI Chief of Staff with Claude at #sf-tech-week
 DTSTART:20261010T180000Z
 DTEND:20261010T200000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:evt-4pVGYnoP18cyMHR
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claude-jawm\nLocation: San Francisco\, CA\nHost:
@@ -45,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Claude Community Impact Lab at Sf Tech Week!
 DTSTART:20261010T210000Z
 DTEND:20261011T010000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:evt-AABAAy40Stpkj9i
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claude-zyvv\nLocation: San Francisco\, CA\nHost:
@@ -57,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:The AI-Native Talent Hunt with Codex - #SFTechWeek
 DTSTART:20261011T170000Z
 DTEND:20261012T010000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:evt-IKx3ZVB1Ke3raqp
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/yjt7f4ty\nLocation: San Francisco\, CA\nHost: Em
@@ -69,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:San Francisco | Claude for Games
 DTSTART:20261013T000000Z
 DTEND:20261013T040000Z
-DTSTAMP:20261009T221233Z
+DTSTAMP:20261010T040910Z
 UID:evt-gtuzoWlzRP7Jgxk
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/claudeforgames\nLocation: San Francisco\, CA\nHo
@@ -77,5 +52,30 @@ DESCRIPTION:https://lu.ma/claudeforgames\nLocation: San Francisco\, CA\nHo
  co
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/claudeforgames
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agentic + AI Observability Meetup SF
+DTSTART:20261014T000000Z
+DTEND:20261014T030000Z
+DTSTAMP:20261010T040910Z
+UID:evt-bD8dwo3aGxFOfg8
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/Agentic_AI_10-13\nLocation: San Francisco\, Cali
+ fornia\nHost: Agentic + AI Observability\nCategories: ai\nSource: luma-htm
+ l/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/Agentic_AI_10-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahjong Party for AI Builders
+DTSTART:20261014T000000Z
+DTEND:20261014T030000Z
+DTSTAMP:20261010T040910Z
+UID:evt-PflcU5xNN23JiIv
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/to6egjfx\nLocation: San Francisco\, California\n
+ Host: Workato Community\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, California
+URL:https://lu.ma/to6egjfx
 END:VEVENT
 END:VCALENDAR
