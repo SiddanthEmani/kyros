@@ -5,28 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Electric Feels: Indie Rock + Indie Dance Party
-DTSTART:20261011T040000Z
-DTEND:20261011T060000Z
-DTSTAMP:20261011T034655Z
-UID:rZ7HnEZ1AfFyFf
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketweb.com/event/electric-feels-indie-rock-the-
- ritz-tickets/14239214\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\
- , CA\nPrice: $263-$521\nGenres: Music\, Dance/Electronic\, Club Dance\nCat
- egories: edm\nSource: ticketmaster/music\n\nThis event is 21 and over. Any
-  ticket holder unable to present valid identification indicating that they
-  are at least 21 years of age will not be admitted to this event\, and wil
- l not be eligible for a refund.
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/electric-feels-indie-rock-the-ritz-tic
- kets/14239214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bruno Mars - The Romantic Tour
 DTSTART:20261012T020000Z
 DTEND:20261012T040000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_eEJSDnx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/bruno-mars-the-romantic-tour-sant
@@ -42,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261016T023000Z
 DTEND:20261016T043000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZbVTOJiVS
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -66,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
 DTSTART:20261016T030000Z
 DTEND:20261016T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_ki2fDlR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
@@ -89,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -108,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261018T023000Z
 DTEND:20261018T043000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -132,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan\, Lealani
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365
@@ -155,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -170,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -188,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Engelbert Humperdinck - The Celebration Tour 2026
 DTSTART:20261022T023000Z
 DTEND:20261022T043000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_u6P7Ev_
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/engelbert-humperdinck-the-celebra
@@ -204,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Malcolm Todd: Do That Again Tour
 DTSTART:20261023T030000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_GFWW-6g
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-o
@@ -227,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -243,7 +225,7 @@ SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -276,11 +258,37 @@ URL:https://www.ticketweb.com/event/moes-alley-presents-lyrics-born-moes-a
  lley-tickets/14249554
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:William Black - 18+ ONLY
+DTSTART:20261025T030000Z
+DTEND:20261025T050000Z
+DTSTAMP:20261011T120209Z
+UID:G5vYZ_uEGAPVq
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/william-black-18-only-oakland-cal
+ ifornia-10-24-2026/event/1C0064D9CC165D1D\nVenue: Fox Theater - Oakland\nL
+ ocation: 1807 Telegraph Ave\, Oakland\, CA\nGenres: Music\, Dance/Electron
+ ic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmaster
+ /music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or passport wi
+ ll be required for entry. Do not bring a photo or digital copy. William Bl
+ ack w/ Vincent Afinity IKU Tickets to the Telegraph Room are now available
+  at check out. The Telegraph Room includes: * Access to preferred viewing 
+ section on the Orchestra level with cocktail service (for general admissio
+ n shows only) * Separate entrance to the venue * Access to the Telegraph R
+ oom before\, during and after the show * Dedicated restrooms * Premier bar
+  serving exclusive beers\, liquors and specialty cocktails * Complimentary
+  hors d'oeuvres * Complimentary coat check Please note - THIS SHOW IS 18+ 
+ ONLY. A physical drivers license or passport will be required for entry. D
+ o not bring a photo or digital copy. The Fox Theater is a cashless venue.
+LOCATION:1807 Telegraph Ave\, Oakland\, CA
+URL:https://www.ticketmaster.com/william-black-18-only-oakland-california-
+ 10-24-2026/event/1C0064D9CC165D1D
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM 
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -311,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -326,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -342,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -357,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -370,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -385,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -398,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -413,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -431,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -450,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -474,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -498,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -517,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -546,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -562,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -578,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261011T034655Z
+DTSTAMP:20261011T120209Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
