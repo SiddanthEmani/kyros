@@ -5,11 +5,11 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Bay Area Frontier Research Club #27 | Robotics & Embodied AI — F
- eel or Think? (dinner + paper discussion @ Mission Robotics)
+SUMMARY:Bay Area Frontier Research Club #27 | Robotics & Embodied AI: Feel
+  or Think? (dinner + paper discussion @ Mission Robotics)
 DTSTART:20261015T003000Z
 DTEND:20261015T033000Z
-DTSTAMP:20261014T032454Z
+DTSTAMP:20261014T110558Z
 UID:evt-VMd5nQt9FGodKjX
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/sxoqc4og\nLocation: San Francisco\, CA\nHost: th
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Engineering the Physical World with AI
 DTSTART:20261015T010000Z
 DTEND:20261015T030000Z
-DTSTAMP:20261014T032454Z
+DTSTAMP:20261014T110558Z
 UID:evt-woTUaZT1xf1oTCO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/9zly4itk\nLocation: Humanmade\, 655 Bryant St\, 
