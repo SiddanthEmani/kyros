@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Video as Code: Should AI Generate Pixels\, or Write Programs?
 DTSTART:20261017T004500Z
 DTEND:20261017T033000Z
-DTSTAMP:20261016T155959Z
+DTSTAMP:20261016T202733Z
 UID:evt-i2CHnkCoirNEyAT
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/bgwktpus\nLocation: San Francisco\, CA\nHost: Pe
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Open Together: AI Builders Unite
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
-DTSTAMP:20261016T155959Z
+DTSTAMP:20261016T202733Z
 UID:evt-Hi5xnKWbH9xR0q5
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/OpenTogether\nLocation: The Midway\, 900 Marin S
@@ -33,12 +33,24 @@ BEGIN:VEVENT
 SUMMARY:Open Source AI Week 2026 | Open Weight Debate Night
 DTSTART:20261020T000000Z
 DTEND:20261020T040000Z
-DTSTAMP:20261016T155959Z
+DTSTAMP:20261016T202733Z
 UID:evt-wCUX7vTN0mx9NIh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/592fcwx2\nLocation: San Francisco\, CA\nHost: Op
  en Source AI Week\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/592fcwx2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTM & Marketing Hackathon by Granola x Anthropic
+DTSTART:20261021T003000Z
+DTEND:20261021T033000Z
+DTSTAMP:20261016T202733Z
+UID:evt-55g8vvkP6gGnHkb
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
+  CA\nHost: Granola\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/granola-gtm-hackathon
 END:VEVENT
 END:VCALENDAR
