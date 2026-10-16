@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Video as Code: Should AI Generate Pixels\, or Write Programs?
 DTSTART:20261017T004500Z
 DTEND:20261017T033000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:evt-i2CHnkCoirNEyAT
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/bgwktpus\nLocation: San Francisco\, CA\nHost: Pe
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Open Together: AI Builders Unite
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:evt-Hi5xnKWbH9xR0q5
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/OpenTogether\nLocation: The Midway\, 900 Marin S
@@ -28,5 +28,17 @@ DESCRIPTION:https://lu.ma/OpenTogether\nLocation: The Midway\, 900 Marin S
  urce: luma-html/san-francisco
 LOCATION:The Midway\, 900 Marin St\, San Francisco\, CA 94124\, USA
 URL:https://lu.ma/OpenTogether
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source AI Week 2026 | Open Weight Debate Night
+DTSTART:20261020T000000Z
+DTEND:20261020T040000Z
+DTSTAMP:20261016T103804Z
+UID:evt-wCUX7vTN0mx9NIh
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/592fcwx2\nLocation: San Francisco\, CA\nHost: Op
+ en Source AI Week\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/592fcwx2
 END:VEVENT
 END:VCALENDAR

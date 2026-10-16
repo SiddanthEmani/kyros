@@ -5,33 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:RAWAYANA - ¿Dónde es el after? World Tour
-DTSTART:20261016T030000Z
-DTEND:20261016T050000Z
-DTSTAMP:20261016T025841Z
-UID:G5vYZ_ki2fDlR
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-
- san-francisco-california-10-15-2026/event/1C00646B0F53BAEF\nVenue: Bill Gr
- aham Civic Auditorium\nLocation: 99 Grove Street\, San Francisco\, CA\nGen
- res: Music\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSou
- rce: ticketmaster/music\n\nPlease be sure to select the lowest available p
- rice level first. There are a limited number of tickets available at each 
- price level. All price levels provide the same concert experience. All tic
- kets for this show are general admission\, standing on floor level or seat
- ed upstairs on a first come\, first serve basis. Please be sure to select 
- the lowest available price level first. There are a limited number of tick
- ets available at each price level. All price levels provide the same conce
- rt experience.
-LOCATION:99 Grove Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/rawayana-donde-es-el-after-world-san-fran
- cisco-california-10-15-2026/event/1C00646B0F53BAEF
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blade Rave
 DTSTART:20261017T040000Z
 DTEND:20261017T060000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:rZ7HnEZ1A4ve4N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/blade-rave-the-ritz-tickets/15
@@ -50,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Lewis OfMan\, Lealani
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365
@@ -73,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -91,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Malcolm Todd: Do That Again Tour
 DTSTART:20261023T030000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_GFWW-6g
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-o
@@ -115,7 +92,7 @@ SUMMARY:“Lower Polk Live!” Free Street Festival w/ Art\, DJs\, Live Mu
  sic (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -149,7 +126,7 @@ SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -182,37 +159,11 @@ URL:https://www.ticketweb.com/event/moes-alley-presents-lyrics-born-moes-a
  lley-tickets/14249554
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:William Black - 18+ ONLY
-DTSTART:20261025T030000Z
-DTEND:20261025T050000Z
-DTSTAMP:20261016T025841Z
-UID:G5vYZ_uEGAPVq
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/william-black-18-only-oakland-cal
- ifornia-10-24-2026/event/1C0064D9CC165D1D\nVenue: Fox Theater - Oakland\nL
- ocation: 1807 Telegraph Ave\, Oakland\, CA\nGenres: Music\, Dance/Electron
- ic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmaster
- /music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or passport wi
- ll be required for entry. Do not bring a photo or digital copy. William Bl
- ack w/ Vincent Afinity IKU Tickets to the Telegraph Room are now available
-  at check out. The Telegraph Room includes: * Access to preferred viewing 
- section on the Orchestra level with cocktail service (for general admissio
- n shows only) * Separate entrance to the venue * Access to the Telegraph R
- oom before\, during and after the show * Dedicated restrooms * Premier bar
-  serving exclusive beers\, liquors and specialty cocktails * Complimentary
-  hors d'oeuvres * Complimentary coat check Please note - THIS SHOW IS 18+ 
- ONLY. A physical drivers license or passport will be required for entry. D
- o not bring a photo or digital copy. The Fox Theater is a cashless venue.
-LOCATION:1807 Telegraph Ave\, Oakland\, CA
-URL:https://www.ticketmaster.com/william-black-18-only-oakland-california-
- 10-24-2026/event/1C0064D9CC165D1D
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM 
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -243,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -256,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -269,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -287,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -306,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -330,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -349,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261016T025841Z
+DTSTAMP:20261016T103804Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -359,5 +310,70 @@ DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
 LOCATION:300 16th Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
  alifornia-11-10-2026/event/1C00648ABCA0F080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
+DTSTART:20261115T030000Z
+DTEND:20261115T050000Z
+DTSTAMP:20261016T103804Z
+UID:G5vYZ_u5pn4Zl
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
+ n-francisco-california-11-14-2026/event/1C0064D2D6A9502B\nVenue: Bill Grah
+ am Civic Auditorium\nLocation: 99 Grove Street\, San Francisco\, CA\nGenre
+ s: Music\, Dance/Electronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: 
+ edm\nSource: ticketmaster/music\n\nTHIS SHOW IS 18+ ONLY. A physical drive
+ rs license or passport will be required for entry. Do not bring a photo or
+  digital copy. Please be sure to select the lowest available price level f
+ irst. There are a limited number of tickets available at each price level.
+  All price levels provide the same concert experience. All tickets for thi
+ s show are general admission\, standing on floor level or seated upstairs 
+ on a first come\, first serve basis. THIS SHOW IS 18+ ONLY. A physical dri
+ vers license or passport will be required for entry. Do not bring a photo 
+ or digital copy. Please be sure to select the lowest available price level
+  first. There are a limited number of tickets available at each price leve
+ l. All price levels provide the same concert experience. All tickets for t
+ his show are general admission\, standing on floor level or seated upstair
+ s on a first come\, first serve basis.
+LOCATION:99 Grove Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/worship-north-american-2026-18-san-franci
+ sco-california-11-14-2026/event/1C0064D2D6A9502B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
+ 5
+DTSTART:20261115T050000Z
+DTEND:20261115T070000Z
+DTSTAMP:20261016T103804Z
+UID:rZ7HnEZ1Af0f8K
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
+ r-moes-alley-tickets/14914413\nVenue: Moe's Alley\nLocation: 1535 Commerci
+ al Way\, Santa Cruz\, CA\nPrice: $30\nGenres: Music\, Rock\, Garage Rock\,
+  Alternative\, Noise Pop\nCategories: edm\nSource: ticketmaster/music\n\nM
+ oe's Alley presents the return of Mr. Blues Explosion himself Jon Spencer 
+ with special guest Genre Is Death plus DJ Archive 65! Saturday\, November 
+ 14\, 2026 Doors: 8pm / Show: 9pm $25 in advance / $30 day of the show 21+ 
+ *Tickets on sale Friday\, May 15th at 7am PT* * No Refunds | All sales are
+  final * Avoid scammers! Only purchase tickets from moesalley.com or ticke
+ tweb.com * Tickets requested by email will be delivered 3 days prior to th
+ e event * Will Call tickets will be available at the door on the day of th
+ e event ==== JON SPENCER Jon Spencer is a major figure in noise rock and a
+ lternative rock circles known for his gritty\, combustible songs\, fiercel
+ y minimalistic guitar work\, and over-the-top performing style. Spencer fi
+ rst made his name in the mid-'80s with combative noise merchants Pussy Gal
+ ore (best heard on the 1987 album Right Now!)\, whose raw\, purposefully o
+ ff-putting style and deliberately offensive lyrics made them one of the mo
+ st polarizing bands of the day. After Pussy Galore's breakup\, Spencer lau
+ nched the Jon Spencer Blues Explosion\, whose frantic but wildly energetic
+  style mixed elements of punk\, R&B\, blues\, and garage rock into a rauco
+ us\, celebratory attack that made them one of the best live acts of their 
+ day. The band captured the essentials of their sound on Extra Width (1993)
+  and Orange (1994)\, while they embraced elements of hip-hop and electroni
+ cs on Acme (1998). While Spencer's approach was easily recognizable\, he w
+ as able to fuse his ideas with a va
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-jon-spencer-moes-a
+ lley-tickets/14914413
 END:VEVENT
 END:VCALENDAR
