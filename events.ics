@@ -5,40 +5,33 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Live] Solidcore x Maxima: Pilates Pop-up
-DTSTART:20261018T170000Z
-DTEND:20261018T180000Z
-DTSTAMP:20261018T152016Z
-UID:evt-9ZOFg6Wix4lKXVg
-CATEGORIES:ai,concert
-DESCRIPTION:https://lu.ma/xfmswy2s\nLocation: Mountain View\, CA\nHost: Ma
- xima AI\nCategories: ai\, concert\nSource: luma-html/san-francisco
-LOCATION:Mountain View\, CA
-URL:https://lu.ma/xfmswy2s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[EDM] Role Model Presents: Chuck On Tour
-DTSTART:20261019T023000Z
-DTEND:20261019T043000Z
-DTSTAMP:20261018T152016Z
-UID:G5vYZ_uk8kyiH
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
- -berkeley-california-10-18-2026/event/1C0064D1901B9B3C\nVenue: Greek Theat
- re-U.C. Berkeley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Musi
- c\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSource: tick
- etmaster/music\n\nAll events are rain or shine. This show is entirely gene
- ral admission. A general admission ticket will allow you access to all are
- as of the Greek Theatre on a first-come\, first-served basis.
-LOCATION:2001 Gayley Road\, Berkeley\, CA
-URL:https://www.ticketmaster.com/role-model-presents-chuck-on-tour-berkele
- y-california-10-18-2026/event/1C0064D1901B9B3C
+SUMMARY:[Free] Free Classical Guitar Recital: Giulia Ballarè in Santa Cru
+ z
+DTSTART;TZID=America/Los_Angeles:20261018T190000
+DTEND;TZID=America/Los_Angeles:20261018T210000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261018-freeclassicalguitarrecit
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/free-classical-guitar-recital-giulia-b
+ allar-santa-cruz/\nLocation: south bay\nPrice: Free\nCategories: free\nSou
+ rce: funcheap/south-bay\n\nSouth Bay Guitar Society presents Giulia Ballar
+ è in a classical guitar recital\, part of its Guitarra en Fisterra series
+ . Sunday\, October 18\, 2026\, at 7:00 p.m. Kuumbwa Jazz Center\, 320-2 Ce
+ dar Street\, Santa Cruz. Free admission and free parking. Concert details:
+  https://www.sbgs.org/event-6753248 Follow South Bay Guitar Society for up
+ coming concerts: Facebook: https://www.facebook.com/SouthBayGuitarSociety 
+ Instagram: https://www.instagram.com/southbayguitarsociety/ Free Classical
+  Guitar Recital: Giulia Ballarè in Santa Cruz Date: 10/18/2026 Kuumbwa Ja
+ zz Center Cost: FREE – Free admission and free parking. –
+LOCATION:south bay
+URL:https://sf.funcheap.com/free-classical-guitar-recital-giulia-ballar-sa
+ nta-cruz/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[AI] Open Source AI Week 2026 | Open Weight Debate Night
 DTSTART:20261020T000000Z
 DTEND:20261020T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:evt-wCUX7vTN0mx9NIh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/592fcwx2\nLocation: San Francisco\, CA\nHost: Op
@@ -47,10 +40,42 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/592fcwx2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] AI agents to scale your startup
+DTSTART:20261020T013000Z
+DTEND:20261020T040000Z
+DTSTAMP:20261018T200141Z
+UID:evt-gHsIEU1iZwhjrak
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/bdfzpaib\nLocation: San Francisco\, CA\nHost: Fo
+ unders on Tap\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/bdfzpaib
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EDM] Role Model Presents: Chuck On Tour
+DTSTART:20261020T023000Z
+DTEND:20261020T043000Z
+DTSTAMP:20261018T200141Z
+UID:G5vYZ_uk8kyiH
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
+ -berkeley-california-10-19-2026/event/1C0064D1901B9B3C\nVenue: Greek Theat
+ re-U.C. Berkeley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Musi
+ c\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSource: tick
+ etmaster/music\n\nAll events are rain or shine. This show is entirely gene
+ ral admission. A general admission ticket will allow you access to all are
+ as of the Greek Theatre on a first-come\, first-served basis. Originally s
+ cheduled for October 18th\, 2026 at 7:30 PM. Previously purchased tickets 
+ will be honored for the new date.
+LOCATION:2001 Gayley Road\, Berkeley\, CA
+URL:https://www.ticketmaster.com/role-model-presents-chuck-on-tour-berkele
+ y-california-10-19-2026/event/1C0064D1901B9B3C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[AI] GTM & Marketing Hackathon by Granola x Anthropic
 DTSTART:20261021T003000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:evt-55g8vvkP6gGnHkb
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
@@ -62,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] AI Infra Night @PyTorchCon with dstack\, Crusoe\, and SGLang
 DTSTART:20261021T013000Z
 DTEND:20261021T043000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:evt-NCvIBdsLtFZwQ69
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/6j69xyal\nLocation: San Jose\, CA\nHost: dstack 
@@ -74,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Founders Panel: The Agentic Stack
 DTSTART:20261021T013000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:evt-1jHAzOec1ljMgwO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/laravel-43ty\nLocation: San Francisco\, CA\nHost
@@ -83,24 +108,11 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/laravel-43ty
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AI] Open Source AI + Policy Happy Hour
-DTSTART:20261022T003000Z
-DTEND:20261022T040000Z
-DTSTAMP:20261018T152016Z
-UID:evt-Zs6sZfHCr2TkEBD
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/96ykgzil\nLocation: GitHub\, 88 Colin P Kelly Jr
-  St\, San Francisco\, CA 94107\, USA\nHost: GitHub Policy Events\nCategori
- es: ai\nSource: luma-html/san-francisco
-LOCATION:GitHub\, 88 Colin P Kelly Jr St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/96ykgzil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] Bay Area Frontier Research Club #28 | Cell Biology x AI: From
   Cancer Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)
 DTSTART:20261022T003000Z
 DTEND:20261022T033000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:evt-wVMBaVuSsbEQgJL
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/dj22bayb\nLocation: Stanford\, CA\nHost: the fro
@@ -109,10 +121,23 @@ LOCATION:Stanford\, CA
 URL:https://lu.ma/dj22bayb
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Durable AI (October Edition)
+DTSTART:20261022T003000Z
+DTEND:20261022T030000Z
+DTSTAMP:20261018T200141Z
+UID:evt-zK5H9iq3UujkOHB
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/durable-ai-october\nLocation: 500 Sansome St\, S
+ an Francisco\, CA 94111\, USA\nHost: Temporal Community\nCategories: ai\nS
+ ource: luma-html/san-francisco
+LOCATION:500 Sansome St\, San Francisco\, CA 94111\, USA
+URL:https://lu.ma/durable-ai-october
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Malcolm Todd: Do That Again Tour
 DTSTART:20261023T030000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_GFWW-6g
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-o
@@ -136,7 +161,7 @@ SUMMARY:[EDM/Free] “Lower Polk Live!” Free Street Festival w/ Art\, DJ
  s\, Live Music (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -170,7 +195,7 @@ SUMMARY:[Bay] “Stranger Things” Laser Show: 80s Hits in the Dome (San
  Jose)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261023-strangerthingslasershow8
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/stranger-laser-show-80s-hits-dome-san-
@@ -201,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -216,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Protomartyr\, Accessory
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Afa7oV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz
@@ -232,7 +257,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa
   Gordon + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -265,45 +290,11 @@ URL:https://www.ticketweb.com/event/moes-alley-presents-lyrics-born-moes-a
  lley-tickets/14249554
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
- ival (SF)
-DTSTART;TZID=America/Los_Angeles:20261023T210000
-DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261023-lowerpolklive2026freemus
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
- estival-sf/\nVenue: Polk Street (Btwn Bush & Sutter Streets)\, San Francis
- coCost: FreeAll Ages Welcom\nPrice: Free\nCategories: community\, free\nSo
- urce: funcheap/south-bay\n\nThe 2nd Annual Lower Polk Live! is a free outd
- oor street festival on Polk Street in San Francisco\, featuring live music
-  performances by The Top Chefs and DJ JP Breganza\, interactive turntable 
- sessions with Skratchfight\, local artists and makers\, and soul line danc
- ing with Westside Steppaz. The event is family-friendly\, pet-friendly\, a
- nd open to all\, celebrating music\, art\, and community from 4 to 9 PM. O
- riginal Event Description: _Live Music\, Soul Line Dancing\, DJs\, Artists
-  & Makers take over Polk Street\, October 23 from 4–9 PM!Lower Polk Live
- ! returns to Polk Street for a free neighborhood celebration of music\, ar
- t\, and community. Experience an evening of live entertainment\, local art
- \, creative experiences\, and more in the heart of Lower Polk.Featuring pe
- rformances from Top Chefs\, JP Breganza\, and more\, with additional perfo
- rmance announcements coming soon!Experience turntable culture with Skratch
- fight — scratch\, spin\, get on the decks for the first time\, or jump i
- n and jam. Join Westside Steppaz for Soul line dancing and stepping! No ex
- perience needed grab your friends\, hit the dance floor\, and step with us
- !Event DetailsDate: Friday\, October 23\, 2026Time: 4:00 – 9:00 PMLocati
- on:
-LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San FranciscoCost: Fre
- eAll Ages Welcom
-URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
- sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -332,43 +323,38 @@ URL:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayrides-tricko
  rtreating-history-park-san-jose/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Alemany Farm Harvest Festival 2026: Free BBQ + Farm Tou
- rs (SF)
+SUMMARY:[Live/Free] “Jisoo : Click” Official SF Merch Pop-Up at Serram
+ onte (Daly City)
 DTSTART;TZID=America/Los_Angeles:20261024T150000
-DTEND;TZID=America/Los_Angeles:20261024T170000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261024-alemanyfarmharvestfestiv
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-fre
- e-bbq-farm-tours-sf/\nLocation: san francisco\nPrice: Free\nCategories: co
- mmunity\, free\nSource: funcheap/san-francisco\n\nAlemany Farm’s annual 
- Harvest Festival includes a free community BBQ\, eco activities\, live mus
- ic\, games\, face painting\, and farm tours. The free family-oriented even
- t takes place at Alemany Farm in San Francisco. Original Event Description
- : _sweet friends\, we are having our annual harvest festival celebration o
- n october 24\, from 11 – 3 pm. this is a free event for all. bring your 
- family and neighbors and friends and lovers! please come give thanks to th
- e Earth with us 🌱 we would really love to see u there. more details for
- thcoming <3 save the date !_ Text extracted from provided image: The Frien
- ds of Alemany Farm invite you to 2026 Alemany Farm Harvest Festival free c
- ommunity bbq | eco activities | live music | games face painting | farm to
- urs | and more! Saturday\, October 24 11 AM – 3 PM 700 Alemany Blvd For 
- more info\, visit alemanyfarm.org Friends of Alemany Farm BERNAL HEIGHTS N
- eighborhood Center San Francisco Landscapes Alemany Resident Management Co
- rporation WORLD CENTRIC FOR A BETTER WORLD SAN FRANCISCO RECREATION & PARK
- S @alemany_farm Friends of Alemany Farm We grow free produce & sow seeds o
- f food sovereignty & justice in SE San Francisco\, unceded Ohlone land. Fi
- scal sponso
-LOCATION:san francisco
-URL:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-free-bbq-fa
- rm-tours-sf/
+DTEND;TZID=America/Los_Angeles:20261025T100000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261024-jisooclickofficialsfmerc
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/jisoo-click-official-sf-merch-popup-se
+ rramonte-daly-city/\nVenue: JAGALCHI at Serramonte Center 63 Serramonte Ce
+ nter\, Daly City\, CA 94015 Official\nPrice: Free\nCategories: concert\, f
+ ree\nSource: funcheap/san-francisco\n\nJISOO : CLICK is coming to the San 
+ Francisco Bay Area with a limited-time pop-up store at JAGALCHI in Daly Ci
+ ty. Running from October 24 through November 1\, the pop-up will feature o
+ fficial JISOO : CLICK merchandise\, special purchase benefits and on-site 
+ fan activities for Bay Area fans. Admission is free and no advance reserva
+ tion is required. Entry is first come\, first served. Hours Opening Day 
+ – Saturday\, October 24: Opens at 3 pm October 25 – November 1: 10 am
+ –6 pm Location JAGALCHI at Serramonte Center 63 Serramonte Center\, Daly
+  City\, CA 94015 Official merchandise and event benefits are available whi
+ le supplies last. Follow @kodypod and @kodypod_popup on Instagram for merc
+ handise details\, event updates and real-time information.
+LOCATION:JAGALCHI at Serramonte Center 63 Serramonte Center\, Daly City\, 
+ CA 94015 Official
+URL:https://sf.funcheap.com/jisoo-click-official-sf-merch-popup-serramonte
+ -daly-city/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Free] Good Samaritan Hospital’s Annual Trunk or Treat Event (Sa
  n Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -385,10 +371,71 @@ URL:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-treat-ev
  ent-san-jose/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Free Hotel Transylvania Outdoor Movie Night in San Jose
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T193000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261024-freehoteltransylvaniaout
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-hotel-transylvania-outdoor-movie-
+ night-san-jose/\nVenue: De Anza Park\, 5553 Marquette Drive\, San Jose\, C
+ A 95118. Weather permitting: the\nPrice: Free\nCategories: community\, fre
+ e\nSource: funcheap/san-jose\n\nBring the family to De Anza Park in San Jo
+ se for a free outdoor screening of Hotel Transylvania on Saturday\, Octobe
+ r 24\, 2026. Arrive at 6:30 PM to settle in\; the movie begins at 7:30 PM 
+ Pacific. Hosted by D2Z Design and Blake Hunter Real Estate\, the evening i
+ ncludes free popcorn\, Halloween candy\, coffee\, tea and hot chocolate. B
+ ring dinner\, lawn chairs and blankets\, and register online to reserve yo
+ ur spots. San Jose Movie Nights started with two dads looking for a fun\, 
+ free activity for their kids. Come enjoy a community movie night together.
+  Location: De Anza Park\, 5553 Marquette Drive\, San Jose\, CA 95118. Weat
+ her permitting: the screening will not take place if it is raining. Check 
+ the event page before heading out. Free Hotel Transylvania Outdoor Movie N
+ ight in San Jose Date: 10/24/2026 De Anza Park\, 5553 Marquette Drive\, Sa
+ n Jose\, CA 95118 Cost: FREE – Free. Please register online to reserve s
+ pots\; availability is limited. –
+LOCATION:De Anza Park\, 5553 Marquette Drive\, San Jose\, CA 95118. Weathe
+ r permitting: the
+URL:https://sf.funcheap.com/free-hotel-transylvania-outdoor-movie-night-sa
+ n-jose/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay/Free] “Blue Beetle” Free Outdoor Movie Night: SF Latino F
+ ilm Festival (Spark Social)
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T203000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261024-bluebeetlefreeoutdoormov
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-s
+ f-latino-film-festival-spark-social/\nLocation: san francisco\nPrice: Free
+ \nCategories: community\, free\nSource: funcheap/san-francisco\n\nFree out
+ door screening of Blue Beetle at SPARK Social SF\, in partnership with Cin
+ e+Mas San Francisco Latino Film Festival! Cine+Más: Blue Beetle Movie Nig
+ ht – A Celebration of Latino Cinema and Community! Join us for a special
+  outdoor movie night presented by SPARK Social SF and Cine+Más San Franci
+ sco Latino Film Festival! We’re bringing Latino cinema\, community\, and
+  a little movie magic under the stars at SPARK Social SF. Grab your friend
+ s and family\, enjoy some delicious food and drinks from the park\, and se
+ ttle in for a FREE screening of Blue Beetle on the SPARK Social SF Field. 
+ 🪲 Feature Film: Blue Beetle Saturday\, October 24 | 6:30 PM SPARK Socia
+ l SF | 601 Mission Bay Blvd North\, San Francisco\, CA 94158 Free Admissio
+ n | Open to all! Arrive early to grab a spot on the field\, lay out your b
+ lanket\, and get ready for an evening of movies\, food\, community\, and f
+ un under the San Francisco sky. Food Trucks Enjoy delicious bites from 15+
+  food trucks serving up a variety of meals and snacks throughout the eveni
+ ng. Grab dinner\, drinks\, and something to enjoy during the film! About C
+ ine+Más SF Cine+Más San Francisco Latino Film Festival contributes to th
+ e Bay Area’s vibrant and diverse a
+LOCATION:san francisco
+URL:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-sf-latino
+ -film-festival-spark-social/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Blitzkid\, Them Creatures
 DTSTART:20261025T020000Z
 DTEND:20261025T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Afa8j7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/blitzkid-them-creatures-the-ri
@@ -406,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] William Black - 18+ ONLY
 DTSTART:20261025T030000Z
 DTEND:20261025T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_uEGAPVq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/william-black-18-only-oakland-cal
@@ -433,7 +480,7 @@ SUMMARY:[Free] Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San
   José City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -463,45 +510,11 @@ URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
  rs-san-jos-city-hall/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] 34th Annual Rockridge Halloween Parade w/ 40+ Trick-or-
- Treat Stops (Oakland)
-DTSTART;TZID=America/Los_Angeles:20261025T110000
-DTEND;TZID=America/Los_Angeles:20261025T120000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261025-34thannualrockridgehallo
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade
- -40-trickortreat-stops-oakland/\nVenue: s along College Avenue\, from Broa
- dway to Alcatraz Avenue. Start at Halloween Hub\nPrice: Free\nCategories: 
- community\, free\nSource: funcheap/south-bay+funcheap/east-bay\n\nCelebrat
- e Halloween at the 34th Annual Rockridge Halloween Parade \, a free\, fami
- ly-friendly tradition featuring trick-or-treating\, crafts\, face painting
- \, costume contests for kids and pups\, and festive activities at more tha
- n 40 participating locations along College Avenue\, from Broadway to Alcat
- raz Avenue. Start at Halloween Hub #1 in the Rockridge Library parking lot
-  (5366 College Ave.) for crafts hosted by the Museum of Children’s Art (
- MOCHA)\, free commemorative trick-or-treat bags while supplies last\, and 
- entertainment featuring the Ricky Roo and Friends puppet show at 11 a.m.\,
-  musician Asheba at noon\, and librarian storytime at 1 p.m. Halloween Hub
-  #2 at College Avenue Presbyterian Church (5951 College Ave.) offers famil
- y crafts\, a photo booth and additional entertainment. Throughout the dist
- rict\, over 40 participating businesses will offer Halloween treats\, acti
- vities and surprises. Come in costume\, bring the kids and four-legged fam
- ily members\, and enjoy a spirited afternoon supporting Rockridge’s loca
- lly owned shops and restaurants. Rockridge Halloween Parade Sunday\, Octob
- er 25\, 2026 | 11a-2p Rockridge District\, 5366 College Ave\, Oakland FREE
-  – All ages Getting there: The e
-LOCATION:s along College Avenue\, from Broadway to Alcatraz Avenue. Start 
- at Halloween Hub
-URL:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade-40-tric
- kortreat-stops-oakland/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELL
  A EDM DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -532,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -547,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -563,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mdou Moctar
 DTSTART:20261030T020000Z
 DTEND:20261030T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Af1Kf7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/mdou-moctar-the-ritz-tickets/1
@@ -580,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -595,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -609,7 +622,7 @@ SUMMARY:[Bay] 2026 Halloween Laser Spooktacular in Giant IMAX Dome (San Jo
  se)
 DTSTART;TZID=America/Los_Angeles:20261030T183000
 DTEND;TZID=America/Los_Angeles:20261030T190000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261030-2026halloweenlaserspookt
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/2026-halloween-laser-spooktacular-gian
@@ -641,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Shpongle - 10/30
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_6E75qN1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
@@ -665,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -680,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -693,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -708,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -726,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -745,29 +758,29 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 30th Arab Film Festival at SF’s AMC Kabuki (Nov. 5-14)
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261105-30tharabfilmfestivalatsf
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/30th-arab-film-festival-sfs-amc-kabuki
  -nov-514/\nVenue: she performed disguised as a boy\, to her rise as the Ar
  ab world’s most iconic vo\nCategories: community\nSource: funcheap/south
- -bay+funcheap/san-francisco\n\nThe 30th anniversary edition of the Arab Fi
- lm Festival (AFF30)\, runs November 5–14\, 2026 with more than 30 events
-  across San Francisco\, Oakland\, and the South Bay\, including film scree
- nings\, filmmaker conversations\, panels\, special presentations and commu
- nity events\, with select programming available virtually. General admissi
- on to most screenings: $20 Opening Night (11/5 at AMC Kabuki): $45 All-Acc
- ess Pass: $180 VIP All-Access Pass: $250 Virtual-Only Pass: $60 AFF30 will
-  open Thursday\, November 5 at AMC Kabuki in San Francisco with Marwan Ham
- ed ’s El Sett \, a sweeping cinematic portrait of legendary Egyptian sin
- ger Umm Kulthum \, starring Mona Zaki . Celebrated Egyptian producer Moham
- ed Hefzy will be honored on Opening Night with the inaugural AFMI Luminary
-  Award for Cultural Impact and will attend as a special guest. AFF30 will 
- also feature a special presentation of Edward Said: Between Worlds \, dire
- cted by Maiken Baird \, on Sunday\, November 8 at the Castro Theatre in Sa
- n Francisco\, followed by a panel with Baird\, producer Sarah Mowaswes and
-  Edward Said’s family. Acclaimed Saudi filmmaker Haifaa Al Mansour will 
- serve as Jury Chair for the 30th Arab Film Festival\, leading a jury th
+ -bay\n\nThe 30th anniversary edition of the Arab Film Festival (AFF30)\, r
+ uns November 5–14\, 2026 with more than 30 events across San Francisco\,
+  Oakland\, and the South Bay\, including film screenings\, filmmaker conve
+ rsations\, panels\, special presentations and community events\, with sele
+ ct programming available virtually. General admission to most screenings: 
+ $20 Opening Night (11/5 at AMC Kabuki): $45 All-Access Pass: $180 VIP All-
+ Access Pass: $250 Virtual-Only Pass: $60 AFF30 will open Thursday\, Novemb
+ er 5 at AMC Kabuki in San Francisco with Marwan Hamed ’s El Sett \, a sw
+ eeping cinematic portrait of legendary Egyptian singer Umm Kulthum \, star
+ ring Mona Zaki . Celebrated Egyptian producer Mohamed Hefzy will be honore
+ d on Opening Night with the inaugural AFMI Luminary Award for Cultural Imp
+ act and will attend as a special guest. AFF30 will also feature a special 
+ presentation of Edward Said: Between Worlds \, directed by Maiken Baird \,
+  on Sunday\, November 8 at the Castro Theatre in San Francisco\, followed 
+ by a panel with Baird\, producer Sarah Mowaswes and Edward Said’s family
+ . Acclaimed Saudi filmmaker Haifaa Al Mansour will serve as Jury Chair for
+  the 30th Arab Film Festival\, leading a jury th
 LOCATION:she performed disguised as a boy\, to her rise as the Arab world
  ’s most iconic vo
 URL:https://sf.funcheap.com/30th-arab-film-festival-sfs-amc-kabuki-nov-514
@@ -777,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -801,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -825,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -840,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Total Vibez Live
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:Z7r9jZ1A7PKeb
 CATEGORIES:community
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PKeb\nVenue: Lake 
@@ -853,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -872,7 +885,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -901,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -918,7 +931,7 @@ SUMMARY:[Bay/Free] “History in Motion” Free Grand Opening Celebration
  (San Mateo County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -945,35 +958,10 @@ URL:https://sf.funcheap.com/history-motion-free-grand-opening-celebration-
  san-mateo-county-history-museum/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tas
- ting at The Lodge
-DTSTART;TZID=America/Los_Angeles:20261107T190000
-DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261107-sincereciderxjohnnydough
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-c
- ider-donut-tasting-lodge/\nVenue: in Oakland. Be one of the first to sip t
- he collaboration from two of the Bay Are\nPrice: Free\nCategories: communi
- ty\, free\nSource: funcheap/san-francisco\n\nSincere Cider and Johnny Doug
- hnuts are teaming up on Apple Cider Donut\, a limited-release cider inspir
- ed by the classic fall treat. Made with apple juice\, cinnamon\, and sugar
- \, the cider is naturally gluten-free\, vegan\, and 5.9% ABV. The tasting 
- tour heads to The Lodge on Piedmont Avenue in Oakland. Be one of the first
-  to sip the collaboration from two of the Bay Area’s most beloved local 
- brands. The tour wraps up at the Spark Social Cider Fest in San Francisco 
- on November 7. The cider is only available for a limited time and while su
- pplies last.
-LOCATION:in Oakland. Be one of the first to sip the collaboration from two
-  of the Bay Are
-URL:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-cider-don
- ut-tasting-lodge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -990,7 +978,7 @@ SUMMARY:[Bay/Free] “Autumn In Willow Glen” 2026: Free Makers Market (S
  an Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -1023,7 +1011,7 @@ SUMMARY:[Live] LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage
   Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -1047,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -1062,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -1086,7 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -1115,7 +1103,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Arc
  hive 65
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -1152,7 +1140,7 @@ SUMMARY:[Bay/Free] Free Georgia O’Keeffe Exhibition Walkthrough (Palo Al
  to)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth

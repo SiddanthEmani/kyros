@@ -5,11 +5,33 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+SUMMARY:Free Classical Guitar Recital: Giulia Ballarè in Santa Cruz
+DTSTART;TZID=America/Los_Angeles:20261018T190000
+DTEND;TZID=America/Los_Angeles:20261018T210000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261018-freeclassicalguitarrecit
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/free-classical-guitar-recital-giulia-b
+ allar-santa-cruz/\nLocation: south bay\nPrice: Free\nCategories: free\nSou
+ rce: funcheap/south-bay\n\nSouth Bay Guitar Society presents Giulia Ballar
+ è in a classical guitar recital\, part of its Guitarra en Fisterra series
+ . Sunday\, October 18\, 2026\, at 7:00 p.m. Kuumbwa Jazz Center\, 320-2 Ce
+ dar Street\, Santa Cruz. Free admission and free parking. Concert details:
+  https://www.sbgs.org/event-6753248 Follow South Bay Guitar Society for up
+ coming concerts: Facebook: https://www.facebook.com/SouthBayGuitarSociety 
+ Instagram: https://www.instagram.com/southbayguitarsociety/ Free Classical
+  Guitar Recital: Giulia Ballarè in Santa Cruz Date: 10/18/2026 Kuumbwa Ja
+ zz Center Cost: FREE – Free admission and free parking. –
+LOCATION:south bay
+URL:https://sf.funcheap.com/free-classical-guitar-recital-giulia-ballar-sa
+ nta-cruz/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Lower Polk Live!” Free Street Festival w/ Art\, DJs\, Live Mu
  sic (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -39,74 +61,37 @@ URL:https://sf.funcheap.com/polk-live-free-street-festival-art-djs-live-mu
  sic-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
-DTSTART;TZID=America/Los_Angeles:20261023T210000
-DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261023-lowerpolklive2026freemus
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
- estival-sf/\nVenue: Polk Street (Btwn Bush & Sutter Streets)\, San Francis
- coCost: FreeAll Ages Welcom\nPrice: Free\nCategories: community\, free\nSo
- urce: funcheap/south-bay\n\nThe 2nd Annual Lower Polk Live! is a free outd
- oor street festival on Polk Street in San Francisco\, featuring live music
-  performances by The Top Chefs and DJ JP Breganza\, interactive turntable 
- sessions with Skratchfight\, local artists and makers\, and soul line danc
- ing with Westside Steppaz. The event is family-friendly\, pet-friendly\, a
- nd open to all\, celebrating music\, art\, and community from 4 to 9 PM. O
- riginal Event Description: _Live Music\, Soul Line Dancing\, DJs\, Artists
-  & Makers take over Polk Street\, October 23 from 4–9 PM!Lower Polk Live
- ! returns to Polk Street for a free neighborhood celebration of music\, ar
- t\, and community. Experience an evening of live entertainment\, local art
- \, creative experiences\, and more in the heart of Lower Polk.Featuring pe
- rformances from Top Chefs\, JP Breganza\, and more\, with additional perfo
- rmance announcements coming soon!Experience turntable culture with Skratch
- fight — scratch\, spin\, get on the decks for the first time\, or jump i
- n and jam. Join Westside Steppaz for Soul line dancing and stepping! No ex
- perience needed grab your friends\, hit the dance floor\, and step with us
- !Event DetailsDate: Friday\, October 23\, 2026Time: 4:00 – 9:00 PMLocati
- on:
-LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San FranciscoCost: Fre
- eAll Ages Welcom
-URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
- sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alemany Farm Harvest Festival 2026: Free BBQ + Farm Tours (SF)
+SUMMARY:“Jisoo : Click” Official SF Merch Pop-Up at Serramonte (Daly C
+ ity)
 DTSTART;TZID=America/Los_Angeles:20261024T150000
-DTEND;TZID=America/Los_Angeles:20261024T170000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261024-alemanyfarmharvestfestiv
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-fre
- e-bbq-farm-tours-sf/\nLocation: san francisco\nPrice: Free\nCategories: co
- mmunity\, free\nSource: funcheap/san-francisco\n\nAlemany Farm’s annual 
- Harvest Festival includes a free community BBQ\, eco activities\, live mus
- ic\, games\, face painting\, and farm tours. The free family-oriented even
- t takes place at Alemany Farm in San Francisco. Original Event Description
- : _sweet friends\, we are having our annual harvest festival celebration o
- n october 24\, from 11 – 3 pm. this is a free event for all. bring your 
- family and neighbors and friends and lovers! please come give thanks to th
- e Earth with us 🌱 we would really love to see u there. more details for
- thcoming <3 save the date !_ Text extracted from provided image: The Frien
- ds of Alemany Farm invite you to 2026 Alemany Farm Harvest Festival free c
- ommunity bbq | eco activities | live music | games face painting | farm to
- urs | and more! Saturday\, October 24 11 AM – 3 PM 700 Alemany Blvd For 
- more info\, visit alemanyfarm.org Friends of Alemany Farm BERNAL HEIGHTS N
- eighborhood Center San Francisco Landscapes Alemany Resident Management Co
- rporation WORLD CENTRIC FOR A BETTER WORLD SAN FRANCISCO RECREATION & PARK
- S @alemany_farm Friends of Alemany Farm We grow free produce & sow seeds o
- f food sovereignty & justice in SE San Francisco\, unceded Ohlone land. Fi
- scal sponso
-LOCATION:san francisco
-URL:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-free-bbq-fa
- rm-tours-sf/
+DTEND;TZID=America/Los_Angeles:20261025T100000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261024-jisooclickofficialsfmerc
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/jisoo-click-official-sf-merch-popup-se
+ rramonte-daly-city/\nVenue: JAGALCHI at Serramonte Center 63 Serramonte Ce
+ nter\, Daly City\, CA 94015 Official\nPrice: Free\nCategories: concert\, f
+ ree\nSource: funcheap/san-francisco\n\nJISOO : CLICK is coming to the San 
+ Francisco Bay Area with a limited-time pop-up store at JAGALCHI in Daly Ci
+ ty. Running from October 24 through November 1\, the pop-up will feature o
+ fficial JISOO : CLICK merchandise\, special purchase benefits and on-site 
+ fan activities for Bay Area fans. Admission is free and no advance reserva
+ tion is required. Entry is first come\, first served. Hours Opening Day 
+ – Saturday\, October 24: Opens at 3 pm October 25 – November 1: 10 am
+ –6 pm Location JAGALCHI at Serramonte Center 63 Serramonte Center\, Daly
+  City\, CA 94015 Official merchandise and event benefits are available whi
+ le supplies last. Follow @kodypod and @kodypod_popup on Instagram for merc
+ handise details\, event updates and real-time information.
+LOCATION:JAGALCHI at Serramonte Center 63 Serramonte Center\, Daly City\, 
+ CA 94015 Official
+URL:https://sf.funcheap.com/jisoo-click-official-sf-merch-popup-serramonte
+ -daly-city/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -123,11 +108,72 @@ URL:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-treat-ev
  ent-san-jose/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Hotel Transylvania Outdoor Movie Night in San Jose
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T193000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261024-freehoteltransylvaniaout
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-hotel-transylvania-outdoor-movie-
+ night-san-jose/\nVenue: De Anza Park\, 5553 Marquette Drive\, San Jose\, C
+ A 95118. Weather permitting: the\nPrice: Free\nCategories: community\, fre
+ e\nSource: funcheap/san-jose\n\nBring the family to De Anza Park in San Jo
+ se for a free outdoor screening of Hotel Transylvania on Saturday\, Octobe
+ r 24\, 2026. Arrive at 6:30 PM to settle in\; the movie begins at 7:30 PM 
+ Pacific. Hosted by D2Z Design and Blake Hunter Real Estate\, the evening i
+ ncludes free popcorn\, Halloween candy\, coffee\, tea and hot chocolate. B
+ ring dinner\, lawn chairs and blankets\, and register online to reserve yo
+ ur spots. San Jose Movie Nights started with two dads looking for a fun\, 
+ free activity for their kids. Come enjoy a community movie night together.
+  Location: De Anza Park\, 5553 Marquette Drive\, San Jose\, CA 95118. Weat
+ her permitting: the screening will not take place if it is raining. Check 
+ the event page before heading out. Free Hotel Transylvania Outdoor Movie N
+ ight in San Jose Date: 10/24/2026 De Anza Park\, 5553 Marquette Drive\, Sa
+ n Jose\, CA 95118 Cost: FREE – Free. Please register online to reserve s
+ pots\; availability is limited. –
+LOCATION:De Anza Park\, 5553 Marquette Drive\, San Jose\, CA 95118. Weathe
+ r permitting: the
+URL:https://sf.funcheap.com/free-hotel-transylvania-outdoor-movie-night-sa
+ n-jose/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Blue Beetle” Free Outdoor Movie Night: SF Latino Film Festiva
+ l (Spark Social)
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T203000
+DTSTAMP:20261018T200141Z
+UID:funcheap-20261024-bluebeetlefreeoutdoormov
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-s
+ f-latino-film-festival-spark-social/\nLocation: san francisco\nPrice: Free
+ \nCategories: community\, free\nSource: funcheap/san-francisco\n\nFree out
+ door screening of Blue Beetle at SPARK Social SF\, in partnership with Cin
+ e+Mas San Francisco Latino Film Festival! Cine+Más: Blue Beetle Movie Nig
+ ht – A Celebration of Latino Cinema and Community! Join us for a special
+  outdoor movie night presented by SPARK Social SF and Cine+Más San Franci
+ sco Latino Film Festival! We’re bringing Latino cinema\, community\, and
+  a little movie magic under the stars at SPARK Social SF. Grab your friend
+ s and family\, enjoy some delicious food and drinks from the park\, and se
+ ttle in for a FREE screening of Blue Beetle on the SPARK Social SF Field. 
+ 🪲 Feature Film: Blue Beetle Saturday\, October 24 | 6:30 PM SPARK Socia
+ l SF | 601 Mission Bay Blvd North\, San Francisco\, CA 94158 Free Admissio
+ n | Open to all! Arrive early to grab a spot on the field\, lay out your b
+ lanket\, and get ready for an evening of movies\, food\, community\, and f
+ un under the San Francisco sky. Food Trucks Enjoy delicious bites from 15+
+  food trucks serving up a variety of meals and snacks throughout the eveni
+ ng. Grab dinner\, drinks\, and something to enjoy during the film! About C
+ ine+Más SF Cine+Más San Francisco Latino Film Festival contributes to th
+ e Bay Area’s vibrant and diverse a
+LOCATION:san francisco
+URL:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-sf-latino
+ -film-festival-spark-social/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José 
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -157,44 +203,10 @@ URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
  rs-san-jos-city-hall/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:34th Annual Rockridge Halloween Parade w/ 40+ Trick-or-Treat Stops
-  (Oakland)
-DTSTART;TZID=America/Los_Angeles:20261025T110000
-DTEND;TZID=America/Los_Angeles:20261025T120000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261025-34thannualrockridgehallo
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade
- -40-trickortreat-stops-oakland/\nVenue: s along College Avenue\, from Broa
- dway to Alcatraz Avenue. Start at Halloween Hub\nPrice: Free\nCategories: 
- community\, free\nSource: funcheap/south-bay+funcheap/east-bay\n\nCelebrat
- e Halloween at the 34th Annual Rockridge Halloween Parade \, a free\, fami
- ly-friendly tradition featuring trick-or-treating\, crafts\, face painting
- \, costume contests for kids and pups\, and festive activities at more tha
- n 40 participating locations along College Avenue\, from Broadway to Alcat
- raz Avenue. Start at Halloween Hub #1 in the Rockridge Library parking lot
-  (5366 College Ave.) for crafts hosted by the Museum of Children’s Art (
- MOCHA)\, free commemorative trick-or-treat bags while supplies last\, and 
- entertainment featuring the Ricky Roo and Friends puppet show at 11 a.m.\,
-  musician Asheba at noon\, and librarian storytime at 1 p.m. Halloween Hub
-  #2 at College Avenue Presbyterian Church (5951 College Ave.) offers famil
- y crafts\, a photo booth and additional entertainment. Throughout the dist
- rict\, over 40 participating businesses will offer Halloween treats\, acti
- vities and surprises. Come in costume\, bring the kids and four-legged fam
- ily members\, and enjoy a spirited afternoon supporting Rockridge’s loca
- lly owned shops and restaurants. Rockridge Halloween Parade Sunday\, Octob
- er 25\, 2026 | 11a-2p Rockridge District\, 5366 College Ave\, Oakland FREE
-  – All ages Getting there: The e
-LOCATION:s along College Avenue\, from Broadway to Alcatraz Avenue. Start 
- at Halloween Hub
-URL:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade-40-tric
- kortreat-stops-oakland/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -209,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -239,7 +251,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -266,35 +278,10 @@ URL:https://sf.funcheap.com/history-motion-free-grand-opening-celebration-
  san-mateo-county-history-museum/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tasting at The
-  Lodge
-DTSTART;TZID=America/Los_Angeles:20261107T190000
-DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261018T152016Z
-UID:funcheap-20261107-sincereciderxjohnnydough
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-c
- ider-donut-tasting-lodge/\nVenue: in Oakland. Be one of the first to sip t
- he collaboration from two of the Bay Are\nPrice: Free\nCategories: communi
- ty\, free\nSource: funcheap/san-francisco\n\nSincere Cider and Johnny Doug
- hnuts are teaming up on Apple Cider Donut\, a limited-release cider inspir
- ed by the classic fall treat. Made with apple juice\, cinnamon\, and sugar
- \, the cider is naturally gluten-free\, vegan\, and 5.9% ABV. The tasting 
- tour heads to The Lodge on Piedmont Avenue in Oakland. Be one of the first
-  to sip the collaboration from two of the Bay Area’s most beloved local 
- brands. The tour wraps up at the Spark Social Cider Fest in San Francisco 
- on November 7. The cider is only available for a limited time and while su
- pplies last.
-LOCATION:in Oakland. Be one of the first to sip the collaboration from two
-  of the Bay Are
-URL:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-cider-don
- ut-tasting-lodge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -326,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:Free Georgia O’Keeffe Exhibition Walkthrough (Palo Alto)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261018T152016Z
+DTSTAMP:20261018T200141Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
