@@ -5,151 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] 2026 “Peculiarities” Market: Oddities + Free Treats
-  for First 30 People (San Jose)
-DTSTART;TZID=America/Los_Angeles:20261017T180000
-DTEND;TZID=America/Los_Angeles:20261018T140000
-DTSTAMP:20261017T200229Z
-UID:funcheap-20261017-2026peculiaritiesmarketo
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/2026-peculiarities-market-oddities-fre
- e-treats-30-people-san-jose/\nVenue: community comes together to support o
- ne another. linktr.ee/Sjmarket\nPrice: Free\nCategories: community\, free\
- nSource: funcheap/san-jose\n\nSJ.Makers and Rumble City Boxing host a free
- \, family-friendly Halloween market featuring peculiarities\, local art\, 
- tooth gems\, vendors\, treats\, trinkets\, and oddities. The event include
- s a Trunk or Treat Decorating Contest with cash prizes\, candy and freebie
- s\, and costumes are encouraged. The first 30 customers will receive a tre
- at. Original Event Description: _THE PECULIARITIES MARKET IS BACK! SJ.MAKE
- RS × Rumble City Boxing Join us for a spooky\, family friendly Halloween 
- market featuring peculiarities\, local art\, tooth gems\, vendors\, and a 
- Trunk or Treat Decorating Contest with lots of candy and freebies! TRUNK D
- ECORATING CONTEST 1st Place — $250 Cash 2nd Place — $100 Cash 3rd Plac
- e — Spooky Basket Saturday\, October 17\, 2026 2:00–6:00 PM 866 Park A
- ve. San Jose\, CA 95126 Come dressed up\, bring your candy buckets\, suppo
- rt local businesses\, and enjoy a fun Halloween celebration with the commu
- nity! Flyer by : @phantomcollector FREE ADMISSION_ Text extracted from pro
- vided image: SJ.MAKERS Peculiarities MARKET 10.17.26 TREATS · TRINKETS AR
- T · ODDITIES 866 PARK AVE. SJ\,CA *FREE* 2PM-6PM FIRST 30 CUSTOMERS WILL 
- RECEIVE A TREAT! COSTUMES ENCOURAGED! HAUNTS 2026. @sj.makers #SanJoseMake
- rs ✨
-LOCATION:community comes together to support one another. linktr.ee/Sjmark
- et
-URL:https://sf.funcheap.com/2026-peculiarities-market-oddities-free-treats
- -30-people-san-jose/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live] Ghoul\, Dry Socket
-DTSTART:20261018T020000Z
-DTEND:20261018T040000Z
-DTSTAMP:20261017T200229Z
-UID:rZ7HnEZ1A4v7Gd
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketweb.com/event/ghoul-dry-socket-the-ritz-tick
- ets/15044303\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPri
- ce: $31-$521\nGenres: Music\, Metal\, Heavy Metal\, Alternative\, Alternat
- ive Rock\nCategories: concert\nSource: ticketmaster/music
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/ghoul-dry-socket-the-ritz-tickets/1504
- 4303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Bay/Free] One-Night Market Street Arts & Theater Festival: 50+ Ex
- periences (SF)
-DTSTART;TZID=America/Los_Angeles:20261017T190000
-DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261017T200229Z
-UID:funcheap-20261017-onenightmarketstreetarts
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/onenight-market-street-arts-theater-fe
- stival-50-experiences-sf/\nVenue: s\, 6 blocks\, 3 public plazas\, 1 Night
-  Only! Market Street transforms into a walk\nPrice: Free\nCategories: comm
- unity\, free\nSource: funcheap/san-francisco\n\nA one-night-only live arts
-  and theater experience that celebrates the deep history of entertainment 
- culture on Market Street. 104 partners\, 50+ experiences\, 35+ locations\,
-  6 blocks\, 3 public plazas\, 1 Night Only! Market Street transforms into 
- a walkable arts spectacle. Free public performances\, ticketed shows at ic
- onic venues\, and tons of sensational things to see and do. Uniting iconic
-  independent venues\, beloved homegrown artists\, and our landmark theater
- s\, this festival is as bold\, eclectic\, and singular as San Francisco it
- self. The festival kicks off at 4pm in UN Plaza with Dear San Francisco \,
-  BANDALOOP \, and SF’s first ever Drag Laureate\, D’Arcy Drollinger of
-  OASIS. Market Street Arts & Theater Festival Saturday\, October 17\, 2026
-  | 4p – 10p Market Street between 5th & Van Ness\, SF FREE | RSVP Recomm
- ended\; first 500 RSVPs get a $20 voucher for food at participating venues
-  Experiences include: Dear San Francisco \, Circus Bella \, Spectrum Theat
- er and The People’s Circus at the UN Plaza stage BANDALOOP Vertical Danc
- ers DJ Mark Farina with Monarch at The Market ACT’s Young Conservatory C
- abaret Drag Queen Show Tune Sing Along with Curveball at the Orpheum Theat
- re Sunroom Skywatcher
-LOCATION:s\, 6 blocks\, 3 public plazas\, 1 Night Only! Market Street tran
- sforms into a walk
-URL:https://sf.funcheap.com/onenight-market-street-arts-theater-festival-5
- 0-experiences-sf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Bay/Free] FREE Comedy Night: SF’s 1st Ever “Market Street Art
- s & Theater Festival (7p + 9p Shows)
-DTSTART;TZID=America/Los_Angeles:20261017T190000
-DTEND;TZID=America/Los_Angeles:20261017T210000
-DTSTAMP:20261017T200229Z
-UID:funcheap-20261017-freecomedynightsfs1steve
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-comedy-night-sfs-1st-market-stree
- t-arts-theater-festival-7p-9p-shows/\nVenue: ” in the Bay Guardian / 48 
- Hills Best of the Bay 2026 readers’ poll! FREE with R\nPrice: Free\nCate
- gories: community\, free\nSource: funcheap/san-francisco\n\nTop comics hig
- hlight 1-day Market Street Arts & Theater Festival at The Function on Satu
- rday\, October 17\, 2026 Market Street Arts & Theater Festival: Free Comed
- y Night at The Function Celebrate the first-ever Market Street Arts & Thea
- ter Festival with a night of FREE comedy at The Function\, voted “Best C
- omedy Venue” in the Bay Guardian / 48 Hills Best of the Bay 2026 readers
- ’ poll! FREE with RSVP (21+ only) On Saturday\, October 17\, 2026\, Mark
- et Street transforms into a walkable arts spectacle\, bringing together in
- dependent venues\, homegrown artists\, and landmark theaters for one night
-  of performances and discoveries. ——– NEW!!! THE FUNCTION – Winner
- : “Best Comedy Venue” – Bay Guardian / 48 Hills Best of the Bay 2026
- !! ——- Join the celebration at The Function with two stand-up comedy s
- hows featuring rising Bay Area comics and special guests. General admissio
- n is FREE (normally $25)\, or upgrade to VIP for $35. COMEDY SHOWTIMES Sat
- urday\, October 17\, 2026 – 7:00pm & 9:00pm FREE General Admission – n
- ormally $25 $35 VIP Tickets Limited seating available THE COMEDY SHOW Expe
- ct a 70+ minute showcase featuring 4–5 comedians per show in an intimate
-  venue built for live comedy. The Function r
-LOCATION:” in the Bay Guardian / 48 Hills Best of the Bay 2026 readers
- ’ poll! FREE with R
-URL:https://sf.funcheap.com/free-comedy-night-sfs-1st-market-street-arts-t
- heater-festival-7p-9p-shows/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live] RUSH: Fifty Something
-DTSTART:20261018T023000Z
-DTEND:20261018T043000Z
-DTSTAMP:20261017T200229Z
-UID:G5vYZbg9ir1-u
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
- ifornia-10-17-2026/event/1C006355EC78A84D\nVenue: SAP Center at San Jose\n
- Location: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, Rock\, Pop\nH
- ost: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmaster/music\n\
- nSAP Center recommends that fans bring bags that are 5" x 9"x 2" or smalle
- r to expedite their entry. However\, we are happy to accommodate larger ba
- gs up to 20" x 14" x 11" in size! When it comes to the larger bags\, pleas
- e note the following: All bags\, including medical and infant bags\, large
- r than 5" x 9" x 2" are subject to X-Ray inspection and will result in lon
- ger wait times for entry Bags must be able to fit under your seat once ins
- ide the event\; therefore\, bags larger than 20" x 14" x 11" will not be p
- ermitted. SAP Center no longer offers a bag check option and/or onsite sto
- rage lockers.
-LOCATION:525 W Santa Clara\, San Jose\, CA
-URL:https://www.ticketmaster.com/rush-fifty-something-san-jose-california-
- 10-17-2026/event/1C006355EC78A84D
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Lewis OfMan\, Lealani
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:rZ7HnEZ1Af0Sbd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365
@@ -172,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pedro Fernández - Ave Fénix Two'r
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_88Gk5pz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-sa
@@ -184,10 +43,22 @@ URL:https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-san-jose-c
  alifornia-10-17-2026/event/1C0065040C18B5B8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Solidcore x Maxima: Pilates Pop-up
+DTSTART:20261018T170000Z
+DTEND:20261018T180000Z
+DTSTAMP:20261018T025306Z
+UID:evt-9ZOFg6Wix4lKXVg
+CATEGORIES:ai,concert
+DESCRIPTION:https://lu.ma/xfmswy2s\nLocation: Mountain View\, CA\nHost: Ma
+ xima AI\nCategories: ai\, concert\nSource: luma-html/san-francisco
+LOCATION:Mountain View\, CA
+URL:https://lu.ma/xfmswy2s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Role Model Presents: Chuck On Tour
 DTSTART:20261019T023000Z
 DTEND:20261019T043000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -205,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Open Source AI Week 2026 | Open Weight Debate Night
 DTSTART:20261020T000000Z
 DTEND:20261020T040000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:evt-wCUX7vTN0mx9NIh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/592fcwx2\nLocation: San Francisco\, CA\nHost: Op
@@ -217,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] GTM & Marketing Hackathon by Granola x Anthropic
 DTSTART:20261021T003000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:evt-55g8vvkP6gGnHkb
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
@@ -229,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] AI Infra Night @PyTorchCon with dstack\, Crusoe\, and SGLang
 DTSTART:20261021T013000Z
 DTEND:20261021T043000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:evt-NCvIBdsLtFZwQ69
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/6j69xyal\nLocation: San Jose\, CA\nHost: dstack 
@@ -241,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Founders Panel: The Agentic Stack
 DTSTART:20261021T013000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:evt-1jHAzOec1ljMgwO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/laravel-43ty\nLocation: San Francisco\, CA\nHost
@@ -250,10 +121,23 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/laravel-43ty
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Bay Area Frontier Research Club #28 | Cell Biology x AI: From
+  Cancer Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)
+DTSTART:20261022T003000Z
+DTEND:20261022T033000Z
+DTSTAMP:20261018T025306Z
+UID:evt-wVMBaVuSsbEQgJL
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/dj22bayb\nLocation: Stanford\, CA\nHost: the fro
+ ntier syndicate\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Stanford\, CA
+URL:https://lu.ma/dj22bayb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Malcolm Todd: Do That Again Tour
 DTSTART:20261023T030000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_GFWW-6g
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-o
@@ -277,7 +161,7 @@ SUMMARY:[EDM/Free] “Lower Polk Live!” Free Street Festival w/ Art\, DJ
  s\, Live Music (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -311,7 +195,7 @@ SUMMARY:[Bay] “Stranger Things” Laser Show: 80s Hits in the Dome (San
  Jose)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261023-strangerthingslasershow8
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/stranger-laser-show-80s-hits-dome-san-
@@ -342,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Bronco
 DTSTART:20261024T030000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_aDymCGU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/bronco-san-jose-california-10-23-
@@ -354,11 +238,26 @@ URL:https://www.ticketmaster.com/bronco-san-jose-california-10-23-2026/eve
  nt/1C00649EF9B8E336
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Protomartyr\, Accessory
+DTSTART:20261024T030000Z
+DTEND:20261024T050000Z
+DTSTAMP:20261018T025306Z
+UID:rZ7HnEZ1Afa7oV
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz
+ -tickets/14244474\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA
+ \nPrice: $35-$524\nGenres: Music\, Alternative\, Post-Punk\, Rock\, Indie 
+ Rock\nCategories: concert\nSource: ticketmaster/music
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/protomartyr-accessory-the-ritz-tickets
+ /14244474
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa
   Gordon + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -395,7 +294,7 @@ SUMMARY:[Bay/Free] “Lower Polk Live” 2026 Free Music & Art Street Fest
  ival (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261023-lowerpolklive2026freemus
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
@@ -429,7 +328,7 @@ SUMMARY:[Bay] Children’s Halloween Haunt 2026: Hayrides + Trick-or-Treat
  ing (History Park San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261024-childrenshalloweenhaunt2
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayride
@@ -458,11 +357,43 @@ URL:https://sf.funcheap.com/childrens-halloween-haunt-2026-hayrides-tricko
  rtreating-history-park-san-jose/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Alemany Farm Harvest Festival 2026: Free BBQ + Farm Tou
+ rs (SF)
+DTSTART;TZID=America/Los_Angeles:20261024T150000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+DTSTAMP:20261018T025306Z
+UID:funcheap-20261024-alemanyfarmharvestfestiv
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-fre
+ e-bbq-farm-tours-sf/\nLocation: san francisco\nPrice: Free\nCategories: co
+ mmunity\, free\nSource: funcheap/san-francisco\n\nAlemany Farm’s annual 
+ Harvest Festival includes a free community BBQ\, eco activities\, live mus
+ ic\, games\, face painting\, and farm tours. The free family-oriented even
+ t takes place at Alemany Farm in San Francisco. Original Event Description
+ : _sweet friends\, we are having our annual harvest festival celebration o
+ n october 24\, from 11 – 3 pm. this is a free event for all. bring your 
+ family and neighbors and friends and lovers! please come give thanks to th
+ e Earth with us 🌱 we would really love to see u there. more details for
+ thcoming <3 save the date !_ Text extracted from provided image: The Frien
+ ds of Alemany Farm invite you to 2026 Alemany Farm Harvest Festival free c
+ ommunity bbq | eco activities | live music | games face painting | farm to
+ urs | and more! Saturday\, October 24 11 AM – 3 PM 700 Alemany Blvd For 
+ more info\, visit alemanyfarm.org Friends of Alemany Farm BERNAL HEIGHTS N
+ eighborhood Center San Francisco Landscapes Alemany Resident Management Co
+ rporation WORLD CENTRIC FOR A BETTER WORLD SAN FRANCISCO RECREATION & PARK
+ S @alemany_farm Friends of Alemany Farm We grow free produce & sow seeds o
+ f food sovereignty & justice in SE San Francisco\, unceded Ohlone land. Fi
+ scal sponso
+LOCATION:san francisco
+URL:https://sf.funcheap.com/alemany-farm-harvest-festival-2026-free-bbq-fa
+ rm-tours-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Free] Good Samaritan Hospital’s Annual Trunk or Treat Event (Sa
  n Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -479,10 +410,28 @@ URL:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-treat-ev
  ent-san-jose/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Blitzkid\, Them Creatures
+DTSTART:20261025T020000Z
+DTEND:20261025T040000Z
+DTSTAMP:20261018T025306Z
+UID:rZ7HnEZ1Afa8j7
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/blitzkid-them-creatures-the-ri
+ tz-tickets/14250704\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, 
+ CA\nPrice: $28-$521\nGenres: Music\, Alternative\, Alternative Rock\, Rock
+ \, Punk\nCategories: concert\nSource: ticketmaster/music\n\nModern Hel Tou
+ rPre-Show VIP M&G Ticket Includes:- GA Ticket & Early Veune Entry (1 hour 
+ prior to doors)- Early Merch Access- Exclusive Poster- Photo / Signing Opp
+ ortunity- Acoustic Set
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/blitzkid-them-creatures-the-ritz-ticke
+ ts/14250704
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] William Black - 18+ ONLY
 DTSTART:20261025T030000Z
 DTEND:20261025T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_uEGAPVq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/william-black-18-only-oakland-cal
@@ -509,7 +458,7 @@ SUMMARY:[Free] Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San
   José City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -539,11 +488,45 @@ URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
  rs-san-jos-city-hall/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] 34th Annual Rockridge Halloween Parade w/ 40+ Trick-or-
+ Treat Stops (Oakland)
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T120000
+DTSTAMP:20261018T025306Z
+UID:funcheap-20261025-34thannualrockridgehallo
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade
+ -40-trickortreat-stops-oakland/\nVenue: s along College Avenue\, from Broa
+ dway to Alcatraz Avenue. Start at Halloween Hub\nPrice: Free\nCategories: 
+ community\, free\nSource: funcheap/south-bay+funcheap/east-bay\n\nCelebrat
+ e Halloween at the 34th Annual Rockridge Halloween Parade \, a free\, fami
+ ly-friendly tradition featuring trick-or-treating\, crafts\, face painting
+ \, costume contests for kids and pups\, and festive activities at more tha
+ n 40 participating locations along College Avenue\, from Broadway to Alcat
+ raz Avenue. Start at Halloween Hub #1 in the Rockridge Library parking lot
+  (5366 College Ave.) for crafts hosted by the Museum of Children’s Art (
+ MOCHA)\, free commemorative trick-or-treat bags while supplies last\, and 
+ entertainment featuring the Ricky Roo and Friends puppet show at 11 a.m.\,
+  musician Asheba at noon\, and librarian storytime at 1 p.m. Halloween Hub
+  #2 at College Avenue Presbyterian Church (5951 College Ave.) offers famil
+ y crafts\, a photo booth and additional entertainment. Throughout the dist
+ rict\, over 40 participating businesses will offer Halloween treats\, acti
+ vities and surprises. Come in costume\, bring the kids and four-legged fam
+ ily members\, and enjoy a spirited afternoon supporting Rockridge’s loca
+ lly owned shops and restaurants. Rockridge Halloween Parade Sunday\, Octob
+ er 25\, 2026 | 11a-2p Rockridge District\, 5366 College Ave\, Oakland FREE
+  – All ages Getting there: The e
+LOCATION:s along College Avenue\, from Broadway to Alcatraz Avenue. Start 
+ at Halloween Hub
+URL:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade-40-tric
+ kortreat-stops-oakland/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELL
  A EDM DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -574,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -589,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -605,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -620,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -634,7 +617,7 @@ SUMMARY:[Bay] 2026 Halloween Laser Spooktacular in Giant IMAX Dome (San Jo
  se)
 DTSTART;TZID=America/Los_Angeles:20261030T183000
 DTEND;TZID=America/Los_Angeles:20261030T190000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261030-2026halloweenlaserspookt
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/2026-halloween-laser-spooktacular-gian
@@ -666,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -681,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -694,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -709,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -727,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -746,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 30th Arab Film Festival at SF’s AMC Kabuki (Nov. 5-14)
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261105-30tharabfilmfestivalatsf
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/30th-arab-film-festival-sfs-amc-kabuki
@@ -778,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -802,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -826,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -841,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Total Vibez Live
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:Z7r9jZ1A7PKeb
 CATEGORIES:community
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PKeb\nVenue: Lake 
@@ -854,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -873,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -902,7 +885,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -919,7 +902,7 @@ SUMMARY:[Bay/Free] “History in Motion” Free Grand Opening Celebration
  (San Mateo County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -946,10 +929,35 @@ URL:https://sf.funcheap.com/history-motion-free-grand-opening-celebration-
  san-mateo-county-history-museum/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tas
+ ting at The Lodge
+DTSTART;TZID=America/Los_Angeles:20261107T190000
+DTEND;TZID=America/Los_Angeles:20261107T210000
+DTSTAMP:20261018T025306Z
+UID:funcheap-20261107-sincereciderxjohnnydough
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-c
+ ider-donut-tasting-lodge/\nVenue: in Oakland. Be one of the first to sip t
+ he collaboration from two of the Bay Are\nPrice: Free\nCategories: communi
+ ty\, free\nSource: funcheap/san-francisco\n\nSincere Cider and Johnny Doug
+ hnuts are teaming up on Apple Cider Donut\, a limited-release cider inspir
+ ed by the classic fall treat. Made with apple juice\, cinnamon\, and sugar
+ \, the cider is naturally gluten-free\, vegan\, and 5.9% ABV. The tasting 
+ tour heads to The Lodge on Piedmont Avenue in Oakland. Be one of the first
+  to sip the collaboration from two of the Bay Area’s most beloved local 
+ brands. The tour wraps up at the Spark Social Cider Fest in San Francisco 
+ on November 7. The cider is only available for a limited time and while su
+ pplies last.
+LOCATION:in Oakland. Be one of the first to sip the collaboration from two
+  of the Bay Are
+URL:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-cider-don
+ ut-tasting-lodge/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -966,7 +974,7 @@ SUMMARY:[Bay/Free] “Autumn In Willow Glen” 2026: Free Makers Market (S
  an Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -999,7 +1007,7 @@ SUMMARY:[Live] LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage
   Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -1023,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -1038,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -1062,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -1091,7 +1099,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Arc
  hive 65
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -1128,7 +1136,7 @@ SUMMARY:[Bay/Free] Free Georgia O’Keeffe Exhibition Walkthrough (Palo Al
  to)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261017T200229Z
+DTSTAMP:20261018T025306Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
