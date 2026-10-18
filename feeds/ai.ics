@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Solidcore x Maxima: Pilates Pop-up
 DTSTART:20261018T170000Z
 DTEND:20261018T180000Z
-DTSTAMP:20261018T025306Z
+DTSTAMP:20261018T101914Z
 UID:evt-9ZOFg6Wix4lKXVg
 CATEGORIES:ai,concert
 DESCRIPTION:https://lu.ma/xfmswy2s\nLocation: Mountain View\, CA\nHost: Ma
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Open Source AI Week 2026 | Open Weight Debate Night
 DTSTART:20261020T000000Z
 DTEND:20261020T040000Z
-DTSTAMP:20261018T025306Z
+DTSTAMP:20261018T101914Z
 UID:evt-wCUX7vTN0mx9NIh
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/592fcwx2\nLocation: San Francisco\, CA\nHost: Op
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:GTM & Marketing Hackathon by Granola x Anthropic
 DTSTART:20261021T003000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261018T025306Z
+DTSTAMP:20261018T101914Z
 UID:evt-55g8vvkP6gGnHkb
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Night @PyTorchCon with dstack\, Crusoe\, and SGLang
 DTSTART:20261021T013000Z
 DTEND:20261021T043000Z
-DTSTAMP:20261018T025306Z
+DTSTAMP:20261018T101914Z
 UID:evt-NCvIBdsLtFZwQ69
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/6j69xyal\nLocation: San Jose\, CA\nHost: dstack 
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Founders Panel: The Agentic Stack
 DTSTART:20261021T013000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261018T025306Z
+DTSTAMP:20261018T101914Z
 UID:evt-1jHAzOec1ljMgwO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/laravel-43ty\nLocation: San Francisco\, CA\nHost
@@ -65,11 +65,24 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/laravel-43ty
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source AI + Policy Happy Hour
+DTSTART:20261022T003000Z
+DTEND:20261022T040000Z
+DTSTAMP:20261018T101914Z
+UID:evt-Zs6sZfHCr2TkEBD
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/96ykgzil\nLocation: GitHub\, 88 Colin P Kelly Jr
+  St\, San Francisco\, CA 94107\, USA\nHost: GitHub Policy Events\nCategori
+ es: ai\nSource: luma-html/san-francisco
+LOCATION:GitHub\, 88 Colin P Kelly Jr St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/96ykgzil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bay Area Frontier Research Club #28 | Cell Biology x AI: From Canc
  er Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)
 DTSTART:20261022T003000Z
 DTEND:20261022T033000Z
-DTSTAMP:20261018T025306Z
+DTSTAMP:20261018T101914Z
 UID:evt-wVMBaVuSsbEQgJL
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/dj22bayb\nLocation: Stanford\, CA\nHost: the fro
