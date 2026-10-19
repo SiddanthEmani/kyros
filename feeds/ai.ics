@@ -5,167 +5,102 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Efficient Agentic Systems: Fireside Chat + Happy Hour
-DTSTART:20261021T010000Z
-DTEND:20261021T030000Z
-DTSTAMP:20261019T030457Z
-UID:evt-pKOzagJwsdX2CtE
+SUMMARY:Open Source AI Week 2026 | Open Weight Debate Night
+DTSTART:20261020T000000Z
+DTEND:20261020T040000Z
+DTSTAMP:20261019T120000Z
+UID:evt-wCUX7vTN0mx9NIh
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/nebius-5kmf\nLocation: The Pressroom\, 189 W San
- ta Clara St\, San Jose\, CA 95113\, USA\nHost: Nebius Events\nCategories: 
- ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:The Pressroom\, 189 W Santa Clara St\, San Jose\, CA 95113\, USA
-URL:https://lu.ma/nebius-5kmf
+DESCRIPTION:https://lu.ma/592fcwx2\nLocation: San Francisco\, CA\nHost: Op
+ en Source AI Week\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/592fcwx2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI agents to scale your startup
+DTSTART:20261020T013000Z
+DTEND:20261020T040000Z
+DTSTAMP:20261019T120000Z
+UID:evt-gHsIEU1iZwhjrak
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/bdfzpaib\nLocation: San Francisco\, CA\nHost: Fo
+ unders on Tap\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/bdfzpaib
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GTM & Marketing Hackathon by Granola x Anthropic
+DTSTART:20261021T003000Z
+DTEND:20261021T033000Z
+DTSTAMP:20261019T120000Z
+UID:evt-55g8vvkP6gGnHkb
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
+  CA\nHost: Granola\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/granola-gtm-hackathon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Infra Night @PyTorchCon with dstack\, Crusoe\, and SGLang
+DTSTART:20261021T013000Z
+DTEND:20261021T043000Z
+DTSTAMP:20261019T120000Z
+UID:evt-NCvIBdsLtFZwQ69
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/6j69xyal\nLocation: San Jose\, CA\nHost: dstack 
+ San Jose\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Jose\, CA
+URL:https://lu.ma/6j69xyal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founders Panel: The Agentic Stack
+DTSTART:20261021T013000Z
+DTEND:20261021T033000Z
+DTSTAMP:20261019T120000Z
+UID:evt-1jHAzOec1ljMgwO
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/laravel-43ty\nLocation: San Francisco\, CA\nHost
+ : Laravel\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/laravel-43ty
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Source AI + Policy Happy Hour
 DTSTART:20261022T003000Z
 DTEND:20261022T040000Z
-DTSTAMP:20261019T030457Z
+DTSTAMP:20261019T120000Z
 UID:evt-Zs6sZfHCr2TkEBD
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/96ykgzil\nLocation: GitHub\, 88 Colin P Kelly Jr
   St\, San Francisco\, CA 94107\, USA\nHost: GitHub Policy Events\nCategori
- es: ai\nSource: luma-html/san-francisco+luma/san-francisco+luma-html/san-j
- ose+luma/san-jose+luma/virtual
+ es: ai\nSource: luma-html/san-francisco
 LOCATION:GitHub\, 88 Colin P Kelly Jr St\, San Francisco\, CA 94107\, USA
 URL:https://lu.ma/96ykgzil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multimodal Engineering Night - SF Community Meetup
-DTSTART:20261023T003000Z
-DTEND:20261023T040000Z
-DTSTAMP:20261019T030457Z
-UID:evt-KiMW7WynBokGkAN
+SUMMARY:Bay Area Frontier Research Club #28 | Cell Biology x AI: From Canc
+ er Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)
+DTSTART:20261022T003000Z
+DTEND:20261022T033000Z
+DTSTAMP:20261019T120000Z
+UID:evt-wVMBaVuSsbEQgJL
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/a8sc4fa8\nLocation: San Francisco\, CA\nHost: Th
- e AI Collective\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+
- luma/virtual
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/a8sc4fa8
+DESCRIPTION:https://lu.ma/dj22bayb\nLocation: Stanford\, CA\nHost: the fro
+ ntier syndicate\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Stanford\, CA
+URL:https://lu.ma/dj22bayb
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shift.Forward(): Bay Area Agentic AI
-DTSTART:20261023T003000Z
-DTEND:20261023T030000Z
-DTSTAMP:20261019T030457Z
-UID:evt-9iUgTMGrCkw4pg3
+SUMMARY:Durable AI (October Edition)
+DTSTART:20261022T003000Z
+DTEND:20261022T030000Z
+DTSTAMP:20261019T120000Z
+UID:evt-zK5H9iq3UujkOHB
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/jps7v0p8\nLocation: 3600 Cisco Way\, San Jose\, 
- CA 95134\, USA\nHost: Personal\nCategories: ai\nSource: luma/san-francisco
- +luma/san-jose+luma/virtual
-LOCATION:3600 Cisco Way\, San Jose\, CA 95134\, USA
-URL:https://lu.ma/jps7v0p8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agentic Growth: What CMOs Still Own as AI Takes on More of the Gro
- wth Engine
-DTSTART:20261023T003000Z
-DTEND:20261023T020000Z
-DTSTAMP:20261019T030457Z
-UID:evt-oxHprLhYPH3C7HS
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/wq5002df\nLocation: Palo Alto\, CA\nHost: The CM
- O Community\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma
- /virtual
-LOCATION:Palo Alto\, CA
-URL:https://lu.ma/wq5002df
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engineering in the Age of Agentic AI: Transforming Workflows\, Tea
- ms\, and Careers
-DTSTART:20261023T013000Z
-DTEND:20261023T033000Z
-DTSTAMP:20261019T030457Z
-UID:evt-CvddnxnHtK0yB8y
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/frv66u6s\nLocation: MathWorks\, 3975 Freedom Cir
- \, Santa Clara\, CA 95054\, USA\nHost: Personal\nCategories: ai\nSource: l
- uma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:MathWorks\, 3975 Freedom Cir\, Santa Clara\, CA 95054\, USA
-URL:https://lu.ma/frv66u6s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agents After Dark
-DTSTART:20261023T020000Z
-DTEND:20261023T050000Z
-DTSTAMP:20261019T030457Z
-UID:evt-TkuGTnR9FL2UuWF
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/56c0h8k9\nLocation: San Jose\, CA\nHost: Persona
- l\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:San Jose\, CA
-URL:https://lu.ma/56c0h8k9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Managing Human/Agent Collaboration
-DTSTART:20261023T020000Z
-DTEND:20261023T050000Z
-DTSTAMP:20261019T030457Z
-UID:evt-Y3Ao1gzGD5URuWZ
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/k2h2icjd\nLocation: Ding Ding TV\, 3350 Scott Bl
- vd Bldg 54\, Santa Clara\, CA 95054\, USA\nHost: BayLISA Meetings\nCategor
- ies: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:Ding Ding TV\, 3350 Scott Blvd Bldg 54\, Santa Clara\, CA 95054\,
-  USA
-URL:https://lu.ma/k2h2icjd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An Agent Walks into a Bar: Happy Hour + Comedy Show
-DTSTART:20261023T023000Z
-DTEND:20261023T050000Z
-DTSTAMP:20261019T030457Z
-UID:evt-61nHdBwZOaup55H
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/lo690djx\nLocation: San Jose\, CA\nHost: Manufac
- t Events\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vi
- rtual
-LOCATION:San Jose\, CA
-URL:https://lu.ma/lo690djx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulnerability And Patching In The Post-LLM Era
-DTSTART:20261113T010000Z
-DTEND:20261113T040000Z
-DTSTAMP:20261019T030457Z
-UID:evt-WD9bcK0LDVPuGIt
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/l6ftojej\nLocation: Cisco Building 17\, 3650 Cis
- co Way\, San Jose\, CA 95134\, USA\nHost: Women in Cybersecurity - Silicon
-  Valley\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vir
- tual
-LOCATION:Cisco Building 17\, 3650 Cisco Way\, San Jose\, CA 95134\, USA
-URL:https://lu.ma/l6ftojej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 U.S. Taiwan High-Tech Forum: From Silicon to Sovereignty - AI
-  Empowerment in the Age of Agents
-DTSTART:20261114T203000Z
-DTEND:20261115T010000Z
-DTSTAMP:20261019T030457Z
-UID:evt-nFPzJmP0qJSRv8p
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/i2rg3kqy\nLocation: Computer History Museum\, 14
- 01 N Shoreline Blvd\, Mountain View\, CA 94043\, USA\nHost: NATEA Silicon 
- Valley\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
- ual
-LOCATION:Computer History Museum\, 1401 N Shoreline Blvd\, Mountain View\,
-  CA 94043\, USA
-URL:https://lu.ma/i2rg3kqy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Building 101: CodeStarters AI Workshop
-DTSTART:20261114T230000Z
-DTEND:20261115T010000Z
-DTSTAMP:20261019T030457Z
-UID:evt-TDNur3hP69pKuN8
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/tehpbjhy\nLocation: The Biltmore Apartments\, 10
- 159 S Blaney Ave\, Cupertino\, CA 95014\, USA\nHost: CodeStarters\nCategor
- ies: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:The Biltmore Apartments\, 10159 S Blaney Ave\, Cupertino\, CA 950
- 14\, USA
-URL:https://lu.ma/tehpbjhy
+DESCRIPTION:https://lu.ma/durable-ai-october\nLocation: 500 Sansome St\, S
+ an Francisco\, CA 94111\, USA\nHost: Temporal Community\nCategories: ai\nS
+ ource: luma-html/san-francisco
+LOCATION:500 Sansome St\, San Francisco\, CA 94111\, USA
+URL:https://lu.ma/durable-ai-october
 END:VEVENT
 END:VCALENDAR
