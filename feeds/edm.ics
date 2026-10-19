@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Role Model Presents: Chuck On Tour
 DTSTART:20261020T023000Z
 DTEND:20261020T043000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_uk8kyiH
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
@@ -17,9 +17,16 @@ DESCRIPTION:https://www.ticketmaster.com/role-model-presents-chuck-on-tour
  c\, Pop\, Electro Pop\nHost: ANOTHER PLANET\nCategories: edm\nSource: tick
  etmaster/music\n\nAll events are rain or shine. This show is entirely gene
  ral admission. A general admission ticket will allow you access to all are
- as of the Greek Theatre on a first-come\, first-served basis. Originally s
- cheduled for October 18th\, 2026 at 7:30 PM. Previously purchased tickets 
- will be honored for the new date.
+ as of the Greek Theatre on a first-come\, first-served basis. Unfortunatel
+ y\, the Event Organizer has had to cancel your event. You don't need to do
+  a thing. We'll issue a refund to the [original method of payment](https:/
+ /help.ticketmaster.com/hc/en-us/articles/9614074869009) used at time of pu
+ rchase\, as soon as funds are received from the Event Organizer. It should
+  appear on your account within 14-21 days. Please Note: If the tickets wer
+ e transferred to you\, the refund will go to the fan who originally purcha
+ sed the tickets from Ticketmaster. Please see our [Purchase Policy](https:
+ //help.ticketmaster.com/hc/en-us/articles/10465798887953-Purchase-Policy) 
+ for more information.
 LOCATION:2001 Gayley Road\, Berkeley\, CA
 URL:https://www.ticketmaster.com/role-model-presents-chuck-on-tour-berkele
  y-california-10-19-2026/event/1C0064D1901B9B3C
@@ -28,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Malcolm Todd: Do That Again Tour
 DTSTART:20261023T030000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_GFWW-6g
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-o
@@ -52,7 +59,7 @@ SUMMARY:“Lower Polk Live!” Free Street Festival w/ Art\, DJs\, Live Mu
  sic (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -86,7 +93,7 @@ SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -122,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:William Black - 18+ ONLY
 DTSTART:20261025T030000Z
 DTEND:20261025T050000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_uEGAPVq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/william-black-18-only-oakland-cal
@@ -149,7 +156,7 @@ SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -180,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -193,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Shpongle - 10/30
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_6E75qN1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
@@ -217,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -230,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -248,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -267,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -291,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -310,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -325,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -354,7 +361,7 @@ SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
  5
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261019T120000Z
+DTSTAMP:20261019T184109Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
