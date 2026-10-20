@@ -9,7 +9,7 @@ SUMMARY:“Lower Polk Live!” Free Street Festival w/ Art\, DJs\, Live Mu
  sic (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -39,44 +39,11 @@ URL:https://sf.funcheap.com/polk-live-free-street-festival-art-djs-live-mu
  sic-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:“Lower Polk Live” 2026 Free Music & Art Street Festival (SF)
-DTSTART;TZID=America/Los_Angeles:20261023T210000
-DTEND;TZID=America/Los_Angeles:20261023T230000
-DTSTAMP:20261019T184109Z
-UID:funcheap-20261023-lowerpolklive2026freemus
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/polk-live-2026-free-music-art-street-f
- estival-sf/\nVenue: Polk Street (Btwn Bush & Sutter Streets)\, San Francis
- coCost: FreeAll Ages Welcom\nPrice: Free\nCategories: community\, free\nSo
- urce: funcheap/south-bay\n\nThe 2nd Annual Lower Polk Live! is a free outd
- oor street festival on Polk Street in San Francisco\, featuring live music
-  performances by The Top Chefs and DJ JP Breganza\, interactive turntable 
- sessions with Skratchfight\, local artists and makers\, and soul line danc
- ing with Westside Steppaz. The event is family-friendly\, pet-friendly\, a
- nd open to all\, celebrating music\, art\, and community from 4 to 9 PM. O
- riginal Event Description: _Live Music\, Soul Line Dancing\, DJs\, Artists
-  & Makers take over Polk Street\, October 23 from 4–9 PM!Lower Polk Live
- ! returns to Polk Street for a free neighborhood celebration of music\, ar
- t\, and community. Experience an evening of live entertainment\, local art
- \, creative experiences\, and more in the heart of Lower Polk.Featuring pe
- rformances from Top Chefs\, JP Breganza\, and more\, with additional perfo
- rmance announcements coming soon!Experience turntable culture with Skratch
- fight — scratch\, spin\, get on the decks for the first time\, or jump i
- n and jam. Join Westside Steppaz for Soul line dancing and stepping! No ex
- perience needed grab your friends\, hit the dance floor\, and step with us
- !Event DetailsDate: Friday\, October 23\, 2026Time: 4:00 – 9:00 PMLocati
- on:
-LOCATION:Polk Street (Btwn Bush & Sutter Streets)\, San FranciscoCost: Fre
- eAll Ages Welcom
-URL:https://sf.funcheap.com/polk-live-2026-free-music-art-street-festival-
- sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Jisoo : Click” Official SF Merch Pop-Up at Serramonte (Daly C
  ity)
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261025T100000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261024-jisooclickofficialsfmerc
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/jisoo-click-official-sf-merch-popup-se
@@ -102,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Good Samaritan Hospital’s Annual Trunk or Treat Event (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T180000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261024-goodsamaritanhospitalsan
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/good-samaritan-hospitals-annual-trunk-
@@ -122,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Free Hotel Transylvania Outdoor Movie Night in San Jose
 DTSTART;TZID=America/Los_Angeles:20261024T183000
 DTEND;TZID=America/Los_Angeles:20261024T193000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261024-freehoteltransylvaniaout
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-hotel-transylvania-outdoor-movie-
@@ -152,7 +119,7 @@ SUMMARY:“Blue Beetle” Free Outdoor Movie Night: SF Latino Film Festiva
  l (Spark Social)
 DTSTART;TZID=America/Los_Angeles:20261024T183000
 DTEND;TZID=America/Los_Angeles:20261024T203000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261024-bluebeetlefreeoutdoormov
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/blue-beetle-free-outdoor-movie-night-s
@@ -184,7 +151,7 @@ SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José
  City Hall)
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261024-tunnelofterror2026freeha
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
@@ -214,10 +181,42 @@ URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
  rs-san-jos-city-hall/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tenderloin Street Fair “Dia de Muertos” Celebration 2026 + Blo
+ ck Party (SF)
+DTSTART;TZID=America/Los_Angeles:20261101T200000
+DTEND;TZID=America/Los_Angeles:20261101T220000
+DTSTAMP:20261020T031505Z
+UID:funcheap-20261101-tenderloinstreetfairdiad
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/tenderloin-street-fair-dia-de-muertos-
+ celebration-2026-block-party-sf/\nLocation: san francisco\nPrice: Free\nCa
+ tegories: community\, free\nSource: funcheap/san-francisco\n\nA free Día 
+ de Muertos street fair bringing tradition and block party energy to the he
+ art of San Francisco’s Tenderloin. Día de Muertos comes to the Tenderlo
+ in Street Fair! Join us Sunday\, November 1 from 2–8 PM for a street fai
+ r takeover in the heart of the Tenderloin\, bringing together the traditio
+ ns of Día de Muertos with a family-friendly block party for everyone. A f
+ ull day of live FREE Latin music in the streets\, from música mexicana an
+ d mariachi to cumbia\, salsa\, Latin rock and more: Agua Pura brings the s
+ alsa\, Combo Tezeta gets psychedelic with Peruvian cumbia\, chicha and mú
+ sica tropical\, and Soucano serves up Latin rock and soul—plus música m
+ exicana from Rica Montes\, Banda La Tóxica\, Mariachi Tradición Mexicana
+  and Trio Sol de México. Main Stage 2:00–3:00 PM — Soucano 3:30–4:3
+ 0 PM — Agua Pura 5:30–6:30 PM — Combo Tezeta 7:00–8:00 PM — Band
+ a La Toxica Lucha Libre Stage 2:15–3:15 PM — Farsante 3:45–4:45 PM 
+ — El Rica Montes In between luchas — Sonido Killer Rooted in the tradi
+ tions of San Francisco’s diverse Latino communities\, the celebration in
+ vites everyone to honor the holiday with ofrendas\, enjoy delicious food\,
+  and celebrate life through music\, dance\, community\, and frie
+LOCATION:san francisco
+URL:https://sf.funcheap.com/tenderloin-street-fair-dia-de-muertos-celebrat
+ ion-2026-block-party-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -232,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -262,7 +261,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -292,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -324,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Free Georgia O’Keeffe Exhibition Walkthrough (Palo Alto)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261019T184109Z
+DTSTAMP:20261020T031505Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
