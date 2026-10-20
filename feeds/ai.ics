@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:GTM & Marketing Hackathon by Granola x Anthropic
 DTSTART:20261021T003000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-55g8vvkP6gGnHkb
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infra Night @PyTorchCon with dstack\, Crusoe\, and SGLang
 DTSTART:20261021T013000Z
 DTEND:20261021T043000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-NCvIBdsLtFZwQ69
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/6j69xyal\nLocation: San Jose\, CA\nHost: dstack 
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Founders Panel: The Agentic Stack
 DTSTART:20261021T013000Z
 DTEND:20261021T033000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-1jHAzOec1ljMgwO
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/laravel-43ty\nLocation: San Francisco\, CA\nHost
@@ -45,7 +45,7 @@ SUMMARY:Bay Area Frontier Research Club #28 | Cell Biology x AI: From Canc
  er Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)
 DTSTART:20261022T003000Z
 DTEND:20261022T033000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-wVMBaVuSsbEQgJL
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/dj22bayb\nLocation: Stanford\, CA\nHost: the fro
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Durable AI (October Edition)
 DTSTART:20261022T003000Z
 DTEND:20261022T030000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-zK5H9iq3UujkOHB
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/durable-ai-october\nLocation: 500 Sansome St\, S
@@ -71,7 +71,7 @@ SUMMARY:Ancient Prompts-A technologist\, a philosopher\, and a theologian
  on being human in the age of AI
 DTSTART:20261022T020000Z
 DTEND:20261022T040000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-kYSVWGKevY4cs1T
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/i1ynqohz\nLocation: Fox Theatre\, 2215 Broadway\
@@ -85,7 +85,7 @@ SUMMARY:The Next Frontier in AI x Bio: Panel Discussion and Selected Start
  up Pitches
 DTSTART:20261023T000000Z
 DTEND:20261023T030000Z
-DTSTAMP:20261020T105409Z
+DTSTAMP:20261020T161841Z
 UID:evt-YEfJqnmlv91WHY4
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/o28sg2pn\nLocation: AWS Builder Loft\, First Mar
