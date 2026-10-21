@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Durable AI (October Edition)
 DTSTART:20261022T003000Z
 DTEND:20261022T030000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:evt-zK5H9iq3UujkOHB
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/durable-ai-october\nLocation: 500 Sansome St\, S
@@ -22,7 +22,7 @@ SUMMARY:Ancient Prompts-A technologist\, a philosopher\, and a theologian
  on being human in the age of AI
 DTSTART:20261022T020000Z
 DTEND:20261022T040000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:evt-kYSVWGKevY4cs1T
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/i1ynqohz\nLocation: Fox Theatre\, 2215 Broadway\
@@ -30,5 +30,33 @@ DESCRIPTION:https://lu.ma/i1ynqohz\nLocation: Fox Theatre\, 2215 Broadway\
  Tech\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:Fox Theatre\, 2215 Broadway\, Redwood City\, CA 94063\, USA
 URL:https://lu.ma/i1ynqohz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Next Frontier in AI x Bio: Panel Discussion and Selected Start
+ up Pitches
+DTSTART:20261023T000000Z
+DTEND:20261023T030000Z
+DTSTAMP:20261021T110526Z
+UID:evt-YEfJqnmlv91WHY4
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/o28sg2pn\nLocation: AWS Builder Loft\, First Mar
+ ket Tower\, 525 Market St Entrance\, San Francisco\, CA 94105\, USA\nHost:
+  Personal\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:AWS Builder Loft\, First Market Tower\, 525 Market St Entrance\, 
+ San Francisco\, CA 94105\, USA
+URL:https://lu.ma/o28sg2pn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIVE MUSIC: Folk Songs for the AI Age with Jamie Simon and Eric Mi
+ chaud
+DTSTART:20261023T010000Z
+DTEND:20261023T043000Z
+DTSTAMP:20261021T110526Z
+UID:evt-j3Y4WjHy5r4NZZh
+CATEGORIES:ai,concert
+DESCRIPTION:https://lu.ma/n6j7vvod\nLocation: San Francisco\, CA\nHost: Im
+ bue Events\nCategories: ai\, concert\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/n6j7vvod
 END:VEVENT
 END:VCALENDAR

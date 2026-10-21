@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Malcolm Todd: Do That Again Tour
 DTSTART:20261023T030000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_GFWW-6g
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-o
@@ -32,7 +32,7 @@ SUMMARY:“Lower Polk Live!” Free Street Festival w/ Art\, DJs\, Live Mu
  sic (SF)
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T210000
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:funcheap-20261023-lowerpolklivefreestreetf
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/polk-live-free-street-festival-art-djs
@@ -66,7 +66,7 @@ SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
  n + DJ Kikkoman
 DTSTART:20261024T040000Z
 DTEND:20261024T060000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:rZ7HnEZ1Afaa4f
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-lyrics-bor
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:William Black - 18+ ONLY
 DTSTART:20261025T030000Z
 DTEND:20261025T050000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_uEGAPVq
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/william-black-18-only-oakland-cal
@@ -129,7 +129,7 @@ SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM
  DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -170,50 +170,10 @@ LOCATION:1015 Folsom Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shpongle - 10/30
-DTSTART:20261031T030000Z
-DTEND:20261031T050000Z
-DTSTAMP:20261021T030920Z
-UID:G5vYZ_6E75qN1
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
- 10-30-2026/event/1C006479C42DD8CA\nVenue: Fox Theater - Oakland\nLocation:
-  1807 Telegraph Ave\, Oakland\, CA\nGenres: Music\, Dance/Electronic\, Ama
- piano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmaster/music\n
- \nShpongle w/ Mindex Cosmic Trigger Visuals by Jonathan Singer & Glass Cra
- ne. Live Floral Art by Anthony Ward. Tickets to the Telegraph Room are now
-  available at check out. The Telegraph Room includes: * Access to preferre
- d viewing section on the Orchestra level with cocktail service (for genera
- l admission shows only) * Separate entrance to the venue * Access to the T
- elegraph Room before\, during and after the show * Dedicated restrooms * P
- remier bar serving exclusive beers\, liquors and specialty cocktails * Com
- plimentary hors d'oeuvres * Complimentary coat check Please note - the Fox
-  Theater is a cashless venue.
-LOCATION:1807 Telegraph Ave\, Oakland\, CA
-URL:https://www.ticketmaster.com/shpongle-1030-oakland-california-10-30-20
- 26/event/1C006479C42DD8CA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parra for Cuva
-DTSTART:20261031T040000Z
-DTEND:20261031T060000Z
-DTSTAMP:20261021T030920Z
-UID:G5vYZ_F2jtp2r
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/parra-for-cuva-san-francisco-cali
- fornia-10-30-2026/event/1C006483DCA563DE\nVenue: August Hall\nLocation: 42
- 0 Mason St\, San Francisco\, CA\nGenres: Music\, Dance/Electronic\, Amapia
- no\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/music\n
- \nAge Restriction: 21 and Over
-LOCATION:420 Mason St\, San Francisco\, CA
-URL:https://www.ticketmaster.com/parra-for-cuva-san-francisco-california-1
- 0-30-2026/event/1C006483DCA563DE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -226,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -244,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -263,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -287,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -306,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -321,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -350,7 +310,7 @@ SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
  5
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261021T030920Z
+DTSTAMP:20261021T110526Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -381,5 +341,35 @@ DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
 LOCATION:1535 Commercial Way\, Santa Cruz\, CA
 URL:https://www.ticketweb.com/event/moes-alley-presents-jon-spencer-moes-a
  lley-tickets/14914413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KATSEYE: THE WILDWORLD TOUR
+DTSTART:20261120T040000Z
+DTEND:20261120T060000Z
+DTSTAMP:20261021T110526Z
+UID:G5vYZ_1m-eW1q
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
+ d-california-11-19-2026/event/1C0064ABA10BD29D\nVenue: Oakland Arena\nLoca
+ tion: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Pop\, Electro Pop\
+ nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/music\n\n-
+  No refunds\, no exchanges
+LOCATION:7000 Coliseum Way\, Oakland\, CA
+URL:https://www.ticketmaster.com/katseye-the-wildworld-tour-oakland-califo
+ rnia-11-19-2026/event/1C0064ABA10BD29D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Stingray - Ages 21+
+DTSTART:20261120T050000Z
+DTEND:20261120T070000Z
+DTSTAMP:20261021T110526Z
+UID:Z7r9jZ1AA7oPg
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
+ Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
+  Dance/Electronic\, Tech-House\nCategories: edm\nSource: ticketmaster/musi
+ c
+LOCATION:1015 Folsom Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg
 END:VEVENT
 END:VCALENDAR
