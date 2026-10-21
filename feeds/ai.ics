@@ -5,46 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:GTM & Marketing Hackathon by Granola x Anthropic
-DTSTART:20261021T003000Z
-DTEND:20261021T033000Z
-DTSTAMP:20261020T211209Z
-UID:evt-55g8vvkP6gGnHkb
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/granola-gtm-hackathon\nLocation: San Francisco\,
-  CA\nHost: Granola\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/granola-gtm-hackathon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI Infra Night @PyTorchCon with dstack\, Crusoe\, and SGLang
-DTSTART:20261021T013000Z
-DTEND:20261021T043000Z
-DTSTAMP:20261020T211209Z
-UID:evt-NCvIBdsLtFZwQ69
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/6j69xyal\nLocation: San Jose\, CA\nHost: dstack 
- San Jose\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Jose\, CA
-URL:https://lu.ma/6j69xyal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Founders Panel: The Agentic Stack
-DTSTART:20261021T013000Z
-DTEND:20261021T033000Z
-DTSTAMP:20261020T211209Z
-UID:evt-1jHAzOec1ljMgwO
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/laravel-43ty\nLocation: San Francisco\, CA\nHost
- : Laravel\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/laravel-43ty
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Durable AI (October Edition)
 DTSTART:20261022T003000Z
 DTEND:20261022T030000Z
-DTSTAMP:20261020T211209Z
+DTSTAMP:20261021T030920Z
 UID:evt-zK5H9iq3UujkOHB
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/durable-ai-october\nLocation: 500 Sansome St\, S
@@ -52,5 +16,19 @@ DESCRIPTION:https://lu.ma/durable-ai-october\nLocation: 500 Sansome St\, S
  ource: luma-html/san-francisco
 LOCATION:500 Sansome St\, San Francisco\, CA 94111\, USA
 URL:https://lu.ma/durable-ai-october
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ancient Prompts-A technologist\, a philosopher\, and a theologian 
+ on being human in the age of AI
+DTSTART:20261022T020000Z
+DTEND:20261022T040000Z
+DTSTAMP:20261021T030920Z
+UID:evt-kYSVWGKevY4cs1T
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/i1ynqohz\nLocation: Fox Theatre\, 2215 Broadway\
+ , Redwood City\, CA 94063\, USA\nHost: Bay Area Center for Faith\, Work & 
+ Tech\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Fox Theatre\, 2215 Broadway\, Redwood City\, CA 94063\, USA
+URL:https://lu.ma/i1ynqohz
 END:VEVENT
 END:VCALENDAR
