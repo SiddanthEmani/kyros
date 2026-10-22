@@ -9,7 +9,7 @@ SUMMARY:The Next Frontier in AI x Bio: Panel Discussion and Selected Start
  up Pitches
 DTSTART:20261023T000000Z
 DTEND:20261023T030000Z
-DTSTAMP:20261022T163343Z
+DTSTAMP:20261022T210919Z
 UID:evt-YEfJqnmlv91WHY4
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/o28sg2pn\nLocation: AWS Builder Loft\, First Mar
@@ -20,11 +20,37 @@ LOCATION:AWS Builder Loft\, First Market Tower\, 525 Market St Entrance\,
 URL:https://lu.ma/o28sg2pn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lovart x OpenAI | Founder Design Workshop
+DTSTART:20261023T003000Z
+DTEND:20261023T030000Z
+DTSTAMP:20261022T210919Z
+UID:evt-wWVjMohI90OKi3n
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/46gxclsq\nLocation: San Francisco\, CA\nHost: Lo
+ vart\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/46gxclsq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European AI Founders Night x YC Alumni
+DTSTART:20261023T010000Z
+DTEND:20261023T030000Z
+DTSTAMP:20261022T210919Z
+UID:evt-ioAKArJTJugKMag
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/19wgs308\nLocation: Frontier Tower 🧑‍🚀\,
+  995 Market St\, San Francisco\, CA 94103\, USA\nHost: Pioneers\nCategorie
+ s: ai\nSource: luma-html/san-francisco
+LOCATION:Frontier Tower 🧑‍🚀\, 995 Market St\, San Francisco\, CA 9
+ 4103\, USA
+URL:https://lu.ma/19wgs308
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIVE MUSIC: Folk Songs for the AI Age with Jamie Simon and Eric Mi
  chaud
 DTSTART:20261023T010000Z
 DTEND:20261023T043000Z
-DTSTAMP:20261022T163343Z
+DTSTAMP:20261022T210919Z
 UID:evt-j3Y4WjHy5r4NZZh
 CATEGORIES:ai,concert
 DESCRIPTION:https://lu.ma/n6j7vvod\nLocation: San Francisco\, CA\nHost: Im
@@ -36,25 +62,12 @@ BEGIN:VEVENT
 SUMMARY:An Agent Walks into a Bar: Happy Hour + Comedy Show
 DTSTART:20261023T023000Z
 DTEND:20261023T050000Z
-DTSTAMP:20261022T163343Z
+DTSTAMP:20261022T210919Z
 UID:evt-61nHdBwZOaup55H
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/lo690djx\nLocation: San Jose\, CA\nHost: Manufac
  t Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Jose\, CA
 URL:https://lu.ma/lo690djx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are We Running Too Many Agents?
-DTSTART:20261027T010000Z
-DTEND:20261027T040000Z
-DTSTAMP:20261022T163343Z
-UID:evt-KJ6nUmIHekr3Hzn
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/0qr6bxcw\nLocation: Sentry\, 45 Fremont St\, San
-  Francisco\, CA 94105\, USA\nHost: exe.dev\nCategories: ai\nSource: luma-h
- tml/san-francisco
-LOCATION:Sentry\, 45 Fremont St\, San Francisco\, CA 94105\, USA
-URL:https://lu.ma/0qr6bxcw
 END:VEVENT
 END:VCALENDAR
