@@ -5,11 +5,26 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+SUMMARY:[AI] Dell x NVIDIA AI Hackathon\, San Francisco
+DTSTART:20261025T160000Z
+DTEND:20261026T033000Z
+DTSTAMP:20261025T152928Z
+UID:evt-EPctbaOL4vaLwLI
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/builde-ixyz\nLocation: Frontier Tower 🧑‍
+ 🚀\, 995 Market St\, San Francisco\, CA 94103\, USA\nHost: Builderbase H
+ ackathons\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/v
+ irtual
+LOCATION:Frontier Tower 🧑‍🚀\, 995 Market St\, San Francisco\, CA 9
+ 4103\, USA
+URL:https://lu.ma/builde-ixyz
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay/Free] 34th Annual Rockridge Halloween Parade w/ 40+ Trick-or-
  Treat Stops (Oakland)
 DTSTART;TZID=America/Los_Angeles:20261025T110000
 DTEND;TZID=America/Los_Angeles:20261025T120000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261025-34thannualrockridgehallo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade
@@ -43,7 +58,7 @@ SUMMARY:[EDM] Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELL
  A EDM DJ
 DTSTART:20261026T020000Z
 DTEND:20261026T040000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_fGZpeRN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
@@ -75,7 +90,7 @@ SUMMARY:[Bay/Free] Final Day of SF’s Cute Little “Sunset Trading Post
  ” Trinket Exchange (Outer Sunset)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261025-finaldayofsfscutelittles
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/final-day-sfs-cute-sunset-trading-post
@@ -105,88 +120,10 @@ URL:https://sf.funcheap.com/final-day-sfs-cute-sunset-trading-post-trinket
  -exchange-outer-sunset/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AI] Are We Running Too Many Agents?
-DTSTART:20261027T010000Z
-DTEND:20261027T040000Z
-DTSTAMP:20261025T103856Z
-UID:evt-KJ6nUmIHekr3Hzn
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/0qr6bxcw\nLocation: Sentry\, 45 Fremont St\, San
-  Francisco\, CA 94105\, USA\nHost: exe.dev\nCategories: ai\nSource: luma-h
- tml/san-francisco
-LOCATION:Sentry\, 45 Fremont St\, San Francisco\, CA 94105\, USA
-URL:https://lu.ma/0qr6bxcw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Running Production with Agents w/ Rootly AI\, NVIDIA\, Replit
- \, & WorkOS
-DTSTART:20261028T003000Z
-DTEND:20261028T033000Z
-DTSTAMP:20261025T103856Z
-UID:evt-eJNSOr6AVmxWVuD
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/r8sy88tq\nLocation: San Francisco\, CA\nHost: Ro
- otly\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/r8sy88tq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] 🏓 Ping Pong Night // Inference × Depot
-DTSTART:20261028T003000Z
-DTEND:20261028T033000Z
-DTSTAMP:20261025T103856Z
-UID:evt-Xeh6PB8sNxN1TWC
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/cygp5fj9\nLocation: SPIN San Francisco\, 690 Fol
- som St #100\, San Francisco\, CA 94107\, USA\nHost: Inference.net\nCategor
- ies: ai\nSource: luma-html/san-francisco
-LOCATION:SPIN San Francisco\, 690 Folsom St #100\, San Francisco\, CA 9410
- 7\, USA
-URL:https://lu.ma/cygp5fj9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Who Controls the Future of AI Coding?
-DTSTART:20261028T003000Z
-DTEND:20261028T033000Z
-DTSTAMP:20261025T103856Z
-UID:evt-TAjWBGHDrZT7ugr
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/dtzhn1ux\nLocation: San Francisco\, CA\nHost: Op
- enRouter Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/dtzhn1ux
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Catie Cuan // Physical AI: Giving AI a Robot Body
-DTSTART:20261028T003000Z
-DTEND:20261028T013000Z
-DTSTAMP:20261025T103856Z
-UID:evt-agDkwvsreAfgX30
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/hsmpoyxa\nLocation: Jacobs Institute for Design 
- Innovation\, 2530 Ridge Rd\, Berkeley\, CA 94709\, USA\nHost: Design Field
-  Notes\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Jacobs Institute for Design Innovation\, 2530 Ridge Rd\, Berkeley
- \, CA 94709\, USA
-URL:https://lu.ma/hsmpoyxa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Women in AI | Factory x Sapienne x Sequoia
-DTSTART:20261028T020000Z
-DTEND:20261028T040000Z
-DTSTAMP:20261025T103856Z
-UID:evt-W00JDgYIpafTfuv
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/factoryai-sdkw\nLocation: San Francisco\, CA\nHo
- st: Factory Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/factoryai-sdkw
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -198,10 +135,39 @@ URL:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-california
  -10-27-2026/event/1C006444A680BAFA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay] 산호세 한국문화 축제(San Jose Korean Culture Festiv
+ al)
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+DTSTAMP:20261025T152928Z
+UID:evt-U4qnmOUhr12iQ2k
+CATEGORIES:community
+DESCRIPTION:https://lu.ma/8xitzaf9\nLocation: Rotunda at San Jose City Hal
+ l\, San Jose City Hall\, 200 E Santa Clara St\, San Jose\, CA 95112\, USA\
+ nHost: Personal\nCategories: community\nSource: luma/san-francisco+luma/sa
+ n-jose+luma/virtual
+LOCATION:Rotunda at San Jose City Hall\, San Jose City Hall\, 200 E Santa 
+ Clara St\, San Jose\, CA 95112\, USA
+URL:https://lu.ma/8xitzaf9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Wiki3: Own Your Own AI Workshop
+DTSTART:20261029T010000Z
+DTEND:20261029T033000Z
+DTSTAMP:20261025T152928Z
+UID:evt-gsqh8T17Lp3uRyc
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/Wiki3-20261028\nLocation: 3200 Patrick Henry Dr 
+ suite 260\, Santa Clara\, CA 95054\, USA\nHost: Personal\nCategories: ai\n
+ Source: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:3200 Patrick Henry Dr suite 260\, Santa Clara\, CA 95054\, USA
+URL:https://lu.ma/Wiki3-20261028
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -214,10 +180,39 @@ URL:https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-mount
  ain-view-california-10-28-2026/event/1C006495CF2CA18F
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay] Tech Leaders Fine Dining Series: Private Tent at the Winches
+ ter Mystery House in San Jose w/VIP Festival Fright Night tickets
+DTSTART:20261030T013000Z
+DTEND:20261030T043000Z
+DTSTAMP:20261025T152928Z
+UID:evt-Cwf1mzNQCpGUYdK
+CATEGORIES:community
+DESCRIPTION:https://lu.ma/ksppthsd\nLocation: Winchester Mystery House\, 5
+ 25 S Winchester Blvd\, San Jose\, CA 95128\, USA\nHost: Dining Series\nCat
+ egories: community\nSource: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:Winchester Mystery House\, 525 S Winchester Blvd\, San Jose\, CA 
+ 95128\, USA
+URL:https://lu.ma/ksppthsd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Inference as Instrument
+DTSTART:20261030T020000Z
+DTEND:20261030T040000Z
+DTSTAMP:20261025T152928Z
+UID:evt-JimxES29JgapnM3
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/modal-48ev\nLocation: Gray Area / Grand Theater\
+ , 2665 Mission St\, San Francisco\, CA 94110\, USA\nHost: Modal\nCategorie
+ s: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:Gray Area / Grand Theater\, 2665 Mission St\, San Francisco\, CA 
+ 94110\, USA
+URL:https://lu.ma/modal-48ev
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -232,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -242,11 +237,25 @@ LOCATION:1015 Folsom Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Personal Agent Era: Eval & Training of the Best Personal Agen
+ t
+DTSTART:20261031T010000Z
+DTEND:20261031T043000Z
+DTSTAMP:20261025T152928Z
+UID:evt-C4QOgpCyK0ZORfU
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/vn4ectbt\nLocation: Mountain View\, CA\nHost: Pe
+ rsonal\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
+ ual
+LOCATION:Mountain View\, CA
+URL:https://lu.ma/vn4ectbt
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay] 2026 Halloween Laser Spooktacular in Giant IMAX Dome (San Jo
  se)
 DTSTART;TZID=America/Los_Angeles:20261030T183000
 DTEND;TZID=America/Los_Angeles:20261030T190000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261030-2026halloweenlaserspookt
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/2026-halloween-laser-spooktacular-gian
@@ -278,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Shpongle - 10/30
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_6E75qN1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
@@ -302,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -318,7 +327,7 @@ SUMMARY:[Bay/Free] “Cute Ridge” Halloween Market: Free Candy + Y2K Fin
  ds (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261031-cuteridgehalloweenmarket
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-
@@ -350,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -363,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -378,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -393,10 +402,37 @@ URL:https://www.ticketweb.com/event/halloween-costume-party-the-ritz-ticke
  ts/14329714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] AI & the Next Generation: Opportunities\, Risks\, and What’
+ s Ahead (w/ The AI Collective)
+DTSTART:20261105T020000Z
+DTEND:20261105T043000Z
+DTSTAMP:20261025T152928Z
+UID:evt-b1tA7EY7ed948IF
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/aic-tr-11-4\nLocation: Dublin\, CA\nHost: The AI
+  Collective\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma
+ /virtual
+LOCATION:Dublin\, CA
+URL:https://lu.ma/aic-tr-11-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Fonzi's Devs & Drinks
+DTSTART:20261105T020000Z
+DTEND:20261105T033000Z
+DTSTAMP:20261025T152928Z
+UID:evt-5Bx2WQS3oPC9hhT
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/ai-5oum\nLocation: San Francisco\, CA\nHost: AI 
+ Engineers - SF\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+l
+ uma/virtual
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/ai-5oum
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -415,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 30th Arab Film Festival at SF’s AMC Kabuki (Nov. 5-14)
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261105-30tharabfilmfestivalatsf
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/30th-arab-film-festival-sfs-amc-kabuki
@@ -447,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -471,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -495,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -507,23 +543,10 @@ URL:https://www.ticketweb.com/event/triptides-the-crepe-place-tickets/1429
  8934
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay] Total Vibez Live
-DTSTART:20261107T220000Z
-DTEND:20261108T000000Z
-DTSTAMP:20261025T103856Z
-UID:Z7r9jZ1A7PKeb
-CATEGORIES:community
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PKeb\nVenue: Lake 
- Cunningham Regional Park\nLocation: 2305 S White Rd\, San Jose\, CA\nCateg
- ories: community\nSource: ticketmaster/music
-LOCATION:2305 S White Rd\, San Jose\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7PKeb
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -542,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -571,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -588,7 +611,7 @@ SUMMARY:[Bay/Free] “History in Motion” Free Grand Opening Celebration
  (San Mateo County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -618,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -635,7 +658,7 @@ SUMMARY:[Bay/Free] “Autumn In Willow Glen” 2026: Free Makers Market (S
  an Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -668,7 +691,7 @@ SUMMARY:[Bay/Free] National STEM Day at The Tech Interactive: Free Admissi
  on (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -702,7 +725,7 @@ SUMMARY:[Live] LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage
   Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -727,7 +750,7 @@ SUMMARY:[Free] Free “Diwali on the Square” Celebration at St. Marks (S
  F)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -755,10 +778,24 @@ LOCATION:south bay
 URL:https://sf.funcheap.com/free-diwali-square-celebration-st-marks-sf/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] [SV] AWS Partner Showcase Extended with Anthropic\, Caylent
+ \, Temporal\, LaunchPad
+DTSTART:20261111T003000Z
+DTEND:20261111T043000Z
+DTSTAMP:20261025T152928Z
+UID:evt-IacSWqqv47sZqFO
+CATEGORIES:ai,concert
+DESCRIPTION:https://lu.ma/xv6954nd\nLocation: Sunnyvale\, CA\nHost: AICamp
+ \nCategories: ai\, concert\nSource: luma/san-francisco+luma/san-jose+luma/
+ virtual
+LOCATION:Sunnyvale\, CA
+URL:https://lu.ma/xv6954nd
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -770,11 +807,24 @@ URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
  alifornia-11-10-2026/event/1C00648ABCA0F080
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] STATION F x GitHub | AI Founder Demo Night
+DTSTART:20261112T010000Z
+DTEND:20261112T050000Z
+DTSTAMP:20261025T152928Z
+UID:evt-rTqRR7AXPuGHxfg
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/hn7n83qv\nLocation: San Francisco\, CA\nHost: Gi
+ tHub for Startups\nCategories: ai\nSource: luma/san-francisco+luma/san-jos
+ e+luma/virtual
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/hn7n83qv
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Free] Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (
  2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -804,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -825,11 +875,25 @@ URL:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-2024-san-j
  ose-california-11-11-2026/event/1C00608C99BC35CC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Vulnerability And Patching In The Post-LLM Era
+DTSTART:20261113T010000Z
+DTEND:20261113T040000Z
+DTSTAMP:20261025T152928Z
+UID:evt-WD9bcK0LDVPuGIt
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/l6ftojej\nLocation: Cisco Building 17\, 3650 Cis
+ co Way\, San Jose\, CA 95134\, USA\nHost: Women in Cybersecurity - Silicon
+  Valley\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vir
+ tual
+LOCATION:Cisco Building 17\, 3650 Cisco Way\, San Jose\, CA 95134\, USA
+URL:https://lu.ma/l6ftojej
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay/Free] Free Halloween Horror Screening: “Ththng” at Live W
  orms (SF)
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261113-freehalloweenhorrorscree
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-halloween-horror-screening-ththng
@@ -853,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Alameda Artworks Open Studios (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T170000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261114-alamedaartworksopenstudi
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/alameda-artworks-open-studios-nov-1415
@@ -879,10 +943,40 @@ LOCATION:Alameda Artworks\, 1068 The Alameda\, San Jose\, CA 95126 (near d
 URL:https://sf.funcheap.com/alameda-artworks-open-studios-nov-1415/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] 2026 U.S. Taiwan High-Tech Forum: From Silicon to Sovereignty
+  - AI Empowerment in the Age of Agents
+DTSTART:20261114T203000Z
+DTEND:20261115T010000Z
+DTSTAMP:20261025T152928Z
+UID:evt-nFPzJmP0qJSRv8p
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/i2rg3kqy\nLocation: Computer History Museum\, 14
+ 01 N Shoreline Blvd\, Mountain View\, CA 94043\, USA\nHost: NATEA Silicon 
+ Valley\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
+ ual
+LOCATION:Computer History Museum\, 1401 N Shoreline Blvd\, Mountain View\,
+  CA 94043\, USA
+URL:https://lu.ma/i2rg3kqy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] Building 101: CodeStarters AI Workshop
+DTSTART:20261114T230000Z
+DTEND:20261115T010000Z
+DTSTAMP:20261025T152928Z
+UID:evt-TDNur3hP69pKuN8
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/tehpbjhy\nLocation: The Biltmore Apartments\, 10
+ 159 S Blaney Ave\, Cupertino\, CA 95014\, USA\nHost: CodeStarters\nCategor
+ ies: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:The Biltmore Apartments\, 10159 S Blaney Ave\, Cupertino\, CA 950
+ 14\, USA
+URL:https://lu.ma/tehpbjhy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -911,7 +1005,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Arc
  hive 65
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -948,7 +1042,7 @@ SUMMARY:[Bay/Free] Free Georgia O’Keeffe Exhibition Walkthrough (Palo Al
  to)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
@@ -978,10 +1072,23 @@ URL:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkthrough-pa
  lo-alto/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI] Ultra-Fast Inference & Open-Weight Models
+DTSTART:20261119T020000Z
+DTEND:20261119T040000Z
+DTSTAMP:20261025T152928Z
+UID:evt-yCwcTVtLDr9LGP6
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/cch7p7pw\nLocation: FriendliAI\, 20 Hawthorne St
+ \, San Francisco\, CA 94105\, USA\nHost: FriendliAI\nCategories: ai\nSourc
+ e: luma/san-francisco+luma/san-jose+luma/virtual
+LOCATION:FriendliAI\, 20 Hawthorne St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/cch7p7pw
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -1005,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -1021,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -1037,7 +1144,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -1051,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -1077,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -1093,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -1110,7 +1217,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver T
  he Kingson + DJ Spleece
 DTSTART:20261122T050000Z
 DTEND:20261122T070000Z
-DTSTAMP:20261025T103856Z
+DTSTAMP:20261025T152928Z
 UID:rZ7HnEZ1A4ZgZd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyr
