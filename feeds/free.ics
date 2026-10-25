@@ -5,45 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Tunnel Of Terror 2026: Free Halloween Fest + Lowriders (San José 
- City Hall)
-DTSTART;TZID=America/Los_Angeles:20261024T210000
-DTEND;TZID=America/Los_Angeles:20261025T170000
-DTSTAMP:20261025T030227Z
-UID:funcheap-20261024-tunnelofterror2026freeha
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest
- -lowriders-san-jos-city-hall/\nVenue: community comes together to support 
- one another. linktr.ee/Sjmarket\nPrice: Free\nCategories: free\nSource: fu
- ncheap/san-jose\n\nOpera San José presents Tunnel of Terror\, a free Hall
- oween event at San José City Hall featuring live performances\, lowriders
- \, a costume contest\, music\, treats\, local makers\, an art market\, and
-  activities for all ages. Costumes and dogs are welcome. Original Event De
- scription: _🎃 Bring your costumes and join us at Tunnel of Terror by @o
- perasanjose Come enjoy live performances\, spooky vibes\, treats\, and loc
- al makers. Add this frightfully fun night to your October plans we can’t
-  wait to see you there! 🖤 📅 October 24 ⏰ 5–9 PM 📍 San José C
- ity Hall 200 E Santa Clara St\, San Jose CA Lowriders • live performance
- s • Costume Contest • Music & more See you there! 👻 Free admission 
- + Doggie friendly_ Text extracted from provided image: PRESENTED BY OPERA 
- SAN JOSÉ IN PARTNERSHIP WITH THE OFFICE OF CULTURAL AFFAIRS TUNNEL OF TER
- ROR OCTOBER 24\, 2026 5:00 PM – 9:00 PM CITY HALL PLAZA\, SJ LIVE PERFOR
- MANCES • COSTUME CONTEST • ART MARKET • ACTIVITIES FOR ALL AND MORE!
-  OPERA SAN JOSÉ CITY OF SAN JOSÉ Office of Cultural Affairs HERMANOS ADO
- PT MY BLOCK AURE CIRCUS OF SIN CMT SAN JOSE SAN JOSE MAKERS MARKET ME OI U
- LCH @sj.makers #SanJoseMakers ✨Welcome to the SJM community✨ A Market 
- Space for local Arti
-LOCATION:community comes together to support one another. linktr.ee/Sjmark
- et
-URL:https://sf.funcheap.com/tunnel-terror-2026-free-halloween-fest-lowride
- rs-san-jos-city-hall/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:34th Annual Rockridge Halloween Parade w/ 40+ Trick-or-Treat Stops
   (Oakland)
 DTSTART;TZID=America/Los_Angeles:20261025T110000
 DTEND;TZID=America/Los_Angeles:20261025T120000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261025-34thannualrockridgehallo
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/34th-annual-rockridge-halloween-parade
@@ -77,7 +43,7 @@ SUMMARY:Final Day of SF’s Cute Little “Sunset Trading Post” Trinket
  Exchange (Outer Sunset)
 DTSTART;TZID=America/Los_Angeles:20261025T190000
 DTEND;TZID=America/Los_Angeles:20261025T210000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261025-finaldayofsfscutelittles
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/final-day-sfs-cute-sunset-trading-post
@@ -111,7 +77,7 @@ SUMMARY:“Cute Ridge” Halloween Market: Free Candy + Y2K Finds (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261031-cuteridgehalloweenmarket
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-
@@ -143,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -158,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -188,7 +154,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -218,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -251,7 +217,7 @@ SUMMARY:National STEM Day at The Tech Interactive: Free Admission (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -284,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -315,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -342,10 +308,34 @@ URL:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-dog-locat
  ions-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Halloween Horror Screening: “Ththng” at Live Worms (SF)
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T210000
+DTSTAMP:20261025T103856Z
+UID:funcheap-20261113-freehalloweenhorrorscree
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/free-halloween-horror-screening-ththng
+ -live-worms-sf/\nLocation: san francisco\nPrice: Free\nCategories: communi
+ ty\, free\nSource: funcheap/san-francisco\n\nFind the streets of SF fright
+ ful on All Hallows Eve? Grab some snacks\, huddle up and enjoy movie night
+  with us at the Church of Mother Gong. THTHNG: Desolation Unknown is the 1
+ st part of horror trilogy homage to one of the greatest horror films of al
+ l-time. Clocking in at 1 hour 20 minutes\, Desolation Unknown is also the 
+ world’s first full length ‘film’ created in part with AI technology.
+  Only for mature audiences due to disturbing imagery and profanity. By Rob
+ bie Martin & Kelly Porter\, Music & Sound by Fluorescent Grey. There’s a
+ lso now a sequel: THTHNG II\, directed by Martin and written by Martin and
+  Porter. It’s scheduled to premiere Friday\, November 13\, 2026 at the C
+ enter for New Music in San Francisco.
+LOCATION:san francisco
+URL:https://sf.funcheap.com/free-halloween-horror-screening-ththng-live-wo
+ rms-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Georgia O’Keeffe Exhibition Walkthrough (Palo Alto)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261025T030227Z
+DTSTAMP:20261025T103856Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
