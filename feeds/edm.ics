@@ -5,42 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELLA EDM 
- DJ
-DTSTART:20261026T020000Z
-DTEND:20261026T040000Z
-DTSTAMP:20261025T202133Z
-UID:G5vYZ_fGZpeRN
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
- vegacaimanes-san-jose-california-10-25-2026/event/1C00654300582BE3\nVenue:
-  San Jose Civic\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Mus
- ic\, Latin\nHost: PROMOTED BY VENUE\nCategories: edm\nSource: ticketmaster
- /music\n\nReventon de Acordeones! Corridos! Nortenas y EDM con CORNELI0 VE
- GA y Su Dinastia\, Los CAIMANES de SINALOA y "ELLA"\, una DJ que fusiona r
- itmos latinos tradicionales con musica eletronica! Esta noche sera diferen
- te! Domingo\, 25 de Oct en SAN JOSE CIVIC! An Explosive Night of Acordions
- \, Corridos\, Nortenas and EDM featuring CORNELIO VEGA y Su Dinastia\, Cai
- manes de Sinaloa and "ELLA"\, a DJ who fuses traditional Latin rhythms wit
- h electronic music! Its going to be a night like no other! Sun. October 25
- th at SAN JOSE CIVIC! LETS PARTY Unfortunately\, the Event Organizer has h
- ad to cancel your event. You don't need to do a thing. We'll issue a refun
- d to the [original method of payment](https://help.ticketmaster.com/hc/en-
- us/articles/9614074869009) used at time of purchase\, as soon as funds are
-  received from the Event Organizer. It should appear on your account withi
- n 14-21 days. Please Note: If the tickets were transferred to you\, the re
- fund will go to the fan who originally purchased the tickets from Ticketma
- ster. Please see our [Purchase Policy](https://help.ticketmaster.com/hc/en
- -us/articles/10465798887953-Purchase-Policy) for more information.
-LOCATION:135 San Carlos St.\, San Jose\, CA
-URL:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-vegacaim
- anes-san-jose-california-10-25-2026/event/1C00654300582BE3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -53,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Shpongle - 10/30
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_6E75qN1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
@@ -74,10 +42,26 @@ URL:https://www.ticketmaster.com/shpongle-1030-oakland-california-10-30-20
  26/event/1C006479C42DD8CA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Parra for Cuva
+DTSTART:20261031T040000Z
+DTEND:20261031T060000Z
+DTSTAMP:20261026T030157Z
+UID:G5vYZ_F2jtp2r
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/parra-for-cuva-san-francisco-cali
+ fornia-10-30-2026/event/1C006483DCA563DE\nVenue: August Hall\nLocation: 42
+ 0 Mason St\, San Francisco\, CA\nGenres: Music\, Dance/Electronic\, Amapia
+ no\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/music\n
+ \nAge Restriction: 21 and Over
+LOCATION:420 Mason St\, San Francisco\, CA
+URL:https://www.ticketmaster.com/parra-for-cuva-san-francisco-california-1
+ 0-30-2026/event/1C006483DCA563DE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -90,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -108,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -127,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -151,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -170,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -185,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -214,7 +198,7 @@ SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
  5
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -250,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -266,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -280,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -297,7 +281,7 @@ SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver The Kin
  gson + DJ Spleece
 DTSTART:20261122T050000Z
 DTEND:20261122T070000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1A4ZgZd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyr

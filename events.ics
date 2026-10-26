@@ -5,42 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[EDM] Noche de Acordeones con CORNELIO VEGA-CAIMANES d SINALOA-ELL
- A EDM DJ
-DTSTART:20261026T020000Z
-DTEND:20261026T040000Z
-DTSTAMP:20261025T202133Z
-UID:G5vYZ_fGZpeRN
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-
- vegacaimanes-san-jose-california-10-25-2026/event/1C00654300582BE3\nVenue:
-  San Jose Civic\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Mus
- ic\, Latin\nHost: PROMOTED BY VENUE\nCategories: edm\nSource: ticketmaster
- /music\n\nReventon de Acordeones! Corridos! Nortenas y EDM con CORNELI0 VE
- GA y Su Dinastia\, Los CAIMANES de SINALOA y "ELLA"\, una DJ que fusiona r
- itmos latinos tradicionales con musica eletronica! Esta noche sera diferen
- te! Domingo\, 25 de Oct en SAN JOSE CIVIC! An Explosive Night of Acordions
- \, Corridos\, Nortenas and EDM featuring CORNELIO VEGA y Su Dinastia\, Cai
- manes de Sinaloa and "ELLA"\, a DJ who fuses traditional Latin rhythms wit
- h electronic music! Its going to be a night like no other! Sun. October 25
- th at SAN JOSE CIVIC! LETS PARTY Unfortunately\, the Event Organizer has h
- ad to cancel your event. You don't need to do a thing. We'll issue a refun
- d to the [original method of payment](https://help.ticketmaster.com/hc/en-
- us/articles/9614074869009) used at time of purchase\, as soon as funds are
-  received from the Event Organizer. It should appear on your account withi
- n 14-21 days. Please Note: If the tickets were transferred to you\, the re
- fund will go to the fan who originally purchased the tickets from Ticketma
- ster. Please see our [Purchase Policy](https://help.ticketmaster.com/hc/en
- -us/articles/10465798887953-Purchase-Policy) for more information.
-LOCATION:135 San Carlos St.\, San Jose\, CA
-URL:https://www.ticketmaster.com/noche-de-acordeones-con-cornelio-vegacaim
- anes-san-jose-california-10-25-2026/event/1C00654300582BE3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] Are We Running Too Many Agents?
 DTSTART:20261027T010000Z
 DTEND:20261027T040000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:evt-KJ6nUmIHekr3Hzn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/0qr6bxcw\nLocation: Sentry\, 45 Fremont St\, San
@@ -54,7 +22,7 @@ SUMMARY:[AI] Running Production with Agents w/ Rootly AI\, NVIDIA\, Replit
  \, & WorkOS
 DTSTART:20261028T003000Z
 DTEND:20261028T033000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:evt-eJNSOr6AVmxWVuD
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/r8sy88tq\nLocation: San Francisco\, CA\nHost: Ro
@@ -66,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] 🏓 Ping Pong Night // Inference × Depot
 DTSTART:20261028T003000Z
 DTEND:20261028T033000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:evt-Xeh6PB8sNxN1TWC
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/cygp5fj9\nLocation: SPIN San Francisco\, 690 Fol
@@ -80,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Who Controls the Future of AI Coding?
 DTSTART:20261028T003000Z
 DTEND:20261028T033000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:evt-TAjWBGHDrZT7ugr
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/dtzhn1ux\nLocation: San Francisco\, CA\nHost: Op
@@ -92,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Catie Cuan // Physical AI: Giving AI a Robot Body
 DTSTART:20261028T003000Z
 DTEND:20261028T013000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:evt-agDkwvsreAfgX30
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/hsmpoyxa\nLocation: Jacobs Institute for Design 
@@ -106,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Women in AI | Factory x Sapienne x Sequoia
 DTSTART:20261028T020000Z
 DTEND:20261028T040000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:evt-W00JDgYIpafTfuv
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/factoryai-sdkw\nLocation: San Francisco\, CA\nHo
@@ -118,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] W.A.S.P. - 1984 TO HEADLESS
 DTSTART:20261028T030000Z
 DTEND:20261028T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_73JO5lB
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wasp-1984-to-headless-san-jose-ca
@@ -133,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Logic & G-Eazy: The Endless Summer Tour Part II
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_a9251k2
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/logic-geazy-the-endless-summer-to
@@ -149,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Caifanes
 DTSTART:20261030T030000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1VmbffL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/caifanes-san-jose-california-10-2
@@ -164,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -178,7 +146,7 @@ SUMMARY:[Bay] 2026 Halloween Laser Spooktacular in Giant IMAX Dome (San Jo
  se)
 DTSTART;TZID=America/Los_Angeles:20261030T183000
 DTEND;TZID=America/Los_Angeles:20261030T190000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261030-2026halloweenlaserspookt
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/2026-halloween-laser-spooktacular-gian
@@ -210,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Shpongle - 10/30
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_6E75qN1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
@@ -234,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Moenia + Maria Jose Us Tour 2026
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_G5-D-Za
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-sa
@@ -246,11 +214,27 @@ URL:https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-san-jose-c
  alifornia-10-30-2026/event/1C0064C2E1EE1009
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Parra for Cuva
+DTSTART:20261031T040000Z
+DTEND:20261031T060000Z
+DTSTAMP:20261026T030157Z
+UID:G5vYZ_F2jtp2r
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/parra-for-cuva-san-francisco-cali
+ fornia-10-30-2026/event/1C006483DCA563DE\nVenue: August Hall\nLocation: 42
+ 0 Mason St\, San Francisco\, CA\nGenres: Music\, Dance/Electronic\, Amapia
+ no\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/music\n
+ \nAge Restriction: 21 and Over
+LOCATION:420 Mason St\, San Francisco\, CA
+URL:https://www.ticketmaster.com/parra-for-cuva-san-francisco-california-1
+ 0-30-2026/event/1C006483DCA563DE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay/Free] “Cute Ridge” Halloween Market: Free Candy + Y2K Fin
  ds (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261031-cuteridgehalloweenmarket
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-
@@ -282,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -296,7 +280,7 @@ SUMMARY:[Free] Free Halloween Harvest Fest w/ Inflatables in Willow Glen (
  San Jose)
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T200000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261031-freehalloweenharvestfest
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-halloween-harvest-fest-inflatable
@@ -323,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jorge Medina - Legendario Tour
 DTSTART:20261101T030000Z
 DTEND:20261101T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_GKogGHE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jorge-medina-legendario-tour-san-
@@ -338,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -356,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -375,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 30th Arab Film Festival at SF’s AMC Kabuki (Nov. 5-14)
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261105-30tharabfilmfestivalatsf
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/30th-arab-film-festival-sfs-amc-kabuki
@@ -407,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -431,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -455,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -470,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Total Vibez Live
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1A7PKeb
 CATEGORIES:community
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PKeb\nVenue: Lake 
@@ -483,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -502,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -531,7 +515,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -548,7 +532,7 @@ SUMMARY:[Bay/Free] “History in Motion” Free Grand Opening Celebration
  (San Mateo County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -579,7 +563,7 @@ SUMMARY:[Bay/Free] Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tas
  ting at Palmer’s Tavern
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261107-sincereciderxjohnnydough
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-c
@@ -601,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -618,7 +602,7 @@ SUMMARY:[Bay/Free] “Autumn In Willow Glen” 2026: Free Makers Market (S
  an Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -651,7 +635,7 @@ SUMMARY:[Bay/Free] National STEM Day at The Tech Interactive: Free Admissi
  on (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -685,7 +669,7 @@ SUMMARY:[Live] LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage
   Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -710,7 +694,7 @@ SUMMARY:[Free] Free “Diwali on the Square” Celebration at St. Marks (S
  F)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -741,7 +725,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -757,7 +741,7 @@ SUMMARY:[Free] Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (
  2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -787,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -811,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Alameda Artworks Open Studios (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T170000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261114-alamedaartworksopenstudi
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/alameda-artworks-open-studios-nov-1415
@@ -840,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -869,7 +853,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Arc
  hive 65
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -906,7 +890,7 @@ SUMMARY:[Bay/Free] Free Georgia O’Keeffe Exhibition Walkthrough (Palo Al
  to)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
@@ -939,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -963,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -979,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -995,7 +979,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -1009,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -1035,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -1051,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -1068,7 +1052,7 @@ SUMMARY:[EDM] Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver T
  he Kingson + DJ Spleece
 DTSTART:20261122T050000Z
 DTEND:20261122T070000Z
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:rZ7HnEZ1A4ZgZd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyr
@@ -1105,7 +1089,7 @@ SUMMARY:[Live/Free] RedBrick Ceramic Studio: Artist Talk & Pop-Up with Tas
  ha Colby
 DTSTART;TZID=America/Los_Angeles:20261122T190000
 DTEND;TZID=America/Los_Angeles:20261122T210000
-DTSTAMP:20261025T202133Z
+DTSTAMP:20261026T030157Z
 UID:funcheap-20261122-redbrickceramicstudioart
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/redbrick-ceramic-studio-artist-talk-po
