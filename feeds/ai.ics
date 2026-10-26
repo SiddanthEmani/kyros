@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Are We Running Too Many Agents?
 DTSTART:20261027T010000Z
 DTEND:20261027T040000Z
-DTSTAMP:20261026T121118Z
+DTSTAMP:20261026T221454Z
 UID:evt-KJ6nUmIHekr3Hzn
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/0qr6bxcw\nLocation: Sentry\, 45 Fremont St\, San
@@ -18,11 +18,25 @@ LOCATION:Sentry\, 45 Fremont St\, San Francisco\, CA 94105\, USA
 URL:https://lu.ma/0qr6bxcw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Running Production with Agents w/ Rootly AI\, NVIDIA\, Replit\, & 
- WorkOS
+SUMMARY:Git Your Ship Together: Multiplayer AI for Product and Engineering
+  (Pre-GitHub Universe)
+DTSTART:20261028T000000Z
+DTEND:20261028T020000Z
+DTSTAMP:20261026T221454Z
+UID:evt-NVx6BwrKaunVdtJ
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/promptql-github-universe-2026\nLocation: San Fra
+ ncisco\, CA\nHost: PromptQL Events\nCategories: ai\nSource: luma-html/san-
+ francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/promptql-github-universe-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Running Production with Agents w/ Rootly AI\, NVIDIA\, Replit\, Po
+ stHog\, & WorkOS
 DTSTART:20261028T003000Z
 DTEND:20261028T033000Z
-DTSTAMP:20261026T121118Z
+DTSTAMP:20261026T221454Z
 UID:evt-eJNSOr6AVmxWVuD
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/r8sy88tq\nLocation: San Francisco\, CA\nHost: Ro
@@ -34,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:🏓 Ping Pong Night // Inference × Depot
 DTSTART:20261028T003000Z
 DTEND:20261028T033000Z
-DTSTAMP:20261026T121118Z
+DTSTAMP:20261026T221454Z
 UID:evt-Xeh6PB8sNxN1TWC
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/cygp5fj9\nLocation: SPIN San Francisco\, 690 Fol
@@ -48,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Who Controls the Future of AI Coding?
 DTSTART:20261028T003000Z
 DTEND:20261028T033000Z
-DTSTAMP:20261026T121118Z
+DTSTAMP:20261026T221454Z
 UID:evt-TAjWBGHDrZT7ugr
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/dtzhn1ux\nLocation: San Francisco\, CA\nHost: Op
@@ -60,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Catie Cuan // Physical AI: Giving AI a Robot Body
 DTSTART:20261028T003000Z
 DTEND:20261028T013000Z
-DTSTAMP:20261026T121118Z
+DTSTAMP:20261026T221454Z
 UID:evt-agDkwvsreAfgX30
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/hsmpoyxa\nLocation: Jacobs Institute for Design 
@@ -74,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Women in AI | Factory x Sapienne x Sequoia
 DTSTART:20261028T020000Z
 DTEND:20261028T040000Z
-DTSTAMP:20261026T121118Z
+DTSTAMP:20261026T221454Z
 UID:evt-W00JDgYIpafTfuv
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/factoryai-sdkw\nLocation: San Francisco\, CA\nHo
