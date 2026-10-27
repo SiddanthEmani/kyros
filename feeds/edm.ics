@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Shpongle - 10/30
 DTSTART:20261031T030000Z
 DTEND:20261031T050000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_6E75qN1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/shpongle-1030-oakland-california-
@@ -42,26 +42,10 @@ URL:https://www.ticketmaster.com/shpongle-1030-oakland-california-10-30-20
  26/event/1C006479C42DD8CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Parra for Cuva
-DTSTART:20261031T040000Z
-DTEND:20261031T060000Z
-DTSTAMP:20261027T033304Z
-UID:G5vYZ_F2jtp2r
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/parra-for-cuva-san-francisco-cali
- fornia-10-30-2026/event/1C006483DCA563DE\nVenue: August Hall\nLocation: 42
- 0 Mason St\, San Francisco\, CA\nGenres: Music\, Dance/Electronic\, Amapia
- no\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/music\n
- \nAge Restriction: 21 and Over
-LOCATION:420 Mason St\, San Francisco\, CA
-URL:https://www.ticketmaster.com/parra-for-cuva-san-francisco-california-1
- 0-30-2026/event/1C006483DCA563DE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -74,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -92,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -111,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -135,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -154,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -169,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -198,7 +182,7 @@ SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
  5
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:rZ7HnEZ1Af0f8K
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
@@ -234,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -250,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -264,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -281,7 +265,7 @@ SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver The Kin
  gson + DJ Spleece
 DTSTART:20261122T050000Z
 DTEND:20261122T070000Z
-DTSTAMP:20261027T033304Z
+DTSTAMP:20261027T113227Z
 UID:rZ7HnEZ1A4ZgZd
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyr
@@ -312,5 +296,18 @@ DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyr
 LOCATION:1535 Commercial Way\, Santa Cruz\, CA
 URL:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyramid-moe
  s-alley-tickets/15035003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andy C - Ages 21+
+DTSTART:20261126T050000Z
+DTEND:20261126T070000Z
+DTSTAMP:20261027T113227Z
+UID:Z7r9jZ1AA7oPU
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
+ Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
+  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
+LOCATION:1015 Folsom Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
 END:VEVENT
 END:VCALENDAR
