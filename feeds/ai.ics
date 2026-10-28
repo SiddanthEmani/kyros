@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Voice AI: From Models to Real-World Experiences
 DTSTART:20261029T013000Z
 DTEND:20261029T033000Z
-DTSTAMP:20261028T120350Z
+DTSTAMP:20261028T220805Z
 UID:evt-Ei1bODl810sfnyV
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/bz8x2v1s\nLocation: San Francisco\, CA\nHost: Ca
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Pancake AI x Corgi
 DTSTART:20261030T000000Z
 DTEND:20261030T050000Z
-DTSTAMP:20261028T120350Z
+DTSTAMP:20261028T220805Z
 UID:evt-jPMA8vt2Ri8vxWF
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/usecorgi-fda6\nLocation: Corgi Cafe\, 9 Claude L
@@ -30,31 +30,29 @@ LOCATION:Corgi Cafe\, 9 Claude Ln\, San Francisco\, CA 94108\, USA
 URL:https://lu.ma/usecorgi-fda6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agents After Dark: Mini Golf & Arcade @ GitHub Universe
+SUMMARY:Agents After Dark: Tacos & Margaritas at Barrio | GitHub Universe
 DTSTART:20261030T003000Z
 DTEND:20261030T033000Z
-DTSTAMP:20261028T120350Z
+DTSTAMP:20261028T220805Z
 UID:evt-KdMel2GGJDUExNE
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/gh-agentsafterdark\nLocation: Subpar Miniature G
- olf\, 900 North Point St F-201\, San Francisco\, CA 94109\, USA\nHost: 1Pa
- ssword\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Subpar Miniature Golf\, 900 North Point St F-201\, San Francisco\
- , CA 94109\, USA
+DESCRIPTION:https://lu.ma/gh-agentsafterdark\nLocation: Barrio\, 900 North
+  Point St Unit J 101\, San Francisco\, CA 94133\, USA\nHost: 1Password\nCa
+ tegories: ai\nSource: luma-html/san-francisco
+LOCATION:Barrio\, 900 North Point St Unit J 101\, San Francisco\, CA 94133
+ \, USA
 URL:https://lu.ma/gh-agentsafterdark
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inference as Instrument
-DTSTART:20261030T020000Z
-DTEND:20261030T040000Z
-DTSTAMP:20261028T120350Z
-UID:evt-JimxES29JgapnM3
+SUMMARY:AI That Reasons and Acts: Carina Hong
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+DTSTAMP:20261028T220805Z
+UID:evt-0FZX6ZWF4KV7evX
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/modal-48ev\nLocation: Gray Area / Grand Theater\
- , 2665 Mission St\, San Francisco\, CA 94110\, USA\nHost: Modal\nCategorie
- s: ai\nSource: luma-html/san-francisco
-LOCATION:Gray Area / Grand Theater\, 2665 Mission St\, San Francisco\, CA 
- 94110\, USA
-URL:https://lu.ma/modal-48ev
+DESCRIPTION:https://lu.ma/zw8t5s9t\nLocation: Palo Alto\, CA\nHost: Turing
+  Growth\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Palo Alto\, CA
+URL:https://lu.ma/zw8t5s9t
 END:VEVENT
 END:VCALENDAR
