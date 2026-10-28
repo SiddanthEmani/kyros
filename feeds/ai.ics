@@ -5,168 +5,56 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Wiki3: Own Your Own AI Workshop
-DTSTART:20261029T010000Z
+SUMMARY:Voice AI: From Models to Real-World Experiences
+DTSTART:20261029T013000Z
 DTEND:20261029T033000Z
-DTSTAMP:20261028T034915Z
-UID:evt-gsqh8T17Lp3uRyc
+DTSTAMP:20261028T120350Z
+UID:evt-Ei1bODl810sfnyV
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/Wiki3-20261028\nLocation: 3200 Patrick Henry Dr 
- suite 260\, Santa Clara\, CA 95054\, USA\nHost: Personal\nCategories: ai\n
- Source: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:3200 Patrick Henry Dr suite 260\, Santa Clara\, CA 95054\, USA
-URL:https://lu.ma/Wiki3-20261028
+DESCRIPTION:https://lu.ma/bz8x2v1s\nLocation: San Francisco\, CA\nHost: Ca
+ rtesia\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/bz8x2v1s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pancake AI x Corgi
+DTSTART:20261030T000000Z
+DTEND:20261030T050000Z
+DTSTAMP:20261028T120350Z
+UID:evt-jPMA8vt2Ri8vxWF
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/usecorgi-fda6\nLocation: Corgi Cafe\, 9 Claude L
+ n\, San Francisco\, CA 94108\, USA\nHost: Corgi\nCategories: ai\nSource: l
+ uma-html/san-francisco
+LOCATION:Corgi Cafe\, 9 Claude Ln\, San Francisco\, CA 94108\, USA
+URL:https://lu.ma/usecorgi-fda6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agents After Dark: Mini Golf & Arcade @ GitHub Universe
+DTSTART:20261030T003000Z
+DTEND:20261030T033000Z
+DTSTAMP:20261028T120350Z
+UID:evt-KdMel2GGJDUExNE
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/gh-agentsafterdark\nLocation: Subpar Miniature G
+ olf\, 900 North Point St F-201\, San Francisco\, CA 94109\, USA\nHost: 1Pa
+ ssword\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Subpar Miniature Golf\, 900 North Point St F-201\, San Francisco\
+ , CA 94109\, USA
+URL:https://lu.ma/gh-agentsafterdark
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference as Instrument
 DTSTART:20261030T020000Z
 DTEND:20261030T040000Z
-DTSTAMP:20261028T034915Z
+DTSTAMP:20261028T120350Z
 UID:evt-JimxES29JgapnM3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/modal-48ev\nLocation: Gray Area / Grand Theater\
  , 2665 Mission St\, San Francisco\, CA 94110\, USA\nHost: Modal\nCategorie
- s: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
+ s: ai\nSource: luma-html/san-francisco
 LOCATION:Gray Area / Grand Theater\, 2665 Mission St\, San Francisco\, CA 
  94110\, USA
 URL:https://lu.ma/modal-48ev
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATEA SV Oct 30 Meetup - Building Trust in AI - from reliable agent
- s to authentic digital content
-DTSTART:20261031T003000Z
-DTEND:20261031T030000Z
-DTSTAMP:20261028T034915Z
-UID:evt-kRY5HzviRxYwOSk
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/1fp4j4re\nLocation: 691 S Milpitas Blvd\, Milpit
- as\, CA 95035\, USA\nHost: Personal\nCategories: ai\nSource: luma/san-fran
- cisco+luma/san-jose+luma/virtual
-LOCATION:691 S Milpitas Blvd\, Milpitas\, CA 95035\, USA
-URL:https://lu.ma/1fp4j4re
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Agent Era: Eval & Training of the Best Personal Agent
-DTSTART:20261031T010000Z
-DTEND:20261031T043000Z
-DTSTAMP:20261028T034915Z
-UID:evt-C4QOgpCyK0ZORfU
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/vn4ectbt\nLocation: Mountain View\, CA\nHost: Pe
- rsonal\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
- ual
-LOCATION:Mountain View\, CA
-URL:https://lu.ma/vn4ectbt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI & the Next Generation: Opportunities\, Risks\, and What’s Ahe
- ad (w/ The AI Collective)
-DTSTART:20261105T020000Z
-DTEND:20261105T043000Z
-DTSTAMP:20261028T034915Z
-UID:evt-b1tA7EY7ed948IF
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/aic-tr-11-4\nLocation: Dublin\, CA\nHost: The AI
-  Collective\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma
- /virtual
-LOCATION:Dublin\, CA
-URL:https://lu.ma/aic-tr-11-4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fonzi's Devs & Drinks
-DTSTART:20261105T020000Z
-DTEND:20261105T033000Z
-DTSTAMP:20261028T034915Z
-UID:evt-5Bx2WQS3oPC9hhT
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/ai-5oum\nLocation: San Francisco\, CA\nHost: AI 
- Engineers - SF\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+l
- uma/virtual
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/ai-5oum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LangChain SF Meetup: Judgment Calls
-DTSTART:20261106T020000Z
-DTEND:20261106T043000Z
-DTSTAMP:20261028T034915Z
-UID:evt-GBbFX29anlsR8Bb
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/iuc3ostf\nLocation: San Francisco\, CA\nHost: La
- ngChain Events\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+l
- uma/virtual
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/iuc3ostf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SV] AWS Partner Showcase Extended with Anthropic\, Caylent\, Temp
- oral\, LaunchPad
-DTSTART:20261111T003000Z
-DTEND:20261111T043000Z
-DTSTAMP:20261028T034915Z
-UID:evt-IacSWqqv47sZqFO
-CATEGORIES:ai,concert
-DESCRIPTION:https://lu.ma/xv6954nd\nLocation: Sunnyvale\, CA\nHost: AICamp
- \nCategories: ai\, concert\nSource: luma/san-francisco+luma/san-jose+luma/
- virtual
-LOCATION:Sunnyvale\, CA
-URL:https://lu.ma/xv6954nd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STATION F x GitHub | AI Founder Demo Night
-DTSTART:20261112T010000Z
-DTEND:20261112T050000Z
-DTSTAMP:20261028T034915Z
-UID:evt-rTqRR7AXPuGHxfg
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/hn7n83qv\nLocation: San Francisco\, CA\nHost: Gi
- tHub for Startups\nCategories: ai\nSource: luma/san-francisco+luma/san-jos
- e+luma/virtual
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/hn7n83qv
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulnerability And Patching In The Post-LLM Era
-DTSTART:20261113T010000Z
-DTEND:20261113T040000Z
-DTSTAMP:20261028T034915Z
-UID:evt-WD9bcK0LDVPuGIt
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/l6ftojej\nLocation: Cisco Building 17\, 3650 Cis
- co Way\, San Jose\, CA 95134\, USA\nHost: Women in Cybersecurity - Silicon
-  Valley\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/vir
- tual
-LOCATION:Cisco Building 17\, 3650 Cisco Way\, San Jose\, CA 95134\, USA
-URL:https://lu.ma/l6ftojej
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 U.S. Taiwan High-Tech Forum: From Silicon to Sovereignty - AI
-  Empowerment in the Age of Agents
-DTSTART:20261114T203000Z
-DTEND:20261115T010000Z
-DTSTAMP:20261028T034915Z
-UID:evt-nFPzJmP0qJSRv8p
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/i2rg3kqy\nLocation: Computer History Museum\, 14
- 01 N Shoreline Blvd\, Mountain View\, CA 94043\, USA\nHost: NATEA Silicon 
- Valley\nCategories: ai\nSource: luma/san-francisco+luma/san-jose+luma/virt
- ual
-LOCATION:Computer History Museum\, 1401 N Shoreline Blvd\, Mountain View\,
-  CA 94043\, USA
-URL:https://lu.ma/i2rg3kqy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Building 101: CodeStarters AI Workshop
-DTSTART:20261114T230000Z
-DTEND:20261115T010000Z
-DTSTAMP:20261028T034915Z
-UID:evt-TDNur3hP69pKuN8
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/tehpbjhy\nLocation: The Biltmore Apartments\, 10
- 159 S Blaney Ave\, Cupertino\, CA 95014\, USA\nHost: CodeStarters\nCategor
- ies: ai\nSource: luma/san-francisco+luma/san-jose+luma/virtual
-LOCATION:The Biltmore Apartments\, 10159 S Blaney Ave\, Cupertino\, CA 950
- 14\, USA
-URL:https://lu.ma/tehpbjhy
 END:VEVENT
 END:VCALENDAR
