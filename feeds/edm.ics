@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Rossi. (21 and Over)
 DTSTART:20261030T040000Z
 DTEND:20261030T060000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:Z7r9jZ1AAZI-E
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZI-E\nVenue: 1015 
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
 DTSTART:20261031T230000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:Z7r9jZ1AAZxo3
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Costume Party
 DTSTART:20261101T040000Z
 DTEND:20261101T060000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:rZ7HnEZ1AfGtjf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -111,25 +111,10 @@ URL:https://www.ticketmaster.com/hugel-presents-make-the-girls-dance-berke
  ley-california-11-07-2026/event/1C0064BD20241F9B
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teddy Swims: The UGLY Tour
-DTSTART:20261111T030000Z
-DTEND:20261111T050000Z
-DTSTAMP:20261029T041223Z
-UID:G5vYZ_FnHI2eZ
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
- ncisco-california-11-10-2026/event/1C00648ABCA0F080\nVenue: Chase Center\n
- Location: 300 16th Street\, San Francisco\, CA\nGenres: Music\, Pop\, Elec
- tro Pop\nHost: AEG LIVE\nCategories: edm\nSource: ticketmaster/music
-LOCATION:300 16th Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
- alifornia-11-10-2026/event/1C00648ABCA0F080
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -154,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -182,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -195,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -211,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -225,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -238,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -254,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261029T041223Z
+DTSTAMP:20261029T121304Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -262,5 +247,24 @@ DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015
   Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
 LOCATION:1015 Folsom Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
+ unk Dance Night
+DTSTART:20261128T050000Z
+DTEND:20261128T070000Z
+DTSTAMP:20261029T121304Z
+UID:rZ7HnEZ1AfC7f7
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
+ l-the-ritz-tickets/14384504\nVenue: The Ritz\nLocation: 400 S 1st St\, San
+  Jose\, CA\nPrice: $14-$521\nGenres: Music\, Other\, Dance/Electronic\nCat
+ egories: edm\nSource: ticketmaster/music\n\nThis event is 21 and over. Any
+  ticket holder unable to present valid identification indicating that they
+  are at least 21 years of age will not be admitted to this event\, and wil
+ l not be eligible for a refund.
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industrial-the-ri
+ tz-tickets/14384504
 END:VEVENT
 END:VCALENDAR
