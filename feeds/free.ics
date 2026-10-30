@@ -9,7 +9,7 @@ SUMMARY:“Cute Ridge” Halloween Market: Free Candy + Y2K Finds (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261031-cuteridgehalloweenmarket
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-
@@ -38,11 +38,45 @@ URL:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-candy-y2
  k-finds-san-jose/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Halloween on Cortland” Street Fair 2026: 5-Blocks of Free Tri
+ ck-or-Treating Fun (Bernal Heights)
+DTSTART;TZID=America/Los_Angeles:20261031T170000
+DTEND;TZID=America/Los_Angeles:20261031T200000
+DTSTAMP:20261030T215544Z
+UID:funcheap-20261031-halloweenoncortlandstree
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/halloween-cortland-2026-free-trickortr
+ eating-block-party-bernal-heights/\nVenue: commercial corridor in San Fran
+ cisco’s Bernal Heights neighborhood. Founded by G\nPrice: Free\nCategori
+ es: community\, free\nSource: funcheap/san-francisco\n\nHalloween on Cortl
+ and is an annual neighborhood trick-or-treating and community celebration 
+ held along the Cortland Avenue commercial corridor in San Francisco’s Be
+ rnal Heights neighborhood. Founded by Greening Projects in 2024\, the even
+ t brings together families\, local merchants\, and residents for safe\, fe
+ stive trick-or-treating and Halloween activities. When is Halloween on Cor
+ tland 2026? Halloween on Cortland 2026 takes place on Saturday\, October 3
+ 1\, 2026\, from 5:00 PM to 8:00 PM . Where does the event take place? The 
+ festivities span Cortland Avenue from Bennington Street to Folsom Street i
+ n Bernal Heights\, San Francisco\, CA 94110. Participating merchants and a
+ ctivities line this designated corridor. Who organizes Halloween on Cortla
+ nd? Greening Projects \, a local San Francisco nonprofit focused on commun
+ ity greening\, public space activation\, and neighborhood engagement\, org
+ anizes the event in partnership with local Bernal Heights merchants and co
+ mmunity volunteers. Is the event free to attend? Yes\, Halloween on Cortla
+ nd is completely free and open to the public . Everyone in the community i
+ s welcome to participate in trick-or-treating along the commercial strip. 
+ Is Halloween o
+LOCATION:commercial corridor in San Francisco’s Bernal Heights neighborh
+ ood. Founded by G
+URL:https://sf.funcheap.com/halloween-cortland-2026-free-trickortreating-b
+ lock-party-bernal-heights/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Halloween Harvest Fest w/ Inflatables in Willow Glen (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T200000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261031-freehalloweenharvestfest
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-halloween-harvest-fest-inflatable
@@ -69,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -84,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -114,7 +148,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -141,33 +175,10 @@ URL:https://sf.funcheap.com/history-motion-free-grand-opening-celebration-
  san-mateo-county-history-museum/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tasting at Pal
- mer’s Tavern
-DTSTART;TZID=America/Los_Angeles:20261107T190000
-DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261030T120336Z
-UID:funcheap-20261107-sincereciderxjohnnydough
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-c
- ider-donut-tasting-palmers-tavern/\nLocation: san francisco\nPrice: Free\n
- Categories: community\, free\nSource: funcheap/san-francisco\n\nSincere Ci
- der and Johnny Doughnuts are teaming up on Apple Cider Donut\, a limited-r
- elease cider inspired by the classic fall treat. Made with apple juice\, c
- innamon\, and sugar\, the cider is naturally gluten-free\, vegan\, and 5.9
- % ABV. The tasting tour stops at Palmer’s Tavern in San Francisco. Be on
- e of the first to sip the collaboration from two of the Bay Area’s most 
- beloved local brands. This is the last tasting before the tour’s grand f
- inale at the Spark Social Cider Fest in San Francisco on November 7. The c
- ider is only available for a limited time and while supplies last.
-LOCATION:san francisco
-URL:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-cider-don
- ut-tasting-palmers-tavern/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -200,7 +211,7 @@ SUMMARY:National STEM Day at The Tech Interactive: Free Admission (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -233,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -263,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -293,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -329,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Free Georgia O’Keeffe Exhibition Walkthrough (Palo Alto)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261030T120336Z
+DTSTAMP:20261030T215544Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
