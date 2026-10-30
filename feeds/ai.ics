@@ -5,51 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Pancake AI x Corgi
-DTSTART:20261030T000000Z
-DTEND:20261030T050000Z
-DTSTAMP:20261029T222323Z
-UID:evt-jPMA8vt2Ri8vxWF
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/usecorgi-fda6\nLocation: Corgi Cafe\, 9 Claude L
- n\, San Francisco\, CA 94108\, USA\nHost: Corgi\nCategories: ai\nSource: l
- uma-html/san-francisco
-LOCATION:Corgi Cafe\, 9 Claude Ln\, San Francisco\, CA 94108\, USA
-URL:https://lu.ma/usecorgi-fda6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agents After Dark: Tacos & Margaritas at Barrio | GitHub Universe
-DTSTART:20261030T003000Z
-DTEND:20261030T033000Z
-DTSTAMP:20261029T222323Z
-UID:evt-KdMel2GGJDUExNE
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/gh-agentsafterdark\nLocation: Barrio\, 900 North
-  Point St Unit J 101\, San Francisco\, CA 94133\, USA\nHost: 1Password\nCa
- tegories: ai\nSource: luma-html/san-francisco
-LOCATION:Barrio\, 900 North Point St Unit J 101\, San Francisco\, CA 94133
- \, USA
-URL:https://lu.ma/gh-agentsafterdark
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inference as Instrument
-DTSTART:20261030T020000Z
-DTEND:20261030T040000Z
-DTSTAMP:20261029T222323Z
-UID:evt-JimxES29JgapnM3
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/modal-48ev\nLocation: Gray Area / Grand Theater\
- , 2665 Mission St\, San Francisco\, CA 94110\, USA\nHost: Modal\nCategorie
- s: ai\nSource: luma-html/san-francisco
-LOCATION:Gray Area / Grand Theater\, 2665 Mission St\, San Francisco\, CA 
- 94110\, USA
-URL:https://lu.ma/modal-48ev
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Make SF Better: A Hack Night with Mistral AI
 DTSTART:20261104T010000Z
 DTEND:20261104T043000Z
-DTSTAMP:20261029T222323Z
+DTSTAMP:20261030T041218Z
 UID:evt-AeRySImG9vyxpdx
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/mistral-elastic\nLocation: 33 New Montgomery St\
