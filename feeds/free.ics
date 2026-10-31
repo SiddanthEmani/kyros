@@ -5,44 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:“Cute Ridge” Halloween Market: Free Candy + Y2K Finds (San Jos
- e)
-DTSTART;TZID=America/Los_Angeles:20261031T100000
-DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261031T164627Z
-UID:funcheap-20261031-cuteridgehalloweenmarket
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-
- candy-y2k-finds-san-jose/\nLocation: san jose\nPrice: Free\nCategories: co
- mmunity\, free\nSource: funcheap/san-jose\n\nCute🎃ridge Halloween Editi
- on is a free Halloween market at Eastridge Mall featuring Y2K fashion\, vi
- ntage finds\, local makers\, sweet treats\, costumes\, and trick-or-treati
- ng. Free candy will be distributed throughout the event\, and families are
-  invited to attend in costume. Original Event Description: _🎃💕 BOO! 
- CUTE🎃RIDGE IS BACK! 👻🍬✨ San Jose’s cutest market is getting a
-  little SPOOKY and a whole lot CUTER this Halloween! 🧡🕸️💕 Join 
- PopUpSJ for a special CUTE🎃RIDGE Halloween Edition at Eastridge Mall! A
-  day full of cute Y2K finds\, sweet treats\, spooky surprises\, and all th
- e Halloween vibes! 🍭🎃🛍️ Shop the cutest Y2K fashion and local m
- akers while celebrating Halloween with your favorite boo! 👻🧸💖 
- 🍬 TRICK OR TREAT\, CUTIES! We’ll be giving out FREE CANDY throughout 
- the event! Bring your little pumpkins\, dress up in your cutest costumes\,
-  and come trick-or-treat with us! 🎀🍭🎃 🗓️ SATURDAY\, OCTOBER 
- 31 ⏰ 10 AM – 6 PM 📍 Eastridge Mall | 2200 Eastridge Loop\, San Jose
-  💕 FREE ADMISSION! Cute costumes? YES! 🎀 Sweet treats? YES! 🍬 Vin
- tage finds? YES! 🛍️ Spooky cute vibes? ALWAYS! 👻💕 Grab your guy
- s\, bring your little ones\, and come celebrate the cutest Halloween in Sa
- n Jose! 🎃💖 See you at CUTE🎃RIDGE\,
-LOCATION:san jose
-URL:https://sf.funcheap.com/cute-ridge-halloween-market-2026-free-candy-y2
- k-finds-san-jose/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Halloween Harvest Fest w/ Inflatables in Willow Glen (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T200000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261031-freehalloweenharvestfest
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-halloween-harvest-fest-inflatable
@@ -70,7 +37,7 @@ SUMMARY:16 Ways to Volunteer in SF on Halloween 2026 (w/ Free Coffee or Fo
  od for Volunteers)
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T210000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261031-16waystovolunteerinsfonh
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/16-ways-volunteer-sf-halloween-2026-fr
@@ -100,10 +67,44 @@ URL:https://sf.funcheap.com/16-ways-volunteer-sf-halloween-2026-free-coffe
  e-food-volunteers/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Silicon Valley’s Largest Halloween Party for Single Professional
+ s
+DTSTART;TZID=America/Los_Angeles:20261031T193000
+DTEND;TZID=America/Los_Angeles:20261031T233000
+DTSTAMP:20261031T205734Z
+UID:funcheap-20261031-siliconvalleyslargesthal
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/silicon-valleys-largest-halloween-part
+ y-single-professionals/\nVenue: Hilton Garden Inn Ballroom\, 767 N. Mathil
+ da Avenue\, Sunnyvale\, CA 94085. Free pa\nPrice: Free\nCategories: free\n
+ Source: funcheap/san-jose+funcheap/peninsula+funcheap/san-francisco\n\nONE
+  NIGHT. GREAT MUSIC. NEW CONNECTIONS. UNFORGETTABLE FUN! Adults of all age
+ s welcome. WHEN: Saturday\, October 31\, 2026 | 7:30 PM – 11:30 PM. We h
+ ave 3 Halloween Parties tonight. If this one in the Silicon Valley is not 
+ convenient\, we also have parties tonight in Mill Valley for 50+ and San F
+ rancisco for 21-49. WHERE: Hilton Garden Inn Ballroom\, 767 N. Mathilda Av
+ enue\, Sunnyvale\, CA 94085. Free parking! Discounted hotel rooms availabl
+ e for guests who want to stay overnight. Hotel accommodations do not inclu
+ de party admission. GET YOUR TICKETS at www.thepartyhotline.com EARLY & SA
+ VE! $35 — Early Bird Special $40 — Last-Minute Advance Ticket $50 — 
+ At the Door SPECIAL OFFER: $60 FOR TWO PEOPLE! Bring a friend\, invite som
+ eone special\, or treat another single to a fabulous Halloween night! Two 
+ people for only $60 — just $30 each! All tickets include the icebreaker 
+ dance class and Halloween party. Single? Ready to Mingle? Love to Dance? T
+ his Halloween\, forget sitting at home handing out candy! Put on your sexi
+ est\, funniest\, or most fabulous costume and join us for an exciting nigh
+ t of flirting\, dancing\, laughter\, and meeting amazing new people! Who k
+ nows? You might meet your next date\,
+LOCATION:Hilton Garden Inn Ballroom\, 767 N. Mathilda Avenue\, Sunnyvale\,
+  CA 94085. Free pa
+URL:https://sf.funcheap.com/silicon-valleys-largest-halloween-party-single
+ -professionals/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -118,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -148,7 +149,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -178,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -211,7 +212,7 @@ SUMMARY:National STEM Day at The Tech Interactive: Free Admission (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -244,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -274,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -304,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -340,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Free Georgia O’Keeffe Exhibition Walkthrough (Palo Alto)
 DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261031T164627Z
+DTSTAMP:20261031T205734Z
 UID:funcheap-20261115-freegeorgiaokeeffeexhibi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
