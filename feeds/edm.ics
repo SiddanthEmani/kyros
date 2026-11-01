@@ -5,41 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Midnight Carnival Block Party ft. RL GRIME - Ages 18+
-DTSTART:20261031T230000Z
-DTEND:20261101T010000Z
-DTSTAMP:20261031T205734Z
-UID:Z7r9jZ1AAZxo3
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3\nVenue: The M
- idway\nLocation: 900 Marin St\, San Francisco\, CA\nGenres: Music\, Dance/
- Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:900 Marin St\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZxo3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halloween Costume Party
-DTSTART:20261101T040000Z
-DTEND:20261101T060000Z
-DTSTAMP:20261031T205734Z
-UID:rZ7HnEZ1AfGtjf
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketweb.com/event/halloween-costume-party-the-ri
- tz-tickets/14329714\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, 
- CA\nPrice: $19-$521\nGenres: Music\, Other\, Dance/Electronic\nCategories:
-  edm\nSource: ticketmaster/music\n\nThis event is 21 and over. Any ticket 
- holder unable to present valid identification indicating that they are at 
- least 21 years of age will not be admitted to this event\, and will not be
-  eligible for a refund.
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/halloween-costume-party-the-ritz-ticke
- ts/14329714
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -58,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -82,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -98,10 +67,25 @@ URL:https://www.ticketmaster.com/hugel-presents-make-the-girls-dance-berke
  ley-california-11-07-2026/event/1C0064BD20241F9B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teddy Swims: The UGLY Tour
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+DTSTAMP:20261101T040814Z
+UID:G5vYZ_FnHI2eZ
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
+ ncisco-california-11-10-2026/event/1C00648ABCA0F080\nVenue: Chase Center\n
+ Location: 300 16th Street\, San Francisco\, CA\nGenres: Music\, Pop\, Elec
+ tro Pop\nHost: AEG LIVE\nCategories: edm\nSource: ticketmaster/music
+LOCATION:300 16th Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
+ alifornia-11-10-2026/event/1C00648ABCA0F080
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -126,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -154,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -164,10 +148,47 @@ LOCATION:900 Marin St\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
+ 5
+DTSTART:20261115T050000Z
+DTEND:20261115T070000Z
+DTSTAMP:20261101T040814Z
+UID:rZ7HnEZ1Af0f8K
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-jon-spence
+ r-moes-alley-tickets/14914413\nVenue: Moe's Alley\nLocation: 1535 Commerci
+ al Way\, Santa Cruz\, CA\nPrice: $30\nGenres: Music\, Rock\, Garage Rock\,
+  Alternative\, Noise Pop\nCategories: edm\nSource: ticketmaster/music\n\nM
+ oe's Alley presents the return of Mr. Blues Explosion himself Jon Spencer 
+ with special guest Genre Is Death plus DJ Archive 65! Saturday\, November 
+ 14\, 2026 Doors: 8pm / Show: 9pm $25 in advance / $30 day of the show 21+ 
+ *Tickets on sale Friday\, May 15th at 7am PT* * No Refunds | All sales are
+  final * Avoid scammers! Only purchase tickets from moesalley.com or ticke
+ tweb.com * Tickets requested by email will be delivered 3 days prior to th
+ e event * Will Call tickets will be available at the door on the day of th
+ e event ==== JON SPENCER Jon Spencer is a major figure in noise rock and a
+ lternative rock circles known for his gritty\, combustible songs\, fiercel
+ y minimalistic guitar work\, and over-the-top performing style. Spencer fi
+ rst made his name in the mid-'80s with combative noise merchants Pussy Gal
+ ore (best heard on the 1987 album Right Now!)\, whose raw\, purposefully o
+ ff-putting style and deliberately offensive lyrics made them one of the mo
+ st polarizing bands of the day. After Pussy Galore's breakup\, Spencer lau
+ nched the Jon Spencer Blues Explosion\, whose frantic but wildly energetic
+  style mixed elements of punk\, R&B\, blues\, and garage rock into a rauco
+ us\, celebratory attack that made them one of the best live acts of their 
+ day. The band captured the essentials of their sound on Extra Width (1993)
+  and Orange (1994)\, while they embraced elements of hip-hop and electroni
+ cs on Acme (1998). While Spencer's approach was easily recognizable\, he w
+ as able to fuse his ideas with a va
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-jon-spencer-moes-a
+ lley-tickets/14914413
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -183,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -197,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -210,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -226,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -240,7 +261,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -258,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261031T205734Z
+DTSTAMP:20261101T040814Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
