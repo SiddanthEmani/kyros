@@ -5,36 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Make SF Better: A Hack Night with Mistral AI
-DTSTART:20261104T010000Z
-DTEND:20261104T043000Z
-DTSTAMP:20261103T225157Z
-UID:evt-AeRySImG9vyxpdx
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/mistral-elastic\nLocation: 33 New Montgomery St\
- , San Francisco\, CA 94105\, USA\nHost: You Know\, for Search\nCategories:
-  ai\nSource: luma-html/san-francisco
-LOCATION:33 New Montgomery St\, San Francisco\, CA 94105\, USA
-URL:https://lu.ma/mistral-elastic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Building Voice AI That Holds Up in Production: Coval x Cloudflare
-DTSTART:20261104T013000Z
-DTEND:20261104T040000Z
-DTSTAMP:20261103T225157Z
-UID:evt-iVsssLvbwKj7Ptq
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/iq4hna2x\nLocation: 101 Townsend St\, San Franci
- sco\, CA 94107\, USA\nHost: Coval\nCategories: ai\nSource: luma-html/san-f
- rancisco
-LOCATION:101 Townsend St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/iq4hna2x
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:An Evening with Denmark's AI Enterprise Alliance
 DTSTART:20261105T013000Z
 DTEND:20261105T043000Z
-DTSTAMP:20261103T225157Z
+DTSTAMP:20261104T044212Z
 UID:evt-oSHzpUsMOYMMLi8
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/1fv8wanp\nLocation: Menlo Park\, CA\nHost: Denma
@@ -43,10 +17,24 @@ LOCATION:Menlo Park\, CA
 URL:https://lu.ma/1fv8wanp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Braintrust CEO Ankur and Greylock Partner Corinne on how agents ar
+ e changing evals
+DTSTART:20261106T020000Z
+DTEND:20261106T043000Z
+DTSTAMP:20261104T044212Z
+UID:evt-03gXuhi7iBCshRM
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/baseten-g3n4\nLocation: 560 Davis St suite 250\,
+  San Francisco\, CA 94111\, USA\nHost: Baseten Events\nCategories: ai\nSou
+ rce: luma-html/san-francisco
+LOCATION:560 Davis St suite 250\, San Francisco\, CA 94111\, USA
+URL:https://lu.ma/baseten-g3n4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261103T225157Z
+DTSTAMP:20261104T044212Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
