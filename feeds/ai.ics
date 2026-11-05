@@ -9,7 +9,7 @@ SUMMARY:Braintrust CEO Ankur and Greylock Partner Corinne on how agents ar
  e changing evals
 DTSTART:20261106T020000Z
 DTEND:20261106T043000Z
-DTSTAMP:20261105T135558Z
+DTSTAMP:20261105T231448Z
 UID:evt-03gXuhi7iBCshRM
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/baseten-g3n4\nLocation: 560 Davis St suite 250\,
@@ -19,23 +19,23 @@ LOCATION:560 Davis St suite 250\, San Francisco\, CA 94111\, USA
 URL:https://lu.ma/baseten-g3n4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Corgi x The Prompting Company Run Club
-DTSTART:20261108T170000Z
-DTEND:20261108T200000Z
-DTSTAMP:20261105T135558Z
-UID:evt-CmgAMj22nNOxo7r
+SUMMARY:Grok Bot Build Day SF: Real-World Agents
+DTSTART:20261107T200000Z
+DTEND:20261108T030000Z
+DTSTAMP:20261105T231448Z
+UID:evt-A5EXdRTq5NeMn2X
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/usecorgi-gj38\nLocation: Corgi Cafe\, 9 Claude L
- n\, San Francisco\, CA 94108\, USA\nHost: Corgi\nCategories: ai\nSource: l
- uma-html/san-francisco
-LOCATION:Corgi Cafe\, 9 Claude Ln\, San Francisco\, CA 94108\, USA
-URL:https://lu.ma/usecorgi-gj38
+DESCRIPTION:https://lu.ma/ba9sivsv\nLocation: 1050 Sansome St\, San Franci
+ sco\, CA 94111\, USA\nHost: SpaceXSI for San Francisco\, US\nCategories: a
+ i\nSource: luma-html/san-francisco
+LOCATION:1050 Sansome St\, San Francisco\, CA 94111\, USA
+URL:https://lu.ma/ba9sivsv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261105T135558Z
+DTSTAMP:20261105T231448Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
