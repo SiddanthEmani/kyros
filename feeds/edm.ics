@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:PEOPLE'S DISCO featuring DJ Alvaro
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af83a0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alv
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -123,25 +123,10 @@ URL:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-du-nord-t
  ickets/14351274
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teddy Swims: The UGLY Tour
-DTSTART:20261111T030000Z
-DTEND:20261111T050000Z
-DTSTAMP:20261104T230913Z
-UID:G5vYZ_FnHI2eZ
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
- ncisco-california-11-10-2026/event/1C00648ABCA0F080\nVenue: Chase Center\n
- Location: 300 16th Street\, San Francisco\, CA\nGenres: Music\, Pop\, Elec
- tro Pop\nHost: AEG LIVE\nCategories: edm\nSource: ticketmaster/music
-LOCATION:300 16th Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
- alifornia-11-10-2026/event/1C00648ABCA0F080
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -166,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -194,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -207,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -223,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -237,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -250,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -266,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -280,7 +265,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -298,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -311,5 +296,22 @@ DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
 LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets/1430100
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+DTSTAMP:20261105T045625Z
+UID:G5vYZ_5CHDJie
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
+ r-oakland-california-12-04-2026/event/1C0064B3BCEE6B02\nVenue: Oakland Are
+ na\nLocation: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Dance/Elec
+ tronic\, Amapiano\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticke
+ tmaster/music\n\n18+ recommended but all ages welcome - No refunds\, no ex
+ changes -18+ recommended but all ages welcome
+LOCATION:7000 Coliseum Way\, Oakland\, CA
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oaklan
+ d-california-12-04-2026/event/1C0064B3BCEE6B02
 END:VEVENT
 END:VCALENDAR

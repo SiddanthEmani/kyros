@@ -5,23 +5,11 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:An Evening with Denmark's AI Enterprise Alliance
-DTSTART:20261105T013000Z
-DTEND:20261105T043000Z
-DTSTAMP:20261104T230913Z
-UID:evt-oSHzpUsMOYMMLi8
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/1fv8wanp\nLocation: Menlo Park\, CA\nHost: Denma
- rk in Silicon Valley\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Menlo Park\, CA
-URL:https://lu.ma/1fv8wanp
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Braintrust CEO Ankur and Greylock Partner Corinne on how agents ar
  e changing evals
 DTSTART:20261106T020000Z
 DTEND:20261106T043000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:evt-03gXuhi7iBCshRM
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/baseten-g3n4\nLocation: 560 Davis St suite 250\,
@@ -34,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d

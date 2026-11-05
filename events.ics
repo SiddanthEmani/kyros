@@ -5,23 +5,11 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[AI] An Evening with Denmark's AI Enterprise Alliance
-DTSTART:20261105T013000Z
-DTEND:20261105T043000Z
-DTSTAMP:20261104T230913Z
-UID:evt-oSHzpUsMOYMMLi8
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/1fv8wanp\nLocation: Menlo Park\, CA\nHost: Denma
- rk in Silicon Valley\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Menlo Park\, CA
-URL:https://lu.ma/1fv8wanp
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] Braintrust CEO Ankur and Greylock Partner Corinne on how agen
  ts are changing evals
 DTSTART:20261106T020000Z
 DTEND:20261106T043000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:evt-03gXuhi7iBCshRM
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/baseten-g3n4\nLocation: 560 Davis St suite 250\,
@@ -34,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -53,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 30th Arab Film Festival at SF’s AMC Kabuki (Nov. 5-14)
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T210000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261105-30tharabfilmfestivalatsf
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/30th-arab-film-festival-sfs-amc-kabuki
@@ -85,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -109,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] AZ Chike
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af16j0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/az-chike-brick-and-mortar-musi
@@ -122,27 +110,10 @@ URL:https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-t
  ickets/14287724
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay] Studio 8 Film Festival
-DTSTART;TZID=America/Los_Angeles:20261106T193000
-DTEND;TZID=America/Los_Angeles:20261107T140000
-DTSTAMP:20261104T230913Z
-UID:funcheap-20261106-studio8filmfestival
-CATEGORIES:community
-DESCRIPTION:https://sf.funcheap.com/studio-8-film-festival/\nLocation: san
-  francisco\nCategories: community\nSource: funcheap/san-francisco\n\nThe 3
- rd Annual Studio 8 Film Festival celebrates the filmmaking of San Francisc
- o Art Institute (SFAI) alumni\, faculty\, and staff. Friday\, November 6\,
-  7:30pm &Saturday\, November 7\, 2pm\, 4-Star Theater Juror Films & Open C
- all Screening Sunday\, November 8\, 12:30pm\, Roxie Theater Legacy Award H
- onoree: Babeth Mondini VanLoo
-LOCATION:san francisco
-URL:https://sf.funcheap.com/studio-8-film-festival/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -166,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] PEOPLE'S DISCO featuring DJ Alvaro
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af83a0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alv
@@ -186,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -201,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] ROCK EN ESPANOL NIGHT
 DTSTART:20261107T050000Z
 DTEND:20261107T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1A4ZtQK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/rock-en-espanol-night-the-ritz
@@ -220,10 +191,40 @@ URL:https://www.ticketweb.com/event/rock-en-espanol-night-the-ritz-tickets
  /15029693
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Fort Mason Night Market 2026 w/ 70+ Makers (SF)
+DTSTART;TZID=America/Los_Angeles:20261106T220000
+DTEND;TZID=America/Los_Angeles:20261107T170000
+DTSTAMP:20261105T045625Z
+UID:funcheap-20261106-fortmasonnightmarket2026
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/fort-mason-night-market-2026-70-makers
+ -sf/\nLocation: san francisco\nPrice: Free\nCategories: community\, free\n
+ Source: funcheap/san-francisco\n\nFort Mason Center hosts a free night mar
+ ket with more than 70 artist and designer craftspeople\, food and drinks f
+ rom more than 25 Off the Grid vendors\, live music by Anna Hillburg\, and 
+ a DJ set by Cole Odin. The event is presented with Fort Mason Center for A
+ rts & Culture\, West Coast Craft\, Off the Grid\, and Stern Grove Festival
+ . Pets are welcome. Original Event Description: _In honor of the @valkyrie
+ s winning the @wnba championship\, we are hosting a @fortmasoncenter night
+  market this Friday! (Okay\, we already had the night market planned but w
+ e’re still celebrating!!) 𓆃 Friday\, November 6\, 5–10pm 𓆃 70+ a
+ rtist and designer craftspeople 𓆃 Food and drinks from 25+ @offthegrids
+ f vendors 𓆃 Live music by @anna.hillburg and DJ @coleodin \, presented 
+ by @sterngrovefestival 𓆃 Free admission & pets welcome 🪲 Poster by t
+ he brilliant @goodbye_press 𓁿_ Text extracted from provided image: Frid
+ ay\, November 6 5pm to 10pm Presented with Fort Mason Center for Arts & Cu
+ lture\, West Coast Craft\, & Off the Grid FORT MASON Night Market Music by
+  Anna Hillburg and DJ Cole Odin\, presented by Stern Grove Festival Pets W
+ elcome SAN FRANCISCO Free Admission @westcoastcraft West Coast Craft Event
+ s featuring the
+LOCATION:san francisco
+URL:https://sf.funcheap.com/fort-mason-night-market-2026-70-makers-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Bay] Total Vibez Live
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1A7PKeb
 CATEGORIES:community
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1A7PKeb\nVenue: Lake 
@@ -236,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -255,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -284,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -301,7 +302,7 @@ SUMMARY:[Bay/Free] “History in Motion” Free Grand Opening Celebration
  (San Mateo County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -328,33 +329,10 @@ URL:https://sf.funcheap.com/history-motion-free-grand-opening-celebration-
  san-mateo-county-history-museum/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Sincere Cider x Johnny Doughnuts: Apple Cider Donut Tas
- ting at Palmer’s Tavern
-DTSTART;TZID=America/Los_Angeles:20261107T190000
-DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261104T230913Z
-UID:funcheap-20261107-sincereciderxjohnnydough
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-c
- ider-donut-tasting-palmers-tavern/\nLocation: san francisco\nPrice: Free\n
- Categories: community\, free\nSource: funcheap/san-francisco\n\nSincere Ci
- der and Johnny Doughnuts are teaming up on Apple Cider Donut\, a limited-r
- elease cider inspired by the classic fall treat. Made with apple juice\, c
- innamon\, and sugar\, the cider is naturally gluten-free\, vegan\, and 5.9
- % ABV. The tasting tour stops at Palmer’s Tavern in San Francisco. Be on
- e of the first to sip the collaboration from two of the Bay Area’s most 
- beloved local brands. This is the last tasting before the tour’s grand f
- inale at the Spark Social Cider Fest in San Francisco on November 7. The c
- ider is only available for a limited time and while supplies last.
-LOCATION:san francisco
-URL:https://sf.funcheap.com/sincere-cider-johnny-doughnuts-apple-cider-don
- ut-tasting-palmers-tavern/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -371,7 +349,7 @@ SUMMARY:[Bay/Free] “Autumn In Willow Glen” 2026: Free Makers Market (S
  an Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -404,7 +382,7 @@ SUMMARY:[Bay/Free] National STEM Day at The Tech Interactive: Free Admissi
  on (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -437,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] 454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -474,7 +452,7 @@ SUMMARY:[Live] LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage
   Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -499,7 +477,7 @@ SUMMARY:[Free] Free “Diwali on the Square” Celebration at St. Marks (S
  F)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -526,26 +504,11 @@ LOCATION:south bay
 URL:https://sf.funcheap.com/free-diwali-square-celebration-st-marks-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EDM] Teddy Swims: The UGLY Tour
-DTSTART:20261111T030000Z
-DTEND:20261111T050000Z
-DTSTAMP:20261104T230913Z
-UID:G5vYZ_FnHI2eZ
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
- ncisco-california-11-10-2026/event/1C00648ABCA0F080\nVenue: Chase Center\n
- Location: 300 16th Street\, San Francisco\, CA\nGenres: Music\, Pop\, Elec
- tro Pop\nHost: AEG LIVE\nCategories: edm\nSource: ticketmaster/music
-LOCATION:300 16th Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
- alifornia-11-10-2026/event/1C00648ABCA0F080
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Free] Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (
  2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -575,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -600,7 +563,7 @@ SUMMARY:[Live/Free] SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jos
  e\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -636,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Natanya
 DTSTART:20261113T040000Z
 DTEND:20261113T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfJZfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/natanya-brick-and-mortar-music
@@ -654,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -679,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Oso Oso\, Liquid Mike\, Bugsy
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1A4ZzjK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-
@@ -694,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Alameda Artworks Open Studios (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T170000
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:funcheap-20261114-alamedaartworksopenstudi
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/alameda-artworks-open-studios-nov-1415
@@ -720,25 +683,10 @@ LOCATION:Alameda Artworks\, 1068 The Alameda\, San Jose\, CA 95126 (near d
 URL:https://sf.funcheap.com/alameda-artworks-open-studios-nov-1415/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live] TRSH\, Adjust The Sails\, Dear Maryanne\, Dear Cincinnati
-DTSTART:20261115T020000Z
-DTEND:20261115T040000Z
-DTSTAMP:20261104T230913Z
-UID:rZ7HnEZ1AfJpkd
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the
- -ritz-tickets/14996183\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose
- \, CA\nPrice: $28-$521\nGenres: Music\, Rock\, Emo\nCategories: concert\nS
- ource: ticketmaster/music
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the-ritz-ti
- ckets/14996183
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM] WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -766,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -776,44 +724,10 @@ LOCATION:900 Marin St\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Free Georgia O’Keeffe Exhibition Walkthrough (Palo Al
- to)
-DTSTART;TZID=America/Los_Angeles:20261115T190000
-DTEND;TZID=America/Los_Angeles:20261115T210000
-DTSTAMP:20261104T230913Z
-UID:funcheap-20261115-freegeorgiaokeeffeexhibi
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkth
- rough-palo-alto/\nVenue: she learned the techniques of traditional paintin
- g. By the mid-1920s\, O’Keeffe w\nPrice: Free\nCategories: community\, f
- ree\nSource: funcheap/east-bay\n\nCelebrating the grand opening of Hauser 
- & Wirth Palo Alto and its inaugural exhibition\, ‘Calder | O’Keeffe\,
- ’ please join us during our first day-long program of talks\, readings\,
-  performances\, books\, music and food\, for an exhibition walkthrough wit
- h Georgia O’Keeffe Director of Curatorial Affairs Dr. Laura Wertheim Jos
- eph and distinguished scholar and professor of American culture at Stanfor
- d University\, Alexander Nemerov to discuss the artist Georgia O’Keeffe 
- and her exceptional works on view. Developed in close collaboration with t
- he Calder Foundation\, ‘Calder | O’Keeffe’ brings together works by 
- Alexander Calder and Georgia O’Keeffe\, complemented by archival materia
- ls documenting their decades-long friendship. Georgia O’Keeffe once rema
- rked that she recognized her own ‘pelvis bone holes’ in Calder’s for
- ms—a striking moment of artistic recognition that speaks to the unexpect
- ed links between their practices. By offering a fresh perspective on Calde
- r and O’Keeffe’s little-known friendship\, this exhibition takes its p
- lace alongside a series of presentations we’ve organized over the past 3
- 5 years\, aimed at revealing new and previously unexplored pathways in the
-  language of modernism
-LOCATION:she learned the techniques of traditional painting. By the mid-19
- 20s\, O’Keeffe w
-URL:https://sf.funcheap.com/free-georgia-okeeffe-exhibition-walkthrough-pa
- lo-alto/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -837,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -853,7 +767,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -869,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -883,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -909,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -922,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -938,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -954,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -964,10 +878,42 @@ LOCATION:1015 Folsom Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa 
+ Clara (Nov. 27-28)
+DTSTART;TZID=America/Los_Angeles:20261127T190000
+DTEND;TZID=America/Los_Angeles:20261127T210000
+DTSTAMP:20261105T045625Z
+UID:funcheap-20261127-sjmadeholidaycraftfair20
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
+ -santa-clara-nov-2728/\nLocation: san jose\nPrice: Free\nCategories: commu
+ nity\, free\nSource: funcheap/san-jose\n\nSJMADE Holiday Fair returns to t
+ he Santa Clara Convention Center for Black Friday and Small Business Satur
+ day with more than 350 makers\, artists\, designers\, illustrators\, artis
+ ans\, bakers\, crafters\, and creative small businesses. The free indoor h
+ oliday shopping fair includes free parking\, an event-exclusive grocery ba
+ g giveaway for the first 1\,000 attendees each day\, and an Event Ski Stam
+ p Station at Info Booth A. Original Event Description: _View the 2nd previ
+ ew of this year’s SJMADE Holiday Fair 2026\, the Bay Area’s largest ho
+ liday craft fair. Happening on Nov. 27 (Black Friday) and Nov. 28 (Small B
+ usiness Saturday). Featuring over 350+ of some of the very\, very\, very b
+ est makers\, artists\, designers\, illustrators\, artisans\, bakers\, craf
+ ters and creative small businesses all in one fun\, festive holiday shoppi
+ ng experience! Featured in the Preview: @Sherryloustudio (G19) @prettyugly
+ ceramics (O10) @xiaoarts (P07) @yokyhandmade (D15) @the_grace_treasures (I
+ 11) @joongdesign (C12) @stitchesbytiff (D12) @repeccas (Q03) @woolbuddy (A
+ 16) @owlhaireddesigns (L13) @oddrabbits (C02) @hemleva (H24) @smoleart (G0
+ 8) @thehungryslothco (N18) @bobodesignstudio (H11\, H12) @morninglorias (O
+ 09) @jean
+LOCATION:san jose
+URL:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers-santa-c
+ lara-nov-2728/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -983,7 +929,7 @@ SUMMARY:[EDM] Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\,
  Cyberpunk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -1001,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -1014,5 +960,37 @@ DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
 LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets/1430100
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+DTSTAMP:20261105T045625Z
+UID:G5vYZ_5CHDJie
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
+ r-oakland-california-12-04-2026/event/1C0064B3BCEE6B02\nVenue: Oakland Are
+ na\nLocation: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Dance/Elec
+ tronic\, Amapiano\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticke
+ tmaster/music\n\n18+ recommended but all ages welcome - No refunds\, no ex
+ changes -18+ recommended but all ages welcome
+LOCATION:7000 Coliseum Way\, Oakland\, CA
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oaklan
+ d-california-12-04-2026/event/1C0064B3BCEE6B02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Live] Mannheim Steamroller Christmas
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+DTSTAMP:20261105T045625Z
+UID:G5vYZ_CjHxbFf
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
+ n-jose-california-12-04-2026/event/1C0064E73C898214\nVenue: San Jose Civic
+ \nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, New Age\nH
+ ost: NEDERLANDER CONCERTS\nCategories: concert\nSource: ticketmaster/music
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/mannheim-steamroller-christmas-san-jose-c
+ alifornia-12-04-2026/event/1C0064E73C898214
 END:VEVENT
 END:VCALENDAR

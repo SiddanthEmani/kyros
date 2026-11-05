@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Moby (18+)
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_o9y4oMN
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Don Omar "The Last King World Tour"
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1MqembE
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:AZ Chike
 DTSTART:20261106T040000Z
 DTEND:20261106T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af16j0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/az-chike-brick-and-mortar-musi
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:PEOPLE'S DISCO featuring DJ Alvaro
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af83a0
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alv
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:ROCK EN ESPANOL NIGHT
 DTSTART:20261107T050000Z
 DTEND:20261107T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1A4ZtQK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/rock-en-espanol-night-the-ritz
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -285,25 +285,10 @@ URL:https://www.ticketmaster.com/live-105-presents-the-smashing-pumpkins-s
  an-jose-california-11-08-2026/event/1C0064AEFCB78A38
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teddy Swims: The UGLY Tour
-DTSTART:20261111T030000Z
-DTEND:20261111T050000Z
-DTSTAMP:20261104T230913Z
-UID:G5vYZ_FnHI2eZ
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
- ncisco-california-11-10-2026/event/1C00648ABCA0F080\nVenue: Chase Center\n
- Location: 300 16th Street\, San Francisco\, CA\nGenres: Music\, Pop\, Elec
- tro Pop\nHost: AEG LIVE\nCategories: edm\nSource: ticketmaster/music
-LOCATION:300 16th Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
- alifornia-11-10-2026/event/1C00648ABCA0F080
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -327,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -363,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Natanya
 DTSTART:20261113T040000Z
 DTEND:20261113T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfJZfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/natanya-brick-and-mortar-music
@@ -381,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -406,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Oso Oso\, Liquid Mike\, Bugsy
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1A4ZzjK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-
@@ -418,25 +403,10 @@ URL:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-ritz-tic
  kets/15038713
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TRSH\, Adjust The Sails\, Dear Maryanne\, Dear Cincinnati
-DTSTART:20261115T020000Z
-DTEND:20261115T040000Z
-DTSTAMP:20261104T230913Z
-UID:rZ7HnEZ1AfJpkd
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the
- -ritz-tickets/14996183\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose
- \, CA\nPrice: $28-$521\nGenres: Music\, Rock\, Emo\nCategories: concert\nS
- ource: ticketmaster/music
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the-ritz-ti
- ckets/14996183
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -464,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -477,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -501,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -517,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -533,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -547,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -573,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -586,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -602,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -618,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -631,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -647,7 +617,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -665,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261104T230913Z
+DTSTAMP:20261105T045625Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -678,5 +648,37 @@ DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
 LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets/1430100
  4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART:20261205T030000Z
+DTEND:20261205T050000Z
+DTSTAMP:20261105T045625Z
+UID:G5vYZ_5CHDJie
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
+ r-oakland-california-12-04-2026/event/1C0064B3BCEE6B02\nVenue: Oakland Are
+ na\nLocation: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Dance/Elec
+ tronic\, Amapiano\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticke
+ tmaster/music\n\n18+ recommended but all ages welcome - No refunds\, no ex
+ changes -18+ recommended but all ages welcome
+LOCATION:7000 Coliseum Way\, Oakland\, CA
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oaklan
+ d-california-12-04-2026/event/1C0064B3BCEE6B02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mannheim Steamroller Christmas
+DTSTART:20261205T040000Z
+DTEND:20261205T060000Z
+DTSTAMP:20261105T045625Z
+UID:G5vYZ_CjHxbFf
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
+ n-jose-california-12-04-2026/event/1C0064E73C898214\nVenue: San Jose Civic
+ \nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, New Age\nH
+ ost: NEDERLANDER CONCERTS\nCategories: concert\nSource: ticketmaster/music
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/mannheim-steamroller-christmas-san-jose-c
+ alifornia-12-04-2026/event/1C0064E73C898214
 END:VEVENT
 END:VCALENDAR
