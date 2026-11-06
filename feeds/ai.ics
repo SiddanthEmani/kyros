@@ -5,24 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Braintrust CEO Ankur and Greylock Partner Corinne on how agents ar
- e changing evals
-DTSTART:20261106T020000Z
-DTEND:20261106T043000Z
-DTSTAMP:20261105T231448Z
-UID:evt-03gXuhi7iBCshRM
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/baseten-g3n4\nLocation: 560 Davis St suite 250\,
-  San Francisco\, CA 94111\, USA\nHost: Baseten Events\nCategories: ai\nSou
- rce: luma-html/san-francisco
-LOCATION:560 Davis St suite 250\, San Francisco\, CA 94111\, USA
-URL:https://lu.ma/baseten-g3n4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grok Bot Build Day SF: Real-World Agents
 DTSTART:20261107T200000Z
 DTEND:20261108T030000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:evt-A5EXdRTq5NeMn2X
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ba9sivsv\nLocation: 1050 Sansome St\, San Franci
@@ -32,10 +18,23 @@ LOCATION:1050 Sansome St\, San Francisco\, CA 94111\, USA
 URL:https://lu.ma/ba9sivsv
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Corgi x The Prompting Company Run Club
+DTSTART:20261108T170000Z
+DTEND:20261108T200000Z
+DTSTAMP:20261106T045645Z
+UID:evt-CmgAMj22nNOxo7r
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/usecorgi-gj38\nLocation: Corgi Cafe\, 9 Claude L
+ n\, San Francisco\, CA 94108\, USA\nHost: Corgi\nCategories: ai\nSource: l
+ uma-html/san-francisco
+LOCATION:Corgi Cafe\, 9 Claude Ln\, San Francisco\, CA 94108\, USA
+URL:https://lu.ma/usecorgi-gj38
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -66,5 +65,32 @@ DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
 LOCATION:2174 Market St.\, San Francisco\, CA
 URL:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-du-nord-t
  ickets/14351274
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
+DTSTART;TZID=America/Los_Angeles:20261114T190000
+DTEND;TZID=America/Los_Angeles:20261114T210000
+DTSTAMP:20261106T045645Z
+UID:funcheap-20261114-sfs2026epicaimegajamwcas
+CATEGORIES:ai
+DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
+ ov-1415/\nVenue: access – A registration on the 2026 Epic AI MegaJam itc
+ h.io page to submit your\nCategories: ai\nSource: funcheap/san-francisco\n
+ \nJoin the 2026 Epic AI MegaJam in person in San Francisco. Build a playab
+ le game in Unreal Engine or UEFN with up to four teammates Spend the final
+  weekend of the 2026 Epic AI MegaJam building in person at Digital Jungle 
+ in San Francisco\, November 14–15. You’ll jam alongside teams from Ant
+ hropic\, Google\, Meshy\, OpenAI\, and SpaceXSI. Team up with up to four o
+ ther humans and unlimited agents to build a playable game in Unreal Engine
+  or Unreal Editor for Fortnite (UEFN)\, and compete for cash prizes. Bring
+  AI into your workflow\, from asset generation to coding agents. Prototype
+  the mechanic you never had time for\, or try the art style you weren’t 
+ sure you could pull off. The jam kicks off online on November 12\, so you 
+ can start building early and bring your project with you. To jam in person
+ \, you need both: – An Eventbrite ticket for venue access – A registra
+ tion on the 2026 Epic AI MegaJam itch.io page to submit your game
+LOCATION:access – A registration on the 2026 Epic AI MegaJam itch.io pag
+ e to submit your
+URL:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-nov-1415/
 END:VEVENT
 END:VCALENDAR

@@ -5,29 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Moby (18+)
-DTSTART:20261106T030000Z
-DTEND:20261106T050000Z
-DTSTAMP:20261105T231448Z
-UID:G5vYZ_o9y4oMN
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
- 11-05-2026/event/1C006515F9551DE3\nVenue: Bill Graham Civic Auditorium\nLo
- cation: 99 Grove Street\, San Francisco\, CA\nGenres: Music\, Dance/Electr
- onic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmast
- er/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or passport 
- will be required for entry. Do not bring a photo or digital copy. THIS SHO
- W IS 18+ ONLY. A physical drivers license or passport will be required for
-  entry. Do not bring a photo or digital copy.
-LOCATION:99 Grove Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/moby-18-san-francisco-california-11-05-20
- 26/event/1C006515F9551DE3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -48,30 +29,10 @@ URL:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san-jose-ca
  lifornia-11-06-2026/event/1C00646B944392BB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PEOPLE'S DISCO featuring DJ Alvaro
-DTSTART:20261107T040000Z
-DTEND:20261107T060000Z
-DTSTAMP:20261105T231448Z
-UID:rZ7HnEZ1Af83a0
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alv
- aro-moes-alley-tickets/14412264\nVenue: Moe's Alley\nLocation: 1535 Commer
- cial Way\, Santa Cruz\, CA\nGenres: Music\, Dance/Electronic\, Disco\nCate
- gories: edm\nSource: ticketmaster/music\n\nPeople's Disco is back featurin
- g DJ Alvaro! Friday\, November 6\, 2026 Show: 8pm *No Cover* 21+ This is a
-  free event\, but it is strictly 21 and over\, so remember your ID! This e
- vent is 21 and over. Any ticket holder unable to present valid identificat
- ion indicating that they are at least 21 years of age will not be admitted
-  to this event\, and will not be eligible for a refund.
-LOCATION:1535 Commercial Way\, Santa Cruz\, CA
-URL:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alvaro-moes
- -alley-tickets/14412264
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -90,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -126,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -151,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -179,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -192,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -208,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -222,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -235,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -252,7 +213,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -270,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -288,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -305,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -313,5 +274,44 @@ DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015
   Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
 LOCATION:1015 Folsom Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART:20261206T030000Z
+DTEND:20261206T050000Z
+DTSTAMP:20261106T045645Z
+UID:G5vYZ_5925f5N
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
+ r-oakland-california-12-05-2026/event/1C0064B5CF2D42E3\nVenue: Oakland Are
+ na\nLocation: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Dance/Elec
+ tronic\, Amapiano\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticke
+ tmaster/music\n\n18+ recommended but all ages welcome - No refunds\, no ex
+ changes -18+ recommended but all ages welcome
+LOCATION:7000 Coliseum Way\, Oakland\, CA
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oaklan
+ d-california-12-05-2026/event/1C0064B5CF2D42E3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:it's murph (18+)
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+DTSTAMP:20261106T045645Z
+UID:G5vYZ_88s7zuR
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
+ rnia-12-05-2026/event/1C0065043113836F\nVenue: Bill Graham Civic Auditoriu
+ m\nLocation: 99 Grove Street\, San Francisco\, CA\nGenres: Music\, Dance/E
+ lectronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticke
+ tmaster/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or pass
+ port will be required for entry. Do not bring a photo or digital copy. Ple
+ ase be sure to select the lowest available price level first. There are a 
+ limited number of tickets available at each price level. All price levels 
+ provide the same concert experience. All tickets for this show are general
+  admission\, standing on floor level or seated upstairs on a first come\, 
+ first serve basis.
+LOCATION:99 Grove Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/its-murph-18-san-francisco-california-12-
+ 05-2026/event/1C0065043113836F
 END:VEVENT
 END:VCALENDAR

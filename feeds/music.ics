@@ -5,69 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Moby (18+)
-DTSTART:20261106T030000Z
-DTEND:20261106T050000Z
-DTSTAMP:20261105T231448Z
-UID:G5vYZ_o9y4oMN
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/moby-18-san-francisco-california-
- 11-05-2026/event/1C006515F9551DE3\nVenue: Bill Graham Civic Auditorium\nLo
- cation: 99 Grove Street\, San Francisco\, CA\nGenres: Music\, Dance/Electr
- onic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticketmast
- er/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or passport 
- will be required for entry. Do not bring a photo or digital copy. THIS SHO
- W IS 18+ ONLY. A physical drivers license or passport will be required for
-  entry. Do not bring a photo or digital copy.
-LOCATION:99 Grove Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/moby-18-san-francisco-california-11-05-20
- 26/event/1C006515F9551DE3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Don Omar "The Last King World Tour"
-DTSTART:20261106T040000Z
-DTEND:20261106T060000Z
-DTSTAMP:20261105T231448Z
-UID:G5vYZ_1MqembE
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/don-omar-the-last-king-world-san-
- jose-california-11-05-2026/event/1C0064ADDD0AE627\nVenue: SAP Center at Sa
- n Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, Hip-H
- op/Rap\, Reggaeton\nHost: PROMOTED BY VENUE\nCategories: concert\nSource: 
- ticketmaster/music\n\nSAP Center recommends that fans bring bags that are 
- 5" x 9"x 2" or smaller to expedite their entry. However\, we are happy to 
- accommodate larger bags up to 20" x 14" x 11" in size! When it comes to th
- e larger bags\, please note the following: All bags\, including medical an
- d infant bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection a
- nd will result in longer wait times for entry Bags must be able to fit und
- er your seat once inside the event\; therefore\, bags larger than 20" x 14
- " x 11" will not be permitted. SAP Center no longer offers a bag check opt
- ion and/or onsite storage lockers.
-LOCATION:525 W Santa Clara\, San Jose\, CA
-URL:https://www.ticketmaster.com/don-omar-the-last-king-world-san-jose-cal
- ifornia-11-05-2026/event/1C0064ADDD0AE627
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AZ Chike
-DTSTART:20261106T040000Z
-DTEND:20261106T060000Z
-DTSTAMP:20261105T231448Z
-UID:rZ7HnEZ1Af16j0
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/az-chike-brick-and-mortar-musi
- c-hall-tickets/14287724\nVenue: Brick and Mortar Music Hall\nLocation: 171
- 0 Mission Street \, San Francisco\, CA\nPrice: Free\nGenres: Music\, Hip-H
- op/Rap\, West Coast Rap\nHost: GOLDENVOICE (AEG)\nCategories: concert\, fr
- ee\nSource: ticketmaster/music
-LOCATION:1710 Mission Street \, San Francisco\, CA
-URL:https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-t
- ickets/14287724
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mon Laferte - Femme Fatale Tour
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_kmf8y1D
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san
@@ -88,30 +29,10 @@ URL:https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san-jose-ca
  lifornia-11-06-2026/event/1C00646B944392BB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PEOPLE'S DISCO featuring DJ Alvaro
-DTSTART:20261107T040000Z
-DTEND:20261107T060000Z
-DTSTAMP:20261105T231448Z
-UID:rZ7HnEZ1Af83a0
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alv
- aro-moes-alley-tickets/14412264\nVenue: Moe's Alley\nLocation: 1535 Commer
- cial Way\, Santa Cruz\, CA\nGenres: Music\, Dance/Electronic\, Disco\nCate
- gories: edm\nSource: ticketmaster/music\n\nPeople's Disco is back featurin
- g DJ Alvaro! Friday\, November 6\, 2026 Show: 8pm *No Cover* 21+ This is a
-  free event\, but it is strictly 21 and over\, so remember your ID! This e
- vent is 21 and over. Any ticket holder unable to present valid identificat
- ion indicating that they are at least 21 years of age will not be admitted
-  to this event\, and will not be eligible for a refund.
-LOCATION:1535 Commercial Way\, Santa Cruz\, CA
-URL:https://www.ticketweb.com/event/peoples-disco-featuring-dj-alvaro-moes
- -alley-tickets/14412264
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TRIPTIDES
 DTSTART:20261107T040000Z
 DTEND:20261107T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1Af1b0V
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/triptides-the-crepe-place-tick
@@ -126,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:ROCK EN ESPANOL NIGHT
 DTSTART:20261107T050000Z
 DTEND:20261107T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1A4ZtQK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/rock-en-espanol-night-the-ritz
@@ -148,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Hugel presents: Make The Girls Dance
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_5VOavXh
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
@@ -167,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -196,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Dan + Shay: The Young Tour
 DTSTART:20261108T030000Z
 DTEND:20261108T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_1Wl9AH6
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/dan-shay-the-young-tour-mountain-
@@ -212,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:ALVARO DIAZ - OMAKASE TOUR
 DTSTART:20261108T040000Z
 DTEND:20261108T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_GC885OL
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alvaro-diaz-omakase-tour-san-jose
@@ -228,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -264,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -288,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -312,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -348,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -373,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Oso Oso\, Liquid Mike\, Bugsy
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1A4ZzjK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-
@@ -385,10 +306,25 @@ URL:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-ritz-tic
  kets/15038713
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TRSH\, Adjust The Sails\, Dear Maryanne\, Dear Cincinnati
+DTSTART:20261115T020000Z
+DTEND:20261115T040000Z
+DTSTAMP:20261106T045645Z
+UID:rZ7HnEZ1AfJpkd
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the
+ -ritz-tickets/14996183\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose
+ \, CA\nPrice: $28-$521\nGenres: Music\, Rock\, Emo\nCategories: concert\nS
+ ource: ticketmaster/music
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the-ritz-ti
+ ckets/14996183
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -416,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -429,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -453,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -469,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -485,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -499,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -525,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -538,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -554,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -570,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -586,7 +522,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -604,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -622,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -639,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -654,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -667,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261105T231448Z
+DTSTAMP:20261106T045645Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -686,5 +622,44 @@ DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
 LOCATION:1928 Telegraph Ave\, Oakland\, CA
 URL:https://www.ticketweb.com/event/life-of-the-party-crybaby-tickets/1487
  4723
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART:20261206T030000Z
+DTEND:20261206T050000Z
+DTSTAMP:20261106T045645Z
+UID:G5vYZ_5925f5N
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
+ r-oakland-california-12-05-2026/event/1C0064B5CF2D42E3\nVenue: Oakland Are
+ na\nLocation: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Dance/Elec
+ tronic\, Amapiano\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticke
+ tmaster/music\n\n18+ recommended but all ages welcome - No refunds\, no ex
+ changes -18+ recommended but all ages welcome
+LOCATION:7000 Coliseum Way\, Oakland\, CA
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oaklan
+ d-california-12-05-2026/event/1C0064B5CF2D42E3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:it's murph (18+)
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+DTSTAMP:20261106T045645Z
+UID:G5vYZ_88s7zuR
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
+ rnia-12-05-2026/event/1C0065043113836F\nVenue: Bill Graham Civic Auditoriu
+ m\nLocation: 99 Grove Street\, San Francisco\, CA\nGenres: Music\, Dance/E
+ lectronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\nSource: ticke
+ tmaster/music\n\nTHIS SHOW IS 18+ ONLY. A physical drivers license or pass
+ port will be required for entry. Do not bring a photo or digital copy. Ple
+ ase be sure to select the lowest available price level first. There are a 
+ limited number of tickets available at each price level. All price levels 
+ provide the same concert experience. All tickets for this show are general
+  admission\, standing on floor level or seated upstairs on a first come\, 
+ first serve basis.
+LOCATION:99 Grove Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/its-murph-18-san-francisco-california-12-
+ 05-2026/event/1C0065043113836F
 END:VEVENT
 END:VCALENDAR
