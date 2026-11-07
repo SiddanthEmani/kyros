@@ -5,40 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Fort Mason Night Market 2026 w/ 70+ Makers (SF)
-DTSTART;TZID=America/Los_Angeles:20261106T220000
-DTEND;TZID=America/Los_Angeles:20261107T170000
-DTSTAMP:20261107T042939Z
-UID:funcheap-20261106-fortmasonnightmarket2026
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/fort-mason-night-market-2026-70-makers
- -sf/\nLocation: san francisco\nPrice: Free\nCategories: community\, free\n
- Source: funcheap/san-francisco\n\nFort Mason Center hosts a free night mar
- ket with more than 70 artist and designer craftspeople\, food and drinks f
- rom more than 25 Off the Grid vendors\, live music by Anna Hillburg\, and 
- a DJ set by Cole Odin. The event is presented with Fort Mason Center for A
- rts & Culture\, West Coast Craft\, Off the Grid\, and Stern Grove Festival
- . Pets are welcome. Original Event Description: _In honor of the @valkyrie
- s winning the @wnba championship\, we are hosting a @fortmasoncenter night
-  market this Friday! (Okay\, we already had the night market planned but w
- e’re still celebrating!!) 𓆃 Friday\, November 6\, 5–10pm 𓆃 70+ a
- rtist and designer craftspeople 𓆃 Food and drinks from 25+ @offthegrids
- f vendors 𓆃 Live music by @anna.hillburg and DJ @coleodin \, presented 
- by @sterngrovefestival 𓆃 Free admission & pets welcome 🪲 Poster by t
- he brilliant @goodbye_press 𓁿_ Text extracted from provided image: Frid
- ay\, November 6 5pm to 10pm Presented with Fort Mason Center for Arts & Cu
- lture\, West Coast Craft\, & Off the Grid FORT MASON Night Market Music by
-  Anna Hillburg and DJ Cole Odin\, presented by Stern Grove Festival Pets W
- elcome SAN FRANCISCO Free Admission @westcoastcraft West Coast Craft Event
- s featuring the
-LOCATION:san francisco
-URL:https://sf.funcheap.com/fort-mason-night-market-2026-70-makers-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -68,7 +38,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -98,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 7)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261107-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
@@ -128,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -161,7 +131,7 @@ SUMMARY:National STEM Day at The Tech Interactive: Free Admission (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -195,7 +165,7 @@ SUMMARY:“LoveFest SF” Free 7-Hour Reggae Festival in Golden Gate Park
  + Food Drive (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261108-lovefestsffree7hourregga
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lovefest-sf-free-7hour-reggae-festival
@@ -228,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -258,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -288,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -324,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 21)
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261121-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
@@ -355,7 +325,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -381,5 +351,35 @@ DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
 LOCATION:san jose
 URL:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers-santa-c
  lara-nov-2728/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Dec. 5)
+DTSTART;TZID=America/Los_Angeles:20261205T190000
+DTEND;TZID=America/Los_Angeles:20261205T210000
+DTSTAMP:20261107T122224Z
+UID:funcheap-20261205-freetixdrunktheatresfswi
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-d
+ ec-5/\nLocation: san francisco\nPrice: Free\nCategories: community\, free\
+ nSource: funcheap/san-francisco\n\nA comedian takes five shots of whiskey 
+ in a row and tries to perform an improvised play with five sober comedians
+ . What could go wrong?! Drunk Theatre is the entirely improvised\, unpredi
+ ctable\, and crazy comedy show that’ll kick your weekend into overdrive.
+  See what the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\, Thrilli
+ st\, and TimeOut have all been talking about. This unpredictable improv co
+ medy show blends chaos\, sharp wit\, and audience interaction for a truly 
+ one‑of‑a‑kind night out in the Bay Area. Drunk Theatre SF Saturday N
+ ights in December Eclectic Box\, 446 Valencia Street\, SF Get FREE Tickets
+  – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door D
+ oor opens at 9:15pm\, show starts at 9:30pm (starts promptly) Limited tick
+ et availability at the door. *The event is open to all ages\, but the come
+ dy may not be suitable for children. 24-hour notice is required for cancel
+ ations. Late cancelations may be transferred to another show date of your 
+ choosing. Seating is first come\, first serve. Parties later than 15-20 mi
+ nutes may have their tickets sold at the door. 2026 San Francisco Drunk Th
+ eatre Schedule November – December 2026 shows Saturday\, November 7\, 20
+ 26 | 8:0
+LOCATION:san francisco
+URL:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-dec-5/
 END:VEVENT
 END:VCALENDAR

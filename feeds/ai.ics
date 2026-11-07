@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Grok Bot Build Day SF: Real-World Agents
 DTSTART:20261107T200000Z
 DTEND:20261108T030000Z
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:evt-A5EXdRTq5NeMn2X
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ba9sivsv\nLocation: 1050 Sansome St\, San Franci
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Corgi x The Prompting Company Run Club
 DTSTART:20261108T170000Z
 DTEND:20261108T200000Z
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:evt-CmgAMj22nNOxo7r
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/usecorgi-gj38\nLocation: Corgi Cafe\, 9 Claude L
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -67,10 +67,22 @@ URL:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-du-nord-t
  ickets/14351274
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biryani Maxxing: A Diwali Feast & Multiplayer AI Mixer
+DTSTART:20261111T010000Z
+DTEND:20261111T030000Z
+DTSTAMP:20261107T122224Z
+UID:evt-vg4ZgWNtj8sDm7y
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/biryanimaxxing\nLocation: San Francisco\, CA\nHo
+ st: PromptQL Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/biryanimaxxing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261107T042939Z
+DTSTAMP:20261107T122224Z
 UID:funcheap-20261114-sfs2026epicaimegajamwcas
 CATEGORIES:ai
 DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
