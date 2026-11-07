@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Earlybirds Club
 DTSTART:20261108T020000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:rZ7HnEZ1A4v7oS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/earlybirds-club-the-ritz-ticke
@@ -38,7 +38,7 @@ SUMMARY:“History in Motion” Free Grand Opening Celebration (San Mateo
  County History Museum)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261107-historyinmotionfreegrand
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/history-motion-free-grand-opening-cele
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 7)
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261107-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -131,7 +131,7 @@ SUMMARY:National STEM Day at The Tech Interactive: Free Admission (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -165,7 +165,7 @@ SUMMARY:“LoveFest SF” Free 7-Hour Reggae Festival in Golden Gate Park
  + Food Drive (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261108-lovefestsffree7hourregga
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lovefest-sf-free-7hour-reggae-festival
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -291,10 +291,33 @@ URL:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cathedral-o
  f-faith-tickets/14232924
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
+DTSTART;TZID=America/Los_Angeles:20261121T120000
+DTEND;TZID=America/Los_Angeles:20261121T170000
+DTSTAMP:20261107T212427Z
+UID:funcheap-20261121-sundownbassupfreedjpopup
+CATEGORIES:edm,free
+DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
+ /\nLocation: san francisco\nPrice: Free\nCategories: edm\, free\nSource: f
+ uncheap/san-francisco\n\nSun Down Bass Up is a free outdoor DJ pop-up at C
+ rissy Field’s Airstrip Overlook Trail featuring music by SahrFaiyah and 
+ Meechie\, with additional DJs possible. RSVP is requested before the event
+ . Original Event Description: _Sun Down Bass up! FREE DJ POP UP! Saturday\
+ , Nov 21 12:00pm – 5:00pm Hosted by Crissy Field Airstrip Overlook Trail
+ \, San Francisco\, CA RSVP by Sat\, Nov 21st at 11:59am Follow all things 
+ SahrFaiyah here! Follow all things Meechie here! If you missed us at Criss
+ y Field we’re back with another lit day filled with all types of music &
+  amazing vibes. Don’t miss out this time around!!! Music by: SahrFaiyah 
+ Meechie (May add more DJs) Follow us on social media to keep up & support!
+ !!_
+LOCATION:san francisco
+URL:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 21)
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261121-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
@@ -325,7 +348,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261107T122224Z
+DTSTAMP:20261107T212427Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -351,35 +374,5 @@ DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
 LOCATION:san jose
 URL:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers-santa-c
  lara-nov-2728/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Dec. 5)
-DTSTART;TZID=America/Los_Angeles:20261205T190000
-DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261107T122224Z
-UID:funcheap-20261205-freetixdrunktheatresfswi
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-d
- ec-5/\nLocation: san francisco\nPrice: Free\nCategories: community\, free\
- nSource: funcheap/san-francisco\n\nA comedian takes five shots of whiskey 
- in a row and tries to perform an improvised play with five sober comedians
- . What could go wrong?! Drunk Theatre is the entirely improvised\, unpredi
- ctable\, and crazy comedy show that’ll kick your weekend into overdrive.
-  See what the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\, Thrilli
- st\, and TimeOut have all been talking about. This unpredictable improv co
- medy show blends chaos\, sharp wit\, and audience interaction for a truly 
- one‑of‑a‑kind night out in the Bay Area. Drunk Theatre SF Saturday N
- ights in December Eclectic Box\, 446 Valencia Street\, SF Get FREE Tickets
-  – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door D
- oor opens at 9:15pm\, show starts at 9:30pm (starts promptly) Limited tick
- et availability at the door. *The event is open to all ages\, but the come
- dy may not be suitable for children. 24-hour notice is required for cancel
- ations. Late cancelations may be transferred to another show date of your 
- choosing. Seating is first come\, first serve. Parties later than 15-20 mi
- nutes may have their tickets sold at the door. 2026 San Francisco Drunk Th
- eatre Schedule November – December 2026 shows Saturday\, November 7\, 20
- 26 | 8:0
-LOCATION:san francisco
-URL:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-dec-5/
 END:VEVENT
 END:VCALENDAR
