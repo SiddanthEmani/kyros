@@ -5,47 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Live/Free] (((folkYEAH!))) Presents - Legend Zeppelin *SOLD OUT -
-  THANK YOU!*
-DTSTART:20261108T050000Z
-DTEND:20261108T070000Z
-DTSTAMP:20261108T041339Z
-UID:rZ7HnEZ1AfaEuV
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-legend-moes-
- alley-tickets/14267374\nVenue: Moe's Alley\nLocation: 1535 Commercial Way\
- , Santa Cruz\, CA\nPrice: Free\nGenres: Music\, Rock\, Rock & Roll\nCatego
- ries: concert\, free\nSource: ticketmaster/music\n\n(((folkYEAH!))) presen
- ts Legend Zeppelin! Saturday\, November 7\, 2026 Doors: 8pm / Show: 9pm $2
- 2 in advance / $25 day of the show 21+ * No Refunds | All sales are final 
- * Avoid scammers! Only purchase tickets from moesalley.com or ticketweb.co
- m * Tickets requested by email will be delivered 3 days prior to the event
-  * Will Call tickets will be available at the door on the day of the event
-  ==== LEGEND ZEPPELIN Legend Zeppelin is hands down the greatest live rend
- ition to the music and performance of Led Zeppelin anywhere in the world! 
- From the unmistakeable primal screams of August Young\, to the majestic\, 
- incendiary and inspired guitar work of Joshua Cuevas\, to the extraordinar
- ily mesmerizing rhythm section of Cody Tarbell and Alexis Angel\, this ban
- d proves why they are more than just a \, "rdquo" -> tribute"\, but the da
- wning of a new era of contained chaos\, sonic fusion and cosmic energy tha
- t will leave fans truly in awe of what they are witnessing before their ve
- ry eyes. This isn't a typical tribute band built soley on knowing a catalo
- g of music\, but four musicians who play off of and with each other to cre
- ate a unique performance each night\, just as Led Zeppelin did. Leaving no
-  detail unattended\, from the stage setup built upon the same exact equipm
- ent used by Led Zeppelin down to the spontaneous energy of the songs\, the
-  Legend Zeppelin show is truly the only thing today that can be compared t
- o actually seeing Led Zeppelin live in their time. This event is 21 and ov
- er. Any tic
-LOCATION:1535 Commercial Way\, Santa Cruz\, CA
-URL:https://www.ticketweb.com/event/folkyeah-presents-legend-moes-alley-ti
- ckets/14267374
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] Corgi x The Prompting Company Run Club
 DTSTART:20261108T170000Z
 DTEND:20261108T200000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:evt-CmgAMj22nNOxo7r
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/usecorgi-gj38\nLocation: Corgi Cafe\, 9 Claude L
@@ -59,7 +22,7 @@ SUMMARY:[Bay/Free] “Autumn In Willow Glen” 2026: Free Makers Market (S
  an Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T120000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261108-autumninwillowglen2026fr
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
@@ -92,7 +55,7 @@ SUMMARY:[Bay/Free] National STEM Day at The Tech Interactive: Free Admissi
  on (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -126,7 +89,7 @@ SUMMARY:[Bay/Free] “LoveFest SF” Free 7-Hour Reggae Festival in Golden
   Gate Park + Food Drive (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261108-lovefestsffree7hourregga
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lovefest-sf-free-7hour-reggae-festival
@@ -159,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] 454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -196,7 +159,7 @@ SUMMARY:[Live] LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage
   Tour
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_1DHczIz
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/live-105-presents-the-smashing-pu
@@ -221,7 +184,7 @@ SUMMARY:[Free] Free “Diwali on the Square” Celebration at St. Marks (S
  F)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -251,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Biryani Maxxing: A Diwali Feast & Multiplayer AI Mixer
 DTSTART:20261111T010000Z
 DTEND:20261111T030000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:evt-vg4ZgWNtj8sDm7y
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/biryanimaxxing\nLocation: San Francisco\, CA\nHo
@@ -263,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Teddy Swims: The UGLY Tour
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_FnHI2eZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
@@ -279,7 +242,7 @@ SUMMARY:[Free] Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (
  2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -309,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Pancho Barraza - Al Natural Tour 2024
 DTSTART:20261112T040000Z
 DTEND:20261112T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZbFw_Rd9G
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/pancho-barraza-al-natural-tour-20
@@ -334,7 +297,7 @@ SUMMARY:[Live/Free] SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jos
  e\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -367,10 +330,28 @@ URL:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cathedral-o
  f-faith-tickets/14232924
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live/Free] Natanya
+DTSTART:20261113T040000Z
+DTEND:20261113T060000Z
+DTSTAMP:20261108T124114Z
+UID:rZ7HnEZ1AfJZfS
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/natanya-brick-and-mortar-music
+ -hall-tickets/14980533\nVenue: Brick and Mortar Music Hall\nLocation: 1710
+  Mission Street \, San Francisco\, CA\nPrice: Free\nGenres: Music\, R&B\, 
+ Neo-Soul\nCategories: concert\, free\nSource: ticketmaster/music\n\nThe At
+ titude Tour FOR ANY SHOW THAT IS ALL AGES or 18 & UP: Anyone under 21 year
+ s old must pay an additional $5 at the door in exchange for a non-alcoholi
+ c drink ticket
+LOCATION:1710 Mission Street \, San Francisco\, CA
+URL:https://www.ticketweb.com/event/natanya-brick-and-mortar-music-hall-ti
+ ckets/14980533
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[EDM] Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -395,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Oso Oso\, Liquid Mike\, Bugsy
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1A4ZzjK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-
@@ -410,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] Alameda Artworks Open Studios (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T170000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261114-alamedaartworksopenstudi
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/alameda-artworks-open-studios-nov-1415
@@ -439,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] TRSH\, Adjust The Sails\, Dear Maryanne\, Dear Cincinnati
 DTSTART:20261115T020000Z
 DTEND:20261115T040000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1AfJpkd
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the
@@ -454,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261114-sfs2026epicaimegajamwcas
 CATEGORIES:ai
 DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
@@ -481,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -509,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -522,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Marisela: Eterna Tour 2026
 DTSTART:20261116T030000Z
 DTEND:20261116T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_oL-BPz-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marisela-eterna-tour-2026-san-jos
@@ -537,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -561,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -577,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -593,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -607,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -633,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -647,7 +628,7 @@ SUMMARY:[EDM/Free] “Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (
  SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -671,7 +652,7 @@ SUMMARY:[Bay/Free] FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Sho
  w (Nov. 21)
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261121-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
@@ -701,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -717,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -733,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Los Gemelos de Sinaloa: The Gemeliza Tour
 DTSTART:20261126T040000Z
 DTEND:20261126T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_33P1hxM
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeli
@@ -748,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -762,7 +743,7 @@ SUMMARY:[Bay/Free] SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa
  Clara (Nov. 27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -793,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -809,7 +790,7 @@ SUMMARY:[EDM] Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\,
  Cyberpunk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -827,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -845,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -862,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -877,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -895,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -908,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -932,7 +913,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T133000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261205-district10bayviewfamilys
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/district-10-bayview-family-summit/\nLo
@@ -961,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -979,7 +960,7 @@ SUMMARY:[Bay/Free] FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Sho
  w (Dec. 5)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:funcheap-20261205-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-d
@@ -1009,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -1031,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261108T041339Z
+DTSTAMP:20261108T124114Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
