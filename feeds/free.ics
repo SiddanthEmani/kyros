@@ -5,43 +5,11 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:“Autumn In Willow Glen” 2026: Free Makers Market (San Jose)
-DTSTART;TZID=America/Los_Angeles:20261108T120000
-DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261108T124114Z
-UID:funcheap-20261108-autumninwillowglen2026fr
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-ma
- rket-san-jose/\nVenue: community comes together to support one another. li
- nktr.ee/Sjmarket\nPrice: Free\nCategories: community\, free\nSource: funch
- eap/san-jose\n\nAutumn in Willow Glen is a free fall makers market at the 
- Historic Garden Theater featuring handmade candles\, jewelry\, art\, trink
- ets\, and goods from local small businesses. The family-friendly and pet-f
- riendly event takes place in downtown Willow Glen. Original Event Descript
- ion: _Join us for *Autumn in Willow Glen* a cozy fall makers market filled
-  with handmade goods\, warm vibes\, and community magic ✨ 🕯 Handmade 
- candles 💍 Unique jewelry 🎨 Creative small businesses 📍 Historic G
- arden Theater — Willow Glen\, CA 🗓 November 8\, 2026 ⏰ 12PM–4PM B
- ring your family\, your friends\, and even your pets 🐾 This will be a f
- amily & pet friendly community event celebrating local makers in the heart
-  of @downtownwillowglen 🤎_ Text extracted from provided image: YOU’RE
-  INVITED TO AUTUMN IN WILLOW GLEN Free admission 1165 Lincoln Ave San Jose
-  CA 95125 TRINKETS | VENDORS | ART 11.8.2026 | 12PM – 4PM Shop Small! @D
- owntownwillowglen @SJ.Makers @sj.makers #SanJoseMakers ✨Welcome to the S
- JM community✨ A Market Space for local Artists\, Creatives & small busin
- esses. Where community comes together to support one another. linktr.ee/Sj
- market
-LOCATION:community comes together to support one another. linktr.ee/Sjmark
- et
-URL:https://sf.funcheap.com/autumn-willow-glen-2026-free-makers-market-san
- -jose/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:National STEM Day at The Tech Interactive: Free Admission (San Jos
  e)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261108-nationalstemdayatthetech
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/national-stem-day-tech-interactive-fre
@@ -75,7 +43,7 @@ SUMMARY:“LoveFest SF” Free 7-Hour Reggae Festival in Golden Gate Park
  + Food Drive (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T210000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261108-lovefestsffree7hourregga
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lovefest-sf-free-7hour-reggae-festival
@@ -108,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Free “Diwali on the Square” Celebration at St. Marks (SF)
 DTSTART;TZID=America/Los_Angeles:20261108T213000
 DTEND;TZID=America/Los_Angeles:20261108T233000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261108-freediwalionthesquarecel
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-diwali-square-celebration-st-mark
@@ -138,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -168,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -204,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Natanya
 DTSTART:20261113T040000Z
 DTEND:20261113T060000Z
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:rZ7HnEZ1AfJZfS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/natanya-brick-and-mortar-music
@@ -219,10 +187,32 @@ URL:https://www.ticketweb.com/event/natanya-brick-and-mortar-music-hall-ti
  ckets/14980533
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ezra Collective - Here Because of Hope Tour
+DTSTART:20261113T050000Z
+DTEND:20261113T070000Z
+DTSTAMP:20261108T213843Z
+UID:rZ7HnEZ1AfFAuV
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/ezra-collective-here-bimbos-36
+ 5-club-tickets/14205374\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus 
+ Avenue\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Jazz\nCategories
+ : concert\, free\nSource: ticketmaster/music\n\nEzra Collective21+ ONLY. P
+ lease note - there is a delivery delay set for 2 weeks prior to show. This
+  event is 21 and over. Any ticket holder unable to present valid identific
+ ation indicating that they are at least 21 years of age will not be admitt
+ ed to this event\, and will not be eligible for a refund. Another Planet E
+ ntertainment is committed to producing safe events. Please review our most
+  up-to-date COVID-19 policy requirements for entry at https://apeconcerts.
+ com/health-safety * Policy is subject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/ezra-collective-here-bimbos-365-club-t
+ ickets/14205374
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -245,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 21)
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261121-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
@@ -276,7 +266,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -307,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -331,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Dec. 5)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261108T124114Z
+DTSTAMP:20261108T213843Z
 UID:funcheap-20261205-freetixdrunktheatresfswi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-d
