@@ -5,29 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Hugel presents: Make The Girls Dance
-DTSTART:20261108T020000Z
-DTEND:20261108T040000Z
-DTSTAMP:20261107T212427Z
-UID:G5vYZ_5VOavXh
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/hugel-presents-make-the-girls-dan
- ce-berkeley-california-11-07-2026/event/1C0064BD20241F9B\nVenue: Greek The
- atre-U.C. Berkeley\nLocation: 2001 Gayley Road\, Berkeley\, CA\nGenres: Mu
- sic\, Dance/Electronic\, Amapiano\nHost: ANOTHER PLANET\nCategories: edm\n
- Source: ticketmaster/music\n\n18 & Over Only All events are rain or shine.
-  This show is entirely general admission. A general admission ticket will 
- allow you access to all areas of the Greek Theatre on a first-come\, first
- -served basis. 18 & Over Only
-LOCATION:2001 Gayley Road\, Berkeley\, CA
-URL:https://www.ticketmaster.com/hugel-presents-make-the-girls-dance-berke
- ley-california-11-07-2026/event/1C0064BD20241F9B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:454 with Pig the Gemini\, and Hopper1000 (DJ)
 DTSTART:20261109T040000Z
 DTEND:20261109T060000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:rZ7HnEZ1AfuoaV
 CATEGORIES:ai,edm
 DESCRIPTION:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-d
@@ -60,10 +41,25 @@ URL:https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-du-nord-t
  ickets/14351274
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teddy Swims: The UGLY Tour
+DTSTART:20261111T030000Z
+DTEND:20261111T050000Z
+DTSTAMP:20261108T041339Z
+UID:G5vYZ_FnHI2eZ
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-fra
+ ncisco-california-11-10-2026/event/1C00648ABCA0F080\nVenue: Chase Center\n
+ Location: 300 16th Street\, San Francisco\, CA\nGenres: Music\, Pop\, Elec
+ tro Pop\nHost: AEG LIVE\nCategories: edm\nSource: ticketmaster/music
+LOCATION:300 16th Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-c
+ alifornia-11-10-2026/event/1C00648ABCA0F080
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -88,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -116,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -129,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -145,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -159,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -172,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -195,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -211,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -225,7 +221,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -243,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -261,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -278,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -291,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -308,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261107T212427Z
+DTSTAMP:20261108T041339Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
