@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Biryani Maxxing: A Diwali Feast & Multiplayer AI Mixer
 DTSTART:20261111T010000Z
 DTEND:20261111T030000Z
-DTSTAMP:20261109T042855Z
+DTSTAMP:20261109T150203Z
 UID:evt-vg4ZgWNtj8sDm7y
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/biryanimaxxing\nLocation: San Francisco\, CA\nHo
@@ -21,7 +21,7 @@ SUMMARY:Vlad Tenev (Co-Founder\, RobinHood & HarmonicMath) @ Stanford AI C
  lub
 DTSTART:20261112T013000Z
 DTEND:20261112T023000Z
-DTSTAMP:20261109T042855Z
+DTSTAMP:20261109T150203Z
 UID:evt-nKtRnTU6YARvNW3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/lgekomwt\nLocation: Stanford University CEMEX Au
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261109T042855Z
+DTSTAMP:20261109T150203Z
 UID:funcheap-20261114-sfs2026epicaimegajamwcas
 CATEGORIES:ai
 DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
