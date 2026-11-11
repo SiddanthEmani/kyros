@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Mustache Harbor
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1AfG3O0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-clu
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:It's Raining Queens: Martha Wash and Marsha Warfield
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1AfGb77
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/its-raining-queens-martha-wash
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:MARIS (SOLD OUT)
 DTSTART:20261114T050000Z
 DTEND:20261114T070000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1AfP3FS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
@@ -170,7 +170,7 @@ SUMMARY:“City Gurlz” Group Hike: Discover Glen Canyon Park’s Hidden
  Rock Formations
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261114-citygurlzgrouphikediscov
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-ca
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -295,7 +295,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -380,7 +380,7 @@ SUMMARY:SF’s Free Howard Zinn Book Fair: 40 Panels w/ Authors + Activist
  s (2026)
 DTSTART;TZID=America/Los_Angeles:20261206T100000
 DTEND;TZID=America/Los_Angeles:20261206T180000
-DTSTAMP:20261111T133019Z
+DTSTAMP:20261111T235926Z
 UID:funcheap-20261206-sfsfreehowardzinnbookfai
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-pane
