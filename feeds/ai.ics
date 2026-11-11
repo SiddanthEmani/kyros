@@ -9,7 +9,7 @@ SUMMARY:Vlad Tenev (Co-Founder\, RobinHood & HarmonicMath) @ Stanford AI C
  lub
 DTSTART:20261112T013000Z
 DTEND:20261112T023000Z
-DTSTAMP:20261111T043243Z
+DTSTAMP:20261111T133019Z
 UID:evt-nKtRnTU6YARvNW3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/lgekomwt\nLocation: Stanford University CEMEX Au
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Creatives in Control: Leading with AI
 DTSTART:20261113T013000Z
 DTEND:20261113T043000Z
-DTSTAMP:20261111T043243Z
+DTSTAMP:20261111T133019Z
 UID:evt-QO0LxN44EnN6Gn2
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/magnific-5t14\nLocation: Magnific - San Francisc
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:AI Engineer CODE Summit Official After Party
 DTSTART:20261113T023000Z
 DTEND:20261113T053000Z
-DTSTAMP:20261111T043243Z
+DTSTAMP:20261111T133019Z
 UID:evt-iXrZL3ILk3NA8AT
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/after-summit\nLocation: San Francisco\, CA\nHost
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Build with Flux: Design Electronics and Enclosures with AI
 DTSTART:20261113T023000Z
 DTEND:20261113T053000Z
-DTSTAMP:20261111T043243Z
+DTSTAMP:20261111T133019Z
 UID:evt-v1lKCfw6nRObyTs
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/l3m8ld7a\nLocation: San Francisco\, CA\nHost: SF
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261111T043243Z
+DTSTAMP:20261111T133019Z
 UID:funcheap-20261114-sfs2026epicaimegajamwcas
 CATEGORIES:ai
 DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261111T043243Z
+DTSTAMP:20261111T133019Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
