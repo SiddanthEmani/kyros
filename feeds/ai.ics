@@ -5,23 +5,11 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Biryani Maxxing: A Diwali Feast & Multiplayer AI Mixer
-DTSTART:20261111T010000Z
-DTEND:20261111T030000Z
-DTSTAMP:20261110T224657Z
-UID:evt-vg4ZgWNtj8sDm7y
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/biryanimaxxing\nLocation: San Francisco\, CA\nHo
- st: PromptQL Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/biryanimaxxing
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vlad Tenev (Co-Founder\, RobinHood & HarmonicMath) @ Stanford AI C
  lub
 DTSTART:20261112T013000Z
 DTEND:20261112T023000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:evt-nKtRnTU6YARvNW3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/lgekomwt\nLocation: Stanford University CEMEX Au
@@ -32,10 +20,48 @@ LOCATION:Stanford University CEMEX Auditorium\, 655 Knight Way\, Stanford\
 URL:https://lu.ma/lgekomwt
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creatives in Control: Leading with AI
+DTSTART:20261113T013000Z
+DTEND:20261113T043000Z
+DTSTAMP:20261111T043243Z
+UID:evt-QO0LxN44EnN6Gn2
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/magnific-5t14\nLocation: Magnific - San Francisc
+ o\, 1169 Howard St\, San Francisco\, CA 94103\, USA\nHost: Magnific\nCateg
+ ories: ai\nSource: luma-html/san-francisco
+LOCATION:Magnific - San Francisco\, 1169 Howard St\, San Francisco\, CA 94
+ 103\, USA
+URL:https://lu.ma/magnific-5t14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Engineer CODE Summit Official After Party
+DTSTART:20261113T023000Z
+DTEND:20261113T053000Z
+DTSTAMP:20261111T043243Z
+UID:evt-iXrZL3ILk3NA8AT
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/after-summit\nLocation: San Francisco\, CA\nHost
+ : Neon\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/after-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build with Flux: Design Electronics and Enclosures with AI
+DTSTART:20261113T023000Z
+DTEND:20261113T053000Z
+DTSTAMP:20261111T043243Z
+UID:evt-v1lKCfw6nRObyTs
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/l3m8ld7a\nLocation: San Francisco\, CA\nHost: SF
+  Hardware Meetup\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/l3m8ld7a
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:funcheap-20261114-sfs2026epicaimegajamwcas
 CATEGORIES:ai
 DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
@@ -57,5 +83,35 @@ DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
 LOCATION:access – A registration on the 2026 Epic AI MegaJam itch.io pag
  e to submit your
 URL:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-nov-1415/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
+DTSTART;TZID=America/Los_Angeles:20261116T203000
+DTEND;TZID=America/Los_Angeles:20261116T223000
+DTSTAMP:20261111T043243Z
+UID:funcheap-20261116-clipscocktailsaimarketin
+CATEGORIES:ai,free
+DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
+ r-opusclip/\nLocation: san francisco\nPrice: Free\nCategories: ai\, free\n
+ Source: funcheap/san-francisco\n\nMonday\, Nov 16\, 5:30 to 8:30pm. ZOË\,
+  579 Howard St\, San Francisco. Free. Drinks and bites are on us. If you
+ ’re the one turning podcasts\, webinars\, customer interviews and live e
+ vents into the clips your company posts\, this night is for you. Pull up a
+  drink for a fireside chat with Young Zhao\, CEO of OpusClip\, and a speci
+ al guest from one of the Bay Area’s top fintech brands. They’ll get re
+ al about how AI is changing short-form: what’s working\, what’s hype\,
+  and how lean teams are shipping more without burning out. Then stick arou
+ nd to swap notes with social\, video and content folks who get your job. N
+ obody here will ask you to explain what a hook is. Also on the menu: Free 
+ clips: Drop us a link to a webinar\, podcast or talk\, and we’ll send ba
+ ck ready-to-post clips within 24 hours. Win Ray-Ban Meta glasses in our en
+ d-of-night raffle. No pitch. Just good drinks and better conversations. Wh
+ o should come: social media managers\, video producers\, content marketers
+ \, and community and field marketers at Bay Area tech and finance companie
+ s. ICs and team leads welcome. Bring a teammate. Spots are limited\, so RS
+ VP to save yours.
+LOCATION:san francisco
+URL:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opuscl
+ ip/
 END:VEVENT
 END:VCALENDAR

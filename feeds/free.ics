@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
 DTSTART;TZID=America/Los_Angeles:20261111T190000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:funcheap-20261111-freeveteransdaymealatsix
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Mustache Harbor
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:rZ7HnEZ1AfG3O0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-clu
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:It's Raining Queens: Martha Wash and Marsha Warfield
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:rZ7HnEZ1AfGb77
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/its-raining-queens-martha-wash
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:MARIS (SOLD OUT)
 DTSTART:20261114T050000Z
 DTEND:20261114T070000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:rZ7HnEZ1AfP3FS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
@@ -170,7 +170,7 @@ SUMMARY:“City Gurlz” Group Hike: Discover Glen Canyon Park’s Hidden
  Rock Formations
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:funcheap-20261114-citygurlzgrouphikediscov
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-ca
@@ -197,10 +197,40 @@ URL:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-canyon-par
  ks-hidden-rock-formations/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
+DTSTART;TZID=America/Los_Angeles:20261116T203000
+DTEND;TZID=America/Los_Angeles:20261116T223000
+DTSTAMP:20261111T043243Z
+UID:funcheap-20261116-clipscocktailsaimarketin
+CATEGORIES:ai,free
+DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
+ r-opusclip/\nLocation: san francisco\nPrice: Free\nCategories: ai\, free\n
+ Source: funcheap/san-francisco\n\nMonday\, Nov 16\, 5:30 to 8:30pm. ZOË\,
+  579 Howard St\, San Francisco. Free. Drinks and bites are on us. If you
+ ’re the one turning podcasts\, webinars\, customer interviews and live e
+ vents into the clips your company posts\, this night is for you. Pull up a
+  drink for a fireside chat with Young Zhao\, CEO of OpusClip\, and a speci
+ al guest from one of the Bay Area’s top fintech brands. They’ll get re
+ al about how AI is changing short-form: what’s working\, what’s hype\,
+  and how lean teams are shipping more without burning out. Then stick arou
+ nd to swap notes with social\, video and content folks who get your job. N
+ obody here will ask you to explain what a hook is. Also on the menu: Free 
+ clips: Drop us a link to a webinar\, podcast or talk\, and we’ll send ba
+ ck ready-to-post clips within 24 hours. Win Ray-Ban Meta glasses in our en
+ d-of-night raffle. No pitch. Just good drinks and better conversations. Wh
+ o should come: social media managers\, video producers\, content marketers
+ \, and community and field marketers at Bay Area tech and finance companie
+ s. ICs and team leads welcome. Bring a teammate. Spots are limited\, so RS
+ VP to save yours.
+LOCATION:san francisco
+URL:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opuscl
+ ip/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -213,10 +243,35 @@ URL:https://www.ticketweb.com/event/brothel-in-belize-machine-brick-and-mo
  rtar-music-hall-tickets/14364444
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+DTSTAMP:20261111T043243Z
+UID:rZ7HnEZ1AfFVbV
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
+ imbos-365-club-tickets/14234634\nVenue: Bimbo's 365 Club\nLocation: 1025 C
+ olumbus Avenue\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Alternat
+ ive\, Alternative Rock\, World\, Folk\, Alternative Folk\nCategories: conc
+ ert\, free\nSource: ticketmaster/music\n\nHUGfeat. Gyan Riley\, Devendra B
+ anhart\, Noah Georgeson21+ ONLY. Please note - there is a delivery delay s
+ et for 28 days prior to show.Premium seating located in front rows of venu
+ e\, available on first come first served basis. This event is 21 and over.
+  Any ticket holder unable to present valid identification indicating that 
+ they are at least 21 years of age will not be admitted to this event\, and
+  will not be eligible for a refund. Another Planet Entertainment is commit
+ ted to producing safe events. Please review our most up-to-date COVID-19 p
+ olicy requirements for entry at https://apeconcerts.com/health-safety * Po
+ licy is subject to change
+LOCATION:1025 Columbus Avenue\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-36
+ 5-club-tickets/14234634
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -236,41 +291,11 @@ LOCATION:san francisco
 URL:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Nov. 21)
-DTSTART;TZID=America/Los_Angeles:20261121T190000
-DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261110T224657Z
-UID:funcheap-20261121-freetixdrunktheatresfswi
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-n
- ov-21/\nLocation: san francisco\nPrice: Free\nCategories: community\, free
- \nSource: funcheap/san-francisco\n\nA comedian takes five shots of whiskey
-  in a row and tries to perform an improvised play with five sober comedian
- s. What could go wrong?! Drunk Theatre is the entirely improvised\, unpred
- ictable\, and crazy comedy show that’ll kick your weekend into overdrive
- . See what the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\, Thrill
- ist\, and TimeOut have all been talking about. This unpredictable improv c
- omedy show blends chaos\, sharp wit\, and audience interaction for a truly
-  one‑of‑a‑kind night out in the Bay Area. Drunk Theatre SF Saturday 
- Nights in November Eclectic Box\, 446 Valencia Street\, SF Get FREE Ticket
- s – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door 
- Door opens at 9:15pm\, show starts at 9:30pm (starts promptly) Limited tic
- ket availability at the door. *The event is open to all ages\, but the com
- edy may not be suitable for children. 24-hour notice is required for cance
- lations. Late cancelations may be transferred to another show date of your
-  choosing. Seating is first come\, first serve. Parties later than 15-20 m
- inutes may have their tickets sold at the door. 2026 San Francisco Drunk T
- heatre Schedule November – December 2026 shows Saturday\, November 7\, 2
- 026 | 8:0
-LOCATION:san francisco
-URL:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-nov-21/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -301,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261110T224657Z
+DTSTAMP:20261111T043243Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -322,33 +347,66 @@ URL:https://www.ticketweb.com/event/life-of-the-party-crybaby-tickets/1487
  4723
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FREE TIX: “Drunk Theatre” SF’s Wildest Comedy Show (Dec. 5)
+SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261110T224657Z
-UID:funcheap-20261205-freetixdrunktheatresfswi
+DTSTAMP:20261111T043243Z
+UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-d
- ec-5/\nLocation: san francisco\nPrice: Free\nCategories: community\, free\
- nSource: funcheap/san-francisco\n\nA comedian takes five shots of whiskey 
- in a row and tries to perform an improvised play with five sober comedians
- . What could go wrong?! Drunk Theatre is the entirely improvised\, unpredi
- ctable\, and crazy comedy show that’ll kick your weekend into overdrive.
-  See what the SF Chronicle\, CBS\, LA Times\, SF Weekly\, SFGate\, Thrilli
- st\, and TimeOut have all been talking about. This unpredictable improv co
- medy show blends chaos\, sharp wit\, and audience interaction for a truly 
- one‑of‑a‑kind night out in the Bay Area. Drunk Theatre SF Saturday N
- ights in December Eclectic Box\, 446 Valencia Street\, SF Get FREE Tickets
-  – FREE for first 15 people w/ code FUNCHEAP – $23.18 adv / $25 door D
- oor opens at 9:15pm\, show starts at 9:30pm (starts promptly) Limited tick
- et availability at the door. *The event is open to all ages\, but the come
- dy may not be suitable for children. 24-hour notice is required for cancel
- ations. Late cancelations may be transferred to another show date of your 
- choosing. Seating is first come\, first serve. Parties later than 15-20 mi
- nutes may have their tickets sold at the door. 2026 San Francisco Drunk Th
- eatre Schedule November – December 2026 shows Saturday\, November 7\, 20
- 26 | 8:0
-LOCATION:san francisco
-URL:https://sf.funcheap.com/drunk-theatre-sf-wildest-comedy-show-dec-5/
+DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
+ enue: it’s made\, and leave inspired. Just in time for the holidays\, it
+ ’s also a wonder\nPrice: Free\nCategories: community\, free\nSource: fun
+ cheap/east-bay\n\nEast Bay Open Studios returns for two free weekends with
+  over 200 artists opening their studios to the public. This free\, self-gu
+ ided event invites you to wander into local studios\, galleries\, and comm
+ unity hubs in Oakland\, Berkeley\, and beyond. Come curious — meet the c
+ reative minds behind the work\, experience art where it’s made\, and lea
+ ve inspired. Just in time for the holidays\, it’s also a wonderful oppor
+ tunity to shop locally and find one-of-a-kind gifts directly from the arti
+ sts who make them. Not sure where to start? Explore our Emerging Artists \
+ , Community Hubs \, or find your favorite artwork using our Artist Directo
+ ry ! ️ Open Studios : Dec 5-6 and 12-13\; 11am–5pm daily Art in your n
+ eighborhoods across the East Bay Get your free ticket: Eventbrite HOW TO P
+ ARTICIPATE: Visit eastbayopenstudios.com Browse artist profiles or use the
+  interactive maps ( Weekend 1 + Weekend 2 ) Don’t know where to start? C
+ heck out our Emerging Artists \, Community Hubs \, and Special Events . Ch
+ oose your route and hit the studios! Open 11am–5pm each day
+LOCATION:it’s made\, and leave inspired. Just in time for the holidays\,
+  it’s also a wonder
+URL:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SF’s Free Howard Zinn Book Fair: 40 Panels w/ Authors + Activist
+ s (2026)
+DTSTART;TZID=America/Los_Angeles:20261206T100000
+DTEND;TZID=America/Los_Angeles:20261206T180000
+DTSTAMP:20261111T043243Z
+UID:funcheap-20261206-sfsfreehowardzinnbookfai
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-pane
+ ls-authors-activists-2026/\nVenue: is close to 24th and Mission BART and m
+ any major MUNI lines. More information at\nPrice: Free\nCategories: commun
+ ity\, free\nSource: funcheap/san-francisco\n\nIf ever there was a time to 
+ create our own history rather than let malevolent people write it for us\,
+  that time is now! Meet the people and groups helping build a world that s
+ erves everyone at the Howard Zinn Book Fair\, Sunday\, December 6\, from 1
+ 0am to 6pm\, at the San Francisco City College Mission Campus\, 1125 Valen
+ cia Street. This year’s theme is A Time of Monsters\, A Time to Fight. T
+ he Howard Zinn Book Fair started in 2014 as an annual celebration and this
+  year features 40 panel discussions by authors and activists and a big roo
+ m full of independent presses\, community groups\, artists\, and non-profi
+ ts. All of our participants focus on empowering people to become engaged i
+ n the struggle for a truly participatory and democratic society. We live i
+ n a time when many are asked to survive what can only be called monstrous:
+  authoritarianism\, war\, state violence\, environmental destruction\, eco
+ nomic insecurity\, forced displacement\, attacks on civil rights\, and the
+  everyday cruelties of systems built to dehumanize. But throughout history
+ \, ordinary people have resisted monstrous situations and individuals in o
+ rder to take more control of their future. This year we have dozens of spe
+ akers in
+LOCATION:is close to 24th and Mission BART and many major MUNI lines. More
+  information at
+URL:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-panels-autho
+ rs-activists-2026/
 END:VEVENT
 END:VCALENDAR
