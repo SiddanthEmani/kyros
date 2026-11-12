@@ -5,40 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Free Veterans Day Meal at Six Bay Area Lazy Dog Locations (2026)
-DTSTART;TZID=America/Los_Angeles:20261111T190000
-DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261111T235926Z
-UID:funcheap-20261111-freeveteransdaymealatsix
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-d
- og-locations-2026/\nVenue: s and mention Canine Companions® will have 15%
-  of their bill donated to the nonp\nPrice: Free\nCategories: free\nSource:
-  funcheap/san-jose\n\nLazy Dog Restaurants is offering a complimentary ent
- rée\, personal-sized dessert and soda on November 11 to active-duty milit
- ary\, veterans\, retirees and reserve/National Guard members who dine in. 
- Guests can choose from six Fireside Favorites entrées: Fried Chicken Dinn
- er\, Grilled Shrimp Tacos\, Fettuccine Alfredo\, All-American Burger\, Med
- iterranean Chicken and the new Honey Miso Chicken. There’s also an oppor
- tunity to give back the day before: On November 10 \, guests who dine in a
- t these locations and mention Canine Companions® will have 15% of their b
- ill donated to the nonprofit\, which provides expertly trained service dog
- s at no cost to adults\, children and veterans with disabilities. Lazy Dog
-  Restaurant Bay Area Locations: Concord 1961 Diamond Blvd\, Concord\, CA 9
- 4520 Newark 3100 Newpark Mall Rd\, Newark\, CA 94560 Dublin 4805 Hacienda 
- Dr\, Dublin\, CA 94568 San Mateo 2208 Bridgepointe Pkwy\, San Mateo\, CA 9
- 4404 Cupertino 19359 Stevens Creek Blvd\, Cupertino\, CA 95014 San Jose 53
- 05 Almaden Expy\, San Jose\, CA 95118
-LOCATION:s and mention Canine Companions® will have 15% of their bill don
- ated to the nonp
-URL:https://sf.funcheap.com/free-veterans-day-meal-bay-area-lazy-dog-locat
- ions-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -74,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Mustache Harbor
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1AfG3O0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-clu
@@ -98,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:It's Raining Queens: Martha Wash and Marsha Warfield
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1AfGb77
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/its-raining-queens-martha-wash
@@ -134,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:MARIS (SOLD OUT)
 DTSTART:20261114T050000Z
 DTEND:20261114T070000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1AfP3FS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
@@ -170,7 +140,7 @@ SUMMARY:“City Gurlz” Group Hike: Discover Glen Canyon Park’s Hidden
  Rock Formations
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:funcheap-20261114-citygurlzgrouphikediscov
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-ca
@@ -200,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
@@ -230,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -246,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -268,10 +238,42 @@ URL:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-36
  5-club-tickets/14234634
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sábado Gigante: Free Native Arts + Culture Fest at 16th St. BART 
+ Plaza (SF)
+DTSTART;TZID=America/Los_Angeles:20261121T110000
+DTEND;TZID=America/Los_Angeles:20261121T160000
+DTSTAMP:20261112T065329Z
+UID:funcheap-20261121-sbadogigantefreenativear
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/sbado-gigante-free-native-arts-culture
+ -fest-16th-st-bart-plaza-sf/\nLocation: san francisco\nPrice: Free\nCatego
+ ries: free\nSource: funcheap/san-francisco\n\nJoin Mission Lotería for an
+  exciting edition of Sábado Gigante as we celebrate Native American Herit
+ age Month! Join Mission Lotería for another exciting edition of Sábado G
+ igante as we celebrate Native American Heritage Month with a day full of c
+ ulture\, community\, music\, and family fun! We’re bringing the communit
+ y together to celebrate and uplift Native American artists\, performers\, 
+ entrepreneurs\, and small businesses right in the heart of San Francisco
+ ’s Mission District. Come shop\, dance\, explore\, and enjoy a FREE afte
+ rnoon of entertainment and activities for the whole family! What to Expect
+  🪶 Native American Performers: Experience live cultural performances sh
+ owcasing Native American artistry and traditions. ️ Local Vendors & Arti
+ sans: Shop unique handmade goods\, artwork\, and gifts while supporting Na
+ tive American entrepreneurs and local small businesses. Youth Activities: 
+ Fun\, interactive activities for kids and families to enjoy together. Phot
+ o Booth: Capture memories with your friends and family! Face Painting: Get
+  creative with colorful face painting. Live DJ & Music: Enjoy great music 
+ and positive vibes throughout the day! Event Details Saturday\, November 2
+ 1\, 2026 ⏰ 11:00
+LOCATION:san francisco
+URL:https://sf.funcheap.com/sbado-gigante-free-native-arts-culture-fest-16
+ th-st-bart-plaza-sf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -295,7 +297,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -326,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -350,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -380,7 +382,7 @@ SUMMARY:SF’s Free Howard Zinn Book Fair: 40 Panels w/ Authors + Activist
  s (2026)
 DTSTART;TZID=America/Los_Angeles:20261206T100000
 DTEND;TZID=America/Los_Angeles:20261206T180000
-DTSTAMP:20261111T235926Z
+DTSTAMP:20261112T065329Z
 UID:funcheap-20261206-sfsfreehowardzinnbookfai
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-pane
