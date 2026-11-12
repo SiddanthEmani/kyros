@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1AfFw00
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Mustache Harbor
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1AfG3O0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-clu
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:It's Raining Queens: Martha Wash and Marsha Warfield
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1AfGb77
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/its-raining-queens-martha-wash
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:MARIS (SOLD OUT)
 DTSTART:20261114T050000Z
 DTEND:20261114T070000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1AfP3FS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
@@ -140,7 +140,7 @@ SUMMARY:“City Gurlz” Group Hike: Discover Glen Canyon Park’s Hidden
  Rock Formations
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:funcheap-20261114-citygurlzgrouphikediscov
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-ca
@@ -167,40 +167,10 @@ URL:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-canyon-par
  ks-hidden-rock-formations/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
-DTSTART;TZID=America/Los_Angeles:20261116T203000
-DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261112T065329Z
-UID:funcheap-20261116-clipscocktailsaimarketin
-CATEGORIES:ai,free
-DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
- r-opusclip/\nLocation: san francisco\nPrice: Free\nCategories: ai\, free\n
- Source: funcheap/san-francisco\n\nMonday\, Nov 16\, 5:30 to 8:30pm. ZOË\,
-  579 Howard St\, San Francisco. Free. Drinks and bites are on us. If you
- ’re the one turning podcasts\, webinars\, customer interviews and live e
- vents into the clips your company posts\, this night is for you. Pull up a
-  drink for a fireside chat with Young Zhao\, CEO of OpusClip\, and a speci
- al guest from one of the Bay Area’s top fintech brands. They’ll get re
- al about how AI is changing short-form: what’s working\, what’s hype\,
-  and how lean teams are shipping more without burning out. Then stick arou
- nd to swap notes with social\, video and content folks who get your job. N
- obody here will ask you to explain what a hook is. Also on the menu: Free 
- clips: Drop us a link to a webinar\, podcast or talk\, and we’ll send ba
- ck ready-to-post clips within 24 hours. Win Ray-Ban Meta glasses in our en
- d-of-night raffle. No pitch. Just good drinks and better conversations. Wh
- o should come: social media managers\, video producers\, content marketers
- \, and community and field marketers at Bay Area tech and finance companie
- s. ICs and team leads welcome. Bring a teammate. Spots are limited\, so RS
- VP to save yours.
-LOCATION:san francisco
-URL:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opuscl
- ip/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -216,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -238,42 +208,10 @@ URL:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-36
  5-club-tickets/14234634
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sábado Gigante: Free Native Arts + Culture Fest at 16th St. BART 
- Plaza (SF)
-DTSTART;TZID=America/Los_Angeles:20261121T110000
-DTEND;TZID=America/Los_Angeles:20261121T160000
-DTSTAMP:20261112T065329Z
-UID:funcheap-20261121-sbadogigantefreenativear
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/sbado-gigante-free-native-arts-culture
- -fest-16th-st-bart-plaza-sf/\nLocation: san francisco\nPrice: Free\nCatego
- ries: free\nSource: funcheap/san-francisco\n\nJoin Mission Lotería for an
-  exciting edition of Sábado Gigante as we celebrate Native American Herit
- age Month! Join Mission Lotería for another exciting edition of Sábado G
- igante as we celebrate Native American Heritage Month with a day full of c
- ulture\, community\, music\, and family fun! We’re bringing the communit
- y together to celebrate and uplift Native American artists\, performers\, 
- entrepreneurs\, and small businesses right in the heart of San Francisco
- ’s Mission District. Come shop\, dance\, explore\, and enjoy a FREE afte
- rnoon of entertainment and activities for the whole family! What to Expect
-  🪶 Native American Performers: Experience live cultural performances sh
- owcasing Native American artistry and traditions. ️ Local Vendors & Arti
- sans: Shop unique handmade goods\, artwork\, and gifts while supporting Na
- tive American entrepreneurs and local small businesses. Youth Activities: 
- Fun\, interactive activities for kids and families to enjoy together. Phot
- o Booth: Capture memories with your friends and family! Face Painting: Get
-  creative with colorful face painting. Live DJ & Music: Enjoy great music 
- and positive vibes throughout the day! Event Details Saturday\, November 2
- 1\, 2026 ⏰ 11:00
-LOCATION:san francisco
-URL:https://sf.funcheap.com/sbado-gigante-free-native-arts-culture-fest-16
- th-st-bart-plaza-sf/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -297,7 +235,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -328,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -352,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261112T065329Z
+DTSTAMP:20261112T192933Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -378,37 +316,33 @@ LOCATION:it’s made\, and leave inspired. Just in time for the holidays\,
 URL:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s Free Howard Zinn Book Fair: 40 Panels w/ Authors + Activist
- s (2026)
-DTSTART;TZID=America/Los_Angeles:20261206T100000
-DTEND;TZID=America/Los_Angeles:20261206T180000
-DTSTAMP:20261112T065329Z
-UID:funcheap-20261206-sfsfreehowardzinnbookfai
+SUMMARY:Free Mission Craft Holiday Market w/ 30+ Local Artists (SF)
+DTSTART;TZID=America/Los_Angeles:20261212T110000
+DTEND;TZID=America/Los_Angeles:20261212T170000
+DTSTAMP:20261112T192933Z
+UID:funcheap-20261212-freemissioncraftholidaym
 CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-pane
- ls-authors-activists-2026/\nVenue: is close to 24th and Mission BART and m
- any major MUNI lines. More information at\nPrice: Free\nCategories: commun
- ity\, free\nSource: funcheap/san-francisco\n\nIf ever there was a time to 
- create our own history rather than let malevolent people write it for us\,
-  that time is now! Meet the people and groups helping build a world that s
- erves everyone at the Howard Zinn Book Fair\, Sunday\, December 6\, from 1
- 0am to 6pm\, at the San Francisco City College Mission Campus\, 1125 Valen
- cia Street. This year’s theme is A Time of Monsters\, A Time to Fight. T
- he Howard Zinn Book Fair started in 2014 as an annual celebration and this
-  year features 40 panel discussions by authors and activists and a big roo
- m full of independent presses\, community groups\, artists\, and non-profi
- ts. All of our participants focus on empowering people to become engaged i
- n the struggle for a truly participatory and democratic society. We live i
- n a time when many are asked to survive what can only be called monstrous:
-  authoritarianism\, war\, state violence\, environmental destruction\, eco
- nomic insecurity\, forced displacement\, attacks on civil rights\, and the
-  everyday cruelties of systems built to dehumanize. But throughout history
- \, ordinary people have resisted monstrous situations and individuals in o
- rder to take more control of their future. This year we have dozens of spe
- akers in
-LOCATION:is close to 24th and Mission BART and many major MUNI lines. More
-  information at
-URL:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-panels-autho
- rs-activists-2026/
+DESCRIPTION:https://sf.funcheap.com/free-mission-craft-holiday-market-30-l
+ ocal-artists-sf/\nVenue: \, Ground Floor\, right in the heart of the Missi
+ on at 16th & Valencia. Good to Kn\nPrice: Free\nCategories: community\, fr
+ ee\nSource: funcheap/san-francisco\n\n✨ The Mission Craft Holiday Market
+  is back for our 3rd holiday season! ✨ Saturday\, Dec 12 · 11 a.m.–5 
+ p.m. Shop your favorite Bay Area artists and discover 30+ new ones\, all u
+ nder one roof in San Francisco. Our curated lineup includes 30+ ceramicist
+ s\, candle and soap makers\, jewelers\, textile artists\, and much more. C
+ ome for the festive vibes and leave with gifts for everyone on your list (
+ and maybe a little something for yourself). We’re back at our favorite c
+ ozy venue\, Ground Floor\, right in the heart of the Mission at 16th & Val
+ encia. Good to Know ️ Admission: FREE ‍‍ All ages welcome Parking is
+  limited\, so public transit or rideshare is recommended Thank you for sho
+ pping small and helping local artists keep doing what they love! Throughou
+ t November\, we’ll be introducing you to our amazing vendors\, sharing t
+ heir work\, and giving you a little sneak peek at what you’ll discover a
+ t the market on Instagram at @missioncraftmarket. Make sure to give us a f
+ ollow!
+LOCATION:\, Ground Floor\, right in the heart of the Mission at 16th & Val
+ encia. Good to Kn
+URL:https://sf.funcheap.com/free-mission-craft-holiday-market-30-local-art
+ ists-sf/
 END:VEVENT
 END:VCALENDAR
