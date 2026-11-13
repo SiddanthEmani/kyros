@@ -5,46 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:SOLD OUT Tauren Wells: Air1 Worship Now Tour - San Jose\, CA
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-DTSTAMP:20261112T192933Z
-UID:rZ7HnEZ1AfFw00
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cat
- hedral-of-faith-tickets/14232924\nVenue: Cathedral of Faith\nLocation: 231
- 5 Canoas Garden Ave \, San Jose\, CA\nPrice: Free\nGenres: Music\, Religio
- us\, Contemporary Christian\nCategories: concert\, free\nSource: ticketmas
- ter/music\n\nThe Air1 Worship Now Tour returns this fall\, bringing an unf
- orgettable night of worship to 21 cities nationwide! Featuring Tauren Well
- s\, Seph Schlueter\, Gateway Worship\, and Roosevelt Stewart\, this year's
-  tour offers an inspiring evening of worship\, powerful music\, and meanin
- gful community. Don't miss this opportunity to experience one of this fall
- 's most anticipated nights of worship. SCHEDULE (subject to change): 4:45p
- m - VIP doors open 5:45pm - Early Entry doors open 6:00pm - General Admiss
- ion doors open 7:00pm - Show begins IMPORTANT INFORMATION: If you need ass
- istance with your order or have questions regarding this event\, please re
- ach out to tickets@tprlive.co and our team will be happy to assist you. At
- tendees over the age of 2 will be required to have their own ticket. If at
- tendee arrives after specified ticket type door time\, participation in ti
- cket type benefits can not be guaranteed. In addition\, It is not guarante
- ed that attendee's entire party will be seated together. Ticket prices are
-  subject to change based on demand and/or when purchased at the door. All 
- purchases are non-refundable. By purchasing a ticket and voluntarily enter
- ing and being present at this event\, you (and each person in your party) 
- acknowledge and agree to accept complete and sole responsibility for the i
- nherent risk of possible exposure to communicable diseases such as COVID-1
- 9. Please consider that there is an inherent risk of exposure to COVID-19 
- or other infectious diseases in any place wh
-LOCATION:2315 Canoas Garden Ave \, San Jose\, CA
-URL:https://www.ticketweb.com/event/sold-out-tauren-wells-air1-cathedral-o
- f-faith-tickets/14232924
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sammy Virji (18+)
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_4l_1Irx
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/sammy-virji-18-san-francisco-cali
@@ -66,16 +30,16 @@ URL:https://www.ticketmaster.com/sammy-virji-18-san-francisco-california-1
  1-13-2026/event/1C00655AD92A87A2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oso Oso\, Liquid Mike\, Bugsy
+SUMMARY:Oso Oso\, Liquid Mike\, Bugsy\, Not Penny's Boat
 DTSTART:20261114T030000Z
 DTEND:20261114T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1A4ZzjK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-
  ritz-tickets/15038713\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\
- , CA\nPrice: $263-$521\nGenres: Music\, Rock\, Pop Punk\, Pop\nCategories:
-  concert\nSource: ticketmaster/music
+ , CA\nPrice: $31-$521\nGenres: Music\, Rock\, Pop Punk\, Pop\, Emo\nCatego
+ ries: concert\nSource: ticketmaster/music
 LOCATION:400 S 1st St\, San Jose\, CA
 URL:https://www.ticketweb.com/event/oso-oso-liquid-mike-bugsy-the-ritz-tic
  kets/15038713
@@ -84,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Mustache Harbor
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfG3O0
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-clu
@@ -108,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:It's Raining Queens: Martha Wash and Marsha Warfield
 DTSTART:20261114T040000Z
 DTEND:20261114T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfGb77
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/its-raining-queens-martha-wash
@@ -144,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:MARIS (SOLD OUT)
 DTSTART:20261114T050000Z
 DTEND:20261114T070000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfP3FS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
@@ -179,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:TRSH\, Adjust The Sails\, Dear Maryanne\, Dear Cincinnati
 DTSTART:20261115T020000Z
 DTEND:20261115T040000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfJpkd
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/trsh-adjust-the-sails-dear-the
@@ -194,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:WORSHIP NORTH AMERICAN 2026 (18+)
 DTSTART:20261115T030000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_u5pn4Zl
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/worship-north-american-2026-18-sa
@@ -223,7 +187,7 @@ SUMMARY:“City Gurlz” Group Hike: Discover Glen Canyon Park’s Hidden
  Rock Formations
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:funcheap-20261114-citygurlzgrouphikediscov
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/city-gurlz-group-hike-discover-glen-ca
@@ -253,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Reggaeton Rave - Ages 21+
 DTSTART:20261115T050000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:Z7r9jZ1AAvyPP
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
@@ -266,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Marisela: Eterna Tour 2026
 DTSTART:20261116T030000Z
 DTEND:20261116T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_oL-BPz-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marisela-eterna-tour-2026-san-jos
@@ -281,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -305,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -321,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -337,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -353,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -367,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -393,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -418,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -431,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:“Sun Down Bass Up” Free DJ Pop-Up in Crissy Field (SF)
 DTSTART;TZID=America/Los_Angeles:20261121T120000
 DTEND;TZID=America/Los_Angeles:20261121T170000
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:funcheap-20261121-sundownbassupfreedjpopup
 CATEGORIES:edm,free
 DESCRIPTION:https://sf.funcheap.com/sun-bass-free-dj-popup-crissy-field-sf
@@ -454,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -470,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -486,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Los Gemelos de Sinaloa: The Gemeliza Tour
 DTSTART:20261126T040000Z
 DTEND:20261126T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_33P1hxM
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeli
@@ -498,23 +462,10 @@ URL:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeliza-san-j
  ose-california-11-25-2026/event/1C006524A529B8B7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andy C - Ages 21+
-DTSTART:20261126T050000Z
-DTEND:20261126T070000Z
-DTSTAMP:20261112T192933Z
-UID:Z7r9jZ1AA7oPU
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
- Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
-  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:1015 Folsom Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -530,7 +481,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -548,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -566,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -583,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -598,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -616,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -629,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -653,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -670,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -692,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -716,7 +667,7 @@ BEGIN:VEVENT
 SUMMARY:Alicia Villarreal - Bendita Locura Tour 2026
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_GEbY5kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alicia-villarreal-bendita-locura-
@@ -732,7 +683,7 @@ BEGIN:VEVENT
 SUMMARY:Jamey Johnson - Traveling Truebadour Tour
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_GkymCSV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jamey-johnson-traveling-truebadou
@@ -745,10 +696,24 @@ URL:https://www.ticketmaster.com/jamey-johnson-traveling-truebadour-tour-s
  an-jose-california-12-09-2026/event/1C0064C1B9B8ECF4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Vez
+DTSTART:20261211T030000Z
+DTEND:20261211T050000Z
+DTSTAMP:20261113T045344Z
+UID:rZ7HnEZ1AfC7OV
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/143848
+ 34\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPrice: $31-$5
+ 21\nGenres: Music\, Rock\, Pop\nCategories: concert\nSource: ticketmaster/
+ music
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/14384834
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261112T192933Z
+DTSTAMP:20261113T045344Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -760,5 +725,54 @@ DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
 LOCATION:7000 Coliseum Way\, Oakland\, CA
 URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-oakland
  -california-12-11-2026/event/1C00649DD84D193A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
+  Party (San José)
+DTSTART;TZID=America/Los_Angeles:20261212T170000
+DTEND;TZID=America/Los_Angeles:20261212T190000
+DTSTAMP:20261113T045344Z
+UID:funcheap-20261212-colorsofindiafreeholiday
+CATEGORIES:concert,free
+DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
+ -food-fest-dance-party-san-jos/\nLocation: san jose\nPrice: Free\nCategori
+ es: concert\, free\nSource: funcheap/san-jose+funcheap/south-bay\n\nColors
+  of India is a free\, all-ages holiday pop-up at SPARK Social San José fe
+ aturing Indian food vendors\, bars\, chai\, coffee\, sweet treats\, local 
+ makers\, holiday shopping\, family activities\, and a dedicated kids area.
+  The program includes a Non Stop Bhangra dance party with DJs\, live dhol\
+ , dance lessons\, and performances. Original Event Description: _Is Coming
+  to the South Bay!! 🌻 After 22 years of cultural celebrations\, we’re
+  excited to bring Non Stop Bhangra to San José with Colors of India-A Hol
+ iday Pop-Up Experience! ✨ Join us at SPARK Social San José\, a vibrant 
+ new outdoor gathering space in the heart of Creekside in downtown San Jos
+ é\, for a colorful afternoon of music\, dance\, food\, holiday shopping\,
+  and family-friendly fun! If you’ve been a part of our @bhangraandbeats 
+ Night Market celebrations in San Francisco\, you know the energy! And if y
+ ou’re new to Non Stop Bhangra\, we can’t wait to celebrate with you! E
+ veryone is welcome. 💛 ✨ What to Expect: 🍛 Indian Food Vendors + Ba
+ y Area Flavors 🍹 Full Bars + Chai\, Coffee & Sweet Treats 🛍️ Local
+  Makers + Holiday Shopping 🎨 Family-Friendly Activities + Dedicated Kid
+ s Area 🎶 Non Stop Bhangra Dance Party(DJ’s\, Live Dhol\, Dance Lesson
+  &
+LOCATION:san jose
+URL:https://sf.funcheap.com/colors-india-free-holiday-popup-indian-food-fe
+ st-dance-party-san-jos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Riot & Blanke - Far From Home Tour
+DTSTART:20261213T040000Z
+DTEND:20261213T060000Z
+DTSTAMP:20261113T045344Z
+UID:G5vYZ_uk9C1cy
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
+ -san-jose-california-12-12-2026/event/1C0064D19738AB79\nVenue: San Jose Ci
+ vic\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Dance/E
+ lectronic\, Amapiano\nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ti
+ cketmaster/music\n\nThis event is 18+. This event is 18+.
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home-san-jos
+ e-california-12-12-2026/event/1C0064D19738AB79
 END:VEVENT
 END:VCALENDAR
