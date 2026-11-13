@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DNAForge & MTC Berkeley: AI × Biology Hackathon
 DTSTART:20261114T170000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261113T135200Z
+DTSTAMP:20261113T231151Z
 UID:evt-EQs99uvoseaCrxf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/xdzhu4tn\nLocation: Berkeley\, CA\nHost: MTC Ber
@@ -17,37 +17,10 @@ LOCATION:Berkeley\, CA
 URL:https://lu.ma/xdzhu4tn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
-DTSTART;TZID=America/Los_Angeles:20261114T190000
-DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261113T135200Z
-UID:funcheap-20261114-sfs2026epicaimegajamwcas
-CATEGORIES:ai
-DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
- ov-1415/\nVenue: access – A registration on the 2026 Epic AI MegaJam itc
- h.io page to submit your\nCategories: ai\nSource: funcheap/san-francisco\n
- \nJoin the 2026 Epic AI MegaJam in person in San Francisco. Build a playab
- le game in Unreal Engine or UEFN with up to four teammates Spend the final
-  weekend of the 2026 Epic AI MegaJam building in person at Digital Jungle 
- in San Francisco\, November 14–15. You’ll jam alongside teams from Ant
- hropic\, Google\, Meshy\, OpenAI\, and SpaceXSI. Team up with up to four o
- ther humans and unlimited agents to build a playable game in Unreal Engine
-  or Unreal Editor for Fortnite (UEFN)\, and compete for cash prizes. Bring
-  AI into your workflow\, from asset generation to coding agents. Prototype
-  the mechanic you never had time for\, or try the art style you weren’t 
- sure you could pull off. The jam kicks off online on November 12\, so you 
- can start building early and bring your project with you. To jam in person
- \, you need both: – An Eventbrite ticket for venue access – A registra
- tion on the 2026 Epic AI MegaJam itch.io page to submit your game
-LOCATION:access – A registration on the 2026 Epic AI MegaJam itch.io pag
- e to submit your
-URL:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-nov-1415/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261113T135200Z
+DTSTAMP:20261113T231151Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
