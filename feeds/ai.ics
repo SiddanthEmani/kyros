@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DNAForge & MTC Berkeley: AI × Biology Hackathon
 DTSTART:20261114T170000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261113T045344Z
+DTSTAMP:20261113T135200Z
 UID:evt-EQs99uvoseaCrxf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/xdzhu4tn\nLocation: Berkeley\, CA\nHost: MTC Ber
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:SF’s 2026 Epic AI MegaJam w/ Cash Prizes (Nov. 14-15)
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261113T045344Z
+DTSTAMP:20261113T135200Z
 UID:funcheap-20261114-sfs2026epicaimegajamwcas
 CATEGORIES:ai
 DESCRIPTION:https://sf.funcheap.com/sfs-2026-epic-ai-megajam-cash-prizes-n
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261113T045344Z
+DTSTAMP:20261113T135200Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
