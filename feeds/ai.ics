@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DNAForge & MTC Berkeley: AI × Biology Hackathon
 DTSTART:20261114T170000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:evt-EQs99uvoseaCrxf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/xdzhu4tn\nLocation: Berkeley\, CA\nHost: MTC Ber
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Web #02 — The Browser as an Agent Runtime
 DTSTART:20261117T013000Z
 DTEND:20261117T043000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:evt-VugVzABYMkqe8vr
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/agentic-web-browser-runtime-nov16-2026\nLocation
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Who's Watching the Agents?
 DTSTART:20261117T020000Z
 DTEND:20261117T053000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:evt-tWYBUzzcW1FIf4d
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/cbpgjghx\nLocation: The Lost Church\, 988 Columb
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
@@ -72,5 +72,17 @@ DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
 LOCATION:san francisco
 URL:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opuscl
  ip/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Builder Night San Francisco | n8n x Vercel x Arize AI
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+DTSTAMP:20261114T125451Z
+UID:evt-nqhuP93sYB5gH4R
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/0qn71c42\nLocation: San Francisco\, CA\nHost: n8
+ n Community Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/0qn71c42
 END:VEVENT
 END:VCALENDAR

@@ -5,45 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:MARIS (SOLD OUT)
-DTSTART:20261114T050000Z
-DTEND:20261114T070000Z
-DTSTAMP:20261114T044653Z
-UID:rZ7HnEZ1AfP3FS
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
- ckets/14952233\nVenue: Cafe Du Nord\nLocation: 2174 Market St.\, San Franc
- isco\, CA\nPrice: Free\nGenres: Music\, Pop\nCategories: concert\, free\nS
- ource: ticketmaster/music\n\nBest experienced live\, MARIS ensures audienc
- es feel free to be their happiest\, truest selves\, blending heartland roc
- k with glam-pop bombast\, MARIS crafts arena-sized\, sugar-rush choruses b
- uilt around elastic vocals and diaristic songwriting. MARIS is proud to pa
- rtner with LIFEBEAT\, a program of The Elizabeth Taylor AIDS Foundation\, 
- on her upcoming tour. $1 from every ticket sold will benefit the program\,
-  and LIFEBEAT will be offering resources on sexual health\, harm reduction
- \, and more at select stops. Seated Presale: Friday\, 5/29 at 10 AM On-sal
- e: Monday\, 6/1 at 10 AM Cafe Du Nord's Preferred Viewing Available\, Gene
- ral Admission Not Included For any event that is listed as 18 or 21 and ov
- er\, ANY ticket holder unable to present valid identification indicating t
- hat they are of age will not be admitted to this event\, and will not be e
- ligible for a refund. Any event listed as All Ages\, means 6 years of age 
- or older. ALL tickets are standing room only unless otherwise specified. I
- f you need special accommodations\, contact info@cafedunord.com. Support a
- cts are subject to change without refund. Professional Cameras are not all
- owed without prior approval. Professional Camera defined as detachable len
- s or of professional grade as determined by the venue staff. When in doubt
- \, just email us ahead of the show! We might be able to get you a Photo Pa
- ss depending on Artist's approval. For any event that is 18 or 21 and over
- . Any Ticket holder unable to present valid identification indicati
-LOCATION:2174 Market St.\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-tickets/14
- 952233
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Jose Water Lantern Festival
 DTSTART;TZID=America/Los_Angeles:20261114T143000
 DTEND;TZID=America/Los_Angeles:20261114T163000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261114-sanjosewaterlanternfesti
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jose-water-lantern-festival/\nLoca
@@ -64,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
@@ -94,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: MICHAEL NAU\, BREEZERS
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:rZ7HnEZ1AfaUr7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-michael-nau-
@@ -110,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -126,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -152,7 +117,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -183,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -201,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -220,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -244,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -270,11 +235,39 @@ LOCATION:it’s made\, and leave inspired. Just in time for the holidays\,
 URL:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SF’s Small Press Book Bazaar 2026: 50 Bay Area Vendors
+DTSTART;TZID=America/Los_Angeles:20261205T190000
+DTEND;TZID=America/Los_Angeles:20261205T210000
+DTSTAMP:20261114T125451Z
+UID:funcheap-20261205-sfssmallpressbookbazaar2
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/sfs-small-press-book-bazaar-2026-50-ba
+ y-area-vendors/\nLocation: san francisco\nPrice: Free\nCategories: free\nS
+ ource: funcheap/san-francisco\n\nThe Small Press Book Bazaar is a free one
+ -day gathering at The Lab featuring 50 Bay Area artists\, designers\, and 
+ booksellers. The bazaar focuses on local art publishing and print culture\
+ , with books\, prints\, posters\, stickers\, t-shirts\, and other artist-m
+ ade goods available. Food will be provided by Cold Summers. Original Event
+  Description: The Small Press Book Bazaar is a one-day gathering of Bay Ar
+ ea artists\, designers and booksellers that celebrates local art publishin
+ g and print culture. Free to the public\, the bazaar is a great place to f
+ ind affordable art\, old and new books\, prints\, posters\, stickers\, t-s
+ hirts and other artist-made goods from a group of 50 Bay Area vendors. Foo
+ d will be provided by Cold Summers. Flyer design by Justin Carder. Partici
+ pants at link in bio! Text extracted from provided image: SMALL PRESS BOOK
+  BAZAAR 12-7 Dec. 5 THE LAB 2948 16TH ST. SF @sfartbookfair SAN FRANCISCO 
+ ART BOOK FAIR SFABF is an annual multi-day festival of artists’ publicat
+ ions. Next in July 2027 sfartbookfair.com
+LOCATION:san francisco
+URL:https://sf.funcheap.com/sfs-small-press-book-bazaar-2026-50-bay-area-v
+ endors/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SF’s Free Howard Zinn Book Fair: 40 Panels w/ Authors + Activist
  s (2026)
 DTSTART;TZID=America/Los_Angeles:20261206T100000
 DTEND;TZID=America/Los_Angeles:20261206T180000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261206-sfsfreehowardzinnbookfai
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-pane
@@ -307,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Free Mission Craft Holiday Market w/ 30+ Local Artists (SF)
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T170000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261212-freemissioncraftholidaym
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-mission-craft-holiday-market-30-l
@@ -338,7 +331,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261114T044653Z
+DTSTAMP:20261114T125451Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
