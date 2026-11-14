@@ -5,70 +5,10 @@ X-WR-CALDESC:Kyros Free — free events\, San Jose first.
 X-WR-CALNAME:Kyros Free
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Mustache Harbor
-DTSTART:20261114T040000Z
-DTEND:20261114T060000Z
-DTSTAMP:20261113T231151Z
-UID:rZ7HnEZ1AfG3O0
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-clu
- b-tickets/14312824\nVenue: Bimbo's 365 Club\nLocation: 1025 Columbus Avenu
- e\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Other\nCategories: co
- ncert\, free\nSource: ticketmaster/music\n\nOur mission\, our destiny\, is
-  simple: to build a mustache army and create Hardcore Soft Rock the likes 
- of which has not been seen since Christopher Cross\, Steely Dan\, Ace\, Ke
- nny Loggins and The Little River Band ruled the airwaves and created AM Go
- ld. So Join us! Party with us\, live with us\, work out at the dojo with u
- s\, slap on a stash and drink from our bountiful coconuts filled with smoo
- th grooves and tasty hooks. ENJOY THE RIDE! This event is 21 and over. Any
-  ticket holder unable to present valid identification indicating that they
-  are at least 21 years of age will not be admitted to this event\, and wil
- l not be eligible for a refund.
-LOCATION:1025 Columbus Avenue\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/mustache-harbor-bimbos-365-club-ticket
- s/14312824
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's Raining Queens: Martha Wash and Marsha Warfield
-DTSTART:20261114T040000Z
-DTEND:20261114T060000Z
-DTSTAMP:20261113T231151Z
-UID:rZ7HnEZ1AfGb77
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/its-raining-queens-martha-wash
- -feinsteins-at-the-nikko-tickets/14318104\nVenue: Feinstein's at The Nikko
- \nLocation: 222 Mason Street\, San Francisco\, CA\nPrice: Free\nGenres: Mu
- sic\, Dance/Electronic\, Dance Pop\nCategories: concert\, free\nSource: ti
- cketmaster/music\n\nIt's Raining Queens™: Starring Martha Wash & Marsha 
- Warfield Two legends. Two San Francisco connections. One unforgettable nig
- ht. Feinstein's at the Nikko presents It's Raining Queens™: Starring Mar
- tha Wash and Marsha Warfield live on Friday\, November 13\, 2026\, in San 
- Francisco. Wash and Warfield move between music\, laughter\, and personal 
- stories with the ease of two accomplished performers who have nothing left
-  to prove and every reason to enjoy the moment. For both legendary perform
- ers\, this engagement represents a meaningful return to a city connected t
- o the beginnings of their remarkable careers. Martha Wash was born and rai
- sed in San Francisco\, where her extraordinary journey began. She first ga
- ined recognition singing alongside the legendary Sylvester as one half of 
- Two Tons O' Fun before achieving international success with The Weather Gi
- rls. A two-time Grammy nominee\, Wash is the powerhouse voice behind multi
- -platinum recordings with The Weather Girls\, Black Box\, and C+C Music Fa
- ctory---a catalog that helped shape dance floors and pop radio around the 
- world and continues to inspire generations. Marsha Warfield's connection t
- o San Francisco dates back to an important early breakthrough in her comed
- y career. In 1979\, she won the San Francisco International Comedy Competi
- tion\, becoming the contest's first Black winner and first female winner. 
- Warfield also worked as a writer and performer on Richard Pryor's groundbr
- eaking television variety series\, The Richard Pryor Show
-LOCATION:222 Mason Street\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/its-raining-queens-martha-wash-feinste
- ins-at-the-nikko-tickets/14318104
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MARIS (SOLD OUT)
 DTSTART:20261114T050000Z
 DTEND:20261114T070000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:rZ7HnEZ1AfP3FS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-ti
@@ -103,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:San Jose Water Lantern Festival
 DTSTART;TZID=America/Los_Angeles:20261114T143000
 DTEND;TZID=America/Los_Angeles:20261114T163000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261114-sanjosewaterlanternfesti
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/san-jose-water-lantern-festival/\nLoca
@@ -124,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
@@ -151,10 +91,26 @@ URL:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opuscl
  ip/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:(((folkYEAH))) Presents: MICHAEL NAU\, BREEZERS
+DTSTART:20261119T030000Z
+DTEND:20261119T050000Z
+DTSTAMP:20261114T044653Z
+UID:rZ7HnEZ1AfaUr7
+CATEGORIES:concert,free
+DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-michael-nau-
+ breezers-the-crepe-place-tickets/14276784\nVenue: The Crepe Place\nLocatio
+ n: 1134 Soquel Ave.\, Santa Cruz\, CA\nPrice: Free\nGenres: Music\, Folk\,
+  Alternative Folk\, Alternative\nCategories: concert\, free\nSource: ticke
+ tmaster/music
+LOCATION:1134 Soquel Ave.\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/folkyeah-presents-michael-nau-breezers
+ -the-crepe-place-tickets/14276784
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -170,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -196,7 +152,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -227,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -245,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -264,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -288,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -318,7 +274,7 @@ SUMMARY:SF’s Free Howard Zinn Book Fair: 40 Panels w/ Authors + Activist
  s (2026)
 DTSTART;TZID=America/Los_Angeles:20261206T100000
 DTEND;TZID=America/Los_Angeles:20261206T180000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261206-sfsfreehowardzinnbookfai
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sfs-free-howard-zinn-book-fair-40-pane
@@ -351,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Free Mission Craft Holiday Market w/ 30+ Local Artists (SF)
 DTSTART;TZID=America/Los_Angeles:20261212T110000
 DTEND;TZID=America/Los_Angeles:20261212T170000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261212-freemissioncraftholidaym
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-mission-craft-holiday-market-30-l
@@ -382,7 +338,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian

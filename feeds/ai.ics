@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:DNAForge & MTC Berkeley: AI × Biology Hackathon
 DTSTART:20261114T170000Z
 DTEND:20261115T050000Z
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:evt-EQs99uvoseaCrxf
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/xdzhu4tn\nLocation: Berkeley\, CA\nHost: MTC Ber
@@ -17,10 +17,37 @@ LOCATION:Berkeley\, CA
 URL:https://lu.ma/xdzhu4tn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agentic Web #02 — The Browser as an Agent Runtime
+DTSTART:20261117T013000Z
+DTEND:20261117T043000Z
+DTSTAMP:20261114T044653Z
+UID:evt-VugVzABYMkqe8vr
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/agentic-web-browser-runtime-nov16-2026\nLocation
+ : 625 2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] HackerSquad\nCat
+ egories: ai\nSource: luma-html/san-francisco
+LOCATION:625 2nd St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/agentic-web-browser-runtime-nov16-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who's Watching the Agents?
+DTSTART:20261117T020000Z
+DTEND:20261117T053000Z
+DTSTAMP:20261114T044653Z
+UID:evt-tWYBUzzcW1FIf4d
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/cbpgjghx\nLocation: The Lost Church\, 988 Columb
+ us Ave\, San Francisco\, CA 94133\, USA\nHost: exe.dev\nCategories: ai\nSo
+ urce: luma-html/san-francisco
+LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133\, U
+ SA
+URL:https://lu.ma/cbpgjghx
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261113T231151Z
+DTSTAMP:20261114T044653Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
