@@ -5,43 +5,10 @@ X-WR-CALDESC:Kyros Music — edm\, concert events\, San Jose first.
 X-WR-CALNAME:Kyros Music
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Reggaeton Rave - Ages 21+
-DTSTART:20261115T050000Z
-DTEND:20261115T070000Z
-DTSTAMP:20261115T044018Z
-UID:Z7r9jZ1AAvyPP
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP\nVenue: The M
- idway\nLocation: 900 Marin St\, San Francisco\, CA\nGenres: Music\, Other\
- nCategories: edm\nSource: ticketmaster/music
-LOCATION:900 Marin St\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1AAvyPP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sean Hayes with KATZROAR and Etienne de Rocher (Haunted Shed)
-DTSTART:20261115T050000Z
-DTEND:20261115T070000Z
-DTSTAMP:20261115T044018Z
-UID:rZ7HnEZ1AfPzfN
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/sean-hayes-with-katzroar-and-t
- he-independent-tickets/14978523\nVenue: The Independent\nLocation: 628 Div
- isadero St\, San Francisco\, CA\nPrice: Free\nGenres: Music\, Country\, Al
- ternative\nCategories: concert\, free\nSource: ticketmaster/music\n\nPleas
- e note - there is a delivery delay set for 2 weeks prior to show. This eve
- nt is 21 and over. Any ticket holder unable to present valid identificatio
- n indicating that they are at least 21 years of age will not be admitted t
- o this event\, and will not be eligible for a refund. Support acts subject
-  to change without refund.
-LOCATION:628 Divisadero St\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/sean-hayes-with-katzroar-and-the-indep
- endent-tickets/14978523
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marisela: Eterna Tour 2026
 DTSTART:20261116T030000Z
 DTEND:20261116T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_oL-BPz-
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/marisela-eterna-tour-2026-san-jos
@@ -56,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -80,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: MICHAEL NAU\, BREEZERS
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1AfaUr7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-michael-nau-
@@ -96,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -112,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -128,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Brothel In Belize — Machine Machine Fall 2026
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1Afu0o7
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/brothel-in-belize-machine-bric
@@ -144,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -158,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -184,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -209,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -222,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -238,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -254,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Los Gemelos de Sinaloa: The Gemeliza Tour
 DTSTART:20261126T040000Z
 DTEND:20261126T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_33P1hxM
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeli
@@ -266,10 +233,23 @@ URL:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeliza-san-j
  ose-california-11-25-2026/event/1C006524A529B8B7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Andy C - Ages 21+
+DTSTART:20261126T050000Z
+DTEND:20261126T070000Z
+DTSTAMP:20261115T132442Z
+UID:Z7r9jZ1AA7oPU
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
+ Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
+  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
+LOCATION:1015 Folsom Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -285,7 +265,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -303,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -321,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -339,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -358,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -375,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -390,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -408,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -421,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -445,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -462,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -484,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -508,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:Alicia Villarreal - Bendita Locura Tour 2026
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_GEbY5kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alicia-villarreal-bendita-locura-
@@ -524,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Jamey Johnson - Traveling Truebadour Tour
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_GkymCSV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jamey-johnson-traveling-truebadou
@@ -540,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:El Vez
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1AfC7OV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/143848
@@ -554,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -571,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:The Slackers\, Monkey\, The Hellas
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1A4veaK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/the-slackers-monkey-the-hellas
@@ -587,7 +567,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -619,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:Suicide Silence\, Emmure\, AngelMaker\, Synestia
 DTSTART:20261213T020000Z
 DTEND:20261213T040000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:rZ7HnEZ1Afa7O7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/suicide-silence-emmure-angelma
@@ -635,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -652,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261115T044018Z
+DTSTAMP:20261115T132442Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
