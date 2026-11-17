@@ -5,54 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Who's Watching the Agents?
-DTSTART:20261117T020000Z
-DTEND:20261117T053000Z
-DTSTAMP:20261117T013135Z
-UID:evt-tWYBUzzcW1FIf4d
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/cbpgjghx\nLocation: The Lost Church\, 988 Columb
- us Ave\, San Francisco\, CA 94133\, USA\nHost: exe.dev\nCategories: ai\nSo
- urce: luma-html/san-francisco
-LOCATION:The Lost Church\, 988 Columbus Ave\, San Francisco\, CA 94133\, U
- SA
-URL:https://lu.ma/cbpgjghx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
-DTSTART;TZID=America/Los_Angeles:20261116T203000
-DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261117T013135Z
-UID:funcheap-20261116-clipscocktailsaimarketin
-CATEGORIES:ai,free
-DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
- r-opusclip/\nLocation: san francisco\nPrice: Free\nCategories: ai\, free\n
- Source: funcheap/san-francisco\n\nMonday\, Nov 16\, 5:30 to 8:30pm. ZOË\,
-  579 Howard St\, San Francisco. Free. Drinks and bites are on us. If you
- ’re the one turning podcasts\, webinars\, customer interviews and live e
- vents into the clips your company posts\, this night is for you. Pull up a
-  drink for a fireside chat with Young Zhao\, CEO of OpusClip\, and a speci
- al guest from one of the Bay Area’s top fintech brands. They’ll get re
- al about how AI is changing short-form: what’s working\, what’s hype\,
-  and how lean teams are shipping more without burning out. Then stick arou
- nd to swap notes with social\, video and content folks who get your job. N
- obody here will ask you to explain what a hook is. Also on the menu: Free 
- clips: Drop us a link to a webinar\, podcast or talk\, and we’ll send ba
- ck ready-to-post clips within 24 hours. Win Ray-Ban Meta glasses in our en
- d-of-night raffle. No pitch. Just good drinks and better conversations. Wh
- o should come: social media managers\, video producers\, content marketers
- \, and community and field marketers at Bay Area tech and finance companie
- s. ICs and team leads welcome. Bring a teammate. Spots are limited\, so RS
- VP to save yours.
-LOCATION:san francisco
-URL:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hour-opuscl
- ip/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Builder Night San Francisco | n8n x Vercel x Arize AI
 DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
-DTSTAMP:20261117T013135Z
+DTSTAMP:20261117T152657Z
 UID:evt-nqhuP93sYB5gH4R
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/0qn71c42\nLocation: San Francisco\, CA\nHost: n8
@@ -64,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI Industry Night: San Francisco
 DTSTART:20261118T013000Z
 DTEND:20261118T043000Z
-DTSTAMP:20261117T013135Z
+DTSTAMP:20261117T152657Z
 UID:evt-5qgjP3GNsbUr4xv
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/foxglove-mxml\nLocation: San Francisco\, CA\nHos
@@ -76,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Scaling Marin's Open LLM Pretraining
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
-DTSTAMP:20261117T013135Z
+DTSTAMP:20261117T152657Z
 UID:evt-3yHAFplcyC0ilFo
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/8rz1myft\nLocation: San Francisco\, CA\nHost: Pe
