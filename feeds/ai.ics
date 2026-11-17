@@ -5,23 +5,10 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Agentic Web #02 — The Browser as an Agent Runtime
-DTSTART:20261117T013000Z
-DTEND:20261117T043000Z
-DTSTAMP:20261116T144017Z
-UID:evt-VugVzABYMkqe8vr
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/agentic-web-browser-runtime-nov16-2026\nLocation
- : 625 2nd St\, San Francisco\, CA 94107\, USA\nHost: [SF] HackerSquad\nCat
- egories: ai\nSource: luma-html/san-francisco
-LOCATION:625 2nd St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/agentic-web-browser-runtime-nov16-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Who's Watching the Agents?
 DTSTART:20261117T020000Z
 DTEND:20261117T053000Z
-DTSTAMP:20261116T144017Z
+DTSTAMP:20261117T013135Z
 UID:evt-tWYBUzzcW1FIf4d
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/cbpgjghx\nLocation: The Lost Church\, 988 Columb
@@ -35,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Clips & Cocktails: AI Marketing Happy Hour with OpusClip
 DTSTART;TZID=America/Los_Angeles:20261116T203000
 DTEND;TZID=America/Los_Angeles:20261116T223000
-DTSTAMP:20261116T144017Z
+DTSTAMP:20261117T013135Z
 UID:funcheap-20261116-clipscocktailsaimarketin
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/clips-cocktails-ai-marketing-happy-hou
@@ -65,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Builder Night San Francisco | n8n x Vercel x Arize AI
 DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
-DTSTAMP:20261116T144017Z
+DTSTAMP:20261117T013135Z
 UID:evt-nqhuP93sYB5gH4R
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/0qn71c42\nLocation: San Francisco\, CA\nHost: n8
@@ -77,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Physical AI Industry Night: San Francisco
 DTSTART:20261118T013000Z
 DTEND:20261118T043000Z
-DTSTAMP:20261116T144017Z
+DTSTAMP:20261117T013135Z
 UID:evt-5qgjP3GNsbUr4xv
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/foxglove-mxml\nLocation: San Francisco\, CA\nHos
@@ -89,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Scaling Marin's Open LLM Pretraining
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
-DTSTAMP:20261116T144017Z
+DTSTAMP:20261117T013135Z
 UID:evt-3yHAFplcyC0ilFo
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/8rz1myft\nLocation: San Francisco\, CA\nHost: Pe
