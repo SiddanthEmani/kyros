@@ -5,39 +5,80 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Builder Night San Francisco | n8n x Vercel x Arize AI
-DTSTART:20261118T010000Z
-DTEND:20261118T040000Z
-DTSTAMP:20261118T002836Z
-UID:evt-nqhuP93sYB5gH4R
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/0qn71c42\nLocation: San Francisco\, CA\nHost: n8
- n Community Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/0qn71c42
+SUMMARY:Inside the AI Talent Race: Sierra\, Decagon & Your Next Hire
+DTSTART;TZID=America/Los_Angeles:20261118T170000
+DTEND;TZID=America/Los_Angeles:20261118T190000
+DTSTAMP:20261118T150214Z
+UID:funcheap-20261118-insidetheaitalentracesie
+CATEGORIES:ai,free
+DESCRIPTION:https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/\nV
+ enue: does the talent behind Sierra and Decagon come from\, and what can o
+ ther hiring t\nPrice: Free\nCategories: ai\, free\nSource: funcheap/san-fr
+ ancisco\n\nWhere does the talent behind Sierra and Decagon come from\, and
+  what can other hiring teams learn from it? Join a free research briefing 
+ and practical hiring roundtable by Metix AI. Its published talent map cove
+ rs 5\,537 employees across 12 AI customer-service companies\, using August
+  2026 data. Recruiters\, People practitioners and hiring founders will dis
+ cuss talent pools and role requirements\, then work on a hiring question\,
+  role brief or JD of their own. A JD is optional. Metix AI is trusted by M
+ iniMax and Dyna Robotics. The afternoon includes a 15-minute Metix workflo
+ w demonstration\, peer discussion\, free food and drinks. November 18\, 20
+ 26\, 2–5 PM PST\, 650 California Street\, 7th Floor\, San Francisco. 15 
+ places\, then a waitlist. Registration is required: https://luma.com/eyp5r
+ 2p6
+LOCATION:does the talent behind Sierra and Decagon come from\, and what ca
+ n other hiring t
+URL:https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Physical AI Industry Night: San Francisco
-DTSTART:20261118T013000Z
-DTEND:20261118T043000Z
-DTSTAMP:20261118T002836Z
-UID:evt-5qgjP3GNsbUr4xv
+SUMMARY:Surreal Dinner Series: Data with Surge AI
+DTSTART:20261119T011500Z
+DTEND:20261119T040000Z
+DTSTAMP:20261118T150214Z
+UID:evt-30pluw6TEMZDQNd
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/foxglove-mxml\nLocation: San Francisco\, CA\nHos
- t: Foxglove\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/surreal-so9v\nLocation: San Francisco\, CA\nHost
+ : Surreal\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/foxglove-mxml
+URL:https://lu.ma/surreal-so9v
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scaling Marin's Open LLM Pretraining
-DTSTART:20261118T020000Z
-DTEND:20261118T040000Z
-DTSTAMP:20261118T002836Z
-UID:evt-3yHAFplcyC0ilFo
+SUMMARY:Vertical Agent Meetup
+DTSTART:20261119T023000Z
+DTEND:20261119T050000Z
+DTSTAMP:20261118T150214Z
+UID:evt-yJxKSOeFlrliHH1
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/8rz1myft\nLocation: San Francisco\, CA\nHost: Pe
- rsonal\nCategories: ai\nSource: luma-html/san-francisco
+DESCRIPTION:https://lu.ma/monaco-cdlb\nLocation: San Francisco\, CA\nHost:
+  Monaco\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
-URL:https://lu.ma/8rz1myft
+URL:https://lu.ma/monaco-cdlb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCP Analytics Night w/ PostHog
+DTSTART:20261120T010000Z
+DTEND:20261120T030000Z
+DTSTAMP:20261118T150214Z
+UID:evt-RaegxbYpliPWvC3
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/posthog-mcp-night\nLocation: Hogpatch\, 2360 3rd
+  St\, San Francisco\, CA 94107\, USA\nHost: PostHog\nCategories: ai\nSourc
+ e: luma-html/san-francisco
+LOCATION:Hogpatch\, 2360 3rd St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/posthog-mcp-night
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffeehouse by Ode with Anthropic
+DTSTART:20261120T013000Z
+DTEND:20261120T033000Z
+DTSTAMP:20261118T150214Z
+UID:evt-B2QukAk6oMjIuVd
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/ode-coffeehouse\nLocation: Shack15\, 1\, Ferry B
+ uilding\, Ste 201\, San Francisco\, CA 94111\, USA\nHost: Ode with Anthrop
+ ic\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:Shack15\, 1\, Ferry Building\, Ste 201\, San Francisco\, CA 94111
+ \, USA
+URL:https://lu.ma/ode-coffeehouse
 END:VEVENT
 END:VCALENDAR
