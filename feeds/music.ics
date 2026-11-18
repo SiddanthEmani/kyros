@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Three Days Grace - Alienation Tour
 DTSTART:20261119T030000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZbU3R_nwH
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Alice Cooper - Alice's Attic Tour
 DTSTART:20261119T040000Z
 DTEND:20261119T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_CFd56Zl
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Who Want The Smoke
 DTSTART:20261121T030000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -171,46 +171,46 @@ URL:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-tour-san-
  jose-california-11-21-2026/event/1C0064ACCB0A6B9B
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOLD OUT Spencer Day La Frontera Premier
+SUMMARY:Spencer Day La Frontera Premier
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1A4Z_Jd
 CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/sold-out-spencer-day-la-feinst
- eins-at-the-nikko-tickets/15019983\nVenue: Feinstein's at The Nikko\nLocat
- ion: 222 Mason Street\, San Francisco\, CA\nPrice: Free\nGenres: Music\, J
- azz\nCategories: concert\, free\nSource: ticketmaster/music\n\nSpencer Day
-  Feinstein's at the Nikko November 20 & 21 Previewing his new Project: La 
- Frontera Spencer Day comes home to San Francisco for the first live previe
- w of La Frontera\, his exciting new collection of original music inspired 
- by his life in Mexico. Blending jazz\, pop\, the Great American Songbook a
- nd Latin influences\, Spencer explores the cultural connections between Me
- xico and the U.S.---and the unexpected ways music can bring us together. T
- his special evening will feature brand-new songs and arrangements from La 
- Frontera alongside favorites from Spencer's celebrated catalog\, plus a ve
- ry special guest musician from Mexico. With his signature mix of sophistic
- ated musicianship\, storytelling and humor\, Spencer invites audiences to 
- be among the first to experience where his music is headed next. A new cha
- pter. A special homecoming. A first listen. Don't miss Spencer Day at Fein
- stein's at the Nikko. From the Artist \, "rdquo" -> I've spent the last fe
- w years falling ever deeper in love with Mexico---not just with the music\
- , but with the people\, the culture and the way so many of our traditions 
- coexist\," says Day. \, "rdquo" -> La Frontera grew out of that experience
- . It's about more than just the border---it's about what happens when cult
- ures meet\, influence one another and create something new. It's a meditat
- ion on the many things that connect us and divide us. I'm incredibly excit
- ed to share it for the first time with the city that gave me my start. San
-  Francisco has always 
+DESCRIPTION:https://www.ticketweb.com/event/spencer-day-la-frontera-premie
+ r-feinsteins-at-the-nikko-tickets/15019983\nVenue: Feinstein's at The Nikk
+ o\nLocation: 222 Mason Street\, San Francisco\, CA\nPrice: Free\nGenres: M
+ usic\, Jazz\nCategories: concert\, free\nSource: ticketmaster/music\n\nSpe
+ ncer Day Feinstein's at the Nikko November 20 & 21 Previewing his new Proj
+ ect: La Frontera Spencer Day comes home to San Francisco for the first liv
+ e preview of La Frontera\, his exciting new collection of original music i
+ nspired by his life in Mexico. Blending jazz\, pop\, the Great American So
+ ngbook and Latin influences\, Spencer explores the cultural connections be
+ tween Mexico and the U.S.---and the unexpected ways music can bring us tog
+ ether. This special evening will feature brand-new songs and arrangements 
+ from La Frontera alongside favorites from Spencer's celebrated catalog\, p
+ lus a very special guest musician from Mexico. With his signature mix of s
+ ophisticated musicianship\, storytelling and humor\, Spencer invites audie
+ nces to be among the first to experience where his music is headed next. A
+  new chapter. A special homecoming. A first listen. Don't miss Spencer Day
+  at Feinstein's at the Nikko. From the Artist \, "rdquo" -> I've spent the
+  last few years falling ever deeper in love with Mexico---not just with th
+ e music\, but with the people\, the culture and the way so many of our tra
+ ditions coexist\," says Day. \, "rdquo" -> La Frontera grew out of that ex
+ perience. It's about more than just the border---it's about what happens w
+ hen cultures meet\, influence one another and create something new. It's a
+  meditation on the many things that connect us and divide us. I'm incredib
+ ly excited to share it for the first time with the city that gave me my st
+ art. San Francisco has always 
 LOCATION:222 Mason Street\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/sold-out-spencer-day-la-feinsteins-at-
- the-nikko-tickets/15019983
+URL:https://www.ticketweb.com/event/spencer-day-la-frontera-premier-feinst
+ eins-at-the-nikko-tickets/15019983
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Los Gemelos de Sinaloa: The Gemeliza Tour
 DTSTART:20261126T040000Z
 DTEND:20261126T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_33P1hxM
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeli
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Andy C - Ages 21+
 DTSTART:20261126T050000Z
 DTEND:20261126T070000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:Z7r9jZ1AA7oPU
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -254,7 +254,7 @@ SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEPOWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:Alicia Villarreal - Bendita Locura Tour 2026
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_GEbY5kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alicia-villarreal-bendita-locura-
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Jamey Johnson - Traveling Truebadour Tour
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_GkymCSV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jamey-johnson-traveling-truebadou
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:El Vez
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1AfC7OV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/143848
@@ -539,7 +539,7 @@ BEGIN:VEVENT
 SUMMARY:feeble little horse
 DTSTART:20261211T040000Z
 DTEND:20261211T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1Af0UZN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/feeble-little-horse-the-indepe
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -573,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:The Slackers\, Monkey\, The Hellas
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1A4veaK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/the-slackers-monkey-the-hellas
@@ -589,7 +589,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -621,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Suicide Silence\, Emmure\, AngelMaker\, Synestia
 DTSTART:20261213T020000Z
 DTEND:20261213T040000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1Afa7O7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/suicide-silence-emmure-angelma
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -654,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
@@ -670,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:Daine/ Eilish Constance
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:rZ7HnEZ1A4ZYPS
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/daine-eilish-constance-neck-of
@@ -688,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:Silvestre Dangond - El Baile de Todos
 DTSTART:20261214T040000Z
 DTEND:20261214T060000Z
-DTSTAMP:20261117T152657Z
+DTSTAMP:20261118T002836Z
 UID:G5vYZ_8jd0kWO
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/silvestre-dangond-el-baile-de-tod
