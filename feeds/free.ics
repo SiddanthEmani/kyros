@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Inside the AI Talent Race: Sierra\, Decagon & Your Next Hire
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T190000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261118-insidetheaitalentracesie
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/\nV
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Free Logitech Game Day for Bay Area Gamers (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261119T200000
 DTEND;TZID=America/Los_Angeles:20261119T220000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261119-freelogitechgamedayforba
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-logitech-game-day-bay-area-gamers
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Butterflies
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:rZ7HnEZ1Afu0bf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/dead-butterflies-neck-of-the-w
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -93,47 +93,11 @@ URL:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-36
  5-club-tickets/14234634
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spencer Day La Frontera Premier
-DTSTART:20261122T040000Z
-DTEND:20261122T060000Z
-DTSTAMP:20261118T150214Z
-UID:rZ7HnEZ1A4Z_Jd
-CATEGORIES:concert,free
-DESCRIPTION:https://www.ticketweb.com/event/spencer-day-la-frontera-premie
- r-feinsteins-at-the-nikko-tickets/15019983\nVenue: Feinstein's at The Nikk
- o\nLocation: 222 Mason Street\, San Francisco\, CA\nPrice: Free\nGenres: M
- usic\, Jazz\nCategories: concert\, free\nSource: ticketmaster/music\n\nSpe
- ncer Day Feinstein's at the Nikko November 20 & 21 Previewing his new Proj
- ect: La Frontera Spencer Day comes home to San Francisco for the first liv
- e preview of La Frontera\, his exciting new collection of original music i
- nspired by his life in Mexico. Blending jazz\, pop\, the Great American So
- ngbook and Latin influences\, Spencer explores the cultural connections be
- tween Mexico and the U.S.---and the unexpected ways music can bring us tog
- ether. This special evening will feature brand-new songs and arrangements 
- from La Frontera alongside favorites from Spencer's celebrated catalog\, p
- lus a very special guest musician from Mexico. With his signature mix of s
- ophisticated musicianship\, storytelling and humor\, Spencer invites audie
- nces to be among the first to experience where his music is headed next. A
-  new chapter. A special homecoming. A first listen. Don't miss Spencer Day
-  at Feinstein's at the Nikko. From the Artist \, "rdquo" -> I've spent the
-  last few years falling ever deeper in love with Mexico---not just with th
- e music\, but with the people\, the culture and the way so many of our tra
- ditions coexist\," says Day. \, "rdquo" -> La Frontera grew out of that ex
- perience. It's about more than just the border---it's about what happens w
- hen cultures meet\, influence one another and create something new. It's a
-  meditation on the many things that connect us and divide us. I'm incredib
- ly excited to share it for the first time with the city that gave me my st
- art. San Francisco has always 
-LOCATION:222 Mason Street\, San Francisco\, CA
-URL:https://www.ticketweb.com/event/spencer-day-la-frontera-premier-feinst
- eins-at-the-nikko-tickets/15019983
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -164,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -182,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Guajirón: Free Cuban Jam & Salsa at Boom Boom Room
 DTSTART;TZID=America/Los_Angeles:20261129T233000
 DTEND;TZID=America/Los_Angeles:20261130T013000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261129-guajirnfreecubanjamsalsa
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom
@@ -204,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEPOWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -220,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Free Winter Art Exhibition: “What We Carry” (Dec. 3-Feb. 14)
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T210000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261203-freewinterartexhibitionw
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3
@@ -245,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -264,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -288,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -318,7 +282,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian

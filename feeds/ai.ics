@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Inside the AI Talent Race: Sierra\, Decagon & Your Next Hire
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T190000
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:funcheap-20261118-insidetheaitalentracesie
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/\nV
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Surreal Dinner Series: Data with Surge AI
 DTSTART:20261119T011500Z
 DTEND:20261119T040000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:evt-30pluw6TEMZDQNd
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/surreal-so9v\nLocation: San Francisco\, CA\nHost
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Vertical Agent Meetup
 DTSTART:20261119T023000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:evt-yJxKSOeFlrliHH1
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/monaco-cdlb\nLocation: San Francisco\, CA\nHost:
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:MCP Analytics Night w/ PostHog
 DTSTART:20261120T010000Z
 DTEND:20261120T030000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:evt-RaegxbYpliPWvC3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-mcp-night\nLocation: Hogpatch\, 2360 3rd
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Coffeehouse by Ode with Anthropic
 DTSTART:20261120T013000Z
 DTEND:20261120T033000Z
-DTSTAMP:20261118T150214Z
+DTSTAMP:20261118T235101Z
 UID:evt-B2QukAk6oMjIuVd
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ode-coffeehouse\nLocation: Shack15\, 1\, Ferry B
@@ -80,5 +80,20 @@ DESCRIPTION:https://lu.ma/ode-coffeehouse\nLocation: Shack15\, 1\, Ferry B
 LOCATION:Shack15\, 1\, Ferry Building\, Ste 201\, San Francisco\, CA 94111
  \, USA
 URL:https://lu.ma/ode-coffeehouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conscious AI Meetup: Consciousness as an autocatalytic principle o
+ f agency
+DTSTART:20261120T020000Z
+DTEND:20261120T050000Z
+DTSTAMP:20261118T235101Z
+UID:evt-CO6repYnPjeRiI6
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/cimc-41rs\nLocation: Incode Technologies\, 101 M
+ ission St Ste 900\, San Francisco\, CA 94105\, USA\nHost: CIMC Events\nCat
+ egories: ai\nSource: luma-html/san-francisco
+LOCATION:Incode Technologies\, 101 Mission St Ste 900\, San Francisco\, CA
+  94105\, USA
+URL:https://lu.ma/cimc-41rs
 END:VEVENT
 END:VCALENDAR
