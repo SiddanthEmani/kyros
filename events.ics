@@ -5,114 +5,10 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[AI/Free] Inside the AI Talent Race: Sierra\, Decagon & Your Next 
- Hire
-DTSTART;TZID=America/Los_Angeles:20261118T170000
-DTEND;TZID=America/Los_Angeles:20261118T190000
-DTSTAMP:20261118T235101Z
-UID:funcheap-20261118-insidetheaitalentracesie
-CATEGORIES:ai,free
-DESCRIPTION:https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/\nV
- enue: does the talent behind Sierra and Decagon come from\, and what can o
- ther hiring t\nPrice: Free\nCategories: ai\, free\nSource: funcheap/san-fr
- ancisco\n\nWhere does the talent behind Sierra and Decagon come from\, and
-  what can other hiring teams learn from it? Join a free research briefing 
- and practical hiring roundtable by Metix AI. Its published talent map cove
- rs 5\,537 employees across 12 AI customer-service companies\, using August
-  2026 data. Recruiters\, People practitioners and hiring founders will dis
- cuss talent pools and role requirements\, then work on a hiring question\,
-  role brief or JD of their own. A JD is optional. Metix AI is trusted by M
- iniMax and Dyna Robotics. The afternoon includes a 15-minute Metix workflo
- w demonstration\, peer discussion\, free food and drinks. November 18\, 20
- 26\, 2–5 PM PST\, 650 California Street\, 7th Floor\, San Francisco. 15 
- places\, then a waitlist. Registration is required: https://luma.com/eyp5r
- 2p6
-LOCATION:does the talent behind Sierra and Decagon come from\, and what ca
- n other hiring t
-URL:https://sf.funcheap.com/ai-talent-race-sierra-decagon-hire/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Surreal Dinner Series: Data with Surge AI
-DTSTART:20261119T011500Z
-DTEND:20261119T040000Z
-DTSTAMP:20261118T235101Z
-UID:evt-30pluw6TEMZDQNd
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/surreal-so9v\nLocation: San Francisco\, CA\nHost
- : Surreal\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/surreal-so9v
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Bay] [E27] Market Makers
-DTSTART:20261119T020000Z
-DTEND:20261119T050000Z
-DTSTAMP:20261118T235101Z
-UID:evt-XVStcG8hmJST27w
-CATEGORIES:community
-DESCRIPTION:https://lu.ma/b5bw4wwm\nLocation: 428 Waller St\, San Francisc
- o\, CA 94117\, USA\nHost: Personal\nCategories: community\nSource: luma-ht
- ml/san-francisco
-LOCATION:428 Waller St\, San Francisco\, CA 94117\, USA
-URL:https://lu.ma/b5bw4wwm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[AI] Vertical Agent Meetup
-DTSTART:20261119T023000Z
-DTEND:20261119T050000Z
-DTSTAMP:20261118T235101Z
-UID:evt-yJxKSOeFlrliHH1
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/monaco-cdlb\nLocation: San Francisco\, CA\nHost:
-  Monaco\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/monaco-cdlb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live] Three Days Grace - Alienation Tour
-DTSTART:20261119T030000Z
-DTEND:20261119T050000Z
-DTSTAMP:20261118T235101Z
-UID:G5vYZbU3R_nwH
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/three-days-grace-alienation-tour-
- san-jose-california-11-18-2026/event/1C006364AF66ACBC\nVenue: SAP Center a
- t San Jose\nLocation: 525 W Santa Clara\, San Jose\, CA\nGenres: Music\, R
- ock\, Pop\nHost: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmas
- ter/music\n\nSAP Center recommends that fans bring bags that are 5" x 9"x 
- 2" or smaller to expedite their entry. However\, we are happy to accommoda
- te larger bags up to 20" x 14" x 11" in size! When it comes to the larger 
- bags\, please note the following: All bags\, including medical and infant 
- bags\, larger than 5" x 9" x 2" are subject to X-Ray inspection and will r
- esult in longer wait times for entry Bags must be able to fit under your s
- eat once inside the event\; therefore\, bags larger than 20" x 14" x 11" w
- ill not be permitted. SAP Center no longer offers a bag check option and/o
- r onsite storage lockers.
-LOCATION:525 W Santa Clara\, San Jose\, CA
-URL:https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose
- -california-11-18-2026/event/1C006364AF66ACBC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Live] Alice Cooper - Alice's Attic Tour
-DTSTART:20261119T040000Z
-DTEND:20261119T060000Z
-DTSTAMP:20261118T235101Z
-UID:G5vYZ_CFd56Zl
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-sa
- n-jose-california-11-18-2026/event/1C0064E2032C702B\nVenue: San Jose Civic
- \nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Rock\, Pop
- \nHost: NEDERLANDER CONCERTS\nCategories: concert\nSource: ticketmaster/mu
- sic
-LOCATION:135 San Carlos St.\, San Jose\, CA
-URL:https://www.ticketmaster.com/alice-cooper-alices-attic-tour-san-jose-c
- alifornia-11-18-2026/event/1C0064E2032C702B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] MCP Analytics Night w/ PostHog
 DTSTART:20261120T010000Z
 DTEND:20261120T030000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:evt-RaegxbYpliPWvC3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-mcp-night\nLocation: Hogpatch\, 2360 3rd
@@ -125,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Coffeehouse by Ode with Anthropic
 DTSTART:20261120T013000Z
 DTEND:20261120T033000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:evt-B2QukAk6oMjIuVd
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ode-coffeehouse\nLocation: Shack15\, 1\, Ferry B
@@ -140,7 +36,7 @@ SUMMARY:[AI] Conscious AI Meetup: Consciousness as an autocatalytic princi
  ple of agency
 DTSTART:20261120T020000Z
 DTEND:20261120T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:evt-CO6repYnPjeRiI6
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/cimc-41rs\nLocation: Incode Technologies\, 101 M
@@ -151,36 +47,51 @@ LOCATION:Incode Technologies\, 101 Mission St Ste 900\, San Francisco\, CA
 URL:https://lu.ma/cimc-41rs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay] “Love Birds” Award-Winning Doc + Post-Film Q&A (Roxie Th
- eater)
-DTSTART;TZID=America/Los_Angeles:20261119T190000
-DTEND;TZID=America/Los_Angeles:20261119T210000
-DTSTAMP:20261118T235101Z
-UID:funcheap-20261119-lovebirdsawardwinningdoc
+SUMMARY:[AI] AI Summit 2027: A Conversation Before Geneva
+DTSTART:20261120T020000Z
+DTEND:20261120T050000Z
+DTSTAMP:20261119T054636Z
+UID:evt-Qtceo1OcjYvaeOr
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/fy8teprf\nLocation: House of AI\, 40 Boardman Pl
+ \, San Francisco\, CA 94103\, USA\nHost: Swissnex in San Francisco\nCatego
+ ries: ai\nSource: luma-html/san-francisco
+LOCATION:House of AI\, 40 Boardman Pl\, San Francisco\, CA 94103\, USA
+URL:https://lu.ma/fy8teprf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AI] How can AI kill us all? Eight existential risk scenarios with
+  Prof. Geoffrey Hinton
+DTSTART:20261120T021500Z
+DTEND:20261120T034500Z
+DTSTAMP:20261119T054636Z
+UID:evt-cJ8w96a4OO6FBzw
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/zcbrxhsr\nLocation: The Commonwealth Club\, 110 
+ The Embarcadero\, San Francisco\, CA 94105\, USA\nHost: Personal\nCategori
+ es: ai\nSource: luma-html/san-francisco
+LOCATION:The Commonwealth Club\, 110 The Embarcadero\, San Francisco\, CA 
+ 94105\, USA
+URL:https://lu.ma/zcbrxhsr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay] Gumloop x Linear Design Gallery
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+DTSTAMP:20261119T054636Z
+UID:evt-jgY4LJMTKzPCeNu
 CATEGORIES:community
-DESCRIPTION:https://sf.funcheap.com/love-birds-awardwinning-doc-postfilm-q
- a-roxie-theater/\nLocation: san francisco\nCategories: community\nSource: 
- funcheap/san-francisco\n\nLove Birds\, an award-winning documentary short 
- directed by Elliott Kennerson and Angel Morris\, tells the remarkable stor
- y of the female gull pairs found on California’s Santa Barbara Island in
-  1972 and the personal and political fallout of the discovery. This specta
- cular film returns to San Francisco on November 19 for a screening at the 
- Roxie Theater\, with a post-screening Q&A with filmmaker Elliott Kennerson
-  and moderator Judy Irving. Preceded by a program of short documentary off
- icial selections from the International Ocean Film Foundation (IOFF). Prog
- ram: Birdathlon \, Karen Lewis (USA) 4 min How do Pelicans Survive Their D
- eath-Defying Dives \, Elliott Kennerson\, (USA) 4 min The Wild Parrots of 
- Telegrapn Hill “Sneak Peek” \, Judy Irving (USA) 20 min Love Birds \, 
- Elliott Kennerson\, (USA) 28 min
-LOCATION:san francisco
-URL:https://sf.funcheap.com/love-birds-awardwinning-doc-postfilm-qa-roxie-
- theater/
+DESCRIPTION:https://lu.ma/design-gallery\nLocation: Jackson Square\, San F
+ rancisco\, CA\, USA\nHost: Gumloop\nCategories: community\nSource: luma-ht
+ ml/san-francisco
+LOCATION:Jackson Square\, San Francisco\, CA\, USA
+URL:https://lu.ma/design-gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Bay] Stand-Up Comedy Show: Club Fox Peninsula Comedy Allstars
 DTSTART;TZID=America/Los_Angeles:20261119T193000
 DTEND;TZID=America/Los_Angeles:20261119T213000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261119-standupcomedyshowclubfox
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/standup-comedy-show-club-fox-peninsula
@@ -210,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] KATSEYE: THE WILDWORLD TOUR
 DTSTART:20261120T040000Z
 DTEND:20261120T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_1m-eW1q
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
@@ -226,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:[Free] Free Logitech Game Day for Bay Area Gamers (San Jose)
 DTSTART;TZID=America/Los_Angeles:20261119T200000
 DTEND;TZID=America/Los_Angeles:20261119T220000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261119-freelogitechgamedayforba
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/free-logitech-game-day-bay-area-gamers
@@ -244,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] DJ Stingray - Ages 21+
 DTSTART:20261120T050000Z
 DTEND:20261120T070000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:Z7r9jZ1AA7oPg
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
@@ -256,9 +167,9 @@ URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Live] Who Want The Smoke
-DTSTART:20261121T030000Z
-DTEND:20261121T050000Z
-DTSTAMP:20261118T235101Z
+DTSTART:20261121T023000Z
+DTEND:20261121T043000Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_35P5NtU
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/who-want-the-smoke-san-jose-calif
@@ -281,10 +192,26 @@ URL:https://www.ticketmaster.com/who-want-the-smoke-san-jose-california-11
  -20-2026/event/1C006522E52E3A76
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] 2000's Night
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+DTSTAMP:20261119T054636Z
+UID:rZ7HnEZ1AfGJZ0
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/2000s-night-the-ritz-tickets/1
+ 4326024\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\nPrice: $
+ 19-$521\nGenres: Music\, Other\nCategories: concert\nSource: ticketmaster/
+ music\n\nThis event is 18 and over. Any ticket holder unable to present va
+ lid identification indicating that they are at least 18 years of age will 
+ not be admitted to this event\, and will not be eligible for a refund.
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/2000s-night-the-ritz-tickets/14326024
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live/Free] Dead Butterflies
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1Afu0bf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/dead-butterflies-neck-of-the-w
@@ -304,7 +231,7 @@ SUMMARY:[Live/Free] HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georges
  on
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -329,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -342,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -358,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Arcángel - La 8va Maravilla World Tour
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_1S5eJmh
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-t
@@ -371,10 +298,28 @@ URL:https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-tour-san-
  jose-california-11-21-2026/event/1C0064ACCB0A6B9B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Ariana Grande Night
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+DTSTAMP:20261119T054636Z
+UID:rZ7HnEZ1AfoZk7
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/ariana-grande-night-the-ritz-t
+ ickets/14440184\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, CA\n
+ Price: $19-$521\nGenres: Music\, Pop\nCategories: concert\nSource: ticketm
+ aster/music\n\nThis event is 18 and over. Any ticket holder unable to pres
+ ent valid identification indicating that they are at least 18 years of age
+  will not be admitted to this event\, and will not be eligible for a refun
+ d.
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/ariana-grande-night-the-ritz-tickets/1
+ 4440184
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Los Gemelos de Sinaloa: The Gemeliza Tour
 DTSTART:20261126T040000Z
 DTEND:20261126T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_33P1hxM
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeli
@@ -390,7 +335,7 @@ SUMMARY:[Bay/Free] SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa
  Clara (Nov. 27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -421,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -437,7 +382,7 @@ SUMMARY:[EDM] Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\,
  Cyberpunk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -455,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -473,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -491,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:[Free] Guajirón: Free Cuban Jam & Salsa at Boom Boom Room
 DTSTART;TZID=America/Los_Angeles:20261129T233000
 DTEND;TZID=America/Los_Angeles:20261130T013000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261129-guajirnfreecubanjamsalsa
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom
@@ -514,7 +459,7 @@ SUMMARY:[Live/Free] (((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEP
  OWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -531,7 +476,7 @@ SUMMARY:[Bay/Free] Free Winter Art Exhibition: “What We Carry” (Dec. 3
  -Feb. 14)
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T210000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261203-freewinterartexhibitionw
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3
@@ -556,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -575,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -592,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -607,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -625,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -638,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -662,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T133000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261205-district10bayviewfamilys
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/district-10-bayview-family-summit/\nLo
@@ -691,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -708,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -737,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -759,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 2026 Fungus Fair: 300+ Wild Mushroom Species (South SF)
 DTSTART;TZID=America/Los_Angeles:20261206T100000
 DTEND;TZID=America/Los_Angeles:20261206T170000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261206-2026fungusfair300wildmus
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/2026-fungus-fair-300-wild-mushroom-spe
@@ -791,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -815,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alicia Villarreal - Bendita Locura Tour 2026
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_GEbY5kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alicia-villarreal-bendita-locura-
@@ -831,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jamey Johnson - Traveling Truebadour Tour
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_GkymCSV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jamey-johnson-traveling-truebadou
@@ -847,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] El Vez
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1AfC7OV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/143848
@@ -861,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -878,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Slackers\, Monkey\, The Hellas
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1A4veaK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/the-slackers-monkey-the-hellas
@@ -894,7 +839,7 @@ SUMMARY:[Live/Free] “Colors of India” Free Holiday Pop-Up Indian Food
  Fest + Dance Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -926,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Suicide Silence\, Emmure\, AngelMaker\, Synestia
 DTSTART:20261213T020000Z
 DTEND:20261213T040000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:rZ7HnEZ1Afa7O7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/suicide-silence-emmure-angelma
@@ -942,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -959,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
@@ -975,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Silvestre Dangond - El Baile de Todos
 DTSTART:20261214T040000Z
 DTEND:20261214T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_8jd0kWO
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/silvestre-dangond-el-baile-de-tod
@@ -990,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Victoria Monét: Frequency Of Love Tour
 DTSTART:20261218T040000Z
 DTEND:20261218T060000Z
-DTSTAMP:20261118T235101Z
+DTSTAMP:20261119T054636Z
 UID:G5vYZ_320sgVQ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/victoria-monet-frequency-of-love-
@@ -1003,5 +948,37 @@ DESCRIPTION:https://www.ticketmaster.com/victoria-monet-frequency-of-love-
 LOCATION:99 Grove Street\, San Francisco\, CA
 URL:https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-san
  -francisco-california-12-17-2026/event/1C006523E4C75D1A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bay] 24th Annual “Unsilent Night” SF’s Boombox Xmas Parade 
+ in The Mission (2026)
+DTSTART;TZID=America/Los_Angeles:20261218T183000
+DTEND;TZID=America/Los_Angeles:20261218T203000
+DTSTAMP:20261119T054636Z
+UID:funcheap-20261218-24thannualunsilentnights
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/unsilent-night-sf-mission/\nVenue: and
+  Matheson Street\, Healdsburg\, CA FREE Bring a boombox\, phone\, or Bluet
+ ooth sp\nCategories: community\nSource: funcheap/east-bay\n\nUnsilent Nigh
+ t is a participatory sound artwork by composer Phil Kline\, an ethereal\, 
+ electronic soundscape played by the audience on boomboxes carried through 
+ city streets. Each participant gets one of four tracks of music in the for
+ m of a MP3 or through the app. All four tracks played simultaneously compr
+ ise Unsilent Night. There are four different events in 2026! Two in SF (in
+ cluding the biggest/original one in the Mission)\, plus new ones in Berkel
+ ey and Healdsburg! Bring a boombox\, portable speaker\, or anything that a
+ mplifies music\, loaded with one of the piece’s four tracks. When we’r
+ e all assembled\, we’ll push play in unison and walk through the Mission
+  back alleys as the piece unfolds. Download the tracks or download the app
+  at: unsilentnight.com/participate (PLEASE DOWNLOAD PRIOR TO MEETING UP) S
+ AN FRANCISCO 24th Annual Unsilent Night San Francisco – THE MISSION – 
+ The Original & Biggest !! Friday\, December 18\, 2026 | 6:30p Meet at Dolo
+ res Park\, 18th and Dolores\, San Francisco FREE Please arrive at Mission 
+ Dolores Park (by the tennis courts at the corner of 18th & Dolores) by 6:3
+ 0 pm\, ready to “Hit Play” for the liftoff! (typically about 20 minute
+ s later\, but times are TBD –
+LOCATION:and Matheson Street\, Healdsburg\, CA FREE Bring a boombox\, phon
+ e\, or Bluetooth sp
+URL:https://sf.funcheap.com/unsilent-night-sf-mission/
 END:VEVENT
 END:VCALENDAR
