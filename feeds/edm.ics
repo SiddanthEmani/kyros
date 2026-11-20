@@ -5,40 +5,10 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:KATSEYE: THE WILDWORLD TOUR
-DTSTART:20261120T040000Z
-DTEND:20261120T060000Z
-DTSTAMP:20261120T001519Z
-UID:G5vYZ_1m-eW1q
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/katseye-the-wildworld-tour-oaklan
- d-california-11-19-2026/event/1C0064ABA10BD29D\nVenue: Oakland Arena\nLoca
- tion: 7000 Coliseum Way\, Oakland\, CA\nGenres: Music\, Pop\, Electro Pop\
- nHost: LIVE NATION MUSIC\nCategories: edm\nSource: ticketmaster/music\n\n-
-  No refunds\, no exchanges
-LOCATION:7000 Coliseum Way\, Oakland\, CA
-URL:https://www.ticketmaster.com/katseye-the-wildworld-tour-oakland-califo
- rnia-11-19-2026/event/1C0064ABA10BD29D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DJ Stingray - Ages 21+
-DTSTART:20261120T050000Z
-DTEND:20261120T070000Z
-DTSTAMP:20261120T001519Z
-UID:Z7r9jZ1AA7oPg
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg\nVenue: 1015 
- Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
-  Dance/Electronic\, Tech-House\nCategories: edm\nSource: ticketmaster/musi
- c
-LOCATION:1015 Folsom Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hans Glader - ages 21+
 DTSTART:20261121T050000Z
 DTEND:20261121T070000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:Z7r9jZ1AAvtv7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAvtv7\nVenue: The M
@@ -51,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Jonas Brothers: The Burning Up Tour All Over Again
 DTSTART:20261122T033000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_8SbxulZ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tou
@@ -64,11 +34,61 @@ URL:https://www.ticketmaster.com/jonas-brothers-the-burning-up-tour-san-fr
  ancisco-california-11-21-2026/event/1C00650CD888DAC0
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver The Kin
+ gson + DJ Spleece
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+DTSTAMP:20261120T145027Z
+UID:rZ7HnEZ1A4ZgZd
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyr
+ amid-moes-alley-tickets/15035003\nVenue: Moe's Alley\nLocation: 1535 Comme
+ rcial Way\, Santa Cruz\, CA\nPrice: $47\nGenres: Music\, Reggae\, Contempo
+ rary Reggae\nCategories: edm\nSource: ticketmaster/music\n\nMoe's Alley pr
+ esents a special two-night run with Grammy Award winner Kabaka Pyramid! La
+ wgiver The Kingson opens the Saturday night show. Saturday\, November 21\,
+  2026 (night 2) Doors: 8pm // Show: 9pm $40 in advance // $45 day of the s
+ how 21+ * No Refunds | All sales are final * Avoid scammers! Only purchase
+  tickets from moesalley.com or ticketweb.com * Tickets requested by email 
+ will be delivered 3 days prior to the event * Will Call tickets will be av
+ ailable at the door on the day of the event ==== KABAKA PYRAMID Kabaka Pyr
+ amid is a Grammy Award Winning Rastafarian lyricist fusing elements of Reg
+ gae\, Hip Hop and Dancehall to create a unique sound\, revolutionizing Jam
+ aica music with conscious messages. A key pillar of the Reggae Revival mov
+ ement\, Kabaka Pyramid carved his way into the Jamaican reggae scene with 
+ Rebel Music in 2011 with marquee songs like \, "rdquo" -> Free From Chains
+ " and \, "rdquo" -> Warrior" featuring Protoje. His hip hop roots were evi
+ dent in the lyrical style and hard hitting beats\, laying the foundation f
+ or an ever ascending career highlighted by the classic marquee sophmore al
+ bum \, "rdquo" -> The Kalling" produced by role model Damian \, "rdquo" ->
+  Jr Gong" Marley. This chart topping artist has developed a solid global f
+ an-base that connects deeply with the messages in his music\, touring exte
+ nsively over the past 10 years to the largest of Reggae stages around the 
+ world and headlining numerous 20+ multi-city club tours and some the great
+ est reggae festiv
+LOCATION:1535 Commercial Way\, Santa Cruz\, CA
+URL:https://www.ticketweb.com/event/moes-alley-presents-kabaka-pyramid-moe
+ s-alley-tickets/15035003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andy C - Ages 21+
+DTSTART:20261126T050000Z
+DTEND:20261126T070000Z
+DTSTAMP:20261120T145027Z
+UID:Z7r9jZ1AA7oPU
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
+ Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
+  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
+LOCATION:1015 Folsom Street\, San Francisco\, CA
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -86,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -104,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -123,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -140,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -153,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -170,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -192,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -209,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -226,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
@@ -242,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Monét: Frequency Of Love Tour
 DTSTART:20261218T040000Z
 DTEND:20261218T060000Z
-DTSTAMP:20261120T001519Z
+DTSTAMP:20261120T145027Z
 UID:G5vYZ_320sgVQ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/victoria-monet-frequency-of-love-

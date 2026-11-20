@@ -5,73 +5,52 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:MCP Analytics Night w/ PostHog
-DTSTART:20261120T010000Z
-DTEND:20261120T030000Z
-DTSTAMP:20261120T001519Z
-UID:evt-RaegxbYpliPWvC3
+SUMMARY:Recursive Self Improvement Hack: Autonomous Agent Businesses
+DTSTART:20261122T180000Z
+DTEND:20261123T040000Z
+DTSTAMP:20261120T145027Z
+UID:evt-Z1nIRCoBGEtA6s3
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/posthog-mcp-night\nLocation: Hogpatch\, 2360 3rd
-  St\, San Francisco\, CA 94107\, USA\nHost: PostHog\nCategories: ai\nSourc
- e: luma-html/san-francisco
-LOCATION:Hogpatch\, 2360 3rd St\, San Francisco\, CA 94107\, USA
-URL:https://lu.ma/posthog-mcp-night
+DESCRIPTION:https://lu.ma/ktv3iwd9\nLocation: San Francisco\, CA\nHost: Re
+ cursive Self Improvement\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/ktv3iwd9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coffeehouse by Ode with Anthropic
-DTSTART:20261120T013000Z
-DTEND:20261120T033000Z
-DTSTAMP:20261120T001519Z
-UID:evt-B2QukAk6oMjIuVd
+SUMMARY:Durable AI Meetup (November Edition)
+DTSTART:20261124T013000Z
+DTEND:20261124T040000Z
+DTSTAMP:20261120T145027Z
+UID:evt-HCkx4ZF5HMlcCA7
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/ode-coffeehouse\nLocation: Shack15\, 1\, Ferry B
- uilding\, Ste 201\, San Francisco\, CA 94111\, USA\nHost: Ode with Anthrop
- ic\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:Shack15\, 1\, Ferry Building\, Ste 201\, San Francisco\, CA 94111
- \, USA
-URL:https://lu.ma/ode-coffeehouse
+DESCRIPTION:https://lu.ma/durable-ai-november\nLocation: San Francisco\, C
+ A\nHost: Temporal Community\nCategories: ai\nSource: luma-html/san-francis
+ co
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/durable-ai-november
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conscious AI Meetup: Consciousness as an autocatalytic principle o
- f agency
-DTSTART:20261120T020000Z
-DTEND:20261120T050000Z
-DTSTAMP:20261120T001519Z
-UID:evt-CO6repYnPjeRiI6
+SUMMARY:Degrees of Freedom: Embodied AI Builders Night @ Mission Robotics
+DTSTART:20261124T020000Z
+DTEND:20261124T050000Z
+DTSTAMP:20261120T145027Z
+UID:evt-XDeBPhHgQvPOzj3
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/cimc-41rs\nLocation: Incode Technologies\, 101 M
- ission St Ste 900\, San Francisco\, CA 94105\, USA\nHost: CIMC Events\nCat
- egories: ai\nSource: luma-html/san-francisco
-LOCATION:Incode Technologies\, 101 Mission St Ste 900\, San Francisco\, CA
-  94105\, USA
-URL:https://lu.ma/cimc-41rs
+DESCRIPTION:https://lu.ma/mission-u38j\nLocation: San Francisco\, CA\nHost
+ : Mission Robotics\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/mission-u38j
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI Summit 2027: A Conversation Before Geneva
-DTSTART:20261120T020000Z
-DTEND:20261120T050000Z
-DTSTAMP:20261120T001519Z
-UID:evt-Qtceo1OcjYvaeOr
+SUMMARY:San Francisco | Claude Community x Release Before Ready
+DTSTART:20261205T170000Z
+DTEND:20261206T050000Z
+DTSTAMP:20261120T145027Z
+UID:evt-3bQw2UAWnHghTh0
 CATEGORIES:ai
-DESCRIPTION:https://lu.ma/fy8teprf\nLocation: House of AI\, 40 Boardman Pl
- \, San Francisco\, CA 94103\, USA\nHost: Swissnex in San Francisco\nCatego
- ries: ai\nSource: luma-html/san-francisco
-LOCATION:House of AI\, 40 Boardman Pl\, San Francisco\, CA 94103\, USA
-URL:https://lu.ma/fy8teprf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How can AI kill us all? Eight existential risk scenarios with Prof
- . Geoffrey Hinton
-DTSTART:20261120T021500Z
-DTEND:20261120T034500Z
-DTSTAMP:20261120T001519Z
-UID:evt-cJ8w96a4OO6FBzw
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/zcbrxhsr\nLocation: The Commonwealth Club\, 110 
- The Embarcadero\, San Francisco\, CA 94105\, USA\nHost: Personal\nCategori
- es: ai\nSource: luma-html/san-francisco
-LOCATION:The Commonwealth Club\, 110 The Embarcadero\, San Francisco\, CA 
- 94105\, USA
-URL:https://lu.ma/zcbrxhsr
+DESCRIPTION:https://lu.ma/clauderbr\nLocation: San Francisco\, CA\nHost: C
+ laude Community Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/clauderbr
 END:VEVENT
 END:VCALENDAR
