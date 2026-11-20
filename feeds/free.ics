@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Dead Butterflies
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1Afu0bf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/dead-butterflies-neck-of-the-w
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:HUG feat. Gyan Riley\, Devendra Banhart\, Noah Georgeson
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1AfFVbV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-b
@@ -53,7 +53,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Guajirón: Free Cuban Jam & Salsa at Boom Boom Room
 DTSTART;TZID=America/Los_Angeles:20261129T233000
 DTEND;TZID=America/Los_Angeles:20261130T013000
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:funcheap-20261129-guajirnfreecubanjamsalsa
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEPOWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Free Winter Art Exhibition: “What We Carry” (Dec. 3-Feb. 14)
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T210000
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:funcheap-20261203-freewinterartexhibitionw
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -181,10 +181,44 @@ URL:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bimbos-365
  -club-tickets/15035463
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Let’s Glow SF 2026: SF’s Huge Holiday Projection Arts Festival
+  (Dec. 4-13)
+DTSTART;TZID=America/Los_Angeles:20261204T190000
+DTEND;TZID=America/Los_Angeles:20261204T210000
+DTSTAMP:20261120T233833Z
+UID:funcheap-20261204-letsglowsf2026sfshugehol
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-proj
+ ection-arts-festival-dec-4-13/\nVenue: s ( map ) Ferry Building (1 Ferry B
+ uilding) – Best viewed from Harry Bridges Pla\nPrice: Free\nCategories: 
+ community\, free\nSource: funcheap/san-francisco\n\nLet’s Glow SF \, the
+  nation’s largest free holiday projection arts festival \, is lighting u
+ p downtown San Francisco once again for its sixth and brightest year yet. 
+ This all-ages\, family-friendly festival runs for 10 dazzling nights from 
+ December 4-13\, 2026 . Experience breathtaking animated projections illumi
+ nating iconic buildings across downtown San Francisco \, transforming them
+  into colossal\, colorful canvases featuring spectacular artwork by 19 art
+ ists from around the globe . It’s a larger-than-life holiday light show 
+ that turns the heart of the city into an open-air art gallery after dark. 
+ Let’s Glow SF December 4-13\, 2026 | 6p-10p Downtown San Francisco\, 1 F
+ erry Bldg.\, SF FREE – RSVP 2026 Festival Schedule Friday\, December 4: 
+ Countdown to Glow opening-night celebration 6–7 PM at Harry Bridges Plaz
+ a in front of the Ferry Building. Friday\, December 4: Festival projection
+ s 7–10 PM (following Countdown to Glow) December 5–13: Nightly project
+ ions\, 5:30–10 PM 2026 Show Locations ( map ) Ferry Building (1 Ferry Bu
+ ilding) – Best viewed from Harry Bridges Plaza. 101 California St. (101 
+ California St.) – Best viewed from inside 101 California Plaza. Pacific 
+ Exchange (301 Pine St.) – Be
+LOCATION:s ( map ) Ferry Building (1 Ferry Building) – Best viewed from 
+ Harry Bridges Pla
+URL:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-projection-a
+ rts-festival-dec-4-13/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -208,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -237,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:THE FLAMIN' GROOVIES
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:rZ7HnEZ1AfayOf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-
@@ -253,7 +287,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261120T145027Z
+DTSTAMP:20261120T233833Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
