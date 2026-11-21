@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Recursive Self Improvement Hack: Autonomous Agent Businesses
 DTSTART:20261122T180000Z
 DTEND:20261123T040000Z
-DTSTAMP:20261120T233833Z
+DTSTAMP:20261121T052828Z
 UID:evt-Z1nIRCoBGEtA6s3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/ktv3iwd9\nLocation: San Francisco\, CA\nHost: Re
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Durable AI Meetup (November Edition)
 DTSTART:20261124T013000Z
 DTEND:20261124T040000Z
-DTSTAMP:20261120T233833Z
+DTSTAMP:20261121T052828Z
 UID:evt-HCkx4ZF5HMlcCA7
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/durable-ai-november\nLocation: San Francisco\, C
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Degrees of Freedom: Embodied AI Builders Night @ Mission Robotics
 DTSTART:20261124T020000Z
 DTEND:20261124T050000Z
-DTSTAMP:20261120T233833Z
+DTSTAMP:20261121T052828Z
 UID:evt-XDeBPhHgQvPOzj3
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/mission-u38j\nLocation: San Francisco\, CA\nHost
@@ -45,12 +45,24 @@ BEGIN:VEVENT
 SUMMARY:ML Suds & Science: Who's Running the Lab?
 DTSTART:20261125T030000Z
 DTEND:20261125T053000Z
-DTSTAMP:20261120T233833Z
+DTSTAMP:20261121T052828Z
 UID:evt-7mSa3jiZBTiNyjY
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/fhjigudr\nLocation: San Francisco\, CA\nHost: Pe
  bblebed Events\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/fhjigudr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco | Claude Community x Release Before Ready
+DTSTART:20261205T170000Z
+DTEND:20261206T050000Z
+DTSTAMP:20261121T052828Z
+UID:evt-3bQw2UAWnHghTh0
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/clauderbr\nLocation: San Francisco\, CA\nHost: C
+ laude Community Events\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/clauderbr
 END:VEVENT
 END:VCALENDAR
