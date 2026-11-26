@@ -5,39 +5,11 @@ X-WR-CALDESC:Bay Area events curated by Kyros (San Jose first).
 X-WR-CALNAME:Kyros Bay Area Events
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:[Live] Los Gemelos de Sinaloa: The Gemeliza Tour
-DTSTART:20261126T040000Z
-DTEND:20261126T060000Z
-DTSTAMP:20261126T013048Z
-UID:G5vYZ_33P1hxM
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeli
- za-san-jose-california-11-25-2026/event/1C006524A529B8B7\nVenue: San Jose 
- Civic\nLocation: 135 San Carlos St.\, San Jose\, CA\nGenres: Music\, Latin
- \nHost: LIVE NATION MUSIC\nCategories: concert\nSource: ticketmaster/music
-LOCATION:135 San Carlos St.\, San Jose\, CA
-URL:https://www.ticketmaster.com/los-gemelos-de-sinaloa-the-gemeliza-san-j
- ose-california-11-25-2026/event/1C006524A529B8B7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[EDM] Andy C - Ages 21+
-DTSTART:20261126T050000Z
-DTEND:20261126T070000Z
-DTSTAMP:20261126T013048Z
-UID:Z7r9jZ1AA7oPU
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
- Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
-  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:1015 Folsom Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Bay/Free] SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa 
  Clara (Nov. 27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -69,7 +41,7 @@ SUMMARY:[Bay/Free] East Bay’s Free Park Day on Green Friday 2026 (East B
  ay Regional Parks)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261127-eastbaysfreeparkdayongre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-park-districts-free-park-day/
@@ -98,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -114,7 +86,7 @@ SUMMARY:[EDM] Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\,
  Cyberpunk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -132,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] O'Flynn
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1A4vdbS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/oflynn-the-independent-tickets
@@ -151,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -169,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -184,10 +156,30 @@ URL:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets/1430100
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[EDM] Oden & Fatzo Live
+DTSTART:20261129T050000Z
+DTEND:20261129T070000Z
+DTSTAMP:20261126T161940Z
+UID:rZ7HnEZ1AfGYqf
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/oden-fatzo-live-the-independen
+ t-tickets/14330754\nVenue: The Independent\nLocation: 628 Divisadero St\, 
+ San Francisco\, CA\nPrice: $38\nGenres: Music\, Dance/Electronic\, House\,
+  Alternative\nCategories: edm\nSource: ticketmaster/music\n\nPlease note -
+  there is a delivery delay set for 2 weeks prior to show. This event is 21
+  and over. Any ticket holder unable to present valid identification indica
+ ting that they are at least 21 years of age will not be admitted to this e
+ vent\, and will not be eligible for a refund. Support acts subject to chan
+ ge without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/oden-fatzo-live-the-independent-ticket
+ s/14330754
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Free] Guajirón: Free Cuban Jam & Salsa at Boom Boom Room
 DTSTART;TZID=America/Los_Angeles:20261129T233000
 DTEND;TZID=America/Los_Angeles:20261130T013000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261129-guajirnfreecubanjamsalsa
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom
@@ -206,23 +198,11 @@ LOCATION:1601 Fillmore St\, San Francisco\, CA 94115. Please create dated
 URL:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom-room/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AI] AI Infrastructure Night
-DTSTART:20261203T010000Z
-DTEND:20261203T033000Z
-DTSTAMP:20261126T013048Z
-UID:evt-9QOiC4HzGbUMvmH
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/z4b3wb9d\nLocation: San Francisco\, CA\nHost: Al
- ien\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/z4b3wb9d
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live/Free] (((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEP
  OWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -238,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:[AI] Agentic Code Review Demo Night
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:evt-VEi2piKx5Cw63l1
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-review-demos\nLocation: San Francisco\, 
@@ -250,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] 21st San Jose Hardware Meetup @ Stanford CHIP
 DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:evt-MV8aGX7ZSpN7qD5
 CATEGORIES:community
 DESCRIPTION:https://lu.ma/yzqun0n4\nLocation: 473 Oak Rd\, Stanford\, CA 9
@@ -264,7 +244,7 @@ SUMMARY:[Bay/Free] Free Winter Art Exhibition: “What We Carry” (Dec. 3
  -Feb. 14)
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T210000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261203-freewinterartexhibitionw
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3
@@ -289,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM/Free] The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -308,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -326,7 +306,7 @@ SUMMARY:[Bay/Free] Let’s Glow SF 2026: SF’s Huge Holiday Projection Ar
  ts Festival (Dec. 4-13)
 DTSTART;TZID=America/Los_Angeles:20261204T190000
 DTEND;TZID=America/Los_Angeles:20261204T210000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261204-letsglowsf2026sfshugehol
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-proj
@@ -359,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -374,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -392,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -405,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -429,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T133000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261205-district10bayviewfamilys
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/district-10-bayview-family-summit/\nLo
@@ -458,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -475,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -505,7 +485,7 @@ SUMMARY:[Bay/Free] Free 2026 East Bay Open Studios: 200+ Artists (Dec 5-6
  + 12-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261205-free2026eastbayopenstudi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-ar
@@ -536,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -558,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] House of Heavy
 DTSTART:20261206T043000Z
 DTEND:20261206T063000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1Afu84f
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/house-of-heavy-the-ritz-ticket
@@ -575,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Slow Joy\, aWannabe\, Casino Youth
 DTSTART:20261207T023000Z
 DTEND:20261207T043000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfCoPV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/slow-joy-awannabe-casino-youth
@@ -590,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -615,7 +595,7 @@ SUMMARY:[EDM] Gracie Abrams: The Look at My Life Tour presented by Capital
   One
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_1UDxFhX
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakl
@@ -631,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alicia Villarreal - Bendita Locura Tour 2026
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_GEbY5kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alicia-villarreal-bendita-locura-
@@ -648,7 +628,7 @@ SUMMARY:[EDM] Gracie Abrams: The Look at My Life Tour presented by Capital
   One
 DTSTART:20261208T040000Z
 DTEND:20261208T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_5mq0w7N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakl
@@ -664,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jamey Johnson - Traveling Truebadour Tour
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_GkymCSV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jamey-johnson-traveling-truebadou
@@ -680,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] El Vez
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfC7OV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/143848
@@ -694,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -711,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Slackers\, Monkey\, The Hellas
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1A4veaK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/the-slackers-monkey-the-hellas
@@ -726,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] THE FLAMIN' GROOVIES
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfayOf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-
@@ -742,7 +722,7 @@ SUMMARY:[Live/Free] “Colors of India” Free Holiday Pop-Up Indian Food
  Fest + Dance Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -774,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Suicide Silence\, Emmure\, AngelMaker\, Synestia
 DTSTART:20261213T020000Z
 DTEND:20261213T040000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1Afa7O7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/suicide-silence-emmure-angelma
@@ -790,7 +770,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -807,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
@@ -823,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Silvestre Dangond - El Baile de Todos
 DTSTART:20261214T040000Z
 DTEND:20261214T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_8jd0kWO
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/silvestre-dangond-el-baile-de-tod
@@ -838,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Victoria Monét: Frequency Of Love Tour
 DTSTART:20261218T050000Z
 DTEND:20261218T070000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_320sgVQ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/victoria-monet-frequency-of-love-
@@ -856,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Wang Leehom  The Best Place II World Tour
 DTSTART:20261220T040000Z
 DTEND:20261220T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_8KPzcMP
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wang-leehom-the-best-place-ii-san
@@ -877,10 +857,33 @@ URL:https://www.ticketmaster.com/wang-leehom-the-best-place-ii-san-jose-ca
  lifornia-12-19-2026/event/1C006504E5E2DDE5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Live] Divorced Dad Rock Night
+DTSTART:20261220T050000Z
+DTEND:20261220T070000Z
+DTSTAMP:20261126T161940Z
+UID:rZ7HnEZ1Afofo0
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketweb.com/event/divorced-dad-rock-night-the-ri
+ tz-tickets/14454464\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, 
+ CA\nPrice: $19-$521\nGenres: Music\, Rock\nCategories: concert\nSource: ti
+ cketmaster/music\n\nDIVORCED DAD ROCK NIGHT! Sat December 19\, 9pm 21+ Com
+ e drink\, vent\, and meet your next ex to the sights and sounds of Creed\,
+  Staind\, Puddle of Mudd\, Five Finger Death Punch\, Nickelback\, Metallic
+ a\, Shinedown\, 3 Doors Down\, Breaking Benjamin\, Daughtry\, Seether\, AC
+ /DC\, Buckcherry\, Kid Rock\, Pearl Jam\, Limp Bizkit\, Three Days Grace\,
+  Seven Mary Three\, Papa Roach\, Guns N' Roses and more! This event is 21 
+ and over. Any ticket holder unable to present valid identification indicat
+ ing that they are at least 21 years of age will not be admitted to this ev
+ ent\, and will not be eligible for a refund.
+LOCATION:400 S 1st St\, San Jose\, CA
+URL:https://www.ticketweb.com/event/divorced-dad-rock-night-the-ritz-ticke
+ ts/14454464
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] 29th Annual Dave Koz & Friends Christmas Tour 2026
 DTSTART:20261223T040000Z
 DTEND:20261223T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_CnBCS6b
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/29th-annual-dave-koz-friends-chri

@@ -5,24 +5,11 @@ X-WR-CALDESC:Kyros EDM — edm events\, San Jose first.
 X-WR-CALNAME:Kyros EDM
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-SUMMARY:Andy C - Ages 21+
-DTSTART:20261126T050000Z
-DTEND:20261126T070000Z
-DTSTAMP:20261126T013048Z
-UID:Z7r9jZ1AA7oPU
-CATEGORIES:edm
-DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU\nVenue: 1015 
- Folsom\nLocation: 1015 Folsom Street\, San Francisco\, CA\nGenres: Music\,
-  Dance/Electronic\nCategories: edm\nSource: ticketmaster/music
-LOCATION:1015 Folsom Street\, San Francisco\, CA
-URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7oPU
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\, Cyberp
  unk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -40,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:O'Flynn
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1A4vdbS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/oflynn-the-independent-tickets
@@ -59,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -74,10 +61,30 @@ URL:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets/1430100
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oden & Fatzo Live
+DTSTART:20261129T050000Z
+DTEND:20261129T070000Z
+DTSTAMP:20261126T161940Z
+UID:rZ7HnEZ1AfGYqf
+CATEGORIES:edm
+DESCRIPTION:https://www.ticketweb.com/event/oden-fatzo-live-the-independen
+ t-tickets/14330754\nVenue: The Independent\nLocation: 628 Divisadero St\, 
+ San Francisco\, CA\nPrice: $38\nGenres: Music\, Dance/Electronic\, House\,
+  Alternative\nCategories: edm\nSource: ticketmaster/music\n\nPlease note -
+  there is a delivery delay set for 2 weeks prior to show. This event is 21
+  and over. Any ticket holder unable to present valid identification indica
+ ting that they are at least 21 years of age will not be admitted to this e
+ vent\, and will not be eligible for a refund. Support acts subject to chan
+ ge without refund.
+LOCATION:628 Divisadero St\, San Francisco\, CA
+URL:https://www.ticketweb.com/event/oden-fatzo-live-the-independent-ticket
+ s/14330754
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -96,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -113,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -126,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -143,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -165,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_1UDxFhX
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakl
@@ -181,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
 DTSTART:20261208T040000Z
 DTEND:20261208T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_5mq0w7N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakl
@@ -197,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -214,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -231,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
@@ -247,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Victoria Monét: Frequency Of Love Tour
 DTSTART:20261218T050000Z
 DTEND:20261218T070000Z
-DTSTAMP:20261126T013048Z
+DTSTAMP:20261126T161940Z
 UID:G5vYZ_320sgVQ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/victoria-monet-frequency-of-love-
