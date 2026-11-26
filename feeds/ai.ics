@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:AI Infrastructure Night
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
-DTSTAMP:20261125T164405Z
+DTSTAMP:20261126T013048Z
 UID:evt-9QOiC4HzGbUMvmH
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/z4b3wb9d\nLocation: San Francisco\, CA\nHost: Al
@@ -20,24 +20,12 @@ BEGIN:VEVENT
 SUMMARY:Agentic Code Review Demo Night
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261125T164405Z
+DTSTAMP:20261126T013048Z
 UID:evt-VEi2piKx5Cw63l1
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-review-demos\nLocation: San Francisco\, 
  CA\nHost: PostHog\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/posthog-review-demos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Francisco | Claude Community x Release Before Ready
-DTSTART:20261205T170000Z
-DTEND:20261206T050000Z
-DTSTAMP:20261125T164405Z
-UID:evt-3bQw2UAWnHghTh0
-CATEGORIES:ai
-DESCRIPTION:https://lu.ma/clauderbr\nLocation: San Francisco\, CA\nHost: C
- laude Community Events\nCategories: ai\nSource: luma-html/san-francisco
-LOCATION:San Francisco\, CA
-URL:https://lu.ma/clauderbr
 END:VEVENT
 END:VCALENDAR
