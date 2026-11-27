@@ -5,15 +5,41 @@ X-WR-CALDESC:Kyros AI — ai events\, San Jose first.
 X-WR-CALNAME:Kyros AI
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+SUMMARY:Meet the Lab: Mistral
+DTSTART:20261203T020000Z
+DTEND:20261203T050000Z
+DTSTAMP:20261127T012824Z
+UID:evt-kuEvIAdVfelEYqH
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/mistral-meet-the-lab-sf-12-2026\nLocation: San F
+ rancisco\, CA\nHost: Mistral Events\nCategories: ai\nSource: luma-html/san
+ -francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/mistral-meet-the-lab-sf-12-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agentic Code Review Demo Night
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261126T161940Z
+DTSTAMP:20261127T012824Z
 UID:evt-VEi2piKx5Cw63l1
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-review-demos\nLocation: San Francisco\, 
  CA\nHost: PostHog\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/posthog-review-demos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physical AI Networking and Launch Party - General Intelligence Lab
+ s
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+DTSTAMP:20261127T012824Z
+UID:evt-MVmb4ZrULijvV6p
+CATEGORIES:ai
+DESCRIPTION:https://lu.ma/gin14akr\nLocation: San Francisco\, CA\nHost: Ge
+ neral Intelligence Labs\nCategories: ai\nSource: luma-html/san-francisco
+LOCATION:San Francisco\, CA
+URL:https://lu.ma/gin14akr
 END:VEVENT
 END:VCALENDAR
