@@ -9,7 +9,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -41,7 +41,7 @@ SUMMARY:East Bay’s Free Park Day on Green Friday 2026 (East Bay Regional
   Parks)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261127-eastbaysfreeparkdayongre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-park-districts-free-park-day/
@@ -67,10 +67,35 @@ LOCATION:east bay
 URL:https://sf.funcheap.com/east-bay-park-districts-free-park-day/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Black Friday Night Live (Crockett)
+DTSTART;TZID=America/Los_Angeles:20261127T230000
+DTEND;TZID=America/Los_Angeles:20261128T210000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261127-blackfridaynightlivecroc
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/black-friday-night-live-crockett/\nLoc
+ ation: east bay\nPrice: Free\nCategories: free\nSource: funcheap/east-bay\
+ n\nSkip the conventional Black Friday madness and head to Crockett for Nig
+ ht Trip\, Pomona Street’s last-Friday-of-the-month block party celebrati
+ ng independent businesses\, music\, art and community. This month\, Monarc
+ h presents a special free live performance by EnSpirits\, featuring the ex
+ traordinary musical talents of Crockett’s own\, Dave Tweedie and Victori
+ a Theodore. Catch this dynamic duo in an intimate setting from 7–9 PM at
+  Monarch |1308 Pomona Street. Throughout the evening\, shops along Pomona 
+ Street will remain open late\, pop-up vendors will line the street\, and S
+ ol Haus will host a special “charm bar” event. Discover one-of-a-kind 
+ holiday gifts\, experience exceptional live music and spend an evening exp
+ loring one of the East Bay’s most eclectic little towns. Friday\, Novemb
+ er 27 Night Trip: 6–11 PM EnSpirits at Monarch: 7–9 PM 1308 Pomona Str
+ eet\, Crockett\, CA Free show. All are welcome.
+LOCATION:east bay
+URL:https://sf.funcheap.com/black-friday-night-live-crockett/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -85,32 +110,10 @@ URL:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-club-ticke
  ts/14997793
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guajirón: Free Cuban Jam & Salsa at Boom Boom Room
-DTSTART;TZID=America/Los_Angeles:20261129T233000
-DTEND;TZID=America/Los_Angeles:20261130T013000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261129-guajirnfreecubanjamsalsa
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom
- -room/\nVenue: 1601 Fillmore St\, San Francisco\, CA 94115. Please create 
- dated listings for both\nPrice: Free\nCategories: free\nSource: funcheap/s
- an-francisco\n\nFree live Cuban son\, salsa and tropical jazz with Guajir
- ón at Boom Boom Room on Sunday\, November 29 and Sunday\, December 27\, 2
- 026\, 7:30–11:30 p.m. Ages 21+. Come dance\, enjoy the music\, or sit in
-  for an Afro-Cuban jam. Venue: 1601 Fillmore St\, San Francisco\, CA 94115
- . Please create dated listings for both shows\; these dates were mentioned
-  in our October listing\, but separate calendar entries are needed. Detail
- s and flyers: https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-11-
- 29/ and https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-12-27/
-LOCATION:1601 Fillmore St\, San Francisco\, CA 94115. Please create dated 
- listings for both
-URL:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom-room/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEPOWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -123,35 +126,10 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-mayfield
  -the-crepe-place-tickets/14259234
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Winter Art Exhibition: “What We Carry” (Dec. 3-Feb. 14)
-DTSTART;TZID=America/Los_Angeles:20261203T190000
-DTEND;TZID=America/Los_Angeles:20261203T210000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261203-freewinterartexhibitionw
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3
- feb-14/\nLocation: san francisco\nPrice: Free\nCategories: community\, fre
- e\nSource: funcheap/san-francisco\n\nAl-An deSouza\, Angela Hennessy\, Ste
- phanie Syjuco\, Rupy C. Tut\, and Maryam Yousif December 3\, 2026–Februa
- ry 14\, 2027 Thacher Gallery\, University of San Francisco Five Bay Area a
- rtists explore questions of inheritance from those who came before us–in
-  our bodies\, in our materials\, and in our shared record–and what we ma
- ke of what we choose to keep. Presented by the MA in Museum Studies progra
- m in collaboration with guest curator and instructor Deena Chalabi. What W
- e Carry is on view in Thacher Gallery from. Closed Dec. 19-20\, and Dec. 2
- 4-Jan. 3. Located in USF’s Gleeson Library-Geschke Center\, the Thacher 
- Gallery is free and open to the public from noon to 6 pm daily at 2130 Ful
- ton Street. usfca.edu/thacher-gallery Holiday hours. Image: Rupy C. Tut\, 
- (detail) Beeji da Ghar (My Grandmother’s Home)\, 2023 (Photo by Phillip 
- Maisel)
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3feb-14/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -167,44 +145,10 @@ URL:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bimbos-365
  -club-tickets/15035463
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let’s Glow SF 2026: SF’s Huge Holiday Projection Arts Festival
-  (Dec. 4-13)
-DTSTART;TZID=America/Los_Angeles:20261204T190000
-DTEND;TZID=America/Los_Angeles:20261204T210000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261204-letsglowsf2026sfshugehol
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-proj
- ection-arts-festival-dec-4-13/\nVenue: s ( map ) Ferry Building (1 Ferry B
- uilding) – Best viewed from Harry Bridges Pla\nPrice: Free\nCategories: 
- community\, free\nSource: funcheap/san-francisco\n\nLet’s Glow SF \, the
-  nation’s largest free holiday projection arts festival \, is lighting u
- p downtown San Francisco once again for its sixth and brightest year yet. 
- This all-ages\, family-friendly festival runs for 10 dazzling nights from 
- December 4-13\, 2026 . Experience breathtaking animated projections illumi
- nating iconic buildings across downtown San Francisco \, transforming them
-  into colossal\, colorful canvases featuring spectacular artwork by 19 art
- ists from around the globe . It’s a larger-than-life holiday light show 
- that turns the heart of the city into an open-air art gallery after dark. 
- Let’s Glow SF December 4-13\, 2026 | 6p-10p Downtown San Francisco\, 1 F
- erry Bldg.\, SF FREE – RSVP 2026 Festival Schedule Friday\, December 4: 
- Countdown to Glow opening-night celebration 6–7 PM at Harry Bridges Plaz
- a in front of the Ferry Building. Friday\, December 4: Festival projection
- s 7–10 PM (following Countdown to Glow) December 5–13: Nightly project
- ions\, 5:30–10 PM 2026 Show Locations ( map ) Ferry Building (1 Ferry Bu
- ilding) – Best viewed from Harry Bridges Plaza. 101 California St. (101 
- California St.) – Best viewed from inside 101 California Plaza. Pacific 
- Exchange (301 Pine St.) – Be
-LOCATION:s ( map ) Ferry Building (1 Ferry Building) – Best viewed from 
- Harry Bridges Pla
-URL:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-projection-a
- rts-festival-dec-4-13/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -228,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -257,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 East Bay Open Studios: 200+ Artists (Dec 5-6 + 12-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261205-free2026eastbayopenstudi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-ar
@@ -285,10 +229,35 @@ URL:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-artists-de
  c-56-1213-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kwentuhan Sunday: Free Filipino-Alaskan Film + Meet Filipino Creat
+ ors\, Builders & Founders
+DTSTART;TZID=America/Los_Angeles:20261206T150000
+DTEND;TZID=America/Los_Angeles:20261207T123000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261206-kwentuhansundayfreefilip
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/kwentuhan-sunday-free-filipinoalaskan-
+ film-meet-filipino-creators-builders-founders/\nLocation: san francisco\nP
+ rice: Free\nCategories: community\, free\nSource: funcheap/san-francisco\n
+ \nJoin us for a free screening of Bridging Our Stories \, an award-winning
+  documentary about a Filipina in Ketchikan\, Alaska who traveled to the Ph
+ ilippines to learn indigenous dances and bring them home to the next gener
+ ation. Afterward\, meet director Rafael Bitanga for a Q&A\, try tayo (a fr
+ ee AI life coaching tool for young adults)\, and hear two-minute lightning
+  shares from Filipino creators\, builders\, and founders. Merienda provide
+ d. Sunday\, Dec 6\, 1 to 3 PM (doors 12:30 PM) at TEL HI Gym\, 555 Chestnu
+ t St\, San Francisco. Free\, RSVP required. Presented by Bridging Our Stor
+ ies (Bitanga Productions) and tayo\, with community partners TEL HI and YF
+ PA.
+LOCATION:san francisco
+URL:https://sf.funcheap.com/kwentuhan-sunday-free-filipinoalaskan-film-mee
+ t-filipino-creators-builders-founders/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE FLAMIN' GROOVIES
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfayOf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-
@@ -300,11 +269,36 @@ URL:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-place-ti
  ckets/14279814
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Merry Shipmas: Free Christmas AI Hackathon (San Francisco)
+DTSTART;TZID=America/Los_Angeles:20261212T100000
+DTEND;TZID=America/Los_Angeles:20261212T180000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261212-merryshipmasfreechristma
+CATEGORIES:ai,free
+DESCRIPTION:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackat
+ hon-san-francisco/\nVenue: goes out to registered guests. More at merryshi
+ pmas.com\nPrice: Free\nCategories: ai\, free\nSource: funcheap/san-francis
+ co\n\nMerry Shipmas is a free Christmas AI hackathon by NERDCONF. The ques
+ tion is simple: what will you ship before Christmas? The San Francisco day
+  is Saturday\, December 12\, from 10am to 6pm. Come build with AI next to 
+ other builders\, get help from mentors and sponsor teams\, and leave with 
+ something real that people can use. You can come solo or bring a team. Aft
+ er the in-person day\, the hackathon keeps going online until December 19.
+  The goal is to find your first users in a week\, not just to demo. Sponso
+ rs include OpenAI\, Lovable and Nebius. Last season\, our Halloween hackat
+ hon Stranger Builds had 1\,280+ builders sign up and 100+ projects shipped
+ . Free to attend. RSVP is required on Luma\, and the exact venue goes out 
+ to registered guests. More at merryshipmas.com
+LOCATION:goes out to registered guests. More at merryshipmas.com
+URL:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackathon-san-
+ francisco/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -331,5 +325,37 @@ DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
 LOCATION:san jose
 URL:https://sf.funcheap.com/colors-india-free-holiday-popup-indian-food-fe
  st-dance-party-san-jos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patchwork Show Makers Market & Community Festival (Jack London Squ
+ are)
+DTSTART;TZID=America/Los_Angeles:20261212T230000
+DTEND;TZID=America/Los_Angeles:20261213T170000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261212-patchworkshowmakersmarke
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/patchwork-show-makers-market-community
+ -festival-jack-london-square/\nLocation: east bay\nPrice: Free\nCategories
+ : community\, free\nSource: funcheap/east-bay\n\nJoin us for Patchwork Sho
+ w Oakland\, a FREE outdoor makers market at beautiful Jack London Square! 
+ Set along Oakland’s scenic waterfront\, this community event celebrates 
+ the East Bay’s vibrant creative spirit\, bringing together talented inde
+ pendent artists\, unique handmade goods\, local businesses\, and plenty of
+  creative inspiration. Spend the afternoon shopping one-of-a-kind treasure
+ s\, meeting local makers\, and enjoying: Unique handmade goods from indepe
+ ndent artists Waterfront restaurants\, shops\, and delicious food Free DIY
+  crafting and hands-on activities A fun scavenger hunt with a chance to wi
+ n handmade prizes A beautiful waterfront setting in the heart of Jack Lond
+ on Square Whether you’re shopping for holiday gifts\, supporting small b
+ usinesses\, or simply enjoying a creative afternoon by the water\, Patchwo
+ rk Show Oakland has something for everyone! FREE to attend\, family-friend
+ ly\, and pet-friendly! EVENT DETAILS Saturday\, December 12\, 2026 – 11 
+ PM–5 PM Jack London Square 472 Water Street Oakland\, CA 94607 Website: 
+ https://www.patchworkshow.com/ Event Details: https://www.patchworkshow.co
+ m/patchwork-show/oakland/ Instagram: @thepatchworkshow Interested in becom
+ ing a vendor? Visit
+LOCATION:east bay
+URL:https://sf.funcheap.com/patchwork-show-makers-market-community-festiva
+ l-jack-london-square/
 END:VEVENT
 END:VCALENDAR

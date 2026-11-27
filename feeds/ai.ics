@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Meet the Lab: Mistral
 DTSTART:20261203T020000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:evt-kuEvIAdVfelEYqH
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/mistral-meet-the-lab-sf-12-2026\nLocation: San F
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Agentic Code Review Demo Night
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:evt-VEi2piKx5Cw63l1
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-review-demos\nLocation: San Francisco\, 
@@ -34,12 +34,37 @@ SUMMARY:Physical AI Networking and Launch Party - General Intelligence Lab
  s
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:evt-MVmb4ZrULijvV6p
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/gin14akr\nLocation: San Francisco\, CA\nHost: Ge
  neral Intelligence Labs\nCategories: ai\nSource: luma-html/san-francisco
 LOCATION:San Francisco\, CA
 URL:https://lu.ma/gin14akr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merry Shipmas: Free Christmas AI Hackathon (San Francisco)
+DTSTART;TZID=America/Los_Angeles:20261212T100000
+DTEND;TZID=America/Los_Angeles:20261212T180000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261212-merryshipmasfreechristma
+CATEGORIES:ai,free
+DESCRIPTION:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackat
+ hon-san-francisco/\nVenue: goes out to registered guests. More at merryshi
+ pmas.com\nPrice: Free\nCategories: ai\, free\nSource: funcheap/san-francis
+ co\n\nMerry Shipmas is a free Christmas AI hackathon by NERDCONF. The ques
+ tion is simple: what will you ship before Christmas? The San Francisco day
+  is Saturday\, December 12\, from 10am to 6pm. Come build with AI next to 
+ other builders\, get help from mentors and sponsor teams\, and leave with 
+ something real that people can use. You can come solo or bring a team. Aft
+ er the in-person day\, the hackathon keeps going online until December 19.
+  The goal is to find your first users in a week\, not just to demo. Sponso
+ rs include OpenAI\, Lovable and Nebius. Last season\, our Halloween hackat
+ hon Stranger Builds had 1\,280+ builders sign up and 100+ projects shipped
+ . Free to attend. RSVP is required on Luma\, and the exact venue goes out 
+ to registered guests. More at merryshipmas.com
+LOCATION:goes out to registered guests. More at merryshipmas.com
+URL:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackathon-san-
+ francisco/
 END:VEVENT
 END:VCALENDAR

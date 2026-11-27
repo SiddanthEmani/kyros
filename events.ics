@@ -9,7 +9,7 @@ SUMMARY:[Bay/Free] SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa
  Clara (Nov. 27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -41,7 +41,7 @@ SUMMARY:[Bay/Free] East Bay’s Free Park Day on Green Friday 2026 (East B
  ay Regional Parks)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261127-eastbaysfreeparkdayongre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-park-districts-free-park-day/
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Mariachi Vargas de Tecalitlán
 DTSTART:20261128T040000Z
 DTEND:20261128T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_A0KFfCq
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mariachi-vargas-de-tecalitlan-san
@@ -86,7 +86,7 @@ SUMMARY:[EDM] Satori vs Cyb3r: Goth\, Industrial\, Darkwave\, Cybergoth\,
  Cyberpunk Dance Night
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfC7f7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/satori-vs-cyb3r-goth-industria
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] O'Flynn
 DTSTART:20261128T050000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1A4vdbS
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/oflynn-the-independent-tickets
@@ -120,10 +120,35 @@ URL:https://www.ticketweb.com/event/oflynn-the-independent-tickets/1504363
  3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Free] Black Friday Night Live (Crockett)
+DTSTART;TZID=America/Los_Angeles:20261127T230000
+DTEND;TZID=America/Los_Angeles:20261128T210000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261127-blackfridaynightlivecroc
+CATEGORIES:free
+DESCRIPTION:https://sf.funcheap.com/black-friday-night-live-crockett/\nLoc
+ ation: east bay\nPrice: Free\nCategories: free\nSource: funcheap/east-bay\
+ n\nSkip the conventional Black Friday madness and head to Crockett for Nig
+ ht Trip\, Pomona Street’s last-Friday-of-the-month block party celebrati
+ ng independent businesses\, music\, art and community. This month\, Monarc
+ h presents a special free live performance by EnSpirits\, featuring the ex
+ traordinary musical talents of Crockett’s own\, Dave Tweedie and Victori
+ a Theodore. Catch this dynamic duo in an intimate setting from 7–9 PM at
+  Monarch |1308 Pomona Street. Throughout the evening\, shops along Pomona 
+ Street will remain open late\, pop-up vendors will line the street\, and S
+ ol Haus will host a special “charm bar” event. Discover one-of-a-kind 
+ holiday gifts\, experience exceptional live music and spend an evening exp
+ loring one of the East Bay’s most eclectic little towns. Friday\, Novemb
+ er 27 Night Trip: 6–11 PM EnSpirits at Monarch: 7–9 PM 1308 Pomona Str
+ eet\, Crockett\, CA Free show. All are welcome.
+LOCATION:east bay
+URL:https://sf.funcheap.com/black-friday-night-live-crockett/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live/Free] Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -141,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Broadway Rave
 DTSTART:20261129T043000Z
 DTEND:20261129T063000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfGvZ7
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/broadway-rave-the-ritz-tickets
@@ -159,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Oden & Fatzo Live
 DTSTART:20261129T050000Z
 DTEND:20261129T070000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfGYqf
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketweb.com/event/oden-fatzo-live-the-independen
@@ -176,32 +201,10 @@ URL:https://www.ticketweb.com/event/oden-fatzo-live-the-independent-ticket
  s/14330754
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Free] Guajirón: Free Cuban Jam & Salsa at Boom Boom Room
-DTSTART;TZID=America/Los_Angeles:20261129T233000
-DTEND;TZID=America/Los_Angeles:20261130T013000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261129-guajirnfreecubanjamsalsa
-CATEGORIES:free
-DESCRIPTION:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom
- -room/\nVenue: 1601 Fillmore St\, San Francisco\, CA 94115. Please create 
- dated listings for both\nPrice: Free\nCategories: free\nSource: funcheap/s
- an-francisco\n\nFree live Cuban son\, salsa and tropical jazz with Guajir
- ón at Boom Boom Room on Sunday\, November 29 and Sunday\, December 27\, 2
- 026\, 7:30–11:30 p.m. Ages 21+. Come dance\, enjoy the music\, or sit in
-  for an Afro-Cuban jam. Venue: 1601 Fillmore St\, San Francisco\, CA 94115
- . Please create dated listings for both shows\; these dates were mentioned
-  in our October listing\, but separate calendar entries are needed. Detail
- s and flyers: https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-11-
- 29/ and https://guajiron.com/shows/boom-boom-room-cuban-jam-2026-12-27/
-LOCATION:1601 Fillmore St\, San Francisco\, CA 94115. Please create dated 
- listings for both
-URL:https://sf.funcheap.com/guajirn-free-cuban-jam-salsa-boom-boom-room/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[AI] Meet the Lab: Mistral
 DTSTART:20261203T020000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:evt-kuEvIAdVfelEYqH
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/mistral-meet-the-lab-sf-12-2026\nLocation: San F
@@ -215,7 +218,7 @@ SUMMARY:[Live/Free] (((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEP
  OWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -228,10 +231,41 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-mayfield
  -the-crepe-place-tickets/14259234
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay] Polar Play Days at The Tech Interactive
+DTSTART;TZID=America/Los_Angeles:20261202T190000
+DTEND;TZID=America/Los_Angeles:20261202T210000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261202-polarplaydaysatthetechin
+CATEGORIES:community
+DESCRIPTION:https://sf.funcheap.com/polar-play-days-tech-interactive/\nVen
+ ue: The Tech Interactive\, 201 S. Market St.\, San Jose Learn more and pla
+ n your visit\nCategories: community\nSource: funcheap/san-jose\n\nPolar Pl
+ ay Days at The Tech Interactive – Dec. 2\, 2026 – Jan. 3\, 2027 WARNIN
+ G: May Result in Tired Kids! Got kids bouncing off the walls during winter
+  break? Bring all that energy to Polar Play Days at The Tech Interactive! 
+ This indoor wonderland is packed with sock skating\, hands-on science\, fe
+ stive crafts\, and a whole museum to explore. – Interactive exhibits –
+  Seasonal STEAM labs and pop-up experiments – Make-and-take holiday craf
+ ts – Fun for families\, friends\, and curious minds of all ages There’
+ s a flurry of fun to look forward to: Winter Activities (throughout the ev
+ ent): Build an ice castle\, create and trade handmade trinkets\, and explo
+ re winter-themed activities for all ages. DIY Cookie Cutters (Dec. 12-20 w
+ eekends\; Dec. 22-Jan. 3 daily): Design and make your own custom cookie cu
+ tter. IMAX® Dome Theater (daily): Enjoy a large-scale educational documen
+ tary film\, included with museum admission. Make a Snowstorm in a Jar (Dec
+ . 19\, 20\, 22\, and 26): Advance registration and additional fee for this
+  fun activity. Sock Skating Rink (Dec. 18-Jan. 3): Slip\, slide\, and glid
+ e across our indoor skating rink\, no ice skates required! Holiday Laser S
+ hows (select dates): Experience dazzling
+LOCATION:The Tech Interactive\, 201 S. Market St.\, San Jose Learn more an
+ d plan your visit
+URL:https://sf.funcheap.com/polar-play-days-tech-interactive/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[AI] Agentic Code Review Demo Night
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:evt-VEi2piKx5Cw63l1
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/posthog-review-demos\nLocation: San Francisco\, 
@@ -244,7 +278,7 @@ SUMMARY:[AI] Physical AI Networking and Launch Party - General Intelligenc
  e Labs
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:evt-MVmb4ZrULijvV6p
 CATEGORIES:ai
 DESCRIPTION:https://lu.ma/gin14akr\nLocation: San Francisco\, CA\nHost: Ge
@@ -253,36 +287,10 @@ LOCATION:San Francisco\, CA
 URL:https://lu.ma/gin14akr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Free Winter Art Exhibition: “What We Carry” (Dec. 3
- -Feb. 14)
-DTSTART;TZID=America/Los_Angeles:20261203T190000
-DTEND;TZID=America/Los_Angeles:20261203T210000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261203-freewinterartexhibitionw
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3
- feb-14/\nLocation: san francisco\nPrice: Free\nCategories: community\, fre
- e\nSource: funcheap/san-francisco\n\nAl-An deSouza\, Angela Hennessy\, Ste
- phanie Syjuco\, Rupy C. Tut\, and Maryam Yousif December 3\, 2026–Februa
- ry 14\, 2027 Thacher Gallery\, University of San Francisco Five Bay Area a
- rtists explore questions of inheritance from those who came before us–in
-  our bodies\, in our materials\, and in our shared record–and what we ma
- ke of what we choose to keep. Presented by the MA in Museum Studies progra
- m in collaboration with guest curator and instructor Deena Chalabi. What W
- e Carry is on view in Thacher Gallery from. Closed Dec. 19-20\, and Dec. 2
- 4-Jan. 3. Located in USF’s Gleeson Library-Geschke Center\, the Thacher 
- Gallery is free and open to the public from noon to 6 pm daily at 2130 Ful
- ton Street. usfca.edu/thacher-gallery Holiday hours. Image: Rupy C. Tut\, 
- (detail) Beeji da Ghar (My Grandmother’s Home)\, 2023 (Photo by Phillip 
- Maisel)
-LOCATION:san francisco
-URL:https://sf.funcheap.com/free-winter-art-exhibition-carry-dec-3feb-14/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[EDM/Free] The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -301,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261205T030000Z
 DTEND:20261205T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_5CHDJie
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -315,44 +323,10 @@ URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oaklan
  d-california-12-04-2026/event/1C0064B3BCEE6B02
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay/Free] Let’s Glow SF 2026: SF’s Huge Holiday Projection Ar
- ts Festival (Dec. 4-13)
-DTSTART;TZID=America/Los_Angeles:20261204T190000
-DTEND;TZID=America/Los_Angeles:20261204T210000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261204-letsglowsf2026sfshugehol
-CATEGORIES:community,free
-DESCRIPTION:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-proj
- ection-arts-festival-dec-4-13/\nVenue: s ( map ) Ferry Building (1 Ferry B
- uilding) – Best viewed from Harry Bridges Pla\nPrice: Free\nCategories: 
- community\, free\nSource: funcheap/san-francisco\n\nLet’s Glow SF \, the
-  nation’s largest free holiday projection arts festival \, is lighting u
- p downtown San Francisco once again for its sixth and brightest year yet. 
- This all-ages\, family-friendly festival runs for 10 dazzling nights from 
- December 4-13\, 2026 . Experience breathtaking animated projections illumi
- nating iconic buildings across downtown San Francisco \, transforming them
-  into colossal\, colorful canvases featuring spectacular artwork by 19 art
- ists from around the globe . It’s a larger-than-life holiday light show 
- that turns the heart of the city into an open-air art gallery after dark. 
- Let’s Glow SF December 4-13\, 2026 | 6p-10p Downtown San Francisco\, 1 F
- erry Bldg.\, SF FREE – RSVP 2026 Festival Schedule Friday\, December 4: 
- Countdown to Glow opening-night celebration 6–7 PM at Harry Bridges Plaz
- a in front of the Ferry Building. Friday\, December 4: Festival projection
- s 7–10 PM (following Countdown to Glow) December 5–13: Nightly project
- ions\, 5:30–10 PM 2026 Show Locations ( map ) Ferry Building (1 Ferry Bu
- ilding) – Best viewed from Harry Bridges Plaza. 101 California St. (101 
- California St.) – Best viewed from inside 101 California Plaza. Pacific 
- Exchange (301 Pine St.) – Be
-LOCATION:s ( map ) Ferry Building (1 Ferry Building) – Best viewed from 
- Harry Bridges Pla
-URL:https://sf.funcheap.com/lets-glow-sf-2026-sf-huge-holiday-projection-a
- rts-festival-dec-4-13/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] Mannheim Steamroller Christmas
 DTSTART:20261205T040000Z
 DTEND:20261205T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_CjHxbFf
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/mannheim-steamroller-christmas-sa
@@ -367,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Gimme Gimme Disco
 DTSTART:20261205T043000Z
 DTEND:20261205T063000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Afu8fV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/gimme-gimme-disco-the-ritz-tic
@@ -385,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Tara Yummy - Ages 21+
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:Z7r9jZ1AAekAK
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/event/Z7r9jZ1AAekAK\nVenue: 1015 
@@ -398,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -422,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay] District 10 Bayview Family Summit
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T133000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261205-district10bayviewfamilys
 CATEGORIES:community
 DESCRIPTION:https://sf.funcheap.com/district-10-bayview-family-summit/\nLo
@@ -451,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART:20261206T030000Z
 DTEND:20261206T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_5925f5N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tou
@@ -468,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:[Bay/Free] East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -498,7 +472,7 @@ SUMMARY:[Bay/Free] Free 2026 East Bay Open Studios: 200+ Artists (Dec 5-6
  + 12-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261205-free2026eastbayopenstudi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-ar
@@ -529,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] it's murph (18+)
 DTSTART:20261206T040000Z
 DTEND:20261206T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_88s7zuR
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/its-murph-18-san-francisco-califo
@@ -551,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] House of Heavy
 DTSTART:20261206T043000Z
 DTEND:20261206T063000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Afu84f
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/house-of-heavy-the-ritz-ticket
@@ -565,42 +539,35 @@ URL:https://www.ticketweb.com/event/house-of-heavy-the-ritz-tickets/143505
  54
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Bay] 2026 Fungus Fair: 300+ Wild Mushroom Species (South SF)
-DTSTART;TZID=America/Los_Angeles:20261206T100000
-DTEND;TZID=America/Los_Angeles:20261206T170000
-DTSTAMP:20261127T012824Z
-UID:funcheap-20261206-2026fungusfair300wildmus
-CATEGORIES:community
-DESCRIPTION:https://sf.funcheap.com/2026-fungus-fair-300-wild-mushroom-spe
- cies-south-sf/\nVenue: El Camino High School\, 1320 Mission Rd\, South San
-  Francisco\, CA 94080 Get Your T\nCategories: community\nSource: funcheap/
- south-bay\n\nMSSF 54th Annual Fungus Fair – A Celebration of Wild Mushro
- oms Date: Sunday\, December 6\, 2026 Time: 10:00am to 5:00pm Location: El 
- Camino High School\, 1320 Mission Rd\, South San Francisco\, CA 94080 Get 
- Your Tickets Now! Tickets may be purchased at the door with cash\, or Even
- tBrite ticket. Workshops may sell out before fair day\; purchasing tickets
-  in advance is advised. The MSSF Fungus Fair includes the latest collectio
- n of expertly identified fungi collected in various locations in the Bay A
- rea. These annual collections constitute a 50-year record of the early win
- ter fungal diversity in our area. This historical information may become a
- n important contribution to science as climate change affects our local ec
- osystems. In the San Francisco Bay Area\, when the first rains tease up th
- e chanterelles and porcini\, fungus lovers head to the Fungus Fair. The lo
- cation is right across the street from South San Francisco BART station Th
- ere is ample parking Things to do at the fair… Creative and hands-on mus
- hroom activities for people of all ages – Make mushroom-themed cards\, o
- rnaments\, collages\, hats\, clay and felted sculptures\, sun-prints and m
- ore… Unleash your inner mushroom fanatic at the C
-LOCATION:El Camino High School\, 1320 Mission Rd\, South San Francisco\, C
- A 94080 Get Your T
-URL:https://sf.funcheap.com/2026-fungus-fair-300-wild-mushroom-species-sou
- th-sf/
+SUMMARY:[Bay/Free] Kwentuhan Sunday: Free Filipino-Alaskan Film + Meet Fil
+ ipino Creators\, Builders & Founders
+DTSTART;TZID=America/Los_Angeles:20261206T150000
+DTEND;TZID=America/Los_Angeles:20261207T123000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261206-kwentuhansundayfreefilip
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/kwentuhan-sunday-free-filipinoalaskan-
+ film-meet-filipino-creators-builders-founders/\nLocation: san francisco\nP
+ rice: Free\nCategories: community\, free\nSource: funcheap/san-francisco\n
+ \nJoin us for a free screening of Bridging Our Stories \, an award-winning
+  documentary about a Filipina in Ketchikan\, Alaska who traveled to the Ph
+ ilippines to learn indigenous dances and bring them home to the next gener
+ ation. Afterward\, meet director Rafael Bitanga for a Q&A\, try tayo (a fr
+ ee AI life coaching tool for young adults)\, and hear two-minute lightning
+  shares from Filipino creators\, builders\, and founders. Merienda provide
+ d. Sunday\, Dec 6\, 1 to 3 PM (doors 12:30 PM) at TEL HI Gym\, 555 Chestnu
+ t St\, San Francisco. Free\, RSVP required. Presented by Bridging Our Stor
+ ies (Bitanga Productions) and tayo\, with community partners TEL HI and YF
+ PA.
+LOCATION:san francisco
+URL:https://sf.funcheap.com/kwentuhan-sunday-free-filipinoalaskan-film-mee
+ t-filipino-creators-builders-founders/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Live] Slow Joy\, aWannabe\, Casino Youth
 DTSTART:20261207T023000Z
 DTEND:20261207T043000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfCoPV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/slow-joy-awannabe-casino-youth
@@ -615,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] RUSH: Fifty Something
 DTSTART:20261207T033000Z
 DTEND:20261207T053000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZbg9ir1-u
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/rush-fifty-something-san-jose-cal
@@ -640,7 +607,7 @@ SUMMARY:[EDM] Gracie Abrams: The Look at My Life Tour presented by Capital
   One
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_1UDxFhX
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakl
@@ -656,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Alicia Villarreal - Bendita Locura Tour 2026
 DTSTART:20261207T040000Z
 DTEND:20261207T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_GEbY5kj
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/alicia-villarreal-bendita-locura-
@@ -673,7 +640,7 @@ SUMMARY:[EDM] Gracie Abrams: The Look at My Life Tour presented by Capital
   One
 DTSTART:20261208T040000Z
 DTEND:20261208T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_5mq0w7N
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakl
@@ -689,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Jamey Johnson - Traveling Truebadour Tour
 DTSTART:20261210T040000Z
 DTEND:20261210T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_GkymCSV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/jamey-johnson-traveling-truebadou
@@ -705,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] El Vez
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfC7OV
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/el-vez-the-ritz-tickets/143848
@@ -719,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_aMbKo0B
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -736,7 +703,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] The Slackers\, Monkey\, The Hellas
 DTSTART:20261212T030000Z
 DTEND:20261212T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1A4veaK
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/the-slackers-monkey-the-hellas
@@ -751,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:[Live/Free] THE FLAMIN' GROOVIES
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1AfayOf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-
@@ -763,11 +730,37 @@ URL:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-place-ti
  ckets/14279814
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[AI/Free] Merry Shipmas: Free Christmas AI Hackathon (San Francisc
+ o)
+DTSTART;TZID=America/Los_Angeles:20261212T100000
+DTEND;TZID=America/Los_Angeles:20261212T180000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261212-merryshipmasfreechristma
+CATEGORIES:ai,free
+DESCRIPTION:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackat
+ hon-san-francisco/\nVenue: goes out to registered guests. More at merryshi
+ pmas.com\nPrice: Free\nCategories: ai\, free\nSource: funcheap/san-francis
+ co\n\nMerry Shipmas is a free Christmas AI hackathon by NERDCONF. The ques
+ tion is simple: what will you ship before Christmas? The San Francisco day
+  is Saturday\, December 12\, from 10am to 6pm. Come build with AI next to 
+ other builders\, get help from mentors and sponsor teams\, and leave with 
+ something real that people can use. You can come solo or bring a team. Aft
+ er the in-person day\, the hackathon keeps going online until December 19.
+  The goal is to find your first users in a week\, not just to demo. Sponso
+ rs include OpenAI\, Lovable and Nebius. Last season\, our Halloween hackat
+ hon Stranger Builds had 1\,280+ builders sign up and 100+ projects shipped
+ . Free to attend. RSVP is required on Luma\, and the exact venue goes out 
+ to registered guests. More at merryshipmas.com
+LOCATION:goes out to registered guests. More at merryshipmas.com
+URL:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackathon-san-
+ francisco/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live/Free] “Colors of India” Free Holiday Pop-Up Indian Food 
  Fest + Dance Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -799,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Suicide Silence\, Emmure\, AngelMaker\, Synestia
 DTSTART:20261213T020000Z
 DTEND:20261213T040000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:rZ7HnEZ1Afa7O7
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketweb.com/event/suicide-silence-emmure-angelma
@@ -815,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Olivia Rodrigo: The Unraveled Tour
 DTSTART:20261213T030000Z
 DTEND:20261213T050000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_aMbfsP1
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour
@@ -832,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Virtual Riot & Blanke - Far From Home Tour
 DTSTART:20261213T040000Z
 DTEND:20261213T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_uk9C1cy
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home
@@ -845,10 +838,42 @@ URL:https://www.ticketmaster.com/virtual-riot-blanke-far-from-home-san-jos
  e-california-12-12-2026/event/1C0064D19738AB79
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Bay/Free] Patchwork Show Makers Market & Community Festival (Jack
+  London Square)
+DTSTART;TZID=America/Los_Angeles:20261212T230000
+DTEND;TZID=America/Los_Angeles:20261213T170000
+DTSTAMP:20261127T160306Z
+UID:funcheap-20261212-patchworkshowmakersmarke
+CATEGORIES:community,free
+DESCRIPTION:https://sf.funcheap.com/patchwork-show-makers-market-community
+ -festival-jack-london-square/\nLocation: east bay\nPrice: Free\nCategories
+ : community\, free\nSource: funcheap/east-bay\n\nJoin us for Patchwork Sho
+ w Oakland\, a FREE outdoor makers market at beautiful Jack London Square! 
+ Set along Oakland’s scenic waterfront\, this community event celebrates 
+ the East Bay’s vibrant creative spirit\, bringing together talented inde
+ pendent artists\, unique handmade goods\, local businesses\, and plenty of
+  creative inspiration. Spend the afternoon shopping one-of-a-kind treasure
+ s\, meeting local makers\, and enjoying: Unique handmade goods from indepe
+ ndent artists Waterfront restaurants\, shops\, and delicious food Free DIY
+  crafting and hands-on activities A fun scavenger hunt with a chance to wi
+ n handmade prizes A beautiful waterfront setting in the heart of Jack Lond
+ on Square Whether you’re shopping for holiday gifts\, supporting small b
+ usinesses\, or simply enjoying a creative afternoon by the water\, Patchwo
+ rk Show Oakland has something for everyone! FREE to attend\, family-friend
+ ly\, and pet-friendly! EVENT DETAILS Saturday\, December 12\, 2026 – 11 
+ PM–5 PM Jack London Square 472 Water Street Oakland\, CA 94607 Website: 
+ https://www.patchworkshow.com/ Event Details: https://www.patchworkshow.co
+ m/patchwork-show/oakland/ Instagram: @thepatchworkshow Interested in becom
+ ing a vendor? Visit
+LOCATION:east bay
+URL:https://sf.funcheap.com/patchwork-show-makers-market-community-festiva
+ l-jack-london-square/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Live] Silvestre Dangond - El Baile de Todos
 DTSTART:20261214T040000Z
 DTEND:20261214T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_8jd0kWO
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/silvestre-dangond-el-baile-de-tod
@@ -863,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:[EDM] Victoria Monét: Frequency Of Love Tour
 DTSTART:20261218T050000Z
 DTEND:20261218T070000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_320sgVQ
 CATEGORIES:edm
 DESCRIPTION:https://www.ticketmaster.com/victoria-monet-frequency-of-love-
@@ -881,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:[Live] Wang Leehom  The Best Place II World Tour
 DTSTART:20261220T040000Z
 DTEND:20261220T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_8KPzcMP
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/wang-leehom-the-best-place-ii-san
@@ -902,33 +927,10 @@ URL:https://www.ticketmaster.com/wang-leehom-the-best-place-ii-san-jose-ca
  lifornia-12-19-2026/event/1C006504E5E2DDE5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Live] Divorced Dad Rock Night
-DTSTART:20261220T050000Z
-DTEND:20261220T070000Z
-DTSTAMP:20261127T012824Z
-UID:rZ7HnEZ1Afofo0
-CATEGORIES:concert
-DESCRIPTION:https://www.ticketweb.com/event/divorced-dad-rock-night-the-ri
- tz-tickets/14454464\nVenue: The Ritz\nLocation: 400 S 1st St\, San Jose\, 
- CA\nPrice: $19-$521\nGenres: Music\, Rock\nCategories: concert\nSource: ti
- cketmaster/music\n\nDIVORCED DAD ROCK NIGHT! Sat December 19\, 9pm 21+ Com
- e drink\, vent\, and meet your next ex to the sights and sounds of Creed\,
-  Staind\, Puddle of Mudd\, Five Finger Death Punch\, Nickelback\, Metallic
- a\, Shinedown\, 3 Doors Down\, Breaking Benjamin\, Daughtry\, Seether\, AC
- /DC\, Buckcherry\, Kid Rock\, Pearl Jam\, Limp Bizkit\, Three Days Grace\,
-  Seven Mary Three\, Papa Roach\, Guns N' Roses and more! This event is 21 
- and over. Any ticket holder unable to present valid identification indicat
- ing that they are at least 21 years of age will not be admitted to this ev
- ent\, and will not be eligible for a refund.
-LOCATION:400 S 1st St\, San Jose\, CA
-URL:https://www.ticketweb.com/event/divorced-dad-rock-night-the-ritz-ticke
- ts/14454464
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Live] 29th Annual Dave Koz & Friends Christmas Tour 2026
 DTSTART:20261223T040000Z
 DTEND:20261223T060000Z
-DTSTAMP:20261127T012824Z
+DTSTAMP:20261127T160306Z
 UID:G5vYZ_CnBCS6b
 CATEGORIES:concert
 DESCRIPTION:https://www.ticketmaster.com/29th-annual-dave-koz-friends-chri
@@ -939,5 +941,20 @@ DESCRIPTION:https://www.ticketmaster.com/29th-annual-dave-koz-friends-chri
 LOCATION:135 San Carlos St.\, San Jose\, CA
 URL:https://www.ticketmaster.com/29th-annual-dave-koz-friends-christmas-sa
  n-jose-california-12-22-2026/event/1C0064EABA3B31D8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Live] Sunami
+DTSTART:20261227T023000Z
+DTEND:20261227T043000Z
+DTSTAMP:20261127T160306Z
+UID:G5vYZ_4dBauT9
+CATEGORIES:concert
+DESCRIPTION:https://www.ticketmaster.com/sunami-san-jose-california-12-26-
+ 2026/event/1C006550FA24DFD7\nVenue: San Jose Civic\nLocation: 135 San Carl
+ os St.\, San Jose\, CA\nGenres: Music\, Metal\, Nu-Metal\nHost: LIVE NATIO
+ N MUSIC\nCategories: concert\nSource: ticketmaster/music
+LOCATION:135 San Carlos St.\, San Jose\, CA
+URL:https://www.ticketmaster.com/sunami-san-jose-california-12-26-2026/eve
+ nt/1C006550FA24DFD7
 END:VEVENT
 END:VCALENDAR
