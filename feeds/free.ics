@@ -9,7 +9,7 @@ SUMMARY:SJ Made Holiday Craft Fair 2026 w/350+ Makers in Santa Clara (Nov.
   27-28)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261127-sjmadeholidaycraftfair20
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/sj-holiday-craft-fair-2026-w350-makers
@@ -41,7 +41,7 @@ SUMMARY:East Bay’s Free Park Day on Green Friday 2026 (East Bay Regional
   Parks)
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T210000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261127-eastbaysfreeparkdayongre
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-park-districts-free-park-day/
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Black Friday Night Live (Crockett)
 DTSTART;TZID=America/Los_Angeles:20261127T230000
 DTEND;TZID=America/Los_Angeles:20261128T210000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261127-blackfridaynightlivecroc
 CATEGORIES:free
 DESCRIPTION:https://sf.funcheap.com/black-friday-night-live-crockett/\nLoc
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Fleetwood Macramé
 DTSTART:20261129T040000Z
 DTEND:20261129T060000Z
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:rZ7HnEZ1AfJ9rK
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/fleetwood-macram-bimbos-365-cl
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:(((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEPOWER
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:rZ7HnEZ1Afa_FV
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:The Womack Sisters\, DJ Harry Duncan
 DTSTART:20261204T040000Z
 DTEND:20261204T060000Z
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:rZ7HnEZ1A4ZgoN
 CATEGORIES:edm,free
 DESCRIPTION:https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bi
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:LIFE OF THE PARTY - Oakland's Top First Friday Party!
 DTSTART:20261205T060000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:rZ7HnEZ1Af-VjN
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/life-of-the-party-crybaby-tick
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:East Bay Open Studios 2026 (Dec 5-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261205-eastbayopenstudios2026de
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/east-bay-open-studios-2026-dec-513/\nV
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Free 2026 East Bay Open Studios: 200+ Artists (Dec 5-6 + 12-13)
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T210000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261205-free2026eastbayopenstudi
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/free-2026-east-bay-open-studios-200-ar
@@ -233,7 +233,7 @@ SUMMARY:Kwentuhan Sunday: Free Filipino-Alaskan Film + Meet Filipino Creat
  ors\, Builders & Founders
 DTSTART;TZID=America/Los_Angeles:20261206T150000
 DTEND;TZID=America/Los_Angeles:20261207T123000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261206-kwentuhansundayfreefilip
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/kwentuhan-sunday-free-filipinoalaskan-
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:THE FLAMIN' GROOVIES
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:rZ7HnEZ1AfayOf
 CATEGORIES:concert,free
 DESCRIPTION:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Merry Shipmas: Free Christmas AI Hackathon (San Francisco)
 DTSTART;TZID=America/Los_Angeles:20261212T100000
 DTEND;TZID=America/Los_Angeles:20261212T180000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261212-merryshipmasfreechristma
 CATEGORIES:ai,free
 DESCRIPTION:https://sf.funcheap.com/merry-shipmas-free-christmas-ai-hackat
@@ -298,7 +298,7 @@ SUMMARY:“Colors of India” Free Holiday Pop-Up Indian Food Fest + Dance
   Party (San José)
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T190000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261212-colorsofindiafreeholiday
 CATEGORIES:concert,free
 DESCRIPTION:https://sf.funcheap.com/colors-india-free-holiday-popup-indian
@@ -331,7 +331,7 @@ SUMMARY:Patchwork Show Makers Market & Community Festival (Jack London Squ
  are)
 DTSTART;TZID=America/Los_Angeles:20261212T230000
 DTEND;TZID=America/Los_Angeles:20261213T170000
-DTSTAMP:20261127T160306Z
+DTSTAMP:20261128T010230Z
 UID:funcheap-20261212-patchworkshowmakersmarke
 CATEGORIES:community,free
 DESCRIPTION:https://sf.funcheap.com/patchwork-show-makers-market-community
